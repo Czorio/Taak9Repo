@@ -1,0 +1,2602 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Players>
+    <League Name="Campeonato Nacional Scotiabank">
+        <Team Name="Unión La Calera">
+            <Player id="91">
+                <FirstName>Leandro</FirstName>
+                <LastName>Benegas</LastName>
+                <Position>ST</Position>
+                <Pace>82</Pace>
+                <Shooting>75</Shooting>
+                <Passing>51</Passing>
+                <Offensive>63</Offensive>
+                <Defensive>35</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Unión La Calera</Club>
+                <DateOfBirth>27-11-1988</DateOfBirth>
+            </Player>
+            <Player id="1930">
+                <FirstName>José</FirstName>
+                <LastName>Shaffer</LastName>
+                <Position>LB</Position>
+                <Pace>76</Pace>
+                <Shooting>55</Shooting>
+                <Passing>68</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>65</Defensive>
+                <Stamina>74</Stamina>
+                <Club>Unión La Calera</Club>
+                <DateOfBirth>16-12-1985</DateOfBirth>
+            </Player>
+            <Player id="2893">
+                <FirstName>Hugo</FirstName>
+                <LastName>Bascuñan</LastName>
+                <Position>CB</Position>
+                <Pace>47</Pace>
+                <Shooting>37</Shooting>
+                <Passing>41</Passing>
+                <Offensive>39</Offensive>
+                <Defensive>67</Defensive>
+                <Stamina>90</Stamina>
+                <Club>Unión La Calera</Club>
+                <DateOfBirth>10-01-1985</DateOfBirth>
+            </Player>
+            <Player id="4625">
+                <FirstName>Lucas</FirstName>
+                <LastName>Giovini</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>42</Stamina>
+                <Club>Unión La Calera</Club>
+                <DateOfBirth>13-10-1981</DateOfBirth>
+            </Player>
+            <Player id="7134">
+                <FirstName>Mario</FirstName>
+                <LastName>Berrios</LastName>
+                <Position>CB</Position>
+                <Pace>31</Pace>
+                <Shooting>41</Shooting>
+                <Passing>46</Passing>
+                <Offensive>43</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>64</Stamina>
+                <Club>Unión La Calera</Club>
+                <DateOfBirth>20-08-1981</DateOfBirth>
+            </Player>
+            <Player id="7348">
+                <FirstName>Fabian</FirstName>
+                <LastName>Beas</LastName>
+                <Position>CAM</Position>
+                <Pace>78</Pace>
+                <Shooting>53</Shooting>
+                <Passing>62</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>36</Defensive>
+                <Stamina>52</Stamina>
+                <Club>Unión La Calera</Club>
+                <DateOfBirth>13-11-1992</DateOfBirth>
+            </Player>
+            <Player id="9418">
+                <FirstName>Rafael</FirstName>
+                <LastName>Cisternas</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>35</Stamina>
+                <Club>Unión La Calera</Club>
+                <DateOfBirth>16-02-1992</DateOfBirth>
+            </Player>
+            <Player id="9419">
+                <FirstName>Esteban</FirstName>
+                <LastName>Bravo</LastName>
+                <Position>CM</Position>
+                <Pace>67</Pace>
+                <Shooting>47</Shooting>
+                <Passing>53</Passing>
+                <Offensive>50</Offensive>
+                <Defensive>42</Defensive>
+                <Stamina>86</Stamina>
+                <Club>Unión La Calera</Club>
+                <DateOfBirth>12-08-1987</DateOfBirth>
+            </Player>
+            <Player id="11462">
+                <FirstName>Lucas</FirstName>
+                <LastName>Lima</LastName>
+                <Position>ST</Position>
+                <Pace>63</Pace>
+                <Shooting>50</Shooting>
+                <Passing>36</Passing>
+                <Offensive>43</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>75</Stamina>
+                <Club>Unión La Calera</Club>
+                <DateOfBirth>11-08-1994</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Universidad de Chile">
+            <Player id="235">
+                <FirstName>Gustavo</FirstName>
+                <LastName>Lorenzetti</LastName>
+                <Position>CAM</Position>
+                <Pace>79</Pace>
+                <Shooting>66</Shooting>
+                <Passing>73</Passing>
+                <Offensive>69</Offensive>
+                <Defensive>52</Defensive>
+                <Stamina>77</Stamina>
+                <Club>Universidad de Chile</Club>
+                <DateOfBirth>10-05-1985</DateOfBirth>
+            </Player>
+            <Player id="266">
+                <FirstName>José</FirstName>
+                <LastName>Rojas</LastName>
+                <Position>CB</Position>
+                <Pace>75</Pace>
+                <Shooting>41</Shooting>
+                <Passing>61</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>73</Defensive>
+                <Stamina>78</Stamina>
+                <Club>Universidad de Chile</Club>
+                <DateOfBirth>23-06-1983</DateOfBirth>
+            </Player>
+            <Player id="962">
+                <FirstName>Ramón</FirstName>
+                <LastName>Fernández</LastName>
+                <Position>CAM</Position>
+                <Pace>73</Pace>
+                <Shooting>65</Shooting>
+                <Passing>69</Passing>
+                <Offensive>67</Offensive>
+                <Defensive>55</Defensive>
+                <Stamina>68</Stamina>
+                <Club>Universidad de Chile</Club>
+                <DateOfBirth>03-12-1984</DateOfBirth>
+            </Player>
+            <Player id="1234">
+                <FirstName>Benjamín</FirstName>
+                <LastName>Vidal</LastName>
+                <Position>CB</Position>
+                <Pace>74</Pace>
+                <Shooting>38</Shooting>
+                <Passing>59</Passing>
+                <Offensive>48</Offensive>
+                <Defensive>70</Defensive>
+                <Stamina>77</Stamina>
+                <Club>Universidad de Chile</Club>
+                <DateOfBirth>18-03-1991</DateOfBirth>
+            </Player>
+            <Player id="1287">
+                <FirstName>Waldo</FirstName>
+                <LastName>Ponce</LastName>
+                <Position>CB</Position>
+                <Pace>34</Pace>
+                <Shooting>46</Shooting>
+                <Passing>51</Passing>
+                <Offensive>48</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>78</Stamina>
+                <Club>Universidad de Chile</Club>
+                <DateOfBirth>04-12-1982</DateOfBirth>
+            </Player>
+            <Player id="1403">
+                <FirstName>Sebastián</FirstName>
+                <LastName>Martínez</LastName>
+                <Position>CDM</Position>
+                <Pace>66</Pace>
+                <Shooting>44</Shooting>
+                <Passing>63</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>68</Defensive>
+                <Stamina>79</Stamina>
+                <Club>Universidad de Chile</Club>
+                <DateOfBirth>06-07-1993</DateOfBirth>
+            </Player>
+            <Player id="1722">
+                <FirstName>Luis</FirstName>
+                <LastName>Marín</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>25</Stamina>
+                <Club>Universidad de Chile</Club>
+                <DateOfBirth>18-05-1983</DateOfBirth>
+            </Player>
+            <Player id="2120">
+                <FirstName>Enzo</FirstName>
+                <LastName>Gutiérrez</LastName>
+                <Position>ST</Position>
+                <Pace>64</Pace>
+                <Shooting>68</Shooting>
+                <Passing>61</Passing>
+                <Offensive>64</Offensive>
+                <Defensive>32</Defensive>
+                <Stamina>80</Stamina>
+                <Club>Universidad de Chile</Club>
+                <DateOfBirth>28-05-1986</DateOfBirth>
+            </Player>
+            <Player id="2521">
+                <FirstName>Sebastián</FirstName>
+                <LastName>Ubilla</LastName>
+                <Position>RW</Position>
+                <Pace>88</Pace>
+                <Shooting>68</Shooting>
+                <Passing>50</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>31</Defensive>
+                <Stamina>66</Stamina>
+                <Club>Universidad de Chile</Club>
+                <DateOfBirth>09-08-1990</DateOfBirth>
+            </Player>
+            <Player id="3910">
+                <FirstName>Juan Ignacio</FirstName>
+                <LastName>Duma</LastName>
+                <Position>ST</Position>
+                <Pace>85</Pace>
+                <Shooting>66</Shooting>
+                <Passing>48</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>56</Stamina>
+                <Club>Universidad de Chile</Club>
+                <DateOfBirth>08-12-1993</DateOfBirth>
+            </Player>
+            <Player id="4936">
+                <FirstName>César</FirstName>
+                <LastName>Cortés</LastName>
+                <Position>LW</Position>
+                <Pace>71</Pace>
+                <Shooting>60</Shooting>
+                <Passing>63</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>41</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Universidad de Chile</Club>
+                <DateOfBirth>09-01-1984</DateOfBirth>
+            </Player>
+            <Player id="5307">
+                <FirstName>Paulo</FirstName>
+                <LastName>Magalhães</LastName>
+                <Position>RB</Position>
+                <Pace>80</Pace>
+                <Shooting>43</Shooting>
+                <Passing>57</Passing>
+                <Offensive>50</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>81</Stamina>
+                <Club>Universidad de Chile</Club>
+                <DateOfBirth>14-12-1989</DateOfBirth>
+            </Player>
+            <Player id="5847">
+                <FirstName>Bryan</FirstName>
+                <LastName>Cortés</LastName>
+                <Position>CDM</Position>
+                <Pace>70</Pace>
+                <Shooting>56</Shooting>
+                <Passing>63</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Universidad de Chile</Club>
+                <DateOfBirth>19-08-1991</DateOfBirth>
+            </Player>
+            <Player id="11816">
+                <FirstName>Gustavo</FirstName>
+                <LastName>Canales</LastName>
+                <Position>ST</Position>
+                <Pace>53</Pace>
+                <Shooting>78</Shooting>
+                <Passing>67</Passing>
+                <Offensive>72</Offensive>
+                <Defensive>31</Defensive>
+                <Stamina>75</Stamina>
+                <Club>Universidad de Chile</Club>
+                <DateOfBirth>30-03-1982</DateOfBirth>
+            </Player>
+            <Player id="12257">
+                <FirstName>Johnny</FirstName>
+                <LastName>Herrera</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>28</Stamina>
+                <Club>Universidad de Chile</Club>
+                <DateOfBirth>09-05-1981</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Colo-Colo">
+            <Player id="364">
+                <FirstName>Esteban</FirstName>
+                <LastName>Pavez</LastName>
+                <Position>CM</Position>
+                <Pace>78</Pace>
+                <Shooting>64</Shooting>
+                <Passing>66</Passing>
+                <Offensive>65</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>84</Stamina>
+                <Club>Colo-Colo</Club>
+                <DateOfBirth>01-05-1990</DateOfBirth>
+            </Player>
+            <Player id="657">
+                <FirstName>Gonzalo</FirstName>
+                <LastName>Fierro</LastName>
+                <Position>RB</Position>
+                <Pace>79</Pace>
+                <Shooting>73</Shooting>
+                <Passing>73</Passing>
+                <Offensive>73</Offensive>
+                <Defensive>67</Defensive>
+                <Stamina>87</Stamina>
+                <Club>Colo-Colo</Club>
+                <DateOfBirth>21-03-1983</DateOfBirth>
+            </Player>
+            <Player id="1044">
+                <FirstName>Christian</FirstName>
+                <LastName>Vilches</LastName>
+                <Position>CB</Position>
+                <Pace>56</Pace>
+                <Shooting>40</Shooting>
+                <Passing>47</Passing>
+                <Offensive>43</Offensive>
+                <Defensive>69</Defensive>
+                <Stamina>76</Stamina>
+                <Club>Colo-Colo</Club>
+                <DateOfBirth>13-07-1983</DateOfBirth>
+            </Player>
+            <Player id="1128">
+                <FirstName>Jean</FirstName>
+                <LastName>Beausejour</LastName>
+                <Position>LB</Position>
+                <Pace>79</Pace>
+                <Shooting>64</Shooting>
+                <Passing>70</Passing>
+                <Offensive>67</Offensive>
+                <Defensive>67</Defensive>
+                <Stamina>80</Stamina>
+                <Club>Colo-Colo</Club>
+                <DateOfBirth>01-06-1984</DateOfBirth>
+            </Player>
+            <Player id="2889">
+                <FirstName>Luis</FirstName>
+                <LastName>Pavez</LastName>
+                <Position>LB</Position>
+                <Pace>77</Pace>
+                <Shooting>52</Shooting>
+                <Passing>61</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>65</Defensive>
+                <Stamina>82</Stamina>
+                <Club>Colo-Colo</Club>
+                <DateOfBirth>17-09-1995</DateOfBirth>
+            </Player>
+            <Player id="3831">
+                <FirstName>Felipe</FirstName>
+                <LastName>Flores</LastName>
+                <Position>LW</Position>
+                <Pace>79</Pace>
+                <Shooting>66</Shooting>
+                <Passing>56</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>78</Stamina>
+                <Club>Colo-Colo</Club>
+                <DateOfBirth>09-01-1987</DateOfBirth>
+            </Player>
+            <Player id="6689">
+                <FirstName>Justo</FirstName>
+                <LastName>Villar</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>22</Stamina>
+                <Club>Colo-Colo</Club>
+                <DateOfBirth>30-06-1977</DateOfBirth>
+            </Player>
+            <Player id="7345">
+                <FirstName>Camilo</FirstName>
+                <LastName>Rodríguez</LastName>
+                <Position>RB</Position>
+                <Pace>67</Pace>
+                <Shooting>39</Shooting>
+                <Passing>58</Passing>
+                <Offensive>48</Offensive>
+                <Defensive>61</Defensive>
+                <Stamina>79</Stamina>
+                <Club>Colo-Colo</Club>
+                <DateOfBirth>04-03-1995</DateOfBirth>
+            </Player>
+            <Player id="8271">
+                <FirstName>Nicolás</FirstName>
+                <LastName>Orellana</LastName>
+                <Position>ST</Position>
+                <Pace>73</Pace>
+                <Shooting>58</Shooting>
+                <Passing>49</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>63</Stamina>
+                <Club>Colo-Colo</Club>
+                <DateOfBirth>03-09-1995</DateOfBirth>
+            </Player>
+            <Player id="9080">
+                <FirstName>Jaime</FirstName>
+                <LastName>Valdés</LastName>
+                <Position>CM</Position>
+                <Pace>73</Pace>
+                <Shooting>71</Shooting>
+                <Passing>80</Passing>
+                <Offensive>75</Offensive>
+                <Defensive>44</Defensive>
+                <Stamina>80</Stamina>
+                <Club>Colo-Colo</Club>
+                <DateOfBirth>11-01-1981</DateOfBirth>
+            </Player>
+            <Player id="11768">
+                <FirstName>Esteban</FirstName>
+                <LastName>Paredes</LastName>
+                <Position>ST</Position>
+                <Pace>76</Pace>
+                <Shooting>74</Shooting>
+                <Passing>67</Passing>
+                <Offensive>70</Offensive>
+                <Defensive>31</Defensive>
+                <Stamina>76</Stamina>
+                <Club>Colo-Colo</Club>
+                <DateOfBirth>01-08-1980</DateOfBirth>
+            </Player>
+            <Player id="12273">
+                <FirstName>Emiliano</FirstName>
+                <LastName>Vecchio</LastName>
+                <Position>CAM</Position>
+                <Pace>77</Pace>
+                <Shooting>71</Shooting>
+                <Passing>71</Passing>
+                <Offensive>71</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Colo-Colo</Club>
+                <DateOfBirth>16-11-1988</DateOfBirth>
+            </Player>
+            <Player id="12286">
+                <FirstName>Paulo</FirstName>
+                <LastName>Garcés</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>25</Stamina>
+                <Club>Colo-Colo</Club>
+                <DateOfBirth>02-08-1984</DateOfBirth>
+            </Player>
+            <Player id="12672">
+                <FirstName>Cláudio</FirstName>
+                <LastName>Maldonado</LastName>
+                <Position>CDM</Position>
+                <Pace>54</Pace>
+                <Shooting>52</Shooting>
+                <Passing>67</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>72</Defensive>
+                <Stamina>54</Stamina>
+                <Club>Colo-Colo</Club>
+                <DateOfBirth>03-01-1980</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Universidad Católica">
+            <Player id="417">
+                <FirstName>Darío</FirstName>
+                <LastName>Bottinelli</LastName>
+                <Position>CAM</Position>
+                <Pace>63</Pace>
+                <Shooting>67</Shooting>
+                <Passing>74</Passing>
+                <Offensive>70</Offensive>
+                <Defensive>34</Defensive>
+                <Stamina>81</Stamina>
+                <Club>Universidad Católica</Club>
+                <DateOfBirth>26-12-1986</DateOfBirth>
+            </Player>
+            <Player id="1405">
+                <FirstName>José Luis</FirstName>
+                <LastName>Muñoz</LastName>
+                <Position>LW</Position>
+                <Pace>81</Pace>
+                <Shooting>66</Shooting>
+                <Passing>57</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>41</Defensive>
+                <Stamina>79</Stamina>
+                <Club>Universidad Católica</Club>
+                <DateOfBirth>24-07-1987</DateOfBirth>
+            </Player>
+            <Player id="1507">
+                <FirstName>Matías</FirstName>
+                <LastName>Cahais</LastName>
+                <Position>CB</Position>
+                <Pace>68</Pace>
+                <Shooting>39</Shooting>
+                <Passing>50</Passing>
+                <Offensive>44</Offensive>
+                <Defensive>71</Defensive>
+                <Stamina>69</Stamina>
+                <Club>Universidad Católica</Club>
+                <DateOfBirth>24-12-1987</DateOfBirth>
+            </Player>
+            <Player id="1569">
+                <FirstName>Fernando</FirstName>
+                <LastName>Meneses</LastName>
+                <Position>RM</Position>
+                <Pace>90</Pace>
+                <Shooting>61</Shooting>
+                <Passing>63</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>50</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Universidad Católica</Club>
+                <DateOfBirth>27-09-1985</DateOfBirth>
+            </Player>
+            <Player id="2524">
+                <FirstName>Alfonso</FirstName>
+                <LastName>Parot</LastName>
+                <Position>LB</Position>
+                <Pace>67</Pace>
+                <Shooting>46</Shooting>
+                <Passing>61</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>68</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Universidad Católica</Club>
+                <DateOfBirth>15-10-1989</DateOfBirth>
+            </Player>
+            <Player id="3324">
+                <FirstName>Michael</FirstName>
+                <LastName>Ríos</LastName>
+                <Position>CM</Position>
+                <Pace>68</Pace>
+                <Shooting>62</Shooting>
+                <Passing>69</Passing>
+                <Offensive>65</Offensive>
+                <Defensive>46</Defensive>
+                <Stamina>83</Stamina>
+                <Club>Universidad Católica</Club>
+                <DateOfBirth>19-06-1984</DateOfBirth>
+            </Player>
+            <Player id="3744">
+                <FirstName>Erick</FirstName>
+                <LastName>Pulgar</LastName>
+                <Position>CB</Position>
+                <Pace>57</Pace>
+                <Shooting>34</Shooting>
+                <Passing>48</Passing>
+                <Offensive>41</Offensive>
+                <Defensive>67</Defensive>
+                <Stamina>63</Stamina>
+                <Club>Universidad Católica</Club>
+                <DateOfBirth>15-01-1994</DateOfBirth>
+            </Player>
+            <Player id="4361">
+                <FirstName>Diego</FirstName>
+                <LastName>Rojas</LastName>
+                <Position>CAM</Position>
+                <Pace>62</Pace>
+                <Shooting>48</Shooting>
+                <Passing>67</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>32</Defensive>
+                <Stamina>59</Stamina>
+                <Club>Universidad Católica</Club>
+                <DateOfBirth>15-02-1995</DateOfBirth>
+            </Player>
+            <Player id="4606">
+                <FirstName>Stefano</FirstName>
+                <LastName>Magnasco</LastName>
+                <Position>RB</Position>
+                <Pace>78</Pace>
+                <Shooting>38</Shooting>
+                <Passing>54</Passing>
+                <Offensive>46</Offensive>
+                <Defensive>61</Defensive>
+                <Stamina>77</Stamina>
+                <Club>Universidad Católica</Club>
+                <DateOfBirth>28-09-1992</DateOfBirth>
+            </Player>
+            <Player id="5846">
+                <FirstName>Gonzalo</FirstName>
+                <LastName>Sepúlveda</LastName>
+                <Position>CDM</Position>
+                <Pace>49</Pace>
+                <Shooting>49</Shooting>
+                <Passing>54</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>68</Defensive>
+                <Stamina>81</Stamina>
+                <Club>Universidad Católica</Club>
+                <DateOfBirth>09-11-1988</DateOfBirth>
+            </Player>
+            <Player id="7162">
+                <FirstName>Fabián</FirstName>
+                <LastName>Manzano</LastName>
+                <Position>CDM</Position>
+                <Pace>69</Pace>
+                <Shooting>53</Shooting>
+                <Passing>60</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>78</Stamina>
+                <Club>Universidad Católica</Club>
+                <DateOfBirth>13-01-1994</DateOfBirth>
+            </Player>
+            <Player id="7350">
+                <FirstName>Ramiro</FirstName>
+                <LastName>Costa</LastName>
+                <Position>ST</Position>
+                <Pace>60</Pace>
+                <Shooting>63</Shooting>
+                <Passing>52</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>34</Defensive>
+                <Stamina>44</Stamina>
+                <Club>Universidad Católica</Club>
+                <DateOfBirth>21-08-1992</DateOfBirth>
+            </Player>
+            <Player id="11807">
+                <FirstName>Cristopher</FirstName>
+                <LastName>Toselli</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>42</Stamina>
+                <Club>Universidad Católica</Club>
+                <DateOfBirth>17-06-1988</DateOfBirth>
+            </Player>
+            <Player id="11959">
+                <FirstName>Mark</FirstName>
+                <LastName>González</LastName>
+                <Position>LM</Position>
+                <Pace>84</Pace>
+                <Shooting>78</Shooting>
+                <Passing>72</Passing>
+                <Offensive>75</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>73</Stamina>
+                <Club>Universidad Católica</Club>
+                <DateOfBirth>10-07-1984</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Santiago Wanderers">
+            <Player id="653">
+                <FirstName>Roberto</FirstName>
+                <LastName>Gutiérrez</LastName>
+                <Position>ST</Position>
+                <Pace>73</Pace>
+                <Shooting>70</Shooting>
+                <Passing>52</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>32</Defensive>
+                <Stamina>82</Stamina>
+                <Club>Santiago Wanderers</Club>
+                <DateOfBirth>18-04-1983</DateOfBirth>
+            </Player>
+            <Player id="3276">
+                <FirstName>Jorge</FirstName>
+                <LastName>Ormeño</LastName>
+                <Position>CDM</Position>
+                <Pace>33</Pace>
+                <Shooting>56</Shooting>
+                <Passing>60</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>58</Stamina>
+                <Club>Santiago Wanderers</Club>
+                <DateOfBirth>14-06-1977</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="CD Palestino">
+            <Player id="731">
+                <FirstName>Leonardo</FirstName>
+                <LastName>Valencia</LastName>
+                <Position>RW</Position>
+                <Pace>84</Pace>
+                <Shooting>67</Shooting>
+                <Passing>76</Passing>
+                <Offensive>71</Offensive>
+                <Defensive>31</Defensive>
+                <Stamina>56</Stamina>
+                <Club>CD Palestino</Club>
+                <DateOfBirth>05-04-1991</DateOfBirth>
+            </Player>
+            <Player id="2634">
+                <FirstName>Rodrigo</FirstName>
+                <LastName>Riquelme</LastName>
+                <Position>CB</Position>
+                <Pace>43</Pace>
+                <Shooting>46</Shooting>
+                <Passing>50</Passing>
+                <Offensive>48</Offensive>
+                <Defensive>65</Defensive>
+                <Stamina>75</Stamina>
+                <Club>CD Palestino</Club>
+                <DateOfBirth>01-06-1984</DateOfBirth>
+            </Player>
+            <Player id="3832">
+                <FirstName>César</FirstName>
+                <LastName>Valenzuela</LastName>
+                <Position>CAM</Position>
+                <Pace>74</Pace>
+                <Shooting>56</Shooting>
+                <Passing>66</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>25</Defensive>
+                <Stamina>44</Stamina>
+                <Club>CD Palestino</Club>
+                <DateOfBirth>04-02-1992</DateOfBirth>
+            </Player>
+            <Player id="7620">
+                <FirstName>Paulo</FirstName>
+                <LastName>Díaz</LastName>
+                <Position>CB</Position>
+                <Pace>75</Pace>
+                <Shooting>38</Shooting>
+                <Passing>53</Passing>
+                <Offensive>45</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>56</Stamina>
+                <Club>CD Palestino</Club>
+                <DateOfBirth>25-08-1994</DateOfBirth>
+            </Player>
+            <Player id="7682">
+                <FirstName>Alejandro</FirstName>
+                <LastName>Contreras</LastName>
+                <Position>CB</Position>
+                <Pace>58</Pace>
+                <Shooting>43</Shooting>
+                <Passing>51</Passing>
+                <Offensive>47</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>58</Stamina>
+                <Club>CD Palestino</Club>
+                <DateOfBirth>03-03-1993</DateOfBirth>
+            </Player>
+            <Player id="8517">
+                <FirstName>Marcelo</FirstName>
+                <LastName>Morales</LastName>
+                <Position>CAM</Position>
+                <Pace>79</Pace>
+                <Shooting>54</Shooting>
+                <Passing>56</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>57</Stamina>
+                <Club>CD Palestino</Club>
+                <DateOfBirth>14-07-1992</DateOfBirth>
+            </Player>
+            <Player id="8518">
+                <FirstName>Jorge</FirstName>
+                <LastName>Guajardo</LastName>
+                <Position>ST</Position>
+                <Pace>85</Pace>
+                <Shooting>59</Shooting>
+                <Passing>44</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>32</Defensive>
+                <Stamina>61</Stamina>
+                <Club>CD Palestino</Club>
+                <DateOfBirth>09-05-1994</DateOfBirth>
+            </Player>
+            <Player id="9416">
+                <FirstName>José</FirstName>
+                <LastName>Quezada</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>32</Stamina>
+                <Club>CD Palestino</Club>
+                <DateOfBirth>17-08-1990</DateOfBirth>
+            </Player>
+            <Player id="9417">
+                <FirstName>Esteban</FirstName>
+                <LastName>Carvajal</LastName>
+                <Position>RM</Position>
+                <Pace>76</Pace>
+                <Shooting>47</Shooting>
+                <Passing>57</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>32</Defensive>
+                <Stamina>78</Stamina>
+                <Club>CD Palestino</Club>
+                <DateOfBirth>17-11-1988</DateOfBirth>
+            </Player>
+            <Player id="11431">
+                <FirstName>Diego</FirstName>
+                <LastName>Torres</LastName>
+                <Position>CM</Position>
+                <Pace>65</Pace>
+                <Shooting>39</Shooting>
+                <Passing>55</Passing>
+                <Offensive>47</Offensive>
+                <Defensive>38</Defensive>
+                <Stamina>50</Stamina>
+                <Club>CD Palestino</Club>
+                <DateOfBirth>31-07-1992</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="CD Cobresal">
+            <Player id="805">
+                <FirstName>Nicolás</FirstName>
+                <LastName>Peric</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>35</Stamina>
+                <Club>CD Cobresal</Club>
+                <DateOfBirth>19-10-1979</DateOfBirth>
+            </Player>
+            <Player id="5838">
+                <FirstName>Éver</FirstName>
+                <LastName>Cantero</LastName>
+                <Position>ST</Position>
+                <Pace>55</Pace>
+                <Shooting>68</Shooting>
+                <Passing>46</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>66</Stamina>
+                <Club>CD Cobresal</Club>
+                <DateOfBirth>03-12-1985</DateOfBirth>
+            </Player>
+            <Player id="5839">
+                <FirstName>Mariano</FirstName>
+                <LastName>Torres</LastName>
+                <Position>CAM</Position>
+                <Pace>73</Pace>
+                <Shooting>60</Shooting>
+                <Passing>64</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>56</Defensive>
+                <Stamina>81</Stamina>
+                <Club>CD Cobresal</Club>
+                <DateOfBirth>19-05-1987</DateOfBirth>
+            </Player>
+            <Player id="6706">
+                <FirstName>Johan</FirstName>
+                <LastName>Fuentes</LastName>
+                <Position>CM</Position>
+                <Pace>65</Pace>
+                <Shooting>48</Shooting>
+                <Passing>60</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>56</Defensive>
+                <Stamina>85</Stamina>
+                <Club>CD Cobresal</Club>
+                <DateOfBirth>02-02-1984</DateOfBirth>
+            </Player>
+            <Player id="7619">
+                <FirstName>Alexis</FirstName>
+                <LastName>Salazar</LastName>
+                <Position>CB</Position>
+                <Pace>34</Pace>
+                <Shooting>27</Shooting>
+                <Passing>29</Passing>
+                <Offensive>28</Offensive>
+                <Defensive>61</Defensive>
+                <Stamina>77</Stamina>
+                <Club>CD Cobresal</Club>
+                <DateOfBirth>03-06-1983</DateOfBirth>
+            </Player>
+            <Player id="9051">
+                <FirstName>Patricio</FirstName>
+                <LastName>Jeréz</LastName>
+                <Position>RB</Position>
+                <Pace>55</Pace>
+                <Shooting>30</Shooting>
+                <Passing>49</Passing>
+                <Offensive>39</Offensive>
+                <Defensive>61</Defensive>
+                <Stamina>88</Stamina>
+                <Club>CD Cobresal</Club>
+                <DateOfBirth>29-06-1987</DateOfBirth>
+            </Player>
+            <Player id="9479">
+                <FirstName>Rodrigo</FirstName>
+                <LastName>Ureña</LastName>
+                <Position>CM</Position>
+                <Pace>62</Pace>
+                <Shooting>39</Shooting>
+                <Passing>54</Passing>
+                <Offensive>46</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>63</Stamina>
+                <Club>CD Cobresal</Club>
+                <DateOfBirth>01-03-1993</DateOfBirth>
+            </Player>
+            <Player id="10913">
+                <FirstName>Lino</FirstName>
+                <LastName>Maldonado</LastName>
+                <Position>ST</Position>
+                <Pace>59</Pace>
+                <Shooting>55</Shooting>
+                <Passing>34</Passing>
+                <Offensive>44</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>63</Stamina>
+                <Club>CD Cobresal</Club>
+                <DateOfBirth>27-07-1990</DateOfBirth>
+            </Player>
+            <Player id="11023">
+                <FirstName>Israel</FirstName>
+                <LastName>Poblete</LastName>
+                <Position>CAM</Position>
+                <Pace>60</Pace>
+                <Shooting>46</Shooting>
+                <Passing>53</Passing>
+                <Offensive>49</Offensive>
+                <Defensive>33</Defensive>
+                <Stamina>66</Stamina>
+                <Club>CD Cobresal</Club>
+                <DateOfBirth>22-06-1995</DateOfBirth>
+            </Player>
+            <Player id="11291">
+                <FirstName>Nelson</FirstName>
+                <LastName>Sepúlveda</LastName>
+                <Position>CM</Position>
+                <Pace>61</Pace>
+                <Shooting>39</Shooting>
+                <Passing>51</Passing>
+                <Offensive>45</Offensive>
+                <Defensive>45</Defensive>
+                <Stamina>59</Stamina>
+                <Club>CD Cobresal</Club>
+                <DateOfBirth>22-01-1992</DateOfBirth>
+            </Player>
+            <Player id="11335">
+                <FirstName>Flavio</FirstName>
+                <LastName>Rojas</LastName>
+                <Position>CM</Position>
+                <Pace>63</Pace>
+                <Shooting>34</Shooting>
+                <Passing>49</Passing>
+                <Offensive>41</Offensive>
+                <Defensive>46</Defensive>
+                <Stamina>65</Stamina>
+                <Club>CD Cobresal</Club>
+                <DateOfBirth>16-01-1994</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Unión Española">
+            <Player id="885">
+                <FirstName>Diego</FirstName>
+                <LastName>Sánchez</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>44</Stamina>
+                <Club>Unión Española</Club>
+                <DateOfBirth>08-05-1987</DateOfBirth>
+            </Player>
+            <Player id="1192">
+                <FirstName>Diego</FirstName>
+                <LastName>Scotti</LastName>
+                <Position>CDM</Position>
+                <Pace>52</Pace>
+                <Shooting>57</Shooting>
+                <Passing>64</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>68</Defensive>
+                <Stamina>62</Stamina>
+                <Club>Unión Española</Club>
+                <DateOfBirth>14-01-1977</DateOfBirth>
+            </Player>
+            <Player id="1959">
+                <FirstName>Mathías</FirstName>
+                <LastName>Vidangossy</LastName>
+                <Position>CAM</Position>
+                <Pace>86</Pace>
+                <Shooting>60</Shooting>
+                <Passing>62</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>27</Defensive>
+                <Stamina>76</Stamina>
+                <Club>Unión Española</Club>
+                <DateOfBirth>25-05-1987</DateOfBirth>
+            </Player>
+            <Player id="2333">
+                <FirstName>Milovan</FirstName>
+                <LastName>Mirošević</LastName>
+                <Position>CAM</Position>
+                <Pace>59</Pace>
+                <Shooting>66</Shooting>
+                <Passing>68</Passing>
+                <Offensive>67</Offensive>
+                <Defensive>52</Defensive>
+                <Stamina>62</Stamina>
+                <Club>Unión Española</Club>
+                <DateOfBirth>20-06-1980</DateOfBirth>
+            </Player>
+            <Player id="2638">
+                <FirstName>Nicolás</FirstName>
+                <LastName>Berardo</LastName>
+                <Position>LB</Position>
+                <Pace>71</Pace>
+                <Shooting>46</Shooting>
+                <Passing>64</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>65</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Unión Española</Club>
+                <DateOfBirth>26-07-1990</DateOfBirth>
+            </Player>
+            <Player id="2892">
+                <FirstName>Gonzalo</FirstName>
+                <LastName>Villagra</LastName>
+                <Position>CM</Position>
+                <Pace>66</Pace>
+                <Shooting>52</Shooting>
+                <Passing>70</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>78</Stamina>
+                <Club>Unión Española</Club>
+                <DateOfBirth>17-09-1981</DateOfBirth>
+            </Player>
+            <Player id="4359">
+                <FirstName>Matías</FirstName>
+                <LastName>Navarrete</LastName>
+                <Position>CB</Position>
+                <Pace>81</Pace>
+                <Shooting>39</Shooting>
+                <Passing>49</Passing>
+                <Offensive>44</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>61</Stamina>
+                <Club>Unión Española</Club>
+                <DateOfBirth>20-01-1992</DateOfBirth>
+            </Player>
+            <Player id="7347">
+                <FirstName>Mario</FirstName>
+                <LastName>Larenas</LastName>
+                <Position>LB</Position>
+                <Pace>65</Pace>
+                <Shooting>44</Shooting>
+                <Passing>57</Passing>
+                <Offensive>50</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>48</Stamina>
+                <Club>Unión Española</Club>
+                <DateOfBirth>01-07-1993</DateOfBirth>
+            </Player>
+            <Player id="7621">
+                <FirstName>Tomás</FirstName>
+                <LastName>Astaburuaga</LastName>
+                <Position>RB</Position>
+                <Pace>67</Pace>
+                <Shooting>42</Shooting>
+                <Passing>51</Passing>
+                <Offensive>46</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>74</Stamina>
+                <Club>Unión Española</Club>
+                <DateOfBirth>11-10-1996</DateOfBirth>
+            </Player>
+            <Player id="9315">
+                <FirstName>Pablo</FirstName>
+                <LastName>Galdames</LastName>
+                <Position>CM</Position>
+                <Pace>68</Pace>
+                <Shooting>51</Shooting>
+                <Passing>53</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>52</Stamina>
+                <Club>Unión Española</Club>
+                <DateOfBirth>30-12-1996</DateOfBirth>
+            </Player>
+            <Player id="9316">
+                <FirstName>Dante</FirstName>
+                <LastName>Martínez</LastName>
+                <Position>CAM</Position>
+                <Pace>71</Pace>
+                <Shooting>50</Shooting>
+                <Passing>51</Passing>
+                <Offensive>50</Offensive>
+                <Defensive>36</Defensive>
+                <Stamina>58</Stamina>
+                <Club>Unión Española</Club>
+                <DateOfBirth>18-06-1994</DateOfBirth>
+            </Player>
+            <Player id="9317">
+                <FirstName>Ramsés</FirstName>
+                <LastName>Bustos</LastName>
+                <Position>CF</Position>
+                <Pace>72</Pace>
+                <Shooting>56</Shooting>
+                <Passing>59</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>40</Defensive>
+                <Stamina>56</Stamina>
+                <Club>Unión Española</Club>
+                <DateOfBirth>13-10-1991</DateOfBirth>
+            </Player>
+            <Player id="10004">
+                <FirstName>Ángel</FirstName>
+                <LastName>Muñoz</LastName>
+                <Position>CM</Position>
+                <Pace>82</Pace>
+                <Shooting>45</Shooting>
+                <Passing>58</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>46</Defensive>
+                <Stamina>53</Stamina>
+                <Club>Unión Española</Club>
+                <DateOfBirth>27-01-1996</DateOfBirth>
+            </Player>
+            <Player id="10127">
+                <FirstName>Cristián</FirstName>
+                <LastName>Guerra</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>31</Stamina>
+                <Club>Unión Española</Club>
+                <DateOfBirth>09-08-1994</DateOfBirth>
+            </Player>
+            <Player id="12341">
+                <FirstName>Marcos</FirstName>
+                <LastName>González</LastName>
+                <Position>CB</Position>
+                <Pace>54</Pace>
+                <Shooting>38</Shooting>
+                <Passing>49</Passing>
+                <Offensive>43</Offensive>
+                <Defensive>77</Defensive>
+                <Stamina>35</Stamina>
+                <Club>Unión Española</Club>
+                <DateOfBirth>09-06-1980</DateOfBirth>
+            </Player>
+            <Player id="12878">
+                <FirstName>Cristián</FirstName>
+                <LastName>Chávez</LastName>
+                <Position>CAM</Position>
+                <Pace>82</Pace>
+                <Shooting>65</Shooting>
+                <Passing>72</Passing>
+                <Offensive>68</Offensive>
+                <Defensive>48</Defensive>
+                <Stamina>82</Stamina>
+                <Club>Unión Española</Club>
+                <DateOfBirth>16-06-1986</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Deportivo Ñublense">
+            <Player id="1235">
+                <FirstName>Mathías</FirstName>
+                <LastName>Riquero</LastName>
+                <Position>CDM</Position>
+                <Pace>47</Pace>
+                <Shooting>53</Shooting>
+                <Passing>62</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>67</Defensive>
+                <Stamina>90</Stamina>
+                <Club>Deportivo Ñublense</Club>
+                <DateOfBirth>29-08-1982</DateOfBirth>
+            </Player>
+            <Player id="3323">
+                <FirstName>Sebastián</FirstName>
+                <LastName>Varas</LastName>
+                <Position>ST</Position>
+                <Pace>67</Pace>
+                <Shooting>66</Shooting>
+                <Passing>49</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>87</Stamina>
+                <Club>Deportivo Ñublense</Club>
+                <DateOfBirth>01-08-1988</DateOfBirth>
+            </Player>
+            <Player id="4103">
+                <FirstName>Tomás</FirstName>
+                <LastName>Lanzini</LastName>
+                <Position>CAM</Position>
+                <Pace>65</Pace>
+                <Shooting>56</Shooting>
+                <Passing>65</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>47</Defensive>
+                <Stamina>52</Stamina>
+                <Club>Deportivo Ñublense</Club>
+                <DateOfBirth>03-06-1991</DateOfBirth>
+            </Player>
+            <Player id="4626">
+                <FirstName>José Antonio</FirstName>
+                <LastName>Rojas</LastName>
+                <Position>CB</Position>
+                <Pace>40</Pace>
+                <Shooting>31</Shooting>
+                <Passing>40</Passing>
+                <Offensive>35</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>69</Stamina>
+                <Club>Deportivo Ñublense</Club>
+                <DateOfBirth>13-01-1987</DateOfBirth>
+            </Player>
+            <Player id="5305">
+                <FirstName>Sebastián</FirstName>
+                <LastName>Montesinos</LastName>
+                <Position>CB</Position>
+                <Pace>49</Pace>
+                <Shooting>33</Shooting>
+                <Passing>38</Passing>
+                <Offensive>35</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Deportivo Ñublense</Club>
+                <DateOfBirth>12-03-1986</DateOfBirth>
+            </Player>
+            <Player id="5306">
+                <FirstName>Jonathan</FirstName>
+                <LastName>Cisternas</LastName>
+                <Position>CM</Position>
+                <Pace>58</Pace>
+                <Shooting>55</Shooting>
+                <Passing>68</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>57</Defensive>
+                <Stamina>54</Stamina>
+                <Club>Deportivo Ñublense</Club>
+                <DateOfBirth>16-06-1980</DateOfBirth>
+            </Player>
+            <Player id="7151">
+                <FirstName>Luis</FirstName>
+                <LastName>Pavez</LastName>
+                <Position>CDM</Position>
+                <Pace>58</Pace>
+                <Shooting>45</Shooting>
+                <Passing>54</Passing>
+                <Offensive>49</Offensive>
+                <Defensive>65</Defensive>
+                <Stamina>78</Stamina>
+                <Club>Deportivo Ñublense</Club>
+                <DateOfBirth>25-06-1988</DateOfBirth>
+            </Player>
+            <Player id="9245">
+                <FirstName>Andrés</FirstName>
+                <LastName>Reyes</LastName>
+                <Position>CB</Position>
+                <Pace>45</Pace>
+                <Shooting>27</Shooting>
+                <Passing>37</Passing>
+                <Offensive>32</Offensive>
+                <Defensive>56</Defensive>
+                <Stamina>69</Stamina>
+                <Club>Deportivo Ñublense</Club>
+                <DateOfBirth>26-09-1987</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Audax Italiano">
+            <Player id="1273">
+                <FirstName>Rafael</FirstName>
+                <LastName>Olarra</LastName>
+                <Position>CB</Position>
+                <Pace>42</Pace>
+                <Shooting>46</Shooting>
+                <Passing>54</Passing>
+                <Offensive>50</Offensive>
+                <Defensive>69</Defensive>
+                <Stamina>57</Stamina>
+                <Club>Audax Italiano</Club>
+                <DateOfBirth>25-05-1978</DateOfBirth>
+            </Player>
+            <Player id="2529">
+                <FirstName>Mauro</FirstName>
+                <LastName>Olivi</LastName>
+                <Position>LW</Position>
+                <Pace>85</Pace>
+                <Shooting>71</Shooting>
+                <Passing>60</Passing>
+                <Offensive>65</Offensive>
+                <Defensive>26</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Audax Italiano</Club>
+                <DateOfBirth>18-03-1983</DateOfBirth>
+            </Player>
+            <Player id="2639">
+                <FirstName>José</FirstName>
+                <LastName>Contreras</LastName>
+                <Position>RB</Position>
+                <Pace>59</Pace>
+                <Shooting>42</Shooting>
+                <Passing>59</Passing>
+                <Offensive>50</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>75</Stamina>
+                <Club>Audax Italiano</Club>
+                <DateOfBirth>23-03-1982</DateOfBirth>
+            </Player>
+            <Player id="3140">
+                <FirstName>Bryan</FirstName>
+                <LastName>Carrasco</LastName>
+                <Position>RM</Position>
+                <Pace>92</Pace>
+                <Shooting>63</Shooting>
+                <Passing>60</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>63</Stamina>
+                <Club>Audax Italiano</Club>
+                <DateOfBirth>31-01-1991</DateOfBirth>
+            </Player>
+            <Player id="4101">
+                <FirstName>Felipe</FirstName>
+                <LastName>Mora</LastName>
+                <Position>ST</Position>
+                <Pace>82</Pace>
+                <Shooting>69</Shooting>
+                <Passing>41</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>60</Stamina>
+                <Club>Audax Italiano</Club>
+                <DateOfBirth>02-08-1993</DateOfBirth>
+            </Player>
+            <Player id="4236">
+                <FirstName>Nelson</FirstName>
+                <LastName>Saavedra</LastName>
+                <Position>CB</Position>
+                <Pace>64</Pace>
+                <Shooting>48</Shooting>
+                <Passing>50</Passing>
+                <Offensive>49</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>87</Stamina>
+                <Club>Audax Italiano</Club>
+                <DateOfBirth>06-04-1988</DateOfBirth>
+            </Player>
+            <Player id="4354">
+                <FirstName>Cristián</FirstName>
+                <LastName>Canuhé</LastName>
+                <Position>LM</Position>
+                <Pace>74</Pace>
+                <Shooting>54</Shooting>
+                <Passing>64</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>51</Defensive>
+                <Stamina>74</Stamina>
+                <Club>Audax Italiano</Club>
+                <DateOfBirth>25-08-1987</DateOfBirth>
+            </Player>
+            <Player id="4623">
+                <FirstName>Juan</FirstName>
+                <LastName>Cornejo</LastName>
+                <Position>LB</Position>
+                <Pace>69</Pace>
+                <Shooting>52</Shooting>
+                <Passing>64</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>65</Defensive>
+                <Stamina>63</Stamina>
+                <Club>Audax Italiano</Club>
+                <DateOfBirth>27-09-1990</DateOfBirth>
+            </Player>
+            <Player id="4624">
+                <FirstName>Diego</FirstName>
+                <LastName>Vallejos</LastName>
+                <Position>ST</Position>
+                <Pace>81</Pace>
+                <Shooting>63</Shooting>
+                <Passing>51</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>36</Defensive>
+                <Stamina>69</Stamina>
+                <Club>Audax Italiano</Club>
+                <DateOfBirth>16-03-1990</DateOfBirth>
+            </Player>
+            <Player id="5136">
+                <FirstName>Sebastián</FirstName>
+                <LastName>Silva</LastName>
+                <Position>CB</Position>
+                <Pace>63</Pace>
+                <Shooting>32</Shooting>
+                <Passing>44</Passing>
+                <Offensive>38</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>49</Stamina>
+                <Club>Audax Italiano</Club>
+                <DateOfBirth>16-07-1991</DateOfBirth>
+            </Player>
+            <Player id="6304">
+                <FirstName>Jaime</FirstName>
+                <LastName>Bravo</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>29</Stamina>
+                <Club>Audax Italiano</Club>
+                <DateOfBirth>04-01-1982</DateOfBirth>
+            </Player>
+            <Player id="6319">
+                <FirstName>Sebastián</FirstName>
+                <LastName>Vegas</LastName>
+                <Position>CB</Position>
+                <Pace>76</Pace>
+                <Shooting>38</Shooting>
+                <Passing>47</Passing>
+                <Offensive>42</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>73</Stamina>
+                <Club>Audax Italiano</Club>
+                <DateOfBirth>04-12-1996</DateOfBirth>
+            </Player>
+            <Player id="7829">
+                <FirstName>Omar</FirstName>
+                <LastName>Zalazar</LastName>
+                <Position>ST</Position>
+                <Pace>50</Pace>
+                <Shooting>62</Shooting>
+                <Passing>51</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Audax Italiano</Club>
+                <DateOfBirth>10-08-1986</DateOfBirth>
+            </Player>
+            <Player id="8510">
+                <FirstName>Diego</FirstName>
+                <LastName>Valdés</LastName>
+                <Position>CAM</Position>
+                <Pace>72</Pace>
+                <Shooting>57</Shooting>
+                <Passing>55</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>40</Defensive>
+                <Stamina>60</Stamina>
+                <Club>Audax Italiano</Club>
+                <DateOfBirth>30-01-1994</DateOfBirth>
+            </Player>
+            <Player id="8511">
+                <FirstName>Alexis</FirstName>
+                <LastName>Delgado</LastName>
+                <Position>CAM</Position>
+                <Pace>77</Pace>
+                <Shooting>57</Shooting>
+                <Passing>58</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>34</Defensive>
+                <Stamina>76</Stamina>
+                <Club>Audax Italiano</Club>
+                <DateOfBirth>31-12-1987</DateOfBirth>
+            </Player>
+            <Player id="9253">
+                <FirstName>Gonzalo</FirstName>
+                <LastName>Menéndez</LastName>
+                <Position>LM</Position>
+                <Pace>86</Pace>
+                <Shooting>64</Shooting>
+                <Passing>53</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>50</Defensive>
+                <Stamina>51</Stamina>
+                <Club>Audax Italiano</Club>
+                <DateOfBirth>16-12-1992</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="CD O'Higgins">
+            <Player id="1401">
+                <FirstName>Luis</FirstName>
+                <LastName>Valenzuela</LastName>
+                <Position>CAM</Position>
+                <Pace>72</Pace>
+                <Shooting>69</Shooting>
+                <Passing>68</Passing>
+                <Offensive>68</Offensive>
+                <Defensive>54</Defensive>
+                <Stamina>74</Stamina>
+                <Club>CD O'Higgins</Club>
+                <DateOfBirth>22-02-1988</DateOfBirth>
+            </Player>
+            <Player id="1983">
+                <FirstName>Diego</FirstName>
+                <LastName>Cháves</LastName>
+                <Position>ST</Position>
+                <Pace>62</Pace>
+                <Shooting>70</Shooting>
+                <Passing>43</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>67</Stamina>
+                <Club>CD O'Higgins</Club>
+                <DateOfBirth>14-02-1986</DateOfBirth>
+            </Player>
+            <Player id="2380">
+                <FirstName>Yerson</FirstName>
+                <LastName>Opazo</LastName>
+                <Position>RB</Position>
+                <Pace>69</Pace>
+                <Shooting>66</Shooting>
+                <Passing>62</Passing>
+                <Offensive>64</Offensive>
+                <Defensive>67</Defensive>
+                <Stamina>91</Stamina>
+                <Club>CD O'Higgins</Club>
+                <DateOfBirth>24-12-1984</DateOfBirth>
+            </Player>
+            <Player id="2888">
+                <FirstName>Alejandro</FirstName>
+                <LastName>López</LastName>
+                <Position>LB</Position>
+                <Pace>69</Pace>
+                <Shooting>62</Shooting>
+                <Passing>64</Passing>
+                <Offensive>63</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>83</Stamina>
+                <Club>CD O'Higgins</Club>
+                <DateOfBirth>19-06-1989</DateOfBirth>
+            </Player>
+            <Player id="3202">
+                <FirstName>Pablo Ignacio</FirstName>
+                <LastName>Calandria</LastName>
+                <Position>ST</Position>
+                <Pace>51</Pace>
+                <Shooting>74</Shooting>
+                <Passing>59</Passing>
+                <Offensive>66</Offensive>
+                <Defensive>38</Defensive>
+                <Stamina>65</Stamina>
+                <Club>CD O'Higgins</Club>
+                <DateOfBirth>15-03-1982</DateOfBirth>
+            </Player>
+            <Player id="3332">
+                <FirstName>Nicolás</FirstName>
+                <LastName>Vargas</LastName>
+                <Position>LB</Position>
+                <Pace>80</Pace>
+                <Shooting>58</Shooting>
+                <Passing>60</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>68</Defensive>
+                <Stamina>67</Stamina>
+                <Club>CD O'Higgins</Club>
+                <DateOfBirth>15-09-1992</DateOfBirth>
+            </Player>
+            <Player id="3830">
+                <FirstName>Roberto</FirstName>
+                <LastName>González</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>29</Stamina>
+                <Club>CD O'Higgins</Club>
+                <DateOfBirth>19-05-1976</DateOfBirth>
+            </Player>
+            <Player id="5313">
+                <FirstName>Juan Eduardo</FirstName>
+                <LastName>Fuentes</LastName>
+                <Position>CM</Position>
+                <Pace>70</Pace>
+                <Shooting>55</Shooting>
+                <Passing>61</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>57</Defensive>
+                <Stamina>76</Stamina>
+                <Club>CD O'Higgins</Club>
+                <DateOfBirth>21-03-1995</DateOfBirth>
+            </Player>
+            <Player id="6306">
+                <FirstName>Bastián</FirstName>
+                <LastName>San Juan</LastName>
+                <Position>CB</Position>
+                <Pace>80</Pace>
+                <Shooting>37</Shooting>
+                <Passing>49</Passing>
+                <Offensive>43</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>58</Stamina>
+                <Club>CD O'Higgins</Club>
+                <DateOfBirth>27-04-1994</DateOfBirth>
+            </Player>
+            <Player id="7681">
+                <FirstName>Felipe</FirstName>
+                <LastName>Ochagavía</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>23</Stamina>
+                <Club>CD O'Higgins</Club>
+                <DateOfBirth>16-09-1993</DateOfBirth>
+            </Player>
+            <Player id="8742">
+                <FirstName>Raúl</FirstName>
+                <LastName>Osorio</LastName>
+                <Position>CB</Position>
+                <Pace>74</Pace>
+                <Shooting>27</Shooting>
+                <Passing>26</Passing>
+                <Offensive>26</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>67</Stamina>
+                <Club>CD O'Higgins</Club>
+                <DateOfBirth>29-06-1995</DateOfBirth>
+            </Player>
+            <Player id="9256">
+                <FirstName>Santiago</FirstName>
+                <LastName>Lizana</LastName>
+                <Position>CAM</Position>
+                <Pace>65</Pace>
+                <Shooting>54</Shooting>
+                <Passing>49</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>40</Defensive>
+                <Stamina>61</Stamina>
+                <Club>CD O'Higgins</Club>
+                <DateOfBirth>30-09-1992</DateOfBirth>
+            </Player>
+            <Player id="9314">
+                <FirstName>Iván</FirstName>
+                <LastName>Pardo</LastName>
+                <Position>CAM</Position>
+                <Pace>58</Pace>
+                <Shooting>55</Shooting>
+                <Passing>53</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>38</Defensive>
+                <Stamina>52</Stamina>
+                <Club>CD O'Higgins</Club>
+                <DateOfBirth>10-11-1995</DateOfBirth>
+            </Player>
+            <Player id="12820">
+                <FirstName>Braulio</FirstName>
+                <LastName>Leal</LastName>
+                <Position>CM</Position>
+                <Pace>70</Pace>
+                <Shooting>65</Shooting>
+                <Passing>74</Passing>
+                <Offensive>69</Offensive>
+                <Defensive>70</Defensive>
+                <Stamina>73</Stamina>
+                <Club>CD O'Higgins</Club>
+                <DateOfBirth>22-11-1981</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="CD Antofagasta">
+            <Player id="1686">
+                <FirstName>Javier Aníbal</FirstName>
+                <LastName>Elizondo</LastName>
+                <Position>ST</Position>
+                <Pace>61</Pace>
+                <Shooting>72</Shooting>
+                <Passing>60</Passing>
+                <Offensive>66</Offensive>
+                <Defensive>40</Defensive>
+                <Stamina>65</Stamina>
+                <Club>CD Antofagasta</Club>
+                <DateOfBirth>31-10-1982</DateOfBirth>
+            </Player>
+            <Player id="2057">
+                <FirstName>Rubén</FirstName>
+                <LastName>Farfán</LastName>
+                <Position>RM</Position>
+                <Pace>91</Pace>
+                <Shooting>66</Shooting>
+                <Passing>60</Passing>
+                <Offensive>63</Offensive>
+                <Defensive>33</Defensive>
+                <Stamina>69</Stamina>
+                <Club>CD Antofagasta</Club>
+                <DateOfBirth>25-09-1991</DateOfBirth>
+            </Player>
+            <Player id="5130">
+                <FirstName>Nicolás</FirstName>
+                <LastName>Ortiz</LastName>
+                <Position>CB</Position>
+                <Pace>77</Pace>
+                <Shooting>29</Shooting>
+                <Passing>54</Passing>
+                <Offensive>41</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>77</Stamina>
+                <Club>CD Antofagasta</Club>
+                <DateOfBirth>06-04-1984</DateOfBirth>
+            </Player>
+            <Player id="5840">
+                <FirstName>Osmán</FirstName>
+                <LastName>Huerta</LastName>
+                <Position>RW</Position>
+                <Pace>74</Pace>
+                <Shooting>65</Shooting>
+                <Passing>58</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>42</Defensive>
+                <Stamina>69</Stamina>
+                <Club>CD Antofagasta</Club>
+                <DateOfBirth>16-06-1989</DateOfBirth>
+            </Player>
+            <Player id="5841">
+                <FirstName>Gerson</FirstName>
+                <LastName>Martínez</LastName>
+                <Position>ST</Position>
+                <Pace>71</Pace>
+                <Shooting>62</Shooting>
+                <Passing>51</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>68</Stamina>
+                <Club>CD Antofagasta</Club>
+                <DateOfBirth>10-01-1989</DateOfBirth>
+            </Player>
+            <Player id="7135">
+                <FirstName>Patricio</FirstName>
+                <LastName>Jérez</LastName>
+                <Position>LB</Position>
+                <Pace>71</Pace>
+                <Shooting>37</Shooting>
+                <Passing>52</Passing>
+                <Offensive>44</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>83</Stamina>
+                <Club>CD Antofagasta</Club>
+                <DateOfBirth>26-06-1987</DateOfBirth>
+            </Player>
+            <Player id="9858">
+                <FirstName>Ronald</FirstName>
+                <LastName>González</LastName>
+                <Position>ST</Position>
+                <Pace>67</Pace>
+                <Shooting>60</Shooting>
+                <Passing>35</Passing>
+                <Offensive>47</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>64</Stamina>
+                <Club>CD Antofagasta</Club>
+                <DateOfBirth>17-10-1990</DateOfBirth>
+            </Player>
+            <Player id="10125">
+                <FirstName>Carlos</FirstName>
+                <LastName>Escudero</LastName>
+                <Position>LM</Position>
+                <Pace>46</Pace>
+                <Shooting>51</Shooting>
+                <Passing>59</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>33</Defensive>
+                <Stamina>55</Stamina>
+                <Club>CD Antofagasta</Club>
+                <DateOfBirth>18-01-1979</DateOfBirth>
+            </Player>
+            <Player id="10557">
+                <FirstName>Francisco</FirstName>
+                <LastName>Sepulveda</LastName>
+                <Position>RB</Position>
+                <Pace>73</Pace>
+                <Shooting>30</Shooting>
+                <Passing>46</Passing>
+                <Offensive>38</Offensive>
+                <Defensive>56</Defensive>
+                <Stamina>59</Stamina>
+                <Club>CD Antofagasta</Club>
+                <DateOfBirth>03-09-1991</DateOfBirth>
+            </Player>
+            <Player id="10855">
+                <FirstName>Felipe</FirstName>
+                <LastName>Muñoz</LastName>
+                <Position>ST</Position>
+                <Pace>70</Pace>
+                <Shooting>52</Shooting>
+                <Passing>44</Passing>
+                <Offensive>48</Offensive>
+                <Defensive>39</Defensive>
+                <Stamina>54</Stamina>
+                <Club>CD Antofagasta</Club>
+                <DateOfBirth>09-04-1996</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="CD Universidad de Concepción">
+            <Player id="1814">
+                <FirstName>Gabriel</FirstName>
+                <LastName>Vargas</LastName>
+                <Position>ST</Position>
+                <Pace>70</Pace>
+                <Shooting>72</Shooting>
+                <Passing>53</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>75</Stamina>
+                <Club>CD Universidad de Concepción</Club>
+                <DateOfBirth>08-12-1983</DateOfBirth>
+            </Player>
+            <Player id="2060">
+                <FirstName>Pedro</FirstName>
+                <LastName>Muñoz</LastName>
+                <Position>RW</Position>
+                <Pace>90</Pace>
+                <Shooting>59</Shooting>
+                <Passing>59</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>26</Defensive>
+                <Stamina>88</Stamina>
+                <Club>CD Universidad de Concepción</Club>
+                <DateOfBirth>09-06-1986</DateOfBirth>
+            </Player>
+            <Player id="2647">
+                <FirstName>Diego</FirstName>
+                <LastName>Díaz</LastName>
+                <Position>CB</Position>
+                <Pace>57</Pace>
+                <Shooting>25</Shooting>
+                <Passing>36</Passing>
+                <Offensive>30</Offensive>
+                <Defensive>72</Defensive>
+                <Stamina>71</Stamina>
+                <Club>CD Universidad de Concepción</Club>
+                <DateOfBirth>12-06-1986</DateOfBirth>
+            </Player>
+            <Player id="2895">
+                <FirstName>Fernando</FirstName>
+                <LastName>Manríquez</LastName>
+                <Position>CDM</Position>
+                <Pace>55</Pace>
+                <Shooting>52</Shooting>
+                <Passing>66</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>59</Defensive>
+                <Stamina>92</Stamina>
+                <Club>CD Universidad de Concepción</Club>
+                <DateOfBirth>01-02-1984</DateOfBirth>
+            </Player>
+            <Player id="3886">
+                <FirstName>Sixto</FirstName>
+                <LastName>Peralta</LastName>
+                <Position>CM</Position>
+                <Pace>56</Pace>
+                <Shooting>53</Shooting>
+                <Passing>68</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>57</Defensive>
+                <Stamina>57</Stamina>
+                <Club>CD Universidad de Concepción</Club>
+                <DateOfBirth>16-04-1979</DateOfBirth>
+            </Player>
+            <Player id="5849">
+                <FirstName>Aníbal</FirstName>
+                <LastName>Carvallo</LastName>
+                <Position>LW</Position>
+                <Pace>82</Pace>
+                <Shooting>51</Shooting>
+                <Passing>54</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>27</Defensive>
+                <Stamina>56</Stamina>
+                <Club>CD Universidad de Concepción</Club>
+                <DateOfBirth>01-05-1989</DateOfBirth>
+            </Player>
+            <Player id="7349">
+                <FirstName>Felipe</FirstName>
+                <LastName>Muñoz</LastName>
+                <Position>CB</Position>
+                <Pace>56</Pace>
+                <Shooting>32</Shooting>
+                <Passing>52</Passing>
+                <Offensive>42</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>85</Stamina>
+                <Club>CD Universidad de Concepción</Club>
+                <DateOfBirth>04-04-1985</DateOfBirth>
+            </Player>
+            <Player id="7625">
+                <FirstName>Andrés</FirstName>
+                <LastName>Imperiale</LastName>
+                <Position>CB</Position>
+                <Pace>60</Pace>
+                <Shooting>27</Shooting>
+                <Passing>43</Passing>
+                <Offensive>35</Offensive>
+                <Defensive>61</Defensive>
+                <Stamina>70</Stamina>
+                <Club>CD Universidad de Concepción</Club>
+                <DateOfBirth>08-07-1986</DateOfBirth>
+            </Player>
+            <Player id="7626">
+                <FirstName>Francisco</FirstName>
+                <LastName>Portillo</LastName>
+                <Position>CDM</Position>
+                <Pace>52</Pace>
+                <Shooting>35</Shooting>
+                <Passing>54</Passing>
+                <Offensive>44</Offensive>
+                <Defensive>56</Defensive>
+                <Stamina>90</Stamina>
+                <Club>CD Universidad de Concepción</Club>
+                <DateOfBirth>24-07-1987</DateOfBirth>
+            </Player>
+            <Player id="10003">
+                <FirstName>Cristian</FirstName>
+                <LastName>Magaña</LastName>
+                <Position>RB</Position>
+                <Pace>55</Pace>
+                <Shooting>26</Shooting>
+                <Passing>41</Passing>
+                <Offensive>33</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>66</Stamina>
+                <Club>CD Universidad de Concepción</Club>
+                <DateOfBirth>26-03-1991</DateOfBirth>
+            </Player>
+            <Player id="10153">
+                <FirstName>Esteban</FirstName>
+                <LastName>Flores</LastName>
+                <Position>LB</Position>
+                <Pace>75</Pace>
+                <Shooting>28</Shooting>
+                <Passing>47</Passing>
+                <Offensive>37</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>57</Stamina>
+                <Club>CD Universidad de Concepción</Club>
+                <DateOfBirth>07-04-1992</DateOfBirth>
+            </Player>
+            <Player id="10878">
+                <FirstName>Leonardo</FirstName>
+                <LastName>Figueroa</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>45</Stamina>
+                <Club>CD Universidad de Concepción</Club>
+                <DateOfBirth>17-04-1990</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Deportes Iquique">
+            <Player id="1850">
+                <FirstName>Rodrigo</FirstName>
+                <LastName>Díaz</LastName>
+                <Position>CAM</Position>
+                <Pace>51</Pace>
+                <Shooting>68</Shooting>
+                <Passing>70</Passing>
+                <Offensive>69</Offensive>
+                <Defensive>43</Defensive>
+                <Stamina>80</Stamina>
+                <Club>Deportes Iquique</Club>
+                <DateOfBirth>28-08-1981</DateOfBirth>
+            </Player>
+            <Player id="2058">
+                <FirstName>Manuel</FirstName>
+                <LastName>Villalobos</LastName>
+                <Position>ST</Position>
+                <Pace>74</Pace>
+                <Shooting>70</Shooting>
+                <Passing>54</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>57</Stamina>
+                <Club>Deportes Iquique</Club>
+                <DateOfBirth>15-10-1980</DateOfBirth>
+            </Player>
+            <Player id="2894">
+                <FirstName>Rodrigo</FirstName>
+                <LastName>Naranjo</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>24</Stamina>
+                <Club>Deportes Iquique</Club>
+                <DateOfBirth>30-08-1979</DateOfBirth>
+            </Player>
+            <Player id="4363">
+                <FirstName>Jorge</FirstName>
+                <LastName>Moraga</LastName>
+                <Position>CB</Position>
+                <Pace>76</Pace>
+                <Shooting>26</Shooting>
+                <Passing>41</Passing>
+                <Offensive>33</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>57</Stamina>
+                <Club>Deportes Iquique</Club>
+                <DateOfBirth>09-02-1991</DateOfBirth>
+            </Player>
+            <Player id="4627">
+                <FirstName>Rafael</FirstName>
+                <LastName>Caroca</LastName>
+                <Position>CDM</Position>
+                <Pace>78</Pace>
+                <Shooting>42</Shooting>
+                <Passing>61</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>89</Stamina>
+                <Club>Deportes Iquique</Club>
+                <DateOfBirth>19-07-1989</DateOfBirth>
+            </Player>
+            <Player id="5131">
+                <FirstName>Jonathan</FirstName>
+                <LastName>Rebolledo</LastName>
+                <Position>LM</Position>
+                <Pace>63</Pace>
+                <Shooting>46</Shooting>
+                <Passing>64</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>37</Defensive>
+                <Stamina>66</Stamina>
+                <Club>Deportes Iquique</Club>
+                <DateOfBirth>22-10-1991</DateOfBirth>
+            </Player>
+            <Player id="5132">
+                <FirstName>Misael</FirstName>
+                <LastName>Dávila</LastName>
+                <Position>LM</Position>
+                <Pace>80</Pace>
+                <Shooting>43</Shooting>
+                <Passing>58</Passing>
+                <Offensive>50</Offensive>
+                <Defensive>45</Defensive>
+                <Stamina>68</Stamina>
+                <Club>Deportes Iquique</Club>
+                <DateOfBirth>17-07-1991</DateOfBirth>
+            </Player>
+            <Player id="6029">
+                <FirstName>Walter</FirstName>
+                <LastName>Mazzolatti</LastName>
+                <Position>ST</Position>
+                <Pace>69</Pace>
+                <Shooting>62</Shooting>
+                <Passing>47</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>66</Stamina>
+                <Club>Deportes Iquique</Club>
+                <DateOfBirth>25-04-1990</DateOfBirth>
+            </Player>
+            <Player id="6309">
+                <FirstName>Mauricio</FirstName>
+                <LastName>Zenteno</LastName>
+                <Position>CB</Position>
+                <Pace>66</Pace>
+                <Shooting>39</Shooting>
+                <Passing>53</Passing>
+                <Offensive>46</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Deportes Iquique</Club>
+                <DateOfBirth>21-04-1984</DateOfBirth>
+            </Player>
+            <Player id="7133">
+                <FirstName>Mauricio</FirstName>
+                <LastName>Yedro</LastName>
+                <Position>CM</Position>
+                <Pace>57</Pace>
+                <Shooting>56</Shooting>
+                <Passing>62</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>42</Defensive>
+                <Stamina>83</Stamina>
+                <Club>Deportes Iquique</Club>
+                <DateOfBirth>10-02-1987</DateOfBirth>
+            </Player>
+            <Player id="7875">
+                <FirstName>Brayan</FirstName>
+                <LastName>Cortés</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>37</Stamina>
+                <Club>Deportes Iquique</Club>
+                <DateOfBirth>11-03-1995</DateOfBirth>
+            </Player>
+            <Player id="9478">
+                <FirstName>Michael Jordan</FirstName>
+                <LastName>Contreras</LastName>
+                <Position>RB</Position>
+                <Pace>68</Pace>
+                <Shooting>28</Shooting>
+                <Passing>47</Passing>
+                <Offensive>37</Offensive>
+                <Defensive>59</Defensive>
+                <Stamina>62</Stamina>
+                <Club>Deportes Iquique</Club>
+                <DateOfBirth>10-02-1993</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="CD Cobreloa">
+            <Player id="1851">
+                <FirstName>Luciano</FirstName>
+                <LastName>Palos</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>28</Stamina>
+                <Club>CD Cobreloa</Club>
+                <DateOfBirth>08-06-1983</DateOfBirth>
+            </Player>
+            <Player id="3325">
+                <FirstName>Álvaro</FirstName>
+                <LastName>López</LastName>
+                <Position>ST</Position>
+                <Pace>90</Pace>
+                <Shooting>64</Shooting>
+                <Passing>56</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>73</Stamina>
+                <Club>CD Cobreloa</Club>
+                <DateOfBirth>23-09-1992</DateOfBirth>
+            </Player>
+            <Player id="3331">
+                <FirstName>Cristian</FirstName>
+                <LastName>Gaitán</LastName>
+                <Position>RM</Position>
+                <Pace>62</Pace>
+                <Shooting>61</Shooting>
+                <Passing>68</Passing>
+                <Offensive>64</Offensive>
+                <Defensive>53</Defensive>
+                <Stamina>79</Stamina>
+                <Club>CD Cobreloa</Club>
+                <DateOfBirth>15-01-1990</DateOfBirth>
+            </Player>
+            <Player id="3828">
+                <FirstName>Sebastián</FirstName>
+                <LastName>Contreras</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>36</Stamina>
+                <Club>CD Cobreloa</Club>
+                <DateOfBirth>01-01-1988</DateOfBirth>
+            </Player>
+            <Player id="4102">
+                <FirstName>Diego</FirstName>
+                <LastName>Silva</LastName>
+                <Position>CB</Position>
+                <Pace>54</Pace>
+                <Shooting>25</Shooting>
+                <Passing>39</Passing>
+                <Offensive>32</Offensive>
+                <Defensive>68</Defensive>
+                <Stamina>76</Stamina>
+                <Club>CD Cobreloa</Club>
+                <DateOfBirth>11-03-1983</DateOfBirth>
+            </Player>
+            <Player id="4325">
+                <FirstName>Edwin</FirstName>
+                <LastName>Retamoso</LastName>
+                <Position>CDM</Position>
+                <Pace>52</Pace>
+                <Shooting>53</Shooting>
+                <Passing>58</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>89</Stamina>
+                <Club>CD Cobreloa</Club>
+                <DateOfBirth>23-02-1982</DateOfBirth>
+            </Player>
+            <Player id="4867">
+                <FirstName>José</FirstName>
+                <LastName>Pérez</LastName>
+                <Position>CM</Position>
+                <Pace>54</Pace>
+                <Shooting>61</Shooting>
+                <Passing>63</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>59</Defensive>
+                <Stamina>80</Stamina>
+                <Club>CD Cobreloa</Club>
+                <DateOfBirth>28-08-1985</DateOfBirth>
+            </Player>
+            <Player id="5127">
+                <FirstName>Rodrigo</FirstName>
+                <LastName>Gattás</LastName>
+                <Position>ST</Position>
+                <Pace>57</Pace>
+                <Shooting>67</Shooting>
+                <Passing>53</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>55</Stamina>
+                <Club>CD Cobreloa</Club>
+                <DateOfBirth>02-12-1991</DateOfBirth>
+            </Player>
+            <Player id="5129">
+                <FirstName>Patricio</FirstName>
+                <LastName>Troncoso</LastName>
+                <Position>CDM</Position>
+                <Pace>80</Pace>
+                <Shooting>50</Shooting>
+                <Passing>55</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>67</Stamina>
+                <Club>CD Cobreloa</Club>
+                <DateOfBirth>10-06-1992</DateOfBirth>
+            </Player>
+            <Player id="6701">
+                <FirstName>Miguel</FirstName>
+                <LastName>Sanhueza</LastName>
+                <Position>CB</Position>
+                <Pace>79</Pace>
+                <Shooting>28</Shooting>
+                <Passing>42</Passing>
+                <Offensive>35</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>72</Stamina>
+                <Club>CD Cobreloa</Club>
+                <DateOfBirth>30-08-1991</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="CD Huachipato">
+            <Player id="2056">
+                <FirstName>Martín</FirstName>
+                <LastName>Rodríguez</LastName>
+                <Position>CAM</Position>
+                <Pace>88</Pace>
+                <Shooting>55</Shooting>
+                <Passing>62</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>49</Defensive>
+                <Stamina>62</Stamina>
+                <Club>CD Huachipato</Club>
+                <DateOfBirth>05-08-1994</DateOfBirth>
+            </Player>
+            <Player id="3322">
+                <FirstName>Claudio</FirstName>
+                <LastName>Muñoz</LastName>
+                <Position>CB</Position>
+                <Pace>34</Pace>
+                <Shooting>32</Shooting>
+                <Passing>36</Passing>
+                <Offensive>34</Offensive>
+                <Defensive>69</Defensive>
+                <Stamina>73</Stamina>
+                <Club>CD Huachipato</Club>
+                <DateOfBirth>02-12-1984</DateOfBirth>
+            </Player>
+            <Player id="3606">
+                <FirstName>Lucas</FirstName>
+                <LastName>Simón</LastName>
+                <Position>ST</Position>
+                <Pace>57</Pace>
+                <Shooting>66</Shooting>
+                <Passing>43</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>31</Defensive>
+                <Stamina>67</Stamina>
+                <Club>CD Huachipato</Club>
+                <DateOfBirth>01-08-1986</DateOfBirth>
+            </Player>
+            <Player id="3867">
+                <FirstName>Francisco</FirstName>
+                <LastName>Arrué</LastName>
+                <Position>CAM</Position>
+                <Pace>55</Pace>
+                <Shooting>64</Shooting>
+                <Passing>67</Passing>
+                <Offensive>65</Offensive>
+                <Defensive>40</Defensive>
+                <Stamina>59</Stamina>
+                <Club>CD Huachipato</Club>
+                <DateOfBirth>07-08-1977</DateOfBirth>
+            </Player>
+            <Player id="4384">
+                <FirstName>Andrés</FirstName>
+                <LastName>Vilches</LastName>
+                <Position>ST</Position>
+                <Pace>61</Pace>
+                <Shooting>64</Shooting>
+                <Passing>42</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>51</Stamina>
+                <Club>CD Huachipato</Club>
+                <DateOfBirth>14-01-1992</DateOfBirth>
+            </Player>
+            <Player id="5844">
+                <FirstName>Leonardo</FirstName>
+                <LastName>Povea</LastName>
+                <Position>CM</Position>
+                <Pace>77</Pace>
+                <Shooting>46</Shooting>
+                <Passing>60</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>61</Defensive>
+                <Stamina>67</Stamina>
+                <Club>CD Huachipato</Club>
+                <DateOfBirth>26-01-1994</DateOfBirth>
+            </Player>
+            <Player id="6707">
+                <FirstName>Miguel</FirstName>
+                <LastName>Jiménez</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>26</Stamina>
+                <Club>CD Huachipato</Club>
+                <DateOfBirth>12-12-1980</DateOfBirth>
+            </Player>
+            <Player id="6708">
+                <FirstName>Angelo</FirstName>
+                <LastName>Sagal</LastName>
+                <Position>LB</Position>
+                <Pace>70</Pace>
+                <Shooting>40</Shooting>
+                <Passing>62</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>62</Stamina>
+                <Club>CD Huachipato</Club>
+                <DateOfBirth>18-04-1993</DateOfBirth>
+            </Player>
+            <Player id="10776">
+                <FirstName>Alvaro</FirstName>
+                <LastName>Sáenz-Laguna</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>32</Stamina>
+                <Club>CD Huachipato</Club>
+                <DateOfBirth>04-09-1991</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Deportivo San Marcos de Arica">
+            <Player id="3547">
+                <FirstName>Kevin</FirstName>
+                <LastName>Harbottle</LastName>
+                <Position>CAM</Position>
+                <Pace>81</Pace>
+                <Shooting>59</Shooting>
+                <Passing>59</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>26</Defensive>
+                <Stamina>60</Stamina>
+                <Club>Deportivo San Marcos de Arica</Club>
+                <DateOfBirth>08-06-1990</DateOfBirth>
+            </Player>
+            <Player id="3862">
+                <FirstName>Emilio</FirstName>
+                <LastName>Rentería</LastName>
+                <Position>ST</Position>
+                <Pace>76</Pace>
+                <Shooting>66</Shooting>
+                <Passing>54</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>32</Defensive>
+                <Stamina>67</Stamina>
+                <Club>Deportivo San Marcos de Arica</Club>
+                <DateOfBirth>09-10-1984</DateOfBirth>
+            </Player>
+            <Player id="4866">
+                <FirstName>Carlos</FirstName>
+                <LastName>Labrín</LastName>
+                <Position>CB</Position>
+                <Pace>65</Pace>
+                <Shooting>32</Shooting>
+                <Passing>38</Passing>
+                <Offensive>35</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>61</Stamina>
+                <Club>Deportivo San Marcos de Arica</Club>
+                <DateOfBirth>02-12-1990</DateOfBirth>
+            </Player>
+            <Player id="6705">
+                <FirstName>Jaime</FirstName>
+                <LastName>Grondona</LastName>
+                <Position>ST</Position>
+                <Pace>59</Pace>
+                <Shooting>64</Shooting>
+                <Passing>45</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Deportivo San Marcos de Arica</Club>
+                <DateOfBirth>15-04-1987</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Athletic Club Barnechea">
+            <Player id="5233">
+                <FirstName>Mikel</FirstName>
+                <LastName>Arguinarena</LastName>
+                <Position>CAM</Position>
+                <Pace>86</Pace>
+                <Shooting>50</Shooting>
+                <Passing>61</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>35</Defensive>
+                <Stamina>50</Stamina>
+                <Club>Athletic Club Barnechea</Club>
+                <DateOfBirth>27-06-1991</DateOfBirth>
+            </Player>
+            <Player id="6070">
+                <FirstName>Gonzalo</FirstName>
+                <LastName>De Porras</LastName>
+                <Position>ST</Position>
+                <Pace>59</Pace>
+                <Shooting>66</Shooting>
+                <Passing>58</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>40</Defensive>
+                <Stamina>66</Stamina>
+                <Club>Athletic Club Barnechea</Club>
+                <DateOfBirth>18-01-1984</DateOfBirth>
+            </Player>
+            <Player id="6330">
+                <FirstName>Jorge</FirstName>
+                <LastName>Manduca</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>25</Stamina>
+                <Club>Athletic Club Barnechea</Club>
+                <DateOfBirth>27-10-1979</DateOfBirth>
+            </Player>
+            <Player id="6966">
+                <FirstName>Gonzalo</FirstName>
+                <LastName>Lauler</LastName>
+                <Position>CB</Position>
+                <Pace>63</Pace>
+                <Shooting>25</Shooting>
+                <Passing>42</Passing>
+                <Offensive>33</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>79</Stamina>
+                <Club>Athletic Club Barnechea</Club>
+                <DateOfBirth>14-01-1989</DateOfBirth>
+            </Player>
+            <Player id="7174">
+                <FirstName>Cristóbal</FirstName>
+                <LastName>Vergara</LastName>
+                <Position>CB</Position>
+                <Pace>65</Pace>
+                <Shooting>33</Shooting>
+                <Passing>56</Passing>
+                <Offensive>44</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>66</Stamina>
+                <Club>Athletic Club Barnechea</Club>
+                <DateOfBirth>20-06-1994</DateOfBirth>
+            </Player>
+            <Player id="7860">
+                <FirstName>Bibencio</FirstName>
+                <LastName>Servín</LastName>
+                <Position>ST</Position>
+                <Pace>48</Pace>
+                <Shooting>66</Shooting>
+                <Passing>42</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>51</Stamina>
+                <Club>Athletic Club Barnechea</Club>
+                <DateOfBirth>02-11-1984</DateOfBirth>
+            </Player>
+            <Player id="7873">
+                <FirstName>Camilo</FirstName>
+                <LastName>Rencoret</LastName>
+                <Position>CDM</Position>
+                <Pace>55</Pace>
+                <Shooting>39</Shooting>
+                <Passing>55</Passing>
+                <Offensive>47</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>68</Stamina>
+                <Club>Athletic Club Barnechea</Club>
+                <DateOfBirth>04-01-1991</DateOfBirth>
+            </Player>
+            <Player id="8866">
+                <FirstName>Claudio</FirstName>
+                <LastName>Riveros</LastName>
+                <Position>CM</Position>
+                <Pace>74</Pace>
+                <Shooting>45</Shooting>
+                <Passing>56</Passing>
+                <Offensive>50</Offensive>
+                <Defensive>56</Defensive>
+                <Stamina>65</Stamina>
+                <Club>Athletic Club Barnechea</Club>
+                <DateOfBirth>28-07-1993</DateOfBirth>
+            </Player>
+            <Player id="9758">
+                <FirstName>Daniel</FirstName>
+                <LastName>Castillo</LastName>
+                <Position>CB</Position>
+                <Pace>68</Pace>
+                <Shooting>28</Shooting>
+                <Passing>48</Passing>
+                <Offensive>38</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>56</Stamina>
+                <Club>Athletic Club Barnechea</Club>
+                <DateOfBirth>24-10-1989</DateOfBirth>
+            </Player>
+            <Player id="10511">
+                <FirstName>Francisco</FirstName>
+                <LastName>Levipán</LastName>
+                <Position>CM</Position>
+                <Pace>62</Pace>
+                <Shooting>48</Shooting>
+                <Passing>53</Passing>
+                <Offensive>50</Offensive>
+                <Defensive>50</Defensive>
+                <Stamina>48</Stamina>
+                <Club>Athletic Club Barnechea</Club>
+                <DateOfBirth>11-06-1993</DateOfBirth>
+            </Player>
+            <Player id="11084">
+                <FirstName>Felipe</FirstName>
+                <LastName>Mansilla</LastName>
+                <Position>LB</Position>
+                <Pace>67</Pace>
+                <Shooting>28</Shooting>
+                <Passing>46</Passing>
+                <Offensive>37</Offensive>
+                <Defensive>53</Defensive>
+                <Stamina>58</Stamina>
+                <Club>Athletic Club Barnechea</Club>
+                <DateOfBirth>30-03-1994</DateOfBirth>
+            </Player>
+        </Team>
+    </League>
+</Players>

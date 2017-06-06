@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Players>
+    <League Name="Scotland League">
+        <Team Name="Rangers">
+            <Player id="222">
+                <FirstName>Kris</FirstName>
+                <LastName>Boyd</LastName>
+                <Position>ST</Position>
+                <Pace>52</Pace>
+                <Shooting>74</Shooting>
+                <Passing>57</Passing>
+                <Offensive>65</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>63</Stamina>
+                <Club>Rangers</Club>
+                <DateOfBirth>18-08-1983</DateOfBirth>
+            </Player>
+            <Player id="3284">
+                <FirstName>Marius</FirstName>
+                <LastName>Žaliukas</LastName>
+                <Position>CB</Position>
+                <Pace>68</Pace>
+                <Shooting>38</Shooting>
+                <Passing>45</Passing>
+                <Offensive>41</Offensive>
+                <Defensive>67</Defensive>
+                <Stamina>75</Stamina>
+                <Club>Rangers</Club>
+                <DateOfBirth>10-11-1983</DateOfBirth>
+            </Player>
+            <Player id="3856">
+                <FirstName>Kenny</FirstName>
+                <LastName>Miller</LastName>
+                <Position>ST</Position>
+                <Pace>72</Pace>
+                <Shooting>66</Shooting>
+                <Passing>57</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>83</Stamina>
+                <Club>Rangers</Club>
+                <DateOfBirth>23-12-1979</DateOfBirth>
+            </Player>
+            <Player id="4160">
+                <FirstName>Lee</FirstName>
+                <LastName>Wallace</LastName>
+                <Position>LB</Position>
+                <Pace>82</Pace>
+                <Shooting>38</Shooting>
+                <Passing>55</Passing>
+                <Offensive>46</Offensive>
+                <Defensive>61</Defensive>
+                <Stamina>90</Stamina>
+                <Club>Rangers</Club>
+                <DateOfBirth>01-08-1987</DateOfBirth>
+            </Player>
+            <Player id="6048">
+                <FirstName>Steve</FirstName>
+                <LastName>Simonsen</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>24</Stamina>
+                <Club>Rangers</Club>
+                <DateOfBirth>03-04-1979</DateOfBirth>
+            </Player>
+            <Player id="6117">
+                <FirstName>Cameron</FirstName>
+                <LastName>Bell</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>25</Stamina>
+                <Club>Rangers</Club>
+                <DateOfBirth>18-09-1986</DateOfBirth>
+            </Player>
+            <Player id="6345">
+                <FirstName>Lee</FirstName>
+                <LastName>McCulloch</LastName>
+                <Position>CB</Position>
+                <Pace>59</Pace>
+                <Shooting>63</Shooting>
+                <Passing>59</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>67</Stamina>
+                <Club>Rangers</Club>
+                <DateOfBirth>14-05-1978</DateOfBirth>
+            </Player>
+            <Player id="6743">
+                <FirstName>Nicky</FirstName>
+                <LastName>Law</LastName>
+                <Position>CM</Position>
+                <Pace>72</Pace>
+                <Shooting>54</Shooting>
+                <Passing>60</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>46</Defensive>
+                <Stamina>91</Stamina>
+                <Club>Rangers</Club>
+                <DateOfBirth>29-03-1988</DateOfBirth>
+            </Player>
+            <Player id="6899">
+                <FirstName>Jon</FirstName>
+                <LastName>Daly</LastName>
+                <Position>ST</Position>
+                <Pace>52</Pace>
+                <Shooting>63</Shooting>
+                <Passing>52</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>49</Defensive>
+                <Stamina>67</Stamina>
+                <Club>Rangers</Club>
+                <DateOfBirth>08-01-1983</DateOfBirth>
+            </Player>
+            <Player id="7078">
+                <FirstName>Bilel</FirstName>
+                <LastName>Mohsni</LastName>
+                <Position>CB</Position>
+                <Pace>65</Pace>
+                <Shooting>56</Shooting>
+                <Passing>49</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>65</Stamina>
+                <Club>Rangers</Club>
+                <DateOfBirth>21-07-1987</DateOfBirth>
+            </Player>
+            <Player id="7768">
+                <FirstName>Darren</FirstName>
+                <LastName>McGregor</LastName>
+                <Position>CB</Position>
+                <Pace>74</Pace>
+                <Shooting>36</Shooting>
+                <Passing>48</Passing>
+                <Offensive>42</Offensive>
+                <Defensive>59</Defensive>
+                <Stamina>65</Stamina>
+                <Club>Rangers</Club>
+                <DateOfBirth>07-08-1985</DateOfBirth>
+            </Player>
+            <Player id="7825">
+                <FirstName>Arnold</FirstName>
+                <LastName>Peralta</LastName>
+                <Position>CDM</Position>
+                <Pace>64</Pace>
+                <Shooting>47</Shooting>
+                <Passing>58</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>63</Stamina>
+                <Club>Rangers</Club>
+                <DateOfBirth>29-03-1989</DateOfBirth>
+            </Player>
+            <Player id="8126">
+                <FirstName>Ian</FirstName>
+                <LastName>Black</LastName>
+                <Position>CM</Position>
+                <Pace>68</Pace>
+                <Shooting>53</Shooting>
+                <Passing>59</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>56</Defensive>
+                <Stamina>68</Stamina>
+                <Club>Rangers</Club>
+                <DateOfBirth>14-03-1985</DateOfBirth>
+            </Player>
+            <Player id="8578">
+                <FirstName>Dean</FirstName>
+                <LastName>Shiels</LastName>
+                <Position>CAM</Position>
+                <Pace>72</Pace>
+                <Shooting>57</Shooting>
+                <Passing>55</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>40</Defensive>
+                <Stamina>69</Stamina>
+                <Club>Rangers</Club>
+                <DateOfBirth>01-02-1985</DateOfBirth>
+            </Player>
+            <Player id="8584">
+                <FirstName>Steven</FirstName>
+                <LastName>Smith</LastName>
+                <Position>LB</Position>
+                <Pace>62</Pace>
+                <Shooting>56</Shooting>
+                <Passing>62</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>62</Stamina>
+                <Club>Rangers</Club>
+                <DateOfBirth>30-08-1985</DateOfBirth>
+            </Player>
+            <Player id="8724">
+                <FirstName>Fraser</FirstName>
+                <LastName>Aird</LastName>
+                <Position>RM</Position>
+                <Pace>86</Pace>
+                <Shooting>48</Shooting>
+                <Passing>53</Passing>
+                <Offensive>50</Offensive>
+                <Defensive>24</Defensive>
+                <Stamina>65</Stamina>
+                <Club>Rangers</Club>
+                <DateOfBirth>02-02-1995</DateOfBirth>
+            </Player>
+            <Player id="10216">
+                <FirstName>Kyle</FirstName>
+                <LastName>Hutton</LastName>
+                <Position>CM</Position>
+                <Pace>69</Pace>
+                <Shooting>37</Shooting>
+                <Passing>56</Passing>
+                <Offensive>46</Offensive>
+                <Defensive>54</Defensive>
+                <Stamina>64</Stamina>
+                <Club>Rangers</Club>
+                <DateOfBirth>15-02-1991</DateOfBirth>
+            </Player>
+            <Player id="11186">
+                <FirstName>Sébastien</FirstName>
+                <LastName>Faure</LastName>
+                <Position>RB</Position>
+                <Pace>54</Pace>
+                <Shooting>34</Shooting>
+                <Passing>47</Passing>
+                <Offensive>40</Offensive>
+                <Defensive>52</Defensive>
+                <Stamina>50</Stamina>
+                <Club>Rangers</Club>
+                <DateOfBirth>03-01-1991</DateOfBirth>
+            </Player>
+            <Player id="11677">
+                <FirstName>Liam</FirstName>
+                <LastName>Kelly</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>32</Stamina>
+                <Club>Rangers</Club>
+                <DateOfBirth>23-01-1995</DateOfBirth>
+            </Player>
+        </Team>
+    </League>
+</Players>

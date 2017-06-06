@@ -1,0 +1,3559 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Players>
+    <League Name="Liga Adelante">
+        <Team Name="CD Tenerife">
+            <Player id="119">
+                <FirstName>Víctor Javier</FirstName>
+                <LastName>Añino Bermúdez</LastName>
+                <Position>CDM</Position>
+                <Pace>73</Pace>
+                <Shooting>61</Shooting>
+                <Passing>68</Passing>
+                <Offensive>64</Offensive>
+                <Defensive>74</Defensive>
+                <Stamina>81</Stamina>
+                <Club>CD Tenerife</Club>
+                <DateOfBirth>09-09-1983</DateOfBirth>
+            </Player>
+            <Player id="595">
+                <FirstName>Jacobo</FirstName>
+                <LastName>Sanz Ovejero</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>31</Stamina>
+                <Club>CD Tenerife</Club>
+                <DateOfBirth>10-07-1983</DateOfBirth>
+            </Player>
+            <Player id="1206">
+                <FirstName>Diego</FirstName>
+                <LastName>Ifrán</LastName>
+                <Position>ST</Position>
+                <Pace>71</Pace>
+                <Shooting>68</Shooting>
+                <Passing>60</Passing>
+                <Offensive>64</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>54</Stamina>
+                <Club>CD Tenerife</Club>
+                <DateOfBirth>08-06-1987</DateOfBirth>
+            </Player>
+            <Player id="2480">
+                <FirstName>Carlos</FirstName>
+                <LastName>Ruíz Aránega</LastName>
+                <Position>CB</Position>
+                <Pace>67</Pace>
+                <Shooting>56</Shooting>
+                <Passing>52</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>67</Defensive>
+                <Stamina>87</Stamina>
+                <Club>CD Tenerife</Club>
+                <DateOfBirth>20-07-1983</DateOfBirth>
+            </Player>
+            <Player id="2657">
+                <FirstName>Ulises</FirstName>
+                <LastName>Dávila</LastName>
+                <Position>CAM</Position>
+                <Pace>76</Pace>
+                <Shooting>66</Shooting>
+                <Passing>64</Passing>
+                <Offensive>65</Offensive>
+                <Defensive>31</Defensive>
+                <Stamina>62</Stamina>
+                <Club>CD Tenerife</Club>
+                <DateOfBirth>13-04-1991</DateOfBirth>
+            </Player>
+            <Player id="3808">
+                <FirstName>Raúl</FirstName>
+                <LastName>Miguel Cámara</LastName>
+                <Position>LB</Position>
+                <Pace>81</Pace>
+                <Shooting>49</Shooting>
+                <Passing>57</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>61</Defensive>
+                <Stamina>84</Stamina>
+                <Club>CD Tenerife</Club>
+                <DateOfBirth>28-02-1984</DateOfBirth>
+            </Player>
+            <Player id="4680">
+                <FirstName>Ricardo</FirstName>
+                <LastName>León Brito</LastName>
+                <Position>CM</Position>
+                <Pace>37</Pace>
+                <Shooting>57</Shooting>
+                <Passing>65</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>61</Stamina>
+                <Club>CD Tenerife</Club>
+                <DateOfBirth>08-02-1983</DateOfBirth>
+            </Player>
+            <Player id="4726">
+                <FirstName>Jesús Manuel</FirstName>
+                <LastName>Santana Abreu</LastName>
+                <Position>RM</Position>
+                <Pace>83</Pace>
+                <Shooting>52</Shooting>
+                <Passing>56</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>48</Defensive>
+                <Stamina>69</Stamina>
+                <Club>CD Tenerife</Club>
+                <DateOfBirth>02-03-1985</DateOfBirth>
+            </Player>
+            <Player id="4863">
+                <FirstName>Cristian</FirstName>
+                <LastName>García</LastName>
+                <Position>ST</Position>
+                <Pace>68</Pace>
+                <Shooting>60</Shooting>
+                <Passing>43</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>71</Stamina>
+                <Club>CD Tenerife</Club>
+                <DateOfBirth>29-04-1988</DateOfBirth>
+            </Player>
+            <Player id="5106">
+                <FirstName>Aridane Jesús</FirstName>
+                <LastName>Santana Cabrera</LastName>
+                <Position>ST</Position>
+                <Pace>45</Pace>
+                <Shooting>64</Shooting>
+                <Passing>41</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>31</Defensive>
+                <Stamina>62</Stamina>
+                <Club>CD Tenerife</Club>
+                <DateOfBirth>31-03-1987</DateOfBirth>
+            </Player>
+            <Player id="5232">
+                <FirstName>Javier</FirstName>
+                <LastName>Moyano Lujano</LastName>
+                <Position>RB</Position>
+                <Pace>82</Pace>
+                <Shooting>44</Shooting>
+                <Passing>55</Passing>
+                <Offensive>49</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>90</Stamina>
+                <Club>CD Tenerife</Club>
+                <DateOfBirth>23-02-1986</DateOfBirth>
+            </Player>
+            <Player id="7107">
+                <FirstName>Enrique</FirstName>
+                <LastName>Rivero Pérez</LastName>
+                <Position>CM</Position>
+                <Pace>64</Pace>
+                <Shooting>41</Shooting>
+                <Passing>62</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>48</Defensive>
+                <Stamina>57</Stamina>
+                <Club>CD Tenerife</Club>
+                <DateOfBirth>16-04-1992</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Real Valladolid Club de Fútbol">
+            <Player id="130">
+                <FirstName>Javier</FirstName>
+                <LastName>Chica Torres</LastName>
+                <Position>RB</Position>
+                <Pace>68</Pace>
+                <Shooting>52</Shooting>
+                <Passing>63</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>75</Defensive>
+                <Stamina>76</Stamina>
+                <Club>Real Valladolid Club de Fútbol</Club>
+                <DateOfBirth>17-05-1985</DateOfBirth>
+            </Player>
+            <Player id="148">
+                <FirstName>Alejandro</FirstName>
+                <LastName>Alfaro Ligero</LastName>
+                <Position>RM</Position>
+                <Pace>74</Pace>
+                <Shooting>67</Shooting>
+                <Passing>71</Passing>
+                <Offensive>69</Offensive>
+                <Defensive>34</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Real Valladolid Club de Fútbol</Club>
+                <DateOfBirth>23-11-1986</DateOfBirth>
+            </Player>
+            <Player id="1295">
+                <FirstName>Carlos</FirstName>
+                <LastName>González Peña</LastName>
+                <Position>LB</Position>
+                <Pace>74</Pace>
+                <Shooting>33</Shooting>
+                <Passing>63</Passing>
+                <Offensive>48</Offensive>
+                <Defensive>69</Defensive>
+                <Stamina>80</Stamina>
+                <Club>Real Valladolid Club de Fútbol</Club>
+                <DateOfBirth>28-07-1983</DateOfBirth>
+            </Player>
+            <Player id="1735">
+                <FirstName>David</FirstName>
+                <LastName>Timor Copoví</LastName>
+                <Position>CM</Position>
+                <Pace>53</Pace>
+                <Shooting>56</Shooting>
+                <Passing>69</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Real Valladolid Club de Fútbol</Club>
+                <DateOfBirth>17-10-1989</DateOfBirth>
+            </Player>
+            <Player id="2023">
+                <FirstName>Roger</FirstName>
+                <LastName>Martí Salvador</LastName>
+                <Position>ST</Position>
+                <Pace>78</Pace>
+                <Shooting>68</Shooting>
+                <Passing>50</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>27</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Real Valladolid Club de Fútbol</Club>
+                <DateOfBirth>03-01-1991</DateOfBirth>
+            </Player>
+            <Player id="2118">
+                <FirstName>Óscar</FirstName>
+                <LastName>Díaz González</LastName>
+                <Position>ST</Position>
+                <Pace>66</Pace>
+                <Shooting>67</Shooting>
+                <Passing>57</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>35</Defensive>
+                <Stamina>75</Stamina>
+                <Club>Real Valladolid Club de Fútbol</Club>
+                <DateOfBirth>24-04-1984</DateOfBirth>
+            </Player>
+            <Player id="3149">
+                <FirstName>Johan</FirstName>
+                <LastName>Mojica</LastName>
+                <Position>LB</Position>
+                <Pace>78</Pace>
+                <Shooting>53</Shooting>
+                <Passing>61</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>80</Stamina>
+                <Club>Real Valladolid Club de Fútbol</Club>
+                <DateOfBirth>21-08-1992</DateOfBirth>
+            </Player>
+            <Player id="5618">
+                <FirstName>Óscar Javier</FirstName>
+                <LastName>González Marcos</LastName>
+                <Position>CAM</Position>
+                <Pace>68</Pace>
+                <Shooting>77</Shooting>
+                <Passing>74</Passing>
+                <Offensive>75</Offensive>
+                <Defensive>41</Defensive>
+                <Stamina>61</Stamina>
+                <Club>Real Valladolid Club de Fútbol</Club>
+                <DateOfBirth>12-11-1982</DateOfBirth>
+            </Player>
+            <Player id="11736">
+                <FirstName>Javier</FirstName>
+                <LastName>Varas Herrera</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>43</Stamina>
+                <Club>Real Valladolid Club de Fútbol</Club>
+                <DateOfBirth>10-09-1982</DateOfBirth>
+            </Player>
+            <Player id="12082">
+                <FirstName>Marc</FirstName>
+                <LastName>Valiente Hernández</LastName>
+                <Position>CB</Position>
+                <Pace>58</Pace>
+                <Shooting>32</Shooting>
+                <Passing>60</Passing>
+                <Offensive>46</Offensive>
+                <Defensive>78</Defensive>
+                <Stamina>73</Stamina>
+                <Club>Real Valladolid Club de Fútbol</Club>
+                <DateOfBirth>29-03-1987</DateOfBirth>
+            </Player>
+            <Player id="12702">
+                <FirstName>André Filipe</FirstName>
+                <LastName>Ribeiro Leão</LastName>
+                <Position>CDM</Position>
+                <Pace>59</Pace>
+                <Shooting>56</Shooting>
+                <Passing>67</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>68</Defensive>
+                <Stamina>85</Stamina>
+                <Club>Real Valladolid Club de Fútbol</Club>
+                <DateOfBirth>20-05-1985</DateOfBirth>
+            </Player>
+            <Player id="12725">
+                <FirstName>Jeffrén Isaías</FirstName>
+                <LastName>Suárez Bermúdez</LastName>
+                <Position>RM</Position>
+                <Pace>78</Pace>
+                <Shooting>67</Shooting>
+                <Passing>70</Passing>
+                <Offensive>68</Offensive>
+                <Defensive>44</Defensive>
+                <Stamina>50</Stamina>
+                <Club>Real Valladolid Club de Fútbol</Club>
+                <DateOfBirth>20-01-1988</DateOfBirth>
+            </Player>
+            <Player id="12894">
+                <FirstName>Daniel</FirstName>
+                <LastName>Hernández Santos</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>38</Stamina>
+                <Club>Real Valladolid Club de Fútbol</Club>
+                <DateOfBirth>21-10-1985</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Unión Deportiva Las Palmas">
+            <Player id="147">
+                <FirstName>Nauzet</FirstName>
+                <LastName>Alemán Viera</LastName>
+                <Position>RM</Position>
+                <Pace>71</Pace>
+                <Shooting>70</Shooting>
+                <Passing>73</Passing>
+                <Offensive>71</Offensive>
+                <Defensive>44</Defensive>
+                <Stamina>84</Stamina>
+                <Club>Unión Deportiva Las Palmas</Club>
+                <DateOfBirth>25-02-1985</DateOfBirth>
+            </Player>
+            <Player id="724">
+                <FirstName>Sergio</FirstName>
+                <LastName>Araujo</LastName>
+                <Position>ST</Position>
+                <Pace>81</Pace>
+                <Shooting>73</Shooting>
+                <Passing>67</Passing>
+                <Offensive>70</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>82</Stamina>
+                <Club>Unión Deportiva Las Palmas</Club>
+                <DateOfBirth>28-01-1992</DateOfBirth>
+            </Player>
+            <Player id="774">
+                <FirstName>Emmanuel</FirstName>
+                <LastName>Culio</LastName>
+                <Position>CAM</Position>
+                <Pace>68</Pace>
+                <Shooting>67</Shooting>
+                <Passing>70</Passing>
+                <Offensive>68</Offensive>
+                <Defensive>51</Defensive>
+                <Stamina>79</Stamina>
+                <Club>Unión Deportiva Las Palmas</Club>
+                <DateOfBirth>30-08-1983</DateOfBirth>
+            </Player>
+            <Player id="1280">
+                <FirstName>Ángel Domingo</FirstName>
+                <LastName>López Ruano</LastName>
+                <Position>RB</Position>
+                <Pace>71</Pace>
+                <Shooting>54</Shooting>
+                <Passing>68</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>69</Defensive>
+                <Stamina>68</Stamina>
+                <Club>Unión Deportiva Las Palmas</Club>
+                <DateOfBirth>10-03-1981</DateOfBirth>
+            </Player>
+            <Player id="1603">
+                <FirstName>Jerónimo</FirstName>
+                <LastName>Figueroa Cabrera</LastName>
+                <Position>RM</Position>
+                <Pace>71</Pace>
+                <Shooting>63</Shooting>
+                <Passing>69</Passing>
+                <Offensive>66</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>61</Stamina>
+                <Club>Unión Deportiva Las Palmas</Club>
+                <DateOfBirth>15-07-1982</DateOfBirth>
+            </Player>
+            <Player id="2788">
+                <FirstName>Cristian</FirstName>
+                <LastName>Fernández Salas</LastName>
+                <Position>LB</Position>
+                <Pace>67</Pace>
+                <Shooting>58</Shooting>
+                <Passing>59</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>79</Stamina>
+                <Club>Unión Deportiva Las Palmas</Club>
+                <DateOfBirth>15-10-1985</DateOfBirth>
+            </Player>
+            <Player id="3071">
+                <FirstName>Daniel</FirstName>
+                <LastName>Castellano Betancor</LastName>
+                <Position>LB</Position>
+                <Pace>83</Pace>
+                <Shooting>50</Shooting>
+                <Passing>61</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>81</Stamina>
+                <Club>Unión Deportiva Las Palmas</Club>
+                <DateOfBirth>02-11-1987</DateOfBirth>
+            </Player>
+            <Player id="3975">
+                <FirstName>Javier</FirstName>
+                <LastName>Castellano Betancor</LastName>
+                <Position>CDM</Position>
+                <Pace>56</Pace>
+                <Shooting>39</Shooting>
+                <Passing>59</Passing>
+                <Offensive>49</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>89</Stamina>
+                <Club>Unión Deportiva Las Palmas</Club>
+                <DateOfBirth>02-11-1987</DateOfBirth>
+            </Player>
+            <Player id="4006">
+                <FirstName>José Vicente</FirstName>
+                <LastName>Gómez Umpiérrez</LastName>
+                <Position>CDM</Position>
+                <Pace>54</Pace>
+                <Shooting>49</Shooting>
+                <Passing>64</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>66</Stamina>
+                <Club>Unión Deportiva Las Palmas</Club>
+                <DateOfBirth>31-08-1988</DateOfBirth>
+            </Player>
+            <Player id="4259">
+                <FirstName>Raúl</FirstName>
+                <LastName>Lizoain Cruz</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>41</Stamina>
+                <Club>Unión Deportiva Las Palmas</Club>
+                <DateOfBirth>27-01-1991</DateOfBirth>
+            </Player>
+            <Player id="4679">
+                <FirstName>David</FirstName>
+                <LastName>García Santana</LastName>
+                <Position>CB</Position>
+                <Pace>60</Pace>
+                <Shooting>41</Shooting>
+                <Passing>50</Passing>
+                <Offensive>45</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>68</Stamina>
+                <Club>Unión Deportiva Las Palmas</Club>
+                <DateOfBirth>25-02-1982</DateOfBirth>
+            </Player>
+            <Player id="5766">
+                <FirstName>Benjamín</FirstName>
+                <LastName>Martínez Martínez</LastName>
+                <Position>ST</Position>
+                <Pace>57</Pace>
+                <Shooting>66</Shooting>
+                <Passing>47</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>32</Defensive>
+                <Stamina>54</Stamina>
+                <Club>Unión Deportiva Las Palmas</Club>
+                <DateOfBirth>23-08-1987</DateOfBirth>
+            </Player>
+            <Player id="6489">
+                <FirstName>Guzmán</FirstName>
+                <LastName>Casaseca Lozano</LastName>
+                <Position>RM</Position>
+                <Pace>72</Pace>
+                <Shooting>56</Shooting>
+                <Passing>60</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>34</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Unión Deportiva Las Palmas</Club>
+                <DateOfBirth>26-12-1984</DateOfBirth>
+            </Player>
+            <Player id="10090">
+                <FirstName>Alejandro</FirstName>
+                <LastName>Martín Mendez</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>32</Stamina>
+                <Club>Unión Deportiva Las Palmas</Club>
+                <DateOfBirth>01-04-1990</DateOfBirth>
+            </Player>
+            <Player id="12416">
+                <FirstName>Juan Carlos</FirstName>
+                <LastName>Valerón Santana</LastName>
+                <Position>CAM</Position>
+                <Pace>38</Pace>
+                <Shooting>58</Shooting>
+                <Passing>80</Passing>
+                <Offensive>69</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>33</Stamina>
+                <Club>Unión Deportiva Las Palmas</Club>
+                <DateOfBirth>17-06-1975</DateOfBirth>
+            </Player>
+            <Player id="12816">
+                <FirstName>Casto</FirstName>
+                <LastName>Espinosa Barriga</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>44</Stamina>
+                <Club>Unión Deportiva Las Palmas</Club>
+                <DateOfBirth>18-06-1982</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Real Betis Balompié">
+            <Player id="178">
+                <FirstName>Jordi</FirstName>
+                <LastName>Figueras Montel</LastName>
+                <Position>CB</Position>
+                <Pace>47</Pace>
+                <Shooting>31</Shooting>
+                <Passing>54</Passing>
+                <Offensive>42</Offensive>
+                <Defensive>74</Defensive>
+                <Stamina>74</Stamina>
+                <Club>Real Betis Balompié</Club>
+                <DateOfBirth>16-05-1987</DateOfBirth>
+            </Player>
+            <Player id="438">
+                <FirstName>Antonio</FirstName>
+                <LastName>Adán Garrido</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>31</Stamina>
+                <Club>Real Betis Balompié</Club>
+                <DateOfBirth>13-05-1987</DateOfBirth>
+            </Player>
+            <Player id="643">
+                <FirstName>Vincenzo</FirstName>
+                <LastName>Rennella</LastName>
+                <Position>ST</Position>
+                <Pace>67</Pace>
+                <Shooting>73</Shooting>
+                <Passing>53</Passing>
+                <Offensive>63</Offensive>
+                <Defensive>33</Defensive>
+                <Stamina>59</Stamina>
+                <Club>Real Betis Balompié</Club>
+                <DateOfBirth>08-10-1988</DateOfBirth>
+            </Player>
+            <Player id="812">
+                <FirstName>Daniel</FirstName>
+                <LastName>Pacheco Lobato</LastName>
+                <Position>LM</Position>
+                <Pace>76</Pace>
+                <Shooting>69</Shooting>
+                <Passing>69</Passing>
+                <Offensive>69</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>67</Stamina>
+                <Club>Real Betis Balompié</Club>
+                <DateOfBirth>05-01-1991</DateOfBirth>
+            </Player>
+            <Player id="1328">
+                <FirstName>Javier</FirstName>
+                <LastName>Magro Matilla</LastName>
+                <Position>CDM</Position>
+                <Pace>67</Pace>
+                <Shooting>61</Shooting>
+                <Passing>72</Passing>
+                <Offensive>66</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>61</Stamina>
+                <Club>Real Betis Balompié</Club>
+                <DateOfBirth>01-01-1988</DateOfBirth>
+            </Player>
+            <Player id="1577">
+                <FirstName>Álvaro</FirstName>
+                <LastName>Vadillo Cifuentes</LastName>
+                <Position>RM</Position>
+                <Pace>88</Pace>
+                <Shooting>59</Shooting>
+                <Passing>60</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Real Betis Balompié</Club>
+                <DateOfBirth>12-09-1994</DateOfBirth>
+            </Player>
+            <Player id="1795">
+                <FirstName>Manuel Jesús</FirstName>
+                <LastName>Vázquez Florido</LastName>
+                <Position>ST</Position>
+                <Pace>77</Pace>
+                <Shooting>67</Shooting>
+                <Passing>59</Passing>
+                <Offensive>63</Offensive>
+                <Defensive>26</Defensive>
+                <Stamina>75</Stamina>
+                <Club>Real Betis Balompié</Club>
+                <DateOfBirth>25-01-1991</DateOfBirth>
+            </Player>
+            <Player id="2591">
+                <FirstName>Sergio</FirstName>
+                <LastName>Rodríguez Hurtado</LastName>
+                <Position>CAM</Position>
+                <Pace>81</Pace>
+                <Shooting>59</Shooting>
+                <Passing>65</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>27</Defensive>
+                <Stamina>76</Stamina>
+                <Club>Real Betis Balompié</Club>
+                <DateOfBirth>07-09-1992</DateOfBirth>
+            </Player>
+            <Player id="4019">
+                <FirstName>Rubén</FirstName>
+                <LastName>Castro Martín</LastName>
+                <Position>ST</Position>
+                <Pace>83</Pace>
+                <Shooting>78</Shooting>
+                <Passing>62</Passing>
+                <Offensive>70</Offensive>
+                <Defensive>31</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Real Betis Balompié</Club>
+                <DateOfBirth>27-06-1981</DateOfBirth>
+            </Player>
+            <Player id="4261">
+                <FirstName>Jorge</FirstName>
+                <LastName>Casado Rodríguez</LastName>
+                <Position>LB</Position>
+                <Pace>74</Pace>
+                <Shooting>37</Shooting>
+                <Passing>53</Passing>
+                <Offensive>45</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>91</Stamina>
+                <Club>Real Betis Balompié</Club>
+                <DateOfBirth>26-06-1989</DateOfBirth>
+            </Player>
+            <Player id="7750">
+                <FirstName>Xavier</FirstName>
+                <LastName>Torres Buigues</LastName>
+                <Position>CDM</Position>
+                <Pace>54</Pace>
+                <Shooting>58</Shooting>
+                <Passing>75</Passing>
+                <Offensive>66</Offensive>
+                <Defensive>69</Defensive>
+                <Stamina>83</Stamina>
+                <Club>Real Betis Balompié</Club>
+                <DateOfBirth>21-11-1986</DateOfBirth>
+            </Player>
+            <Player id="11709">
+                <FirstName>Damien</FirstName>
+                <LastName>Perquis</LastName>
+                <Position>CB</Position>
+                <Pace>55</Pace>
+                <Shooting>39</Shooting>
+                <Passing>54</Passing>
+                <Offensive>46</Offensive>
+                <Defensive>75</Defensive>
+                <Stamina>74</Stamina>
+                <Club>Real Betis Balompié</Club>
+                <DateOfBirth>10-04-1984</DateOfBirth>
+            </Player>
+            <Player id="11954">
+                <FirstName>Jorge</FirstName>
+                <LastName>Molina Vidal</LastName>
+                <Position>ST</Position>
+                <Pace>50</Pace>
+                <Shooting>77</Shooting>
+                <Passing>56</Passing>
+                <Offensive>66</Offensive>
+                <Defensive>37</Defensive>
+                <Stamina>62</Stamina>
+                <Club>Real Betis Balompié</Club>
+                <DateOfBirth>22-04-1982</DateOfBirth>
+            </Player>
+            <Player id="12348">
+                <FirstName>Foued</FirstName>
+                <LastName>Kadir</LastName>
+                <Position>CAM</Position>
+                <Pace>76</Pace>
+                <Shooting>69</Shooting>
+                <Passing>71</Passing>
+                <Offensive>70</Offensive>
+                <Defensive>39</Defensive>
+                <Stamina>67</Stamina>
+                <Club>Real Betis Balompié</Club>
+                <DateOfBirth>05-12-1983</DateOfBirth>
+            </Player>
+            <Player id="12436">
+                <FirstName>Alvaro</FirstName>
+                <LastName>Cejudo Carmona</LastName>
+                <Position>RM</Position>
+                <Pace>80</Pace>
+                <Shooting>68</Shooting>
+                <Passing>66</Passing>
+                <Offensive>67</Offensive>
+                <Defensive>36</Defensive>
+                <Stamina>82</Stamina>
+                <Club>Real Betis Balompié</Club>
+                <DateOfBirth>29-01-1984</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Deportivo Alavés">
+            <Player id="237">
+                <FirstName>Julián</FirstName>
+                <LastName>Cerdá Vicente</LastName>
+                <Position>LM</Position>
+                <Pace>72</Pace>
+                <Shooting>63</Shooting>
+                <Passing>70</Passing>
+                <Offensive>66</Offensive>
+                <Defensive>31</Defensive>
+                <Stamina>63</Stamina>
+                <Club>Deportivo Alavés</Club>
+                <DateOfBirth>09-08-1981</DateOfBirth>
+            </Player>
+            <Player id="1306">
+                <FirstName>Sergio</FirstName>
+                <LastName>Tejera Rodríguez</LastName>
+                <Position>CAM</Position>
+                <Pace>67</Pace>
+                <Shooting>63</Shooting>
+                <Passing>70</Passing>
+                <Offensive>66</Offensive>
+                <Defensive>54</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Deportivo Alavés</Club>
+                <DateOfBirth>28-05-1990</DateOfBirth>
+            </Player>
+            <Player id="2184">
+                <FirstName>Miguel Angel</FirstName>
+                <LastName>González González</LastName>
+                <Position>CB</Position>
+                <Pace>58</Pace>
+                <Shooting>46</Shooting>
+                <Passing>39</Passing>
+                <Offensive>42</Offensive>
+                <Defensive>68</Defensive>
+                <Stamina>91</Stamina>
+                <Club>Deportivo Alavés</Club>
+                <DateOfBirth>14-04-1980</DateOfBirth>
+            </Player>
+            <Player id="2565">
+                <FirstName>Víctor</FirstName>
+                <LastName>Laguardia Cisneros</LastName>
+                <Position>CB</Position>
+                <Pace>65</Pace>
+                <Shooting>39</Shooting>
+                <Passing>44</Passing>
+                <Offensive>41</Offensive>
+                <Defensive>68</Defensive>
+                <Stamina>76</Stamina>
+                <Club>Deportivo Alavés</Club>
+                <DateOfBirth>05-11-1989</DateOfBirth>
+            </Player>
+            <Player id="2792">
+                <FirstName>Manuel</FirstName>
+                <LastName>Fernandez Muñiz</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>44</Stamina>
+                <Club>Deportivo Alavés</Club>
+                <DateOfBirth>09-05-1986</DateOfBirth>
+            </Player>
+            <Player id="3245">
+                <FirstName>Xabier</FirstName>
+                <LastName>Castillo Aranburu</LastName>
+                <Position>LB</Position>
+                <Pace>69</Pace>
+                <Shooting>48</Shooting>
+                <Passing>54</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>68</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Deportivo Alavés</Club>
+                <DateOfBirth>29-03-1986</DateOfBirth>
+            </Player>
+            <Player id="3797">
+                <FirstName>Iñaki</FirstName>
+                <LastName>Goitia Peña</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>43</Stamina>
+                <Club>Deportivo Alavés</Club>
+                <DateOfBirth>02-03-1982</DateOfBirth>
+            </Player>
+            <Player id="4763">
+                <FirstName>Ranko</FirstName>
+                <LastName>Despotović</LastName>
+                <Position>ST</Position>
+                <Pace>68</Pace>
+                <Shooting>63</Shooting>
+                <Passing>47</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>32</Defensive>
+                <Stamina>58</Stamina>
+                <Club>Deportivo Alavés</Club>
+                <DateOfBirth>21-01-1983</DateOfBirth>
+            </Player>
+            <Player id="4784">
+                <FirstName>Jagoba</FirstName>
+                <LastName>Beobide Larrañaga</LastName>
+                <Position>CDM</Position>
+                <Pace>71</Pace>
+                <Shooting>49</Shooting>
+                <Passing>59</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>85</Stamina>
+                <Club>Deportivo Alavés</Club>
+                <DateOfBirth>19-02-1987</DateOfBirth>
+            </Player>
+            <Player id="5447">
+                <FirstName>Ernesto</FirstName>
+                <LastName>Galán Iñigo</LastName>
+                <Position>CB</Position>
+                <Pace>65</Pace>
+                <Shooting>31</Shooting>
+                <Passing>48</Passing>
+                <Offensive>39</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>77</Stamina>
+                <Club>Deportivo Alavés</Club>
+                <DateOfBirth>17-06-1986</DateOfBirth>
+            </Player>
+            <Player id="5732">
+                <FirstName>Daniel</FirstName>
+                <LastName>Toribio Gutiérrez</LastName>
+                <Position>CDM</Position>
+                <Pace>64</Pace>
+                <Shooting>46</Shooting>
+                <Passing>60</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>61</Defensive>
+                <Stamina>83</Stamina>
+                <Club>Deportivo Alavés</Club>
+                <DateOfBirth>05-10-1988</DateOfBirth>
+            </Player>
+            <Player id="5938">
+                <FirstName>Raúl</FirstName>
+                <LastName>García Carnero</LastName>
+                <Position>LB</Position>
+                <Pace>76</Pace>
+                <Shooting>44</Shooting>
+                <Passing>54</Passing>
+                <Offensive>49</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>80</Stamina>
+                <Club>Deportivo Alavés</Club>
+                <DateOfBirth>30-11-1989</DateOfBirth>
+            </Player>
+            <Player id="6083">
+                <FirstName>Ion</FirstName>
+                <LastName>Vélez Martínez</LastName>
+                <Position>ST</Position>
+                <Pace>67</Pace>
+                <Shooting>57</Shooting>
+                <Passing>52</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>32</Defensive>
+                <Stamina>49</Stamina>
+                <Club>Deportivo Alavés</Club>
+                <DateOfBirth>17-02-1985</DateOfBirth>
+            </Player>
+            <Player id="7946">
+                <FirstName>Unai</FirstName>
+                <LastName>Medina Pérez</LastName>
+                <Position>RB</Position>
+                <Pace>76</Pace>
+                <Shooting>26</Shooting>
+                <Passing>49</Passing>
+                <Offensive>37</Offensive>
+                <Defensive>57</Defensive>
+                <Stamina>78</Stamina>
+                <Club>Deportivo Alavés</Club>
+                <DateOfBirth>16-02-1990</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Real Zaragoza">
+            <Player id="393">
+                <FirstName>Rubén</FirstName>
+                <LastName>González Rocha</LastName>
+                <Position>CB</Position>
+                <Pace>53</Pace>
+                <Shooting>36</Shooting>
+                <Passing>54</Passing>
+                <Offensive>45</Offensive>
+                <Defensive>72</Defensive>
+                <Stamina>51</Stamina>
+                <Club>Real Zaragoza</Club>
+                <DateOfBirth>29-01-1982</DateOfBirth>
+            </Player>
+            <Player id="1294">
+                <FirstName>Albert</FirstName>
+                <LastName>Dorca Maso</LastName>
+                <Position>CDM</Position>
+                <Pace>52</Pace>
+                <Shooting>59</Shooting>
+                <Passing>65</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>83</Stamina>
+                <Club>Real Zaragoza</Club>
+                <DateOfBirth>23-12-1982</DateOfBirth>
+            </Player>
+            <Player id="1336">
+                <FirstName>Borja</FirstName>
+                <LastName>González Tomás</LastName>
+                <Position>ST</Position>
+                <Pace>65</Pace>
+                <Shooting>68</Shooting>
+                <Passing>44</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>60</Stamina>
+                <Club>Real Zaragoza</Club>
+                <DateOfBirth>25-08-1992</DateOfBirth>
+            </Player>
+            <Player id="2583">
+                <FirstName>José Manuel</FirstName>
+                <LastName>Fernández Reyes</LastName>
+                <Position>RB</Position>
+                <Pace>86</Pace>
+                <Shooting>41</Shooting>
+                <Passing>52</Passing>
+                <Offensive>46</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>90</Stamina>
+                <Club>Real Zaragoza</Club>
+                <DateOfBirth>20-11-1989</DateOfBirth>
+            </Player>
+            <Player id="3005">
+                <FirstName>Javier</FirstName>
+                <LastName>Álamo Cruz</LastName>
+                <Position>RW</Position>
+                <Pace>77</Pace>
+                <Shooting>62</Shooting>
+                <Passing>64</Passing>
+                <Offensive>63</Offensive>
+                <Defensive>38</Defensive>
+                <Stamina>62</Stamina>
+                <Club>Real Zaragoza</Club>
+                <DateOfBirth>18-08-1988</DateOfBirth>
+            </Player>
+            <Player id="3120">
+                <FirstName>Iñigo</FirstName>
+                <LastName>Ruíz de Galarreta</LastName>
+                <Position>CAM</Position>
+                <Pace>63</Pace>
+                <Shooting>46</Shooting>
+                <Passing>68</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>45</Defensive>
+                <Stamina>66</Stamina>
+                <Club>Real Zaragoza</Club>
+                <DateOfBirth>06-08-1993</DateOfBirth>
+            </Player>
+            <Player id="3340">
+                <FirstName>Yassine</FirstName>
+                <LastName>Bounou</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>43</Stamina>
+                <Club>Real Zaragoza</Club>
+                <DateOfBirth>05-04-1991</DateOfBirth>
+            </Player>
+            <Player id="5922">
+                <FirstName>Vullnet</FirstName>
+                <LastName>Basha</LastName>
+                <Position>CDM</Position>
+                <Pace>68</Pace>
+                <Shooting>53</Shooting>
+                <Passing>63</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>63</Stamina>
+                <Club>Real Zaragoza</Club>
+                <DateOfBirth>11-07-1990</DateOfBirth>
+            </Player>
+            <Player id="6196">
+                <FirstName>Eldin</FirstName>
+                <LastName>Hadžić</LastName>
+                <Position>LM</Position>
+                <Pace>78</Pace>
+                <Shooting>62</Shooting>
+                <Passing>54</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>62</Stamina>
+                <Club>Real Zaragoza</Club>
+                <DateOfBirth>02-11-1992</DateOfBirth>
+            </Player>
+            <Player id="9874">
+                <FirstName>Pedro Mario</FirstName>
+                <LastName>Álvarez Abrante</LastName>
+                <Position>CB</Position>
+                <Pace>67</Pace>
+                <Shooting>42</Shooting>
+                <Passing>53</Passing>
+                <Offensive>47</Offensive>
+                <Defensive>76</Defensive>
+                <Stamina>69</Stamina>
+                <Club>Real Zaragoza</Club>
+                <DateOfBirth>02-02-1982</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Real Club Deportivo Mallorca">
+            <Player id="485">
+                <FirstName>Javier</FirstName>
+                <LastName>Ros Añón</LastName>
+                <Position>CM</Position>
+                <Pace>72</Pace>
+                <Shooting>64</Shooting>
+                <Passing>68</Passing>
+                <Offensive>66</Offensive>
+                <Defensive>61</Defensive>
+                <Stamina>81</Stamina>
+                <Club>Real Club Deportivo Mallorca</Club>
+                <DateOfBirth>16-02-1990</DateOfBirth>
+            </Player>
+            <Player id="1160">
+                <FirstName>Manuel</FirstName>
+                <LastName>Arana Rodríguez</LastName>
+                <Position>RW</Position>
+                <Pace>70</Pace>
+                <Shooting>73</Shooting>
+                <Passing>72</Passing>
+                <Offensive>72</Offensive>
+                <Defensive>34</Defensive>
+                <Stamina>61</Stamina>
+                <Club>Real Club Deportivo Mallorca</Club>
+                <DateOfBirth>03-12-1984</DateOfBirth>
+            </Player>
+            <Player id="1714">
+                <FirstName>Rubén</FirstName>
+                <LastName>Miño Peralta</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>44</Stamina>
+                <Club>Real Club Deportivo Mallorca</Club>
+                <DateOfBirth>18-01-1989</DateOfBirth>
+            </Player>
+            <Player id="2875">
+                <FirstName>Pedro</FirstName>
+                <LastName>Bigas Rigo</LastName>
+                <Position>CB</Position>
+                <Pace>76</Pace>
+                <Shooting>50</Shooting>
+                <Passing>53</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>70</Defensive>
+                <Stamina>80</Stamina>
+                <Club>Real Club Deportivo Mallorca</Club>
+                <DateOfBirth>15-09-1990</DateOfBirth>
+            </Player>
+            <Player id="3351">
+                <FirstName>Josep Lluis</FirstName>
+                <LastName>Martí Soler</LastName>
+                <Position>CDM</Position>
+                <Pace>36</Pace>
+                <Shooting>59</Shooting>
+                <Passing>72</Passing>
+                <Offensive>65</Offensive>
+                <Defensive>61</Defensive>
+                <Stamina>34</Stamina>
+                <Club>Real Club Deportivo Mallorca</Club>
+                <DateOfBirth>28-04-1975</DateOfBirth>
+            </Player>
+            <Player id="4304">
+                <FirstName>Enric</FirstName>
+                <LastName>Saborit Teixidor</LastName>
+                <Position>LB</Position>
+                <Pace>76</Pace>
+                <Shooting>43</Shooting>
+                <Passing>61</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>79</Stamina>
+                <Club>Real Club Deportivo Mallorca</Club>
+                <DateOfBirth>27-04-1992</DateOfBirth>
+            </Player>
+            <Player id="4678">
+                <FirstName>Jesús</FirstName>
+                <LastName>Cabrero Mora</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>32</Stamina>
+                <Club>Real Club Deportivo Mallorca</Club>
+                <DateOfBirth>28-07-1981</DateOfBirth>
+            </Player>
+            <Player id="5279">
+                <FirstName>Cristian</FirstName>
+                <LastName>Bustos Costa</LastName>
+                <Position>CM</Position>
+                <Pace>67</Pace>
+                <Shooting>62</Shooting>
+                <Passing>65</Passing>
+                <Offensive>63</Offensive>
+                <Defensive>56</Defensive>
+                <Stamina>76</Stamina>
+                <Club>Real Club Deportivo Mallorca</Club>
+                <DateOfBirth>29-05-1983</DateOfBirth>
+            </Player>
+            <Player id="5933">
+                <FirstName>Adolfo</FirstName>
+                <LastName>Enríquez García</LastName>
+                <Position>ST</Position>
+                <Pace>72</Pace>
+                <Shooting>58</Shooting>
+                <Passing>48</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>56</Stamina>
+                <Club>Real Club Deportivo Mallorca</Club>
+                <DateOfBirth>02-03-1990</DateOfBirth>
+            </Player>
+            <Player id="7065">
+                <FirstName>Joan Guillem</FirstName>
+                <LastName>Truyols Mascaró</LastName>
+                <Position>CB</Position>
+                <Pace>72</Pace>
+                <Shooting>31</Shooting>
+                <Passing>42</Passing>
+                <Offensive>36</Offensive>
+                <Defensive>59</Defensive>
+                <Stamina>75</Stamina>
+                <Club>Real Club Deportivo Mallorca</Club>
+                <DateOfBirth>11-11-1989</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Real Sporting de Gijón">
+            <Player id="501">
+                <FirstName>Ignacio</FirstName>
+                <LastName>Cases Mora</LastName>
+                <Position>CM</Position>
+                <Pace>66</Pace>
+                <Shooting>63</Shooting>
+                <Passing>74</Passing>
+                <Offensive>68</Offensive>
+                <Defensive>51</Defensive>
+                <Stamina>78</Stamina>
+                <Club>Real Sporting de Gijón</Club>
+                <DateOfBirth>22-12-1987</DateOfBirth>
+            </Player>
+            <Player id="1605">
+                <FirstName>Iván</FirstName>
+                <LastName>Cuéllar Sacristán</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>44</Stamina>
+                <Club>Real Sporting de Gijón</Club>
+                <DateOfBirth>27-05-1984</DateOfBirth>
+            </Player>
+            <Player id="1989">
+                <FirstName>Ismael</FirstName>
+                <LastName>López Blanco</LastName>
+                <Position>LM</Position>
+                <Pace>79</Pace>
+                <Shooting>61</Shooting>
+                <Passing>63</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Real Sporting de Gijón</Club>
+                <DateOfBirth>29-01-1990</DateOfBirth>
+            </Player>
+            <Player id="2441">
+                <FirstName>Bernardo</FirstName>
+                <LastName>Espinosa Zuñiga</LastName>
+                <Position>CB</Position>
+                <Pace>47</Pace>
+                <Shooting>25</Shooting>
+                <Passing>35</Passing>
+                <Offensive>30</Offensive>
+                <Defensive>68</Defensive>
+                <Stamina>59</Stamina>
+                <Club>Real Sporting de Gijón</Club>
+                <DateOfBirth>11-07-1989</DateOfBirth>
+            </Player>
+            <Player id="3466">
+                <FirstName>Juan</FirstName>
+                <LastName>Muñiz Gallego</LastName>
+                <Position>CAM</Position>
+                <Pace>67</Pace>
+                <Shooting>62</Shooting>
+                <Passing>69</Passing>
+                <Offensive>65</Offensive>
+                <Defensive>25</Defensive>
+                <Stamina>56</Stamina>
+                <Club>Real Sporting de Gijón</Club>
+                <DateOfBirth>14-03-1992</DateOfBirth>
+            </Player>
+            <Player id="3555">
+                <FirstName>Luis</FirstName>
+                <LastName>Hernández Rodríguez</LastName>
+                <Position>RB</Position>
+                <Pace>76</Pace>
+                <Shooting>45</Shooting>
+                <Passing>62</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>77</Stamina>
+                <Club>Real Sporting de Gijón</Club>
+                <DateOfBirth>14-08-1989</DateOfBirth>
+            </Player>
+            <Player id="3678">
+                <FirstName>Armando</FirstName>
+                <LastName>Sosa Peña</LastName>
+                <Position>CB</Position>
+                <Pace>66</Pace>
+                <Shooting>53</Shooting>
+                <Passing>50</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>67</Defensive>
+                <Stamina>79</Stamina>
+                <Club>Real Sporting de Gijón</Club>
+                <DateOfBirth>01-03-1989</DateOfBirth>
+            </Player>
+            <Player id="5936">
+                <FirstName>Miguel Ángel</FirstName>
+                <LastName>Guerrero Martín</LastName>
+                <Position>ST</Position>
+                <Pace>72</Pace>
+                <Shooting>61</Shooting>
+                <Passing>49</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>27</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Real Sporting de Gijón</Club>
+                <DateOfBirth>12-07-1990</DateOfBirth>
+            </Player>
+            <Player id="6246">
+                <FirstName>Alejandro</FirstName>
+                <LastName>Barrera García</LastName>
+                <Position>CAM</Position>
+                <Pace>58</Pace>
+                <Shooting>58</Shooting>
+                <Passing>59</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>46</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Real Sporting de Gijón</Club>
+                <DateOfBirth>12-05-1991</DateOfBirth>
+            </Player>
+            <Player id="6805">
+                <FirstName>Sergio</FirstName>
+                <LastName>Álvarez Díaz</LastName>
+                <Position>CM</Position>
+                <Pace>67</Pace>
+                <Shooting>49</Shooting>
+                <Passing>63</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>46</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Real Sporting de Gijón</Club>
+                <DateOfBirth>23-01-1992</DateOfBirth>
+            </Player>
+            <Player id="7262">
+                <FirstName>Adama</FirstName>
+                <LastName>Touré</LastName>
+                <Position>CAM</Position>
+                <Pace>73</Pace>
+                <Shooting>54</Shooting>
+                <Passing>58</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>77</Stamina>
+                <Club>Real Sporting de Gijón</Club>
+                <DateOfBirth>28-08-1991</DateOfBirth>
+            </Player>
+            <Player id="12711">
+                <FirstName>Alberto</FirstName>
+                <LastName>Lora Ramos</LastName>
+                <Position>RB</Position>
+                <Pace>86</Pace>
+                <Shooting>62</Shooting>
+                <Passing>68</Passing>
+                <Offensive>65</Offensive>
+                <Defensive>68</Defensive>
+                <Stamina>87</Stamina>
+                <Club>Real Sporting de Gijón</Club>
+                <DateOfBirth>25-03-1987</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Fútbol Club Barcelona “B”">
+            <Player id="532">
+                <FirstName>Alen</FirstName>
+                <LastName>Halilović</LastName>
+                <Position>CAM</Position>
+                <Pace>75</Pace>
+                <Shooting>64</Shooting>
+                <Passing>70</Passing>
+                <Offensive>67</Offensive>
+                <Defensive>25</Defensive>
+                <Stamina>45</Stamina>
+                <Club>Fútbol Club Barcelona “B”</Club>
+                <DateOfBirth>18-06-1996</DateOfBirth>
+            </Player>
+            <Player id="2514">
+                <FirstName>Alejandro</FirstName>
+                <LastName>Grimaldo García</LastName>
+                <Position>LB</Position>
+                <Pace>81</Pace>
+                <Shooting>34</Shooting>
+                <Passing>67</Passing>
+                <Offensive>50</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>74</Stamina>
+                <Club>Fútbol Club Barcelona “B”</Club>
+                <DateOfBirth>20-09-1995</DateOfBirth>
+            </Player>
+            <Player id="3726">
+                <FirstName>Edgar Miguel</FirstName>
+                <LastName>Ié</LastName>
+                <Position>CB</Position>
+                <Pace>80</Pace>
+                <Shooting>46</Shooting>
+                <Passing>53</Passing>
+                <Offensive>49</Offensive>
+                <Defensive>65</Defensive>
+                <Stamina>74</Stamina>
+                <Club>Fútbol Club Barcelona “B”</Club>
+                <DateOfBirth>01-05-1994</DateOfBirth>
+            </Player>
+            <Player id="4078">
+                <FirstName>Joan Angel</FirstName>
+                <LastName>Román Ollè</LastName>
+                <Position>LW</Position>
+                <Pace>70</Pace>
+                <Shooting>57</Shooting>
+                <Passing>69</Passing>
+                <Offensive>63</Offensive>
+                <Defensive>47</Defensive>
+                <Stamina>58</Stamina>
+                <Club>Fútbol Club Barcelona “B”</Club>
+                <DateOfBirth>18-05-1993</DateOfBirth>
+            </Player>
+            <Player id="4331">
+                <FirstName>Sergi</FirstName>
+                <LastName>Samper Montañá</LastName>
+                <Position>CDM</Position>
+                <Pace>60</Pace>
+                <Shooting>46</Shooting>
+                <Passing>68</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>56</Defensive>
+                <Stamina>62</Stamina>
+                <Club>Fútbol Club Barcelona “B”</Club>
+                <DateOfBirth>20-01-1995</DateOfBirth>
+            </Player>
+            <Player id="4356">
+                <FirstName>Adama</FirstName>
+                <LastName>Traoré Diarra</LastName>
+                <Position>RW</Position>
+                <Pace>88</Pace>
+                <Shooting>60</Shooting>
+                <Passing>50</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>26</Defensive>
+                <Stamina>48</Stamina>
+                <Club>Fútbol Club Barcelona “B”</Club>
+                <DateOfBirth>25-01-1996</DateOfBirth>
+            </Player>
+            <Player id="4604">
+                <FirstName>Jean-Marie</FirstName>
+                <LastName>Dongou Tsafack</LastName>
+                <Position>ST</Position>
+                <Pace>91</Pace>
+                <Shooting>59</Shooting>
+                <Passing>53</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>74</Stamina>
+                <Club>Fútbol Club Barcelona “B”</Club>
+                <DateOfBirth>20-04-1995</DateOfBirth>
+            </Player>
+            <Player id="4890">
+                <FirstName>Frank</FirstName>
+                <LastName>Bagnack</LastName>
+                <Position>CB</Position>
+                <Pace>75</Pace>
+                <Shooting>34</Shooting>
+                <Passing>44</Passing>
+                <Offensive>39</Offensive>
+                <Defensive>67</Defensive>
+                <Stamina>60</Stamina>
+                <Club>Fútbol Club Barcelona “B”</Club>
+                <DateOfBirth>07-06-1995</DateOfBirth>
+            </Player>
+            <Player id="5798">
+                <FirstName>Patricio</FirstName>
+                <LastName>Gabarrón Gil</LastName>
+                <Position>RB</Position>
+                <Pace>69</Pace>
+                <Shooting>35</Shooting>
+                <Passing>62</Passing>
+                <Offensive>48</Offensive>
+                <Defensive>61</Defensive>
+                <Stamina>75</Stamina>
+                <Club>Fútbol Club Barcelona “B”</Club>
+                <DateOfBirth>17-04-1993</DateOfBirth>
+            </Player>
+            <Player id="7580">
+                <FirstName>Pol</FirstName>
+                <LastName>Calvet Planellas</LastName>
+                <Position>CM</Position>
+                <Pace>44</Pace>
+                <Shooting>48</Shooting>
+                <Passing>63</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>43</Defensive>
+                <Stamina>42</Stamina>
+                <Club>Fútbol Club Barcelona “B”</Club>
+                <DateOfBirth>19-04-1994</DateOfBirth>
+            </Player>
+            <Player id="8968">
+                <FirstName>Agostinho</FirstName>
+                <LastName>Odiquir Cá</LastName>
+                <Position>CDM</Position>
+                <Pace>73</Pace>
+                <Shooting>43</Shooting>
+                <Passing>52</Passing>
+                <Offensive>47</Offensive>
+                <Defensive>59</Defensive>
+                <Stamina>83</Stamina>
+                <Club>Fútbol Club Barcelona “B”</Club>
+                <DateOfBirth>24-07-1993</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Club Atlético Osasuna">
+            <Player id="578">
+                <FirstName>Asier</FirstName>
+                <LastName>Riesgo Unamuno</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>41</Stamina>
+                <Club>Club Atlético Osasuna</Club>
+                <DateOfBirth>06-10-1983</DateOfBirth>
+            </Player>
+            <Player id="727">
+                <FirstName>Roberto</FirstName>
+                <LastName>Torres Morales</LastName>
+                <Position>RM</Position>
+                <Pace>69</Pace>
+                <Shooting>69</Shooting>
+                <Passing>70</Passing>
+                <Offensive>69</Offensive>
+                <Defensive>50</Defensive>
+                <Stamina>80</Stamina>
+                <Club>Club Atlético Osasuna</Club>
+                <DateOfBirth>17-03-1989</DateOfBirth>
+            </Player>
+            <Player id="854">
+                <FirstName>Raoul Cedric</FirstName>
+                <LastName>Loé</LastName>
+                <Position>CDM</Position>
+                <Pace>33</Pace>
+                <Shooting>44</Shooting>
+                <Passing>57</Passing>
+                <Offensive>50</Offensive>
+                <Defensive>67</Defensive>
+                <Stamina>80</Stamina>
+                <Club>Club Atlético Osasuna</Club>
+                <DateOfBirth>31-01-1989</DateOfBirth>
+            </Player>
+            <Player id="1275">
+                <FirstName>Juan Francisco</FirstName>
+                <LastName>Martínez Modesto</LastName>
+                <Position>CAM</Position>
+                <Pace>71</Pace>
+                <Shooting>69</Shooting>
+                <Passing>59</Passing>
+                <Offensive>64</Offensive>
+                <Defensive>40</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Club Atlético Osasuna</Club>
+                <DateOfBirth>10-06-1980</DateOfBirth>
+            </Player>
+            <Player id="1514">
+                <FirstName>Oier</FirstName>
+                <LastName>Sanjurjo Maté</LastName>
+                <Position>CDM</Position>
+                <Pace>72</Pace>
+                <Shooting>59</Shooting>
+                <Passing>65</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>69</Defensive>
+                <Stamina>91</Stamina>
+                <Club>Club Atlético Osasuna</Club>
+                <DateOfBirth>25-05-1986</DateOfBirth>
+            </Player>
+            <Player id="1530">
+                <FirstName>Cedrick</FirstName>
+                <LastName>Mabwati</LastName>
+                <Position>LM</Position>
+                <Pace>94</Pace>
+                <Shooting>53</Shooting>
+                <Passing>60</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>31</Defensive>
+                <Stamina>85</Stamina>
+                <Club>Club Atlético Osasuna</Club>
+                <DateOfBirth>08-03-1992</DateOfBirth>
+            </Player>
+            <Player id="3260">
+                <FirstName>Javier</FirstName>
+                <LastName>Flaño Bezunartea</LastName>
+                <Position>RB</Position>
+                <Pace>72</Pace>
+                <Shooting>40</Shooting>
+                <Passing>57</Passing>
+                <Offensive>48</Offensive>
+                <Defensive>67</Defensive>
+                <Stamina>77</Stamina>
+                <Club>Club Atlético Osasuna</Club>
+                <DateOfBirth>19-08-1984</DateOfBirth>
+            </Player>
+            <Player id="4749">
+                <FirstName>Jon</FirstName>
+                <LastName>Echaide Sola</LastName>
+                <Position>CB</Position>
+                <Pace>63</Pace>
+                <Shooting>42</Shooting>
+                <Passing>46</Passing>
+                <Offensive>44</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>58</Stamina>
+                <Club>Club Atlético Osasuna</Club>
+                <DateOfBirth>05-01-1988</DateOfBirth>
+            </Player>
+            <Player id="5750">
+                <FirstName>Manuel</FirstName>
+                <LastName>Onwu Villafranca</LastName>
+                <Position>ST</Position>
+                <Pace>77</Pace>
+                <Shooting>66</Shooting>
+                <Passing>51</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>32</Defensive>
+                <Stamina>61</Stamina>
+                <Club>Club Atlético Osasuna</Club>
+                <DateOfBirth>11-01-1988</DateOfBirth>
+            </Player>
+            <Player id="6957">
+                <FirstName>Javad</FirstName>
+                <LastName>Nekounam</LastName>
+                <Position>CM</Position>
+                <Pace>53</Pace>
+                <Shooting>65</Shooting>
+                <Passing>75</Passing>
+                <Offensive>70</Offensive>
+                <Defensive>69</Defensive>
+                <Stamina>73</Stamina>
+                <Club>Club Atlético Osasuna</Club>
+                <DateOfBirth>07-10-1980</DateOfBirth>
+            </Player>
+            <Player id="7687">
+                <FirstName>Unai</FirstName>
+                <LastName>Garcia Lugea</LastName>
+                <Position>CB</Position>
+                <Pace>69</Pace>
+                <Shooting>31</Shooting>
+                <Passing>40</Passing>
+                <Offensive>35</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>66</Stamina>
+                <Club>Club Atlético Osasuna</Club>
+                <DateOfBirth>03-09-1992</DateOfBirth>
+            </Player>
+            <Player id="7688">
+                <FirstName>Maikel</FirstName>
+                <LastName>Mesa Piñero</LastName>
+                <Position>CM</Position>
+                <Pace>63</Pace>
+                <Shooting>48</Shooting>
+                <Passing>58</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>48</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Club Atlético Osasuna</Club>
+                <DateOfBirth>04-06-1991</DateOfBirth>
+            </Player>
+            <Player id="12411">
+                <FirstName>Liassine</FirstName>
+                <LastName>Cadamuro</LastName>
+                <Position>CB</Position>
+                <Pace>69</Pace>
+                <Shooting>38</Shooting>
+                <Passing>61</Passing>
+                <Offensive>49</Offensive>
+                <Defensive>72</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Club Atlético Osasuna</Club>
+                <DateOfBirth>05-03-1988</DateOfBirth>
+            </Player>
+            <Player id="12536">
+                <FirstName>Sisinio</FirstName>
+                <LastName>González Martínez</LastName>
+                <Position>RM</Position>
+                <Pace>88</Pace>
+                <Shooting>61</Shooting>
+                <Passing>67</Passing>
+                <Offensive>64</Offensive>
+                <Defensive>32</Defensive>
+                <Stamina>66</Stamina>
+                <Club>Club Atlético Osasuna</Club>
+                <DateOfBirth>22-04-1984</DateOfBirth>
+            </Player>
+            <Player id="12696">
+                <FirstName>Miguel Ángel</FirstName>
+                <LastName>De las Cuevas B.</LastName>
+                <Position>CAM</Position>
+                <Pace>73</Pace>
+                <Shooting>66</Shooting>
+                <Passing>74</Passing>
+                <Offensive>70</Offensive>
+                <Defensive>34</Defensive>
+                <Stamina>61</Stamina>
+                <Club>Club Atlético Osasuna</Club>
+                <DateOfBirth>19-06-1986</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Sociedad Deportiva Ponferradina">
+            <Player id="732">
+                <FirstName>Yuri</FirstName>
+                <LastName>de Souza Fonseca</LastName>
+                <Position>ST</Position>
+                <Pace>70</Pace>
+                <Shooting>71</Shooting>
+                <Passing>54</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>32</Defensive>
+                <Stamina>74</Stamina>
+                <Club>Sociedad Deportiva Ponferradina</Club>
+                <DateOfBirth>08-08-1982</DateOfBirth>
+            </Player>
+            <Player id="1671">
+                <FirstName>Acorán</FirstName>
+                <LastName>Barrera Reyes</LastName>
+                <Position>RM</Position>
+                <Pace>82</Pace>
+                <Shooting>61</Shooting>
+                <Passing>60</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>34</Defensive>
+                <Stamina>78</Stamina>
+                <Club>Sociedad Deportiva Ponferradina</Club>
+                <DateOfBirth>31-01-1983</DateOfBirth>
+            </Player>
+            <Player id="2197">
+                <FirstName>Jonathan</FirstName>
+                <LastName>Ruiz Llaga</LastName>
+                <Position>CDM</Position>
+                <Pace>63</Pace>
+                <Shooting>54</Shooting>
+                <Passing>66</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>57</Defensive>
+                <Stamina>88</Stamina>
+                <Club>Sociedad Deportiva Ponferradina</Club>
+                <DateOfBirth>02-04-1982</DateOfBirth>
+            </Player>
+            <Player id="2365">
+                <FirstName>Javier</FirstName>
+                <LastName>Carpio Martín</LastName>
+                <Position>RB</Position>
+                <Pace>76</Pace>
+                <Shooting>46</Shooting>
+                <Passing>52</Passing>
+                <Offensive>49</Offensive>
+                <Defensive>65</Defensive>
+                <Stamina>88</Stamina>
+                <Club>Sociedad Deportiva Ponferradina</Club>
+                <DateOfBirth>06-04-1984</DateOfBirth>
+            </Player>
+            <Player id="2500">
+                <FirstName>Mario Ángel</FirstName>
+                <LastName>Paglialunga</LastName>
+                <Position>CM</Position>
+                <Pace>62</Pace>
+                <Shooting>58</Shooting>
+                <Passing>68</Passing>
+                <Offensive>63</Offensive>
+                <Defensive>54</Defensive>
+                <Stamina>79</Stamina>
+                <Club>Sociedad Deportiva Ponferradina</Club>
+                <DateOfBirth>29-10-1988</DateOfBirth>
+            </Player>
+            <Player id="2548">
+                <FirstName>Samuel Geoffroy</FirstName>
+                <LastName>Camille</LastName>
+                <Position>LB</Position>
+                <Pace>87</Pace>
+                <Shooting>35</Shooting>
+                <Passing>53</Passing>
+                <Offensive>44</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>91</Stamina>
+                <Club>Sociedad Deportiva Ponferradina</Club>
+                <DateOfBirth>02-02-1986</DateOfBirth>
+            </Player>
+            <Player id="3061">
+                <FirstName>Alan</FirstName>
+                <LastName>Baró Calabuig</LastName>
+                <Position>CB</Position>
+                <Pace>65</Pace>
+                <Shooting>47</Shooting>
+                <Passing>48</Passing>
+                <Offensive>47</Offensive>
+                <Defensive>68</Defensive>
+                <Stamina>81</Stamina>
+                <Club>Sociedad Deportiva Ponferradina</Club>
+                <DateOfBirth>22-06-1985</DateOfBirth>
+            </Player>
+            <Player id="4789">
+                <FirstName>José Manuel</FirstName>
+                <LastName>Rueda Sampedro</LastName>
+                <Position>CM</Position>
+                <Pace>62</Pace>
+                <Shooting>54</Shooting>
+                <Passing>65</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>46</Defensive>
+                <Stamina>73</Stamina>
+                <Club>Sociedad Deportiva Ponferradina</Club>
+                <DateOfBirth>30-01-1988</DateOfBirth>
+            </Player>
+            <Player id="5046">
+                <FirstName>Pablo</FirstName>
+                <LastName>Infante Muñoz</LastName>
+                <Position>LM</Position>
+                <Pace>50</Pace>
+                <Shooting>63</Shooting>
+                <Passing>68</Passing>
+                <Offensive>65</Offensive>
+                <Defensive>35</Defensive>
+                <Stamina>39</Stamina>
+                <Club>Sociedad Deportiva Ponferradina</Club>
+                <DateOfBirth>20-03-1980</DateOfBirth>
+            </Player>
+            <Player id="5051">
+                <FirstName>Cristian</FirstName>
+                <LastName>Fernández Conchuela</LastName>
+                <Position>LM</Position>
+                <Pace>84</Pace>
+                <Shooting>58</Shooting>
+                <Passing>55</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>86</Stamina>
+                <Club>Sociedad Deportiva Ponferradina</Club>
+                <DateOfBirth>22-12-1988</DateOfBirth>
+            </Player>
+            <Player id="5270">
+                <FirstName>Alberto</FirstName>
+                <LastName>Aguilar Leiva</LastName>
+                <Position>CB</Position>
+                <Pace>53</Pace>
+                <Shooting>48</Shooting>
+                <Passing>54</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>67</Stamina>
+                <Club>Sociedad Deportiva Ponferradina</Club>
+                <DateOfBirth>12-07-1984</DateOfBirth>
+            </Player>
+            <Player id="5714">
+                <FirstName>Jesús</FirstName>
+                <LastName>Berrocal Campos</LastName>
+                <Position>ST</Position>
+                <Pace>55</Pace>
+                <Shooting>63</Shooting>
+                <Passing>42</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>65</Stamina>
+                <Club>Sociedad Deportiva Ponferradina</Club>
+                <DateOfBirth>05-02-1988</DateOfBirth>
+            </Player>
+            <Player id="6599">
+                <FirstName>Diego</FirstName>
+                <LastName>García Bravo</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>22</Stamina>
+                <Club>Sociedad Deportiva Ponferradina</Club>
+                <DateOfBirth>13-01-1990</DateOfBirth>
+            </Player>
+            <Player id="7074">
+                <FirstName>Dinu</FirstName>
+                <LastName>Moldovan</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>42</Stamina>
+                <Club>Sociedad Deportiva Ponferradina</Club>
+                <DateOfBirth>03-05-1990</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Real Club Recreativo de Huelva">
+            <Player id="929">
+                <FirstName>Pedro</FirstName>
+                <LastName>Ríos Maestre</LastName>
+                <Position>RM</Position>
+                <Pace>73</Pace>
+                <Shooting>68</Shooting>
+                <Passing>68</Passing>
+                <Offensive>68</Offensive>
+                <Defensive>33</Defensive>
+                <Stamina>64</Stamina>
+                <Club>Real Club Recreativo de Huelva</Club>
+                <DateOfBirth>12-12-1981</DateOfBirth>
+            </Player>
+            <Player id="2754">
+                <FirstName>Álvaro</FirstName>
+                <LastName>Antón Camarero</LastName>
+                <Position>CAM</Position>
+                <Pace>70</Pace>
+                <Shooting>59</Shooting>
+                <Passing>66</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>42</Defensive>
+                <Stamina>63</Stamina>
+                <Club>Real Club Recreativo de Huelva</Club>
+                <DateOfBirth>28-12-1983</DateOfBirth>
+            </Player>
+            <Player id="3200">
+                <FirstName>Antonio Jesús</FirstName>
+                <LastName>Vázquez Muñoz</LastName>
+                <Position>CDM</Position>
+                <Pace>60</Pace>
+                <Shooting>59</Shooting>
+                <Passing>59</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>73</Stamina>
+                <Club>Real Club Recreativo de Huelva</Club>
+                <DateOfBirth>18-01-1980</DateOfBirth>
+            </Player>
+            <Player id="3214">
+                <FirstName>Antonio</FirstName>
+                <LastName>Núñez Tena</LastName>
+                <Position>RM</Position>
+                <Pace>66</Pace>
+                <Shooting>55</Shooting>
+                <Passing>66</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>56</Stamina>
+                <Club>Real Club Recreativo de Huelva</Club>
+                <DateOfBirth>15-01-1979</DateOfBirth>
+            </Player>
+            <Player id="3810">
+                <FirstName>David</FirstName>
+                <LastName>Córcoles Alcaraz</LastName>
+                <Position>RB</Position>
+                <Pace>75</Pace>
+                <Shooting>48</Shooting>
+                <Passing>54</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>85</Stamina>
+                <Club>Real Club Recreativo de Huelva</Club>
+                <DateOfBirth>08-05-1985</DateOfBirth>
+            </Player>
+            <Player id="3968">
+                <FirstName>Juan Antonio</FirstName>
+                <LastName>González Fernández</LastName>
+                <Position>CB</Position>
+                <Pace>45</Pace>
+                <Shooting>34</Shooting>
+                <Passing>49</Passing>
+                <Offensive>41</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>65</Stamina>
+                <Club>Real Club Recreativo de Huelva</Club>
+                <DateOfBirth>27-04-1987</DateOfBirth>
+            </Player>
+            <Player id="5764">
+                <FirstName>José Luís</FirstName>
+                <LastName>Moreno Barroso</LastName>
+                <Position>ST</Position>
+                <Pace>75</Pace>
+                <Shooting>65</Shooting>
+                <Passing>43</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>89</Stamina>
+                <Club>Real Club Recreativo de Huelva</Club>
+                <DateOfBirth>03-03-1991</DateOfBirth>
+            </Player>
+            <Player id="5951">
+                <FirstName>Manuel</FirstName>
+                <LastName>Molina Valero</LastName>
+                <Position>CM</Position>
+                <Pace>63</Pace>
+                <Shooting>49</Shooting>
+                <Passing>64</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>49</Defensive>
+                <Stamina>74</Stamina>
+                <Club>Real Club Recreativo de Huelva</Club>
+                <DateOfBirth>20-11-1991</DateOfBirth>
+            </Player>
+            <Player id="5983">
+                <FirstName>Daniel</FirstName>
+                <LastName>Sotres Castañeda</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>42</Stamina>
+                <Club>Real Club Recreativo de Huelva</Club>
+                <DateOfBirth>21-05-1993</DateOfBirth>
+            </Player>
+            <Player id="6445">
+                <FirstName>Víctor David</FirstName>
+                <LastName>Díaz Miguel</LastName>
+                <Position>RB</Position>
+                <Pace>71</Pace>
+                <Shooting>56</Shooting>
+                <Passing>54</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>61</Defensive>
+                <Stamina>77</Stamina>
+                <Club>Real Club Recreativo de Huelva</Club>
+                <DateOfBirth>12-06-1988</DateOfBirth>
+            </Player>
+            <Player id="6485">
+                <FirstName>Juan Antonio</FirstName>
+                <LastName>Zamora Zambudio</LastName>
+                <Position>CB</Position>
+                <Pace>59</Pace>
+                <Shooting>33</Shooting>
+                <Passing>52</Passing>
+                <Offensive>42</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>68</Stamina>
+                <Club>Real Club Recreativo de Huelva</Club>
+                <DateOfBirth>03-05-1983</DateOfBirth>
+            </Player>
+            <Player id="6518">
+                <FirstName>Braulio</FirstName>
+                <LastName>Nóbrega Rodríguez</LastName>
+                <Position>ST</Position>
+                <Pace>68</Pace>
+                <Shooting>64</Shooting>
+                <Passing>45</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>44</Stamina>
+                <Club>Real Club Recreativo de Huelva</Club>
+                <DateOfBirth>18-09-1985</DateOfBirth>
+            </Player>
+            <Player id="7113">
+                <FirstName>Rubén</FirstName>
+                <LastName>Ramos González</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>43</Stamina>
+                <Club>Real Club Recreativo de Huelva</Club>
+                <DateOfBirth>15-05-1993</DateOfBirth>
+            </Player>
+            <Player id="7718">
+                <FirstName>Josmar</FirstName>
+                <LastName>Zambrano</LastName>
+                <Position>RW</Position>
+                <Pace>72</Pace>
+                <Shooting>55</Shooting>
+                <Passing>57</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>52</Stamina>
+                <Club>Real Club Recreativo de Huelva</Club>
+                <DateOfBirth>06-09-1992</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Club Deportivo Lugo">
+            <Player id="931">
+                <FirstName>Jonathan</FirstName>
+                <LastName>Valle Trueba</LastName>
+                <Position>LW</Position>
+                <Pace>63</Pace>
+                <Shooting>66</Shooting>
+                <Passing>70</Passing>
+                <Offensive>68</Offensive>
+                <Defensive>37</Defensive>
+                <Stamina>32</Stamina>
+                <Club>Club Deportivo Lugo</Club>
+                <DateOfBirth>30-12-1984</DateOfBirth>
+            </Player>
+            <Player id="1274">
+                <FirstName>David</FirstName>
+                <LastName>López Moreno</LastName>
+                <Position>RW</Position>
+                <Pace>63</Pace>
+                <Shooting>69</Shooting>
+                <Passing>72</Passing>
+                <Offensive>70</Offensive>
+                <Defensive>44</Defensive>
+                <Stamina>53</Stamina>
+                <Club>Club Deportivo Lugo</Club>
+                <DateOfBirth>10-09-1982</DateOfBirth>
+            </Player>
+            <Player id="1672">
+                <FirstName>Fernando</FirstName>
+                <LastName>Seoane Antelo</LastName>
+                <Position>CDM</Position>
+                <Pace>61</Pace>
+                <Shooting>37</Shooting>
+                <Passing>59</Passing>
+                <Offensive>48</Offensive>
+                <Defensive>68</Defensive>
+                <Stamina>90</Stamina>
+                <Club>Club Deportivo Lugo</Club>
+                <DateOfBirth>25-03-1983</DateOfBirth>
+            </Player>
+            <Player id="1721">
+                <FirstName>Borja</FirstName>
+                <LastName>Gómez Pérez</LastName>
+                <Position>CB</Position>
+                <Pace>57</Pace>
+                <Shooting>57</Shooting>
+                <Passing>51</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>56</Stamina>
+                <Club>Club Deportivo Lugo</Club>
+                <DateOfBirth>14-05-1988</DateOfBirth>
+            </Player>
+            <Player id="1844">
+                <FirstName>David</FirstName>
+                <LastName>Aganzo Méndez</LastName>
+                <Position>ST</Position>
+                <Pace>62</Pace>
+                <Shooting>64</Shooting>
+                <Passing>52</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>35</Defensive>
+                <Stamina>52</Stamina>
+                <Club>Club Deportivo Lugo</Club>
+                <DateOfBirth>10-01-1981</DateOfBirth>
+            </Player>
+            <Player id="2198">
+                <FirstName>José Juan</FirstName>
+                <LastName>Figueras García</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>42</Stamina>
+                <Club>Club Deportivo Lugo</Club>
+                <DateOfBirth>31-12-1979</DateOfBirth>
+            </Player>
+            <Player id="2337">
+                <FirstName>Víctor</FirstName>
+                <LastName>Marco Soler</LastName>
+                <Position>CB</Position>
+                <Pace>58</Pace>
+                <Shooting>40</Shooting>
+                <Passing>55</Passing>
+                <Offensive>47</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>69</Stamina>
+                <Club>Club Deportivo Lugo</Club>
+                <DateOfBirth>14-06-1982</DateOfBirth>
+            </Player>
+            <Player id="2782">
+                <FirstName>Carlos</FirstName>
+                <LastName>Pita González</LastName>
+                <Position>CDM</Position>
+                <Pace>40</Pace>
+                <Shooting>56</Shooting>
+                <Passing>72</Passing>
+                <Offensive>64</Offensive>
+                <Defensive>54</Defensive>
+                <Stamina>87</Stamina>
+                <Club>Club Deportivo Lugo</Club>
+                <DateOfBirth>08-12-1984</DateOfBirth>
+            </Player>
+            <Player id="3357">
+                <FirstName>David</FirstName>
+                <LastName>Gutiérrez de Coz</LastName>
+                <Position>RB</Position>
+                <Pace>78</Pace>
+                <Shooting>41</Shooting>
+                <Passing>54</Passing>
+                <Offensive>47</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>86</Stamina>
+                <Club>Club Deportivo Lugo</Club>
+                <DateOfBirth>06-02-1980</DateOfBirth>
+            </Player>
+            <Player id="4734">
+                <FirstName>Manuel</FirstName>
+                <LastName>Pavón Castro</LastName>
+                <Position>CB</Position>
+                <Pace>56</Pace>
+                <Shooting>41</Shooting>
+                <Passing>51</Passing>
+                <Offensive>46</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>73</Stamina>
+                <Club>Club Deportivo Lugo</Club>
+                <DateOfBirth>27-02-1984</DateOfBirth>
+            </Player>
+            <Player id="4920">
+                <FirstName>Ernesto</FirstName>
+                <LastName>Gómez Gómez</LastName>
+                <Position>LW</Position>
+                <Pace>50</Pace>
+                <Shooting>62</Shooting>
+                <Passing>74</Passing>
+                <Offensive>68</Offensive>
+                <Defensive>36</Defensive>
+                <Stamina>48</Stamina>
+                <Club>Club Deportivo Lugo</Club>
+                <DateOfBirth>26-04-1985</DateOfBirth>
+            </Player>
+            <Player id="5507">
+                <FirstName>David</FirstName>
+                <LastName>Ferreiro Quiroga</LastName>
+                <Position>RM</Position>
+                <Pace>81</Pace>
+                <Shooting>61</Shooting>
+                <Passing>60</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>26</Defensive>
+                <Stamina>49</Stamina>
+                <Club>Club Deportivo Lugo</Club>
+                <DateOfBirth>01-04-1988</DateOfBirth>
+            </Player>
+            <Player id="6287">
+                <FirstName>Iago</FirstName>
+                <LastName>Díaz Fernández</LastName>
+                <Position>LM</Position>
+                <Pace>81</Pace>
+                <Shooting>58</Shooting>
+                <Passing>58</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>31</Defensive>
+                <Stamina>58</Stamina>
+                <Club>Club Deportivo Lugo</Club>
+                <DateOfBirth>10-05-1993</DateOfBirth>
+            </Player>
+            <Player id="7105">
+                <FirstName>Pelayo</FirstName>
+                <LastName>Novo García</LastName>
+                <Position>CAM</Position>
+                <Pace>66</Pace>
+                <Shooting>55</Shooting>
+                <Passing>64</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>46</Defensive>
+                <Stamina>62</Stamina>
+                <Club>Club Deportivo Lugo</Club>
+                <DateOfBirth>01-11-1990</DateOfBirth>
+            </Player>
+            <Player id="7189">
+                <FirstName>Iriome</FirstName>
+                <LastName>González González</LastName>
+                <Position>RM</Position>
+                <Pace>81</Pace>
+                <Shooting>53</Shooting>
+                <Passing>55</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>36</Defensive>
+                <Stamina>73</Stamina>
+                <Club>Club Deportivo Lugo</Club>
+                <DateOfBirth>22-06-1987</DateOfBirth>
+            </Player>
+            <Player id="7969">
+                <FirstName>Albert</FirstName>
+                <LastName>Dalmau Martínez</LastName>
+                <Position>RB</Position>
+                <Pace>71</Pace>
+                <Shooting>37</Shooting>
+                <Passing>56</Passing>
+                <Offensive>46</Offensive>
+                <Defensive>59</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Club Deportivo Lugo</Club>
+                <DateOfBirth>16-03-1992</DateOfBirth>
+            </Player>
+            <Player id="8454">
+                <FirstName>Samuel</FirstName>
+                <LastName>Reyes Domínguez</LastName>
+                <Position>LB</Position>
+                <Pace>70</Pace>
+                <Shooting>25</Shooting>
+                <Passing>43</Passing>
+                <Offensive>34</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>76</Stamina>
+                <Club>Club Deportivo Lugo</Club>
+                <DateOfBirth>15-02-1992</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Club Deportivo Numancia de Soria ">
+            <Player id="1126">
+                <FirstName>Juan Manuel</FirstName>
+                <LastName>Marrero Monzón</LastName>
+                <Position>CB</Position>
+                <Pace>66</Pace>
+                <Shooting>45</Shooting>
+                <Passing>58</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>65</Defensive>
+                <Stamina>86</Stamina>
+                <Club>Club Deportivo Numancia de Soria </Club>
+                <DateOfBirth>18-10-1982</DateOfBirth>
+            </Player>
+            <Player id="2471">
+                <FirstName>Iñigo</FirstName>
+                <LastName>Pérez Soto</LastName>
+                <Position>CDM</Position>
+                <Pace>72</Pace>
+                <Shooting>59</Shooting>
+                <Passing>70</Passing>
+                <Offensive>64</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Club Deportivo Numancia de Soria </Club>
+                <DateOfBirth>18-01-1988</DateOfBirth>
+            </Player>
+            <Player id="3152">
+                <FirstName>Braian</FirstName>
+                <LastName>Rodríguez</LastName>
+                <Position>ST</Position>
+                <Pace>59</Pace>
+                <Shooting>70</Shooting>
+                <Passing>40</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>31</Defensive>
+                <Stamina>45</Stamina>
+                <Club>Club Deportivo Numancia de Soria </Club>
+                <DateOfBirth>14-08-1986</DateOfBirth>
+            </Player>
+            <Player id="3387">
+                <FirstName>Natalio</FirstName>
+                <LastName>Lorenzo Poquet</LastName>
+                <Position>RM</Position>
+                <Pace>77</Pace>
+                <Shooting>62</Shooting>
+                <Passing>56</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>26</Defensive>
+                <Stamina>78</Stamina>
+                <Club>Club Deportivo Numancia de Soria </Club>
+                <DateOfBirth>18-09-1984</DateOfBirth>
+            </Player>
+            <Player id="3884">
+                <FirstName>Antonio</FirstName>
+                <LastName>Tomás González</LastName>
+                <Position>CDM</Position>
+                <Pace>41</Pace>
+                <Shooting>52</Shooting>
+                <Passing>66</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>73</Stamina>
+                <Club>Club Deportivo Numancia de Soria </Club>
+                <DateOfBirth>19-01-1985</DateOfBirth>
+            </Player>
+            <Player id="4677">
+                <FirstName>Vicente</FirstName>
+                <LastName>Pérez Madrid</LastName>
+                <Position>LM</Position>
+                <Pace>55</Pace>
+                <Shooting>66</Shooting>
+                <Passing>70</Passing>
+                <Offensive>68</Offensive>
+                <Defensive>40</Defensive>
+                <Stamina>66</Stamina>
+                <Club>Club Deportivo Numancia de Soria </Club>
+                <DateOfBirth>11-07-1986</DateOfBirth>
+            </Player>
+            <Player id="4944">
+                <FirstName>José Isidoro</FirstName>
+                <LastName>Gómez Torres</LastName>
+                <Position>RB</Position>
+                <Pace>80</Pace>
+                <Shooting>39</Shooting>
+                <Passing>54</Passing>
+                <Offensive>46</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>84</Stamina>
+                <Club>Club Deportivo Numancia de Soria </Club>
+                <DateOfBirth>01-08-1986</DateOfBirth>
+            </Player>
+            <Player id="5731">
+                <FirstName>Sergi</FirstName>
+                <LastName>Enrich Ametller</LastName>
+                <Position>ST</Position>
+                <Pace>58</Pace>
+                <Shooting>62</Shooting>
+                <Passing>46</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>54</Stamina>
+                <Club>Club Deportivo Numancia de Soria </Club>
+                <DateOfBirth>26-02-1990</DateOfBirth>
+            </Player>
+            <Player id="6084">
+                <FirstName>Adrián</FirstName>
+                <LastName>Ripa Cruz</LastName>
+                <Position>LB</Position>
+                <Pace>81</Pace>
+                <Shooting>39</Shooting>
+                <Passing>61</Passing>
+                <Offensive>50</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>77</Stamina>
+                <Club>Club Deportivo Numancia de Soria </Club>
+                <DateOfBirth>12-08-1985</DateOfBirth>
+            </Player>
+            <Player id="6096">
+                <FirstName>Gabriel</FirstName>
+                <LastName>Ribas Ródenas</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>41</Stamina>
+                <Club>Club Deportivo Numancia de Soria </Club>
+                <DateOfBirth>02-12-1985</DateOfBirth>
+            </Player>
+            <Player id="9202">
+                <FirstName>Javier</FirstName>
+                <LastName>Gallardo Pérez</LastName>
+                <Position>CM</Position>
+                <Pace>46</Pace>
+                <Shooting>43</Shooting>
+                <Passing>62</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>53</Defensive>
+                <Stamina>66</Stamina>
+                <Club>Club Deportivo Numancia de Soria </Club>
+                <DateOfBirth>01-02-1991</DateOfBirth>
+            </Player>
+            <Player id="9516">
+                <FirstName>Javier</FirstName>
+                <LastName>Bonilla Sevillano</LastName>
+                <Position>LB</Position>
+                <Pace>71</Pace>
+                <Shooting>34</Shooting>
+                <Passing>53</Passing>
+                <Offensive>43</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>61</Stamina>
+                <Club>Club Deportivo Numancia de Soria </Club>
+                <DateOfBirth>25-10-1990</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Girona Fútbol Club">
+            <Player id="1281">
+                <FirstName>David</FirstName>
+                <LastName>García de La Cruz</LastName>
+                <Position>LB</Position>
+                <Pace>78</Pace>
+                <Shooting>44</Shooting>
+                <Passing>62</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>67</Defensive>
+                <Stamina>86</Stamina>
+                <Club>Girona Fútbol Club</Club>
+                <DateOfBirth>16-01-1981</DateOfBirth>
+            </Player>
+            <Player id="1675">
+                <FirstName>Felipe</FirstName>
+                <LastName>Sanchón Huerta</LastName>
+                <Position>LM</Position>
+                <Pace>82</Pace>
+                <Shooting>63</Shooting>
+                <Passing>60</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>27</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Girona Fútbol Club</Club>
+                <DateOfBirth>08-04-1982</DateOfBirth>
+            </Player>
+            <Player id="2611">
+                <FirstName>Cristian</FirstName>
+                <LastName>Gómez García</LastName>
+                <Position>CM</Position>
+                <Pace>60</Pace>
+                <Shooting>61</Shooting>
+                <Passing>68</Passing>
+                <Offensive>64</Offensive>
+                <Defensive>52</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Girona Fútbol Club</Club>
+                <DateOfBirth>27-07-1989</DateOfBirth>
+            </Player>
+            <Player id="2878">
+                <FirstName>Isaac</FirstName>
+                <LastName>Becerra Alguacil</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>43</Stamina>
+                <Club>Girona Fútbol Club</Club>
+                <DateOfBirth>18-06-1988</DateOfBirth>
+            </Player>
+            <Player id="3183">
+                <FirstName>Christian</FirstName>
+                <LastName>Alfonso López</LastName>
+                <Position>CAM</Position>
+                <Pace>73</Pace>
+                <Shooting>58</Shooting>
+                <Passing>62</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>33</Defensive>
+                <Stamina>54</Stamina>
+                <Club>Girona Fútbol Club</Club>
+                <DateOfBirth>02-05-1989</DateOfBirth>
+            </Player>
+            <Player id="3212">
+                <FirstName>Gerard</FirstName>
+                <LastName>Bordas Bahamontes</LastName>
+                <Position>ST</Position>
+                <Pace>69</Pace>
+                <Shooting>68</Shooting>
+                <Passing>58</Passing>
+                <Offensive>63</Offensive>
+                <Defensive>35</Defensive>
+                <Stamina>69</Stamina>
+                <Club>Girona Fútbol Club</Club>
+                <DateOfBirth>11-09-1981</DateOfBirth>
+            </Player>
+            <Player id="3970">
+                <FirstName>Jonás</FirstName>
+                <LastName>Ramalho Chimeno</LastName>
+                <Position>CB</Position>
+                <Pace>76</Pace>
+                <Shooting>33</Shooting>
+                <Passing>54</Passing>
+                <Offensive>43</Offensive>
+                <Defensive>68</Defensive>
+                <Stamina>87</Stamina>
+                <Club>Girona Fútbol Club</Club>
+                <DateOfBirth>10-06-1993</DateOfBirth>
+            </Player>
+            <Player id="4771">
+                <FirstName>Francisco José</FirstName>
+                <LastName>Sandaza Asensio</LastName>
+                <Position>ST</Position>
+                <Pace>64</Pace>
+                <Shooting>63</Shooting>
+                <Passing>60</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>33</Defensive>
+                <Stamina>77</Stamina>
+                <Club>Girona Fútbol Club</Club>
+                <DateOfBirth>30-11-1984</DateOfBirth>
+            </Player>
+            <Player id="4798">
+                <FirstName>Florian</FirstName>
+                <LastName>Lejeune</LastName>
+                <Position>CB</Position>
+                <Pace>51</Pace>
+                <Shooting>45</Shooting>
+                <Passing>48</Passing>
+                <Offensive>46</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>73</Stamina>
+                <Club>Girona Fútbol Club</Club>
+                <DateOfBirth>20-05-1991</DateOfBirth>
+            </Player>
+            <Player id="7510">
+                <FirstName>Eloi</FirstName>
+                <LastName>Amagat Arimany</LastName>
+                <Position>CM</Position>
+                <Pace>49</Pace>
+                <Shooting>56</Shooting>
+                <Passing>63</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>52</Defensive>
+                <Stamina>77</Stamina>
+                <Club>Girona Fútbol Club</Club>
+                <DateOfBirth>21-05-1985</DateOfBirth>
+            </Player>
+            <Player id="7978">
+                <FirstName>David</FirstName>
+                <LastName>Juncà Reñé</LastName>
+                <Position>LB</Position>
+                <Pace>78</Pace>
+                <Shooting>45</Shooting>
+                <Passing>46</Passing>
+                <Offensive>45</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>75</Stamina>
+                <Club>Girona Fútbol Club</Club>
+                <DateOfBirth>16-11-1993</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="CE Sabadell FC">
+            <Player id="1387">
+                <FirstName>Javier</FirstName>
+                <LastName>Hervás Salmoral</LastName>
+                <Position>CDM</Position>
+                <Pace>69</Pace>
+                <Shooting>54</Shooting>
+                <Passing>73</Passing>
+                <Offensive>63</Offensive>
+                <Defensive>55</Defensive>
+                <Stamina>77</Stamina>
+                <Club>CE Sabadell FC</Club>
+                <DateOfBirth>09-06-1989</DateOfBirth>
+            </Player>
+            <Player id="1649">
+                <FirstName>Antonio</FirstName>
+                <LastName>Hidalgo Morilla</LastName>
+                <Position>CM</Position>
+                <Pace>62</Pace>
+                <Shooting>64</Shooting>
+                <Passing>70</Passing>
+                <Offensive>67</Offensive>
+                <Defensive>50</Defensive>
+                <Stamina>76</Stamina>
+                <Club>CE Sabadell FC</Club>
+                <DateOfBirth>08-02-1979</DateOfBirth>
+            </Player>
+            <Player id="2662">
+                <FirstName>Raúl</FirstName>
+                <LastName>Tamudo Montero</LastName>
+                <Position>ST</Position>
+                <Pace>53</Pace>
+                <Shooting>67</Shooting>
+                <Passing>64</Passing>
+                <Offensive>65</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>40</Stamina>
+                <Club>CE Sabadell FC</Club>
+                <DateOfBirth>19-10-1977</DateOfBirth>
+            </Player>
+            <Player id="2769">
+                <FirstName>Juan José</FirstName>
+                <LastName>Collantes Guerrero</LastName>
+                <Position>RW</Position>
+                <Pace>90</Pace>
+                <Shooting>58</Shooting>
+                <Passing>58</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>32</Defensive>
+                <Stamina>67</Stamina>
+                <Club>CE Sabadell FC</Club>
+                <DateOfBirth>07-01-1983</DateOfBirth>
+            </Player>
+            <Player id="3938">
+                <FirstName>Martí</FirstName>
+                <LastName>Crespí Pascual</LastName>
+                <Position>CB</Position>
+                <Pace>56</Pace>
+                <Shooting>37</Shooting>
+                <Passing>54</Passing>
+                <Offensive>45</Offensive>
+                <Defensive>67</Defensive>
+                <Stamina>56</Stamina>
+                <Club>CE Sabadell FC</Club>
+                <DateOfBirth>15-06-1987</DateOfBirth>
+            </Player>
+            <Player id="3956">
+                <FirstName>Francisco José</FirstName>
+                <LastName>Olivas Alba</LastName>
+                <Position>CB</Position>
+                <Pace>50</Pace>
+                <Shooting>36</Shooting>
+                <Passing>48</Passing>
+                <Offensive>42</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>64</Stamina>
+                <Club>CE Sabadell FC</Club>
+                <DateOfBirth>21-08-1988</DateOfBirth>
+            </Player>
+            <Player id="4227">
+                <FirstName>Juan José</FirstName>
+                <LastName>Ciércoles Sagra</LastName>
+                <Position>CDM</Position>
+                <Pace>69</Pace>
+                <Shooting>32</Shooting>
+                <Passing>54</Passing>
+                <Offensive>43</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>80</Stamina>
+                <Club>CE Sabadell FC</Club>
+                <DateOfBirth>27-05-1988</DateOfBirth>
+            </Player>
+            <Player id="4428">
+                <FirstName>Cecilio Nauzet</FirstName>
+                <LastName>Pérez González</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>35</Stamina>
+                <Club>CE Sabadell FC</Club>
+                <DateOfBirth>01-03-1985</DateOfBirth>
+            </Player>
+            <Player id="5923">
+                <FirstName>Víctor Manuel</FirstName>
+                <LastName>Espasandín Facal</LastName>
+                <Position>LB</Position>
+                <Pace>71</Pace>
+                <Shooting>39</Shooting>
+                <Passing>63</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>59</Defensive>
+                <Stamina>72</Stamina>
+                <Club>CE Sabadell FC</Club>
+                <DateOfBirth>16-03-1985</DateOfBirth>
+            </Player>
+            <Player id="6374">
+                <FirstName>Manuel</FirstName>
+                <LastName>Gato Thomason</LastName>
+                <Position>LW</Position>
+                <Pace>77</Pace>
+                <Shooting>68</Shooting>
+                <Passing>60</Passing>
+                <Offensive>64</Offensive>
+                <Defensive>35</Defensive>
+                <Stamina>62</Stamina>
+                <Club>CE Sabadell FC</Club>
+                <DateOfBirth>28-01-1984</DateOfBirth>
+            </Player>
+            <Player id="7451">
+                <FirstName>Antonio</FirstName>
+                <LastName>Longás Ferrer</LastName>
+                <Position>CM</Position>
+                <Pace>56</Pace>
+                <Shooting>48</Shooting>
+                <Passing>69</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>40</Defensive>
+                <Stamina>38</Stamina>
+                <Club>CE Sabadell FC</Club>
+                <DateOfBirth>24-08-1984</DateOfBirth>
+            </Player>
+            <Player id="7879">
+                <FirstName>Sotan</FirstName>
+                <LastName>Tanabe</LastName>
+                <Position>CAM</Position>
+                <Pace>76</Pace>
+                <Shooting>55</Shooting>
+                <Passing>63</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>26</Defensive>
+                <Stamina>55</Stamina>
+                <Club>CE Sabadell FC</Club>
+                <DateOfBirth>06-04-1990</DateOfBirth>
+            </Player>
+            <Player id="8190">
+                <FirstName>Aridai</FirstName>
+                <LastName>Cabrera Suárez</LastName>
+                <Position>RM</Position>
+                <Pace>76</Pace>
+                <Shooting>55</Shooting>
+                <Passing>52</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>26</Defensive>
+                <Stamina>62</Stamina>
+                <Club>CE Sabadell FC</Club>
+                <DateOfBirth>26-09-1988</DateOfBirth>
+            </Player>
+            <Player id="8338">
+                <FirstName>David</FirstName>
+                <LastName>De Navas Alcalá</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>45</Stamina>
+                <Club>CE Sabadell FC</Club>
+                <DateOfBirth>07-12-1976</DateOfBirth>
+            </Player>
+            <Player id="8620">
+                <FirstName>Miguel Ángel</FirstName>
+                <LastName>Riau Ferragut</LastName>
+                <Position>LM</Position>
+                <Pace>77</Pace>
+                <Shooting>50</Shooting>
+                <Passing>55</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>37</Defensive>
+                <Stamina>61</Stamina>
+                <Club>CE Sabadell FC</Club>
+                <DateOfBirth>27-01-1989</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Agrupación Deportiva Alcorcón">
+            <Player id="2070">
+                <FirstName>Bobley</FirstName>
+                <LastName>Anderson</LastName>
+                <Position>CAM</Position>
+                <Pace>74</Pace>
+                <Shooting>65</Shooting>
+                <Passing>68</Passing>
+                <Offensive>66</Offensive>
+                <Defensive>31</Defensive>
+                <Stamina>45</Stamina>
+                <Club>Agrupación Deportiva Alcorcón</Club>
+                <DateOfBirth>03-03-1992</DateOfBirth>
+            </Player>
+            <Player id="2336">
+                <FirstName>Sergio</FirstName>
+                <LastName>Mora Sánchez</LastName>
+                <Position>CM</Position>
+                <Pace>55</Pace>
+                <Shooting>63</Shooting>
+                <Passing>75</Passing>
+                <Offensive>69</Offensive>
+                <Defensive>50</Defensive>
+                <Stamina>73</Stamina>
+                <Club>Agrupación Deportiva Alcorcón</Club>
+                <DateOfBirth>30-08-1979</DateOfBirth>
+            </Player>
+            <Player id="2364">
+                <FirstName>David</FirstName>
+                <LastName>Rodríguez Sánchez</LastName>
+                <Position>ST</Position>
+                <Pace>79</Pace>
+                <Shooting>67</Shooting>
+                <Passing>54</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Agrupación Deportiva Alcorcón</Club>
+                <DateOfBirth>14-02-1986</DateOfBirth>
+            </Player>
+            <Player id="2736">
+                <FirstName>Rubén</FirstName>
+                <LastName>Sanz Alonso</LastName>
+                <Position>CDM</Position>
+                <Pace>42</Pace>
+                <Shooting>58</Shooting>
+                <Passing>59</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>88</Stamina>
+                <Club>Agrupación Deportiva Alcorcón</Club>
+                <DateOfBirth>30-04-1980</DateOfBirth>
+            </Player>
+            <Player id="2852">
+                <FirstName>Ángel</FirstName>
+                <LastName>Sánchez Martín</LastName>
+                <Position>LB</Position>
+                <Pace>70</Pace>
+                <Shooting>36</Shooting>
+                <Passing>64</Passing>
+                <Offensive>50</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>77</Stamina>
+                <Club>Agrupación Deportiva Alcorcón</Club>
+                <DateOfBirth>15-01-1982</DateOfBirth>
+            </Player>
+            <Player id="2908">
+                <FirstName>Javier</FirstName>
+                <LastName>Jiménez Camarero</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>34</Stamina>
+                <Club>Agrupación Deportiva Alcorcón</Club>
+                <DateOfBirth>08-06-1987</DateOfBirth>
+            </Player>
+            <Player id="3105">
+                <FirstName>Álvaro</FirstName>
+                <LastName>Rey Vázquez</LastName>
+                <Position>RM</Position>
+                <Pace>83</Pace>
+                <Shooting>52</Shooting>
+                <Passing>60</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Agrupación Deportiva Alcorcón</Club>
+                <DateOfBirth>11-07-1989</DateOfBirth>
+            </Player>
+            <Player id="3395">
+                <FirstName>Carlos</FirstName>
+                <LastName>Bellvis Llorens</LastName>
+                <Position>LB</Position>
+                <Pace>80</Pace>
+                <Shooting>42</Shooting>
+                <Passing>60</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>80</Stamina>
+                <Club>Agrupación Deportiva Alcorcón</Club>
+                <DateOfBirth>24-04-1985</DateOfBirth>
+            </Player>
+            <Player id="3409">
+                <FirstName>Héctor</FirstName>
+                <LastName>Verdés Ortega</LastName>
+                <Position>CB</Position>
+                <Pace>57</Pace>
+                <Shooting>32</Shooting>
+                <Passing>44</Passing>
+                <Offensive>38</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>61</Stamina>
+                <Club>Agrupación Deportiva Alcorcón</Club>
+                <DateOfBirth>24-06-1984</DateOfBirth>
+            </Player>
+            <Player id="3596">
+                <FirstName>Ismael</FirstName>
+                <LastName>Gómez Falcón</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>43</Stamina>
+                <Club>Agrupación Deportiva Alcorcón</Club>
+                <DateOfBirth>24-04-1984</DateOfBirth>
+            </Player>
+            <Player id="4423">
+                <FirstName>Francisco David</FirstName>
+                <LastName>González Borges</LastName>
+                <Position>CDM</Position>
+                <Pace>46</Pace>
+                <Shooting>47</Shooting>
+                <Passing>64</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>61</Defensive>
+                <Stamina>59</Stamina>
+                <Club>Agrupación Deportiva Alcorcón</Club>
+                <DateOfBirth>25-08-1981</DateOfBirth>
+            </Player>
+            <Player id="4721">
+                <FirstName>Alfredo</FirstName>
+                <LastName>Juan Mayordomo</LastName>
+                <Position>ST</Position>
+                <Pace>54</Pace>
+                <Shooting>60</Shooting>
+                <Passing>43</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>38</Defensive>
+                <Stamina>75</Stamina>
+                <Club>Agrupación Deportiva Alcorcón</Club>
+                <DateOfBirth>23-01-1984</DateOfBirth>
+            </Player>
+            <Player id="5105">
+                <FirstName>Alberto</FirstName>
+                <LastName>Escassi Oliva</LastName>
+                <Position>CB</Position>
+                <Pace>58</Pace>
+                <Shooting>40</Shooting>
+                <Passing>60</Passing>
+                <Offensive>50</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>73</Stamina>
+                <Club>Agrupación Deportiva Alcorcón</Club>
+                <DateOfBirth>28-02-1989</DateOfBirth>
+            </Player>
+            <Player id="5810">
+                <FirstName>Oscar</FirstName>
+                <LastName>Plano Pedreño</LastName>
+                <Position>ST</Position>
+                <Pace>79</Pace>
+                <Shooting>67</Shooting>
+                <Passing>52</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>46</Stamina>
+                <Club>Agrupación Deportiva Alcorcón</Club>
+                <DateOfBirth>11-02-1991</DateOfBirth>
+            </Player>
+            <Player id="5972">
+                <FirstName>Mikel</FirstName>
+                <LastName>Iribas Aliende</LastName>
+                <Position>RB</Position>
+                <Pace>73</Pace>
+                <Shooting>55</Shooting>
+                <Passing>60</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>56</Defensive>
+                <Stamina>77</Stamina>
+                <Club>Agrupación Deportiva Alcorcón</Club>
+                <DateOfBirth>13-04-1988</DateOfBirth>
+            </Player>
+            <Player id="7359">
+                <FirstName>Charlie Dean</FirstName>
+                <LastName>I'Anson</LastName>
+                <Position>CB</Position>
+                <Pace>63</Pace>
+                <Shooting>45</Shooting>
+                <Passing>47</Passing>
+                <Offensive>46</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>59</Stamina>
+                <Club>Agrupación Deportiva Alcorcón</Club>
+                <DateOfBirth>01-07-1993</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Racing Santander">
+            <Player id="2570">
+                <FirstName>David</FirstName>
+                <LastName>Miguélez Miguel</LastName>
+                <Position>CF</Position>
+                <Pace>56</Pace>
+                <Shooting>63</Shooting>
+                <Passing>60</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>38</Defensive>
+                <Stamina>61</Stamina>
+                <Club>Racing Santander</Club>
+                <DateOfBirth>05-05-1981</DateOfBirth>
+            </Player>
+            <Player id="3420">
+                <FirstName>Raúl</FirstName>
+                <LastName>Fdez-Cavada Mateos</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>32</Stamina>
+                <Club>Racing Santander</Club>
+                <DateOfBirth>13-03-1988</DateOfBirth>
+            </Player>
+            <Player id="3866">
+                <FirstName>José Iván</FirstName>
+                <LastName>Moreno Dellano</LastName>
+                <Position>RM</Position>
+                <Pace>75</Pace>
+                <Shooting>56</Shooting>
+                <Passing>60</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>38</Defensive>
+                <Stamina>74</Stamina>
+                <Club>Racing Santander</Club>
+                <DateOfBirth>26-02-1981</DateOfBirth>
+            </Player>
+            <Player id="3914">
+                <FirstName>Samuel</FirstName>
+                <LastName>San José Fernández</LastName>
+                <Position>CB</Position>
+                <Pace>71</Pace>
+                <Shooting>35</Shooting>
+                <Passing>47</Passing>
+                <Offensive>41</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>74</Stamina>
+                <Club>Racing Santander</Club>
+                <DateOfBirth>01-03-1984</DateOfBirth>
+            </Player>
+            <Player id="4494">
+                <FirstName>Mario</FirstName>
+                <LastName>Fernández Cuesta</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>32</Stamina>
+                <Club>Racing Santander</Club>
+                <DateOfBirth>30-04-1988</DateOfBirth>
+            </Player>
+            <Player id="4970">
+                <FirstName>Andreu</FirstName>
+                <LastName>Guerao Mayoral</LastName>
+                <Position>CM</Position>
+                <Pace>68</Pace>
+                <Shooting>58</Shooting>
+                <Passing>66</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>54</Defensive>
+                <Stamina>58</Stamina>
+                <Club>Racing Santander</Club>
+                <DateOfBirth>17-06-1983</DateOfBirth>
+            </Player>
+            <Player id="5107">
+                <FirstName>Pedro</FirstName>
+                <LastName>Orfila Artime</LastName>
+                <Position>RB</Position>
+                <Pace>74</Pace>
+                <Shooting>31</Shooting>
+                <Passing>58</Passing>
+                <Offensive>44</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Racing Santander</Club>
+                <DateOfBirth>06-03-1988</DateOfBirth>
+            </Player>
+            <Player id="5380">
+                <FirstName>Juan Pedro</FirstName>
+                <LastName>López Ramírez</LastName>
+                <Position>CB</Position>
+                <Pace>54</Pace>
+                <Shooting>35</Shooting>
+                <Passing>49</Passing>
+                <Offensive>42</Offensive>
+                <Defensive>68</Defensive>
+                <Stamina>63</Stamina>
+                <Club>Racing Santander</Club>
+                <DateOfBirth>30-04-1991</DateOfBirth>
+            </Player>
+            <Player id="6108">
+                <FirstName>Oriol</FirstName>
+                <LastName>Lozano Farrán</LastName>
+                <Position>CB</Position>
+                <Pace>56</Pace>
+                <Shooting>43</Shooting>
+                <Passing>52</Passing>
+                <Offensive>47</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>62</Stamina>
+                <Club>Racing Santander</Club>
+                <DateOfBirth>23-05-1981</DateOfBirth>
+            </Player>
+            <Player id="6711">
+                <FirstName>Álvaro</FirstName>
+                <LastName>García Rivera</LastName>
+                <Position>LM</Position>
+                <Pace>79</Pace>
+                <Shooting>52</Shooting>
+                <Passing>59</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>25</Defensive>
+                <Stamina>42</Stamina>
+                <Club>Racing Santander</Club>
+                <DateOfBirth>27-10-1992</DateOfBirth>
+            </Player>
+            <Player id="6990">
+                <FirstName>Rubén</FirstName>
+                <LastName>Durán Rodríguez</LastName>
+                <Position>CAM</Position>
+                <Pace>68</Pace>
+                <Shooting>56</Shooting>
+                <Passing>57</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>37</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Racing Santander</Club>
+                <DateOfBirth>29-09-1983</DateOfBirth>
+            </Player>
+            <Player id="7290">
+                <FirstName>Mamadou</FirstName>
+                <LastName>Kone</LastName>
+                <Position>ST</Position>
+                <Pace>87</Pace>
+                <Shooting>62</Shooting>
+                <Passing>37</Passing>
+                <Offensive>49</Offensive>
+                <Defensive>26</Defensive>
+                <Stamina>74</Stamina>
+                <Club>Racing Santander</Club>
+                <DateOfBirth>25-12-1991</DateOfBirth>
+            </Player>
+            <Player id="8852">
+                <FirstName>Borja</FirstName>
+                <LastName>Granero Niñerola</LastName>
+                <Position>CM</Position>
+                <Pace>63</Pace>
+                <Shooting>49</Shooting>
+                <Passing>58</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>47</Defensive>
+                <Stamina>59</Stamina>
+                <Club>Racing Santander</Club>
+                <DateOfBirth>30-06-1990</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Club Deportivo Mirandés">
+            <Player id="3107">
+                <FirstName>Urko</FirstName>
+                <LastName>Vera Mateos</LastName>
+                <Position>ST</Position>
+                <Pace>53</Pace>
+                <Shooting>63</Shooting>
+                <Passing>43</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>37</Defensive>
+                <Stamina>74</Stamina>
+                <Club>Club Deportivo Mirandés</Club>
+                <DateOfBirth>12-05-1987</DateOfBirth>
+            </Player>
+            <Player id="4176">
+                <FirstName>Aitor</FirstName>
+                <LastName>Fernández López</LastName>
+                <Position>RB</Position>
+                <Pace>75</Pace>
+                <Shooting>38</Shooting>
+                <Passing>54</Passing>
+                <Offensive>46</Offensive>
+                <Defensive>61</Defensive>
+                <Stamina>90</Stamina>
+                <Club>Club Deportivo Mirandés</Club>
+                <DateOfBirth>23-08-1986</DateOfBirth>
+            </Player>
+            <Player id="4308">
+                <FirstName>Gorka</FirstName>
+                <LastName>Kijera Salaberría</LastName>
+                <Position>LB</Position>
+                <Pace>70</Pace>
+                <Shooting>39</Shooting>
+                <Passing>55</Passing>
+                <Offensive>47</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>74</Stamina>
+                <Club>Club Deportivo Mirandés</Club>
+                <DateOfBirth>01-02-1986</DateOfBirth>
+            </Player>
+            <Player id="4498">
+                <FirstName>Jordi</FirstName>
+                <LastName>Pablo Ripollés</LastName>
+                <Position>RM</Position>
+                <Pace>73</Pace>
+                <Shooting>58</Shooting>
+                <Passing>64</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>34</Defensive>
+                <Stamina>59</Stamina>
+                <Club>Club Deportivo Mirandés</Club>
+                <DateOfBirth>01-01-1990</DateOfBirth>
+            </Player>
+            <Player id="5260">
+                <FirstName>César</FirstName>
+                <LastName>Fernández Heras</LastName>
+                <Position>CB</Position>
+                <Pace>60</Pace>
+                <Shooting>41</Shooting>
+                <Passing>52</Passing>
+                <Offensive>46</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>54</Stamina>
+                <Club>Club Deportivo Mirandés</Club>
+                <DateOfBirth>10-05-1978</DateOfBirth>
+            </Player>
+            <Player id="5425">
+                <FirstName>Emilio José</FirstName>
+                <LastName>Sánchez Fuentes</LastName>
+                <Position>CM</Position>
+                <Pace>65</Pace>
+                <Shooting>62</Shooting>
+                <Passing>72</Passing>
+                <Offensive>67</Offensive>
+                <Defensive>42</Defensive>
+                <Stamina>58</Stamina>
+                <Club>Club Deportivo Mirandés</Club>
+                <DateOfBirth>30-04-1985</DateOfBirth>
+            </Player>
+            <Player id="6527">
+                <FirstName>Alejandro</FirstName>
+                <LastName>Ortiz Ramos</LastName>
+                <Position>CB</Position>
+                <Pace>58</Pace>
+                <Shooting>37</Shooting>
+                <Passing>43</Passing>
+                <Offensive>40</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>56</Stamina>
+                <Club>Club Deportivo Mirandés</Club>
+                <DateOfBirth>25-09-1985</DateOfBirth>
+            </Player>
+            <Player id="6571">
+                <FirstName>Igor</FirstName>
+                <LastName>Martínez Caseras</LastName>
+                <Position>RM</Position>
+                <Pace>75</Pace>
+                <Shooting>61</Shooting>
+                <Passing>59</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>61</Stamina>
+                <Club>Club Deportivo Mirandés</Club>
+                <DateOfBirth>19-07-1989</DateOfBirth>
+            </Player>
+            <Player id="8345">
+                <FirstName>Alvaro</FirstName>
+                <LastName>Corral Echazarreta</LastName>
+                <Position>CB</Position>
+                <Pace>57</Pace>
+                <Shooting>34</Shooting>
+                <Passing>49</Passing>
+                <Offensive>41</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>64</Stamina>
+                <Club>Club Deportivo Mirandés</Club>
+                <DateOfBirth>30-05-1983</DateOfBirth>
+            </Player>
+            <Player id="8654">
+                <FirstName>Razak</FirstName>
+                <LastName>Brimah</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>41</Stamina>
+                <Club>Club Deportivo Mirandés</Club>
+                <DateOfBirth>22-06-1987</DateOfBirth>
+            </Player>
+            <Player id="9843">
+                <FirstName>Imanol</FirstName>
+                <LastName>Elías Ayllón</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>42</Stamina>
+                <Club>Club Deportivo Mirandés</Club>
+                <DateOfBirth>17-08-1990</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Club Deportivo Leganés">
+            <Player id="3779">
+                <FirstName>Pape Maly</FirstName>
+                <LastName>Diamanka</LastName>
+                <Position>CDM</Position>
+                <Pace>75</Pace>
+                <Shooting>49</Shooting>
+                <Passing>58</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Club Deportivo Leganés</Club>
+                <DateOfBirth>10-01-1990</DateOfBirth>
+            </Player>
+            <Player id="3934">
+                <FirstName>Alvaro</FirstName>
+                <LastName>García Cantó</LastName>
+                <Position>RM</Position>
+                <Pace>90</Pace>
+                <Shooting>58</Shooting>
+                <Passing>57</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>44</Defensive>
+                <Stamina>73</Stamina>
+                <Club>Club Deportivo Leganés</Club>
+                <DateOfBirth>07-07-1986</DateOfBirth>
+            </Player>
+            <Player id="4298">
+                <FirstName>Carlos Javier</FirstName>
+                <LastName>Delgado Rodríguez</LastName>
+                <Position>CB</Position>
+                <Pace>62</Pace>
+                <Shooting>36</Shooting>
+                <Passing>53</Passing>
+                <Offensive>44</Offensive>
+                <Defensive>65</Defensive>
+                <Stamina>63</Stamina>
+                <Club>Club Deportivo Leganés</Club>
+                <DateOfBirth>22-04-1990</DateOfBirth>
+            </Player>
+            <Player id="7916">
+                <FirstName>Sergio</FirstName>
+                <LastName>Fernández Prendes</LastName>
+                <Position>LM</Position>
+                <Pace>70</Pace>
+                <Shooting>55</Shooting>
+                <Passing>58</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>32</Defensive>
+                <Stamina>50</Stamina>
+                <Club>Club Deportivo Leganés</Club>
+                <DateOfBirth>15-07-1986</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Unió Esportiva Llagostera">
+            <Player id="3811">
+                <FirstName>Jordi</FirstName>
+                <LastName>López Felpeto</LastName>
+                <Position>CDM</Position>
+                <Pace>66</Pace>
+                <Shooting>44</Shooting>
+                <Passing>62</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>59</Defensive>
+                <Stamina>76</Stamina>
+                <Club>Unió Esportiva Llagostera</Club>
+                <DateOfBirth>28-02-1981</DateOfBirth>
+            </Player>
+            <Player id="5239">
+                <FirstName>Josep Maria</FirstName>
+                <LastName>Comadevall Crous</LastName>
+                <Position>CM</Position>
+                <Pace>69</Pace>
+                <Shooting>63</Shooting>
+                <Passing>61</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>48</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Unió Esportiva Llagostera</Club>
+                <DateOfBirth>24-11-1983</DateOfBirth>
+            </Player>
+            <Player id="6454">
+                <FirstName>Ruymán Jesús</FirstName>
+                <LastName>Hernández Perera</LastName>
+                <Position>CB</Position>
+                <Pace>68</Pace>
+                <Shooting>45</Shooting>
+                <Passing>55</Passing>
+                <Offensive>50</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>76</Stamina>
+                <Club>Unió Esportiva Llagostera</Club>
+                <DateOfBirth>15-10-1986</DateOfBirth>
+            </Player>
+            <Player id="6468">
+                <FirstName>Pedro</FirstName>
+                <LastName>Alcalá Guirado</LastName>
+                <Position>CB</Position>
+                <Pace>49</Pace>
+                <Shooting>44</Shooting>
+                <Passing>49</Passing>
+                <Offensive>46</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>69</Stamina>
+                <Club>Unió Esportiva Llagostera</Club>
+                <DateOfBirth>19-03-1989</DateOfBirth>
+            </Player>
+            <Player id="6737">
+                <FirstName>Juan José</FirstName>
+                <LastName>Expósito Ruiz</LastName>
+                <Position>ST</Position>
+                <Pace>59</Pace>
+                <Shooting>60</Shooting>
+                <Passing>44</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>32</Defensive>
+                <Stamina>69</Stamina>
+                <Club>Unió Esportiva Llagostera</Club>
+                <DateOfBirth>28-10-1985</DateOfBirth>
+            </Player>
+            <Player id="7396">
+                <FirstName>Jorge</FirstName>
+                <LastName>García Torre</LastName>
+                <Position>CB</Position>
+                <Pace>47</Pace>
+                <Shooting>40</Shooting>
+                <Passing>45</Passing>
+                <Offensive>42</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>64</Stamina>
+                <Club>Unió Esportiva Llagostera</Club>
+                <DateOfBirth>13-01-1984</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Albacete Balompié">
+            <Player id="4080">
+                <FirstName>Cristian</FirstName>
+                <LastName>Portugues Manzanera</LastName>
+                <Position>CM</Position>
+                <Pace>64</Pace>
+                <Shooting>58</Shooting>
+                <Passing>70</Passing>
+                <Offensive>64</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>60</Stamina>
+                <Club>Albacete Balompié</Club>
+                <DateOfBirth>21-05-1992</DateOfBirth>
+            </Player>
+            <Player id="4239">
+                <FirstName>Eduardo</FirstName>
+                <LastName>Ramos Gómez</LastName>
+                <Position>CM</Position>
+                <Pace>60</Pace>
+                <Shooting>50</Shooting>
+                <Passing>64</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>59</Defensive>
+                <Stamina>63</Stamina>
+                <Club>Albacete Balompié</Club>
+                <DateOfBirth>17-02-1992</DateOfBirth>
+            </Player>
+            <Player id="4791">
+                <FirstName>Sergio</FirstName>
+                <LastName>Gontán Gallardo</LastName>
+                <Position>RW</Position>
+                <Pace>73</Pace>
+                <Shooting>53</Shooting>
+                <Passing>65</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>31</Defensive>
+                <Stamina>67</Stamina>
+                <Club>Albacete Balompié</Club>
+                <DateOfBirth>27-12-1991</DateOfBirth>
+            </Player>
+            <Player id="5299">
+                <FirstName>Israel David</FirstName>
+                <LastName>Bascón Gigato</LastName>
+                <Position>RM</Position>
+                <Pace>74</Pace>
+                <Shooting>50</Shooting>
+                <Passing>58</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>31</Defensive>
+                <Stamina>56</Stamina>
+                <Club>Albacete Balompié</Club>
+                <DateOfBirth>16-03-1987</DateOfBirth>
+            </Player>
+            <Player id="6279">
+                <FirstName>Rafael</FirstName>
+                <LastName>Fernández Martínez</LastName>
+                <Position>ST</Position>
+                <Pace>69</Pace>
+                <Shooting>61</Shooting>
+                <Passing>50</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Albacete Balompié</Club>
+                <DateOfBirth>05-05-1989</DateOfBirth>
+            </Player>
+            <Player id="6909">
+                <FirstName>Francisco</FirstName>
+                <LastName>Noguerol Freijedo</LastName>
+                <Position>CB</Position>
+                <Pace>55</Pace>
+                <Shooting>44</Shooting>
+                <Passing>47</Passing>
+                <Offensive>45</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>55</Stamina>
+                <Club>Albacete Balompié</Club>
+                <DateOfBirth>09-07-1976</DateOfBirth>
+            </Player>
+            <Player id="7767">
+                <FirstName>Diego</FirstName>
+                <LastName>Rivas Rego</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>41</Stamina>
+                <Club>Albacete Balompié</Club>
+                <DateOfBirth>27-05-1986</DateOfBirth>
+            </Player>
+            <Player id="8442">
+                <FirstName>Francisco Ramón</FirstName>
+                <LastName>Dorronsoro Sánchez</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>42</Stamina>
+                <Club>Albacete Balompié</Club>
+                <DateOfBirth>22-05-1985</DateOfBirth>
+            </Player>
+            <Player id="9942">
+                <FirstName>Thierry</FirstName>
+                <LastName>Moutinho</LastName>
+                <Position>LM</Position>
+                <Pace>70</Pace>
+                <Shooting>53</Shooting>
+                <Passing>51</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>48</Defensive>
+                <Stamina>60</Stamina>
+                <Club>Albacete Balompié</Club>
+                <DateOfBirth>26-02-1991</DateOfBirth>
+            </Player>
+        </Team>
+    </League>
+</Players>

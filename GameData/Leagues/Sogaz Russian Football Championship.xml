@@ -1,0 +1,3651 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Players>
+    <League Name="Sogaz Russian Football Championship">
+        <Team Name="CSKA Moskva">
+            <Player id="25">
+                <FirstName>Seydou</FirstName>
+                <LastName>Doumbia</LastName>
+                <Position>ST</Position>
+                <Pace>93</Pace>
+                <Shooting>82</Shooting>
+                <Passing>68</Passing>
+                <Offensive>75</Offensive>
+                <Defensive>38</Defensive>
+                <Stamina>94</Stamina>
+                <Club>CSKA Moskva</Club>
+                <DateOfBirth>31-12-1987</DateOfBirth>
+            </Player>
+            <Player id="67">
+                <FirstName>Victor Vinícius</FirstName>
+                <LastName>Coelho dos Santos</LastName>
+                <Position>CAM</Position>
+                <Pace>81</Pace>
+                <Shooting>73</Shooting>
+                <Passing>63</Passing>
+                <Offensive>68</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>63</Stamina>
+                <Club>CSKA Moskva</Club>
+                <DateOfBirth>09-10-1993</DateOfBirth>
+            </Player>
+            <Player id="703">
+                <FirstName>Georgi</FirstName>
+                <LastName>Milanov</LastName>
+                <Position>CAM</Position>
+                <Pace>76</Pace>
+                <Shooting>69</Shooting>
+                <Passing>69</Passing>
+                <Offensive>69</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>72</Stamina>
+                <Club>CSKA Moskva</Club>
+                <DateOfBirth>19-02-1992</DateOfBirth>
+            </Player>
+            <Player id="953">
+                <FirstName>Kirill</FirstName>
+                <LastName>Nababkin</LastName>
+                <Position>RB</Position>
+                <Pace>80</Pace>
+                <Shooting>38</Shooting>
+                <Passing>63</Passing>
+                <Offensive>50</Offensive>
+                <Defensive>70</Defensive>
+                <Stamina>71</Stamina>
+                <Club>CSKA Moskva</Club>
+                <DateOfBirth>08-09-1986</DateOfBirth>
+            </Player>
+            <Player id="1933">
+                <FirstName>Aleksandrs</FirstName>
+                <LastName>Cauņa</LastName>
+                <Position>CM</Position>
+                <Pace>75</Pace>
+                <Shooting>63</Shooting>
+                <Passing>69</Passing>
+                <Offensive>66</Offensive>
+                <Defensive>56</Defensive>
+                <Stamina>69</Stamina>
+                <Club>CSKA Moskva</Club>
+                <DateOfBirth>19-01-1988</DateOfBirth>
+            </Player>
+            <Player id="2142">
+                <FirstName>Alan</FirstName>
+                <LastName>Dzagoev</LastName>
+                <Position>LM</Position>
+                <Pace>76</Pace>
+                <Shooting>76</Shooting>
+                <Passing>82</Passing>
+                <Offensive>79</Offensive>
+                <Defensive>40</Defensive>
+                <Stamina>78</Stamina>
+                <Club>CSKA Moskva</Club>
+                <DateOfBirth>17-06-1990</DateOfBirth>
+            </Player>
+            <Player id="2413">
+                <FirstName>Zoran</FirstName>
+                <LastName>Tošić</LastName>
+                <Position>RM</Position>
+                <Pace>90</Pace>
+                <Shooting>80</Shooting>
+                <Passing>77</Passing>
+                <Offensive>78</Offensive>
+                <Defensive>32</Defensive>
+                <Stamina>82</Stamina>
+                <Club>CSKA Moskva</Club>
+                <DateOfBirth>28-04-1987</DateOfBirth>
+            </Player>
+            <Player id="2698">
+                <FirstName>Rasmus</FirstName>
+                <LastName>Elm</LastName>
+                <Position>CDM</Position>
+                <Pace>65</Pace>
+                <Shooting>71</Shooting>
+                <Passing>82</Passing>
+                <Offensive>76</Offensive>
+                <Defensive>72</Defensive>
+                <Stamina>90</Stamina>
+                <Club>CSKA Moskva</Club>
+                <DateOfBirth>17-03-1988</DateOfBirth>
+            </Player>
+            <Player id="3218">
+                <FirstName>Roman</FirstName>
+                <LastName>Eremenko</LastName>
+                <Position>CAM</Position>
+                <Pace>77</Pace>
+                <Shooting>73</Shooting>
+                <Passing>80</Passing>
+                <Offensive>76</Offensive>
+                <Defensive>55</Defensive>
+                <Stamina>82</Stamina>
+                <Club>CSKA Moskva</Club>
+                <DateOfBirth>19-03-1987</DateOfBirth>
+            </Player>
+            <Player id="4023">
+                <FirstName>Vasiliy</FirstName>
+                <LastName>Berezutskiy</LastName>
+                <Position>CB</Position>
+                <Pace>50</Pace>
+                <Shooting>38</Shooting>
+                <Passing>58</Passing>
+                <Offensive>48</Offensive>
+                <Defensive>80</Defensive>
+                <Stamina>73</Stamina>
+                <Club>CSKA Moskva</Club>
+                <DateOfBirth>20-06-1982</DateOfBirth>
+            </Player>
+            <Player id="4097">
+                <FirstName>Konstantin</FirstName>
+                <LastName>Bazelyuk</LastName>
+                <Position>ST</Position>
+                <Pace>60</Pace>
+                <Shooting>69</Shooting>
+                <Passing>46</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>31</Defensive>
+                <Stamina>59</Stamina>
+                <Club>CSKA Moskva</Club>
+                <DateOfBirth>12-04-1993</DateOfBirth>
+            </Player>
+            <Player id="5619">
+                <FirstName>Sergey</FirstName>
+                <LastName>Ignashevich</LastName>
+                <Position>CB</Position>
+                <Pace>46</Pace>
+                <Shooting>60</Shooting>
+                <Passing>61</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>80</Defensive>
+                <Stamina>75</Stamina>
+                <Club>CSKA Moskva</Club>
+                <DateOfBirth>14-07-1979</DateOfBirth>
+            </Player>
+            <Player id="6414">
+                <FirstName>Pontus</FirstName>
+                <LastName>Wernbloom</LastName>
+                <Position>CDM</Position>
+                <Pace>52</Pace>
+                <Shooting>65</Shooting>
+                <Passing>66</Passing>
+                <Offensive>65</Offensive>
+                <Defensive>77</Defensive>
+                <Stamina>93</Stamina>
+                <Club>CSKA Moskva</Club>
+                <DateOfBirth>25-06-1986</DateOfBirth>
+            </Player>
+            <Player id="8284">
+                <FirstName>Bibars</FirstName>
+                <LastName>Natkho</LastName>
+                <Position>CDM</Position>
+                <Pace>72</Pace>
+                <Shooting>67</Shooting>
+                <Passing>79</Passing>
+                <Offensive>73</Offensive>
+                <Defensive>68</Defensive>
+                <Stamina>81</Stamina>
+                <Club>CSKA Moskva</Club>
+                <DateOfBirth>18-02-1988</DateOfBirth>
+            </Player>
+            <Player id="8824">
+                <FirstName>Mário</FirstName>
+                <LastName>Figueira Fernandes</LastName>
+                <Position>RB</Position>
+                <Pace>81</Pace>
+                <Shooting>56</Shooting>
+                <Passing>65</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>78</Defensive>
+                <Stamina>81</Stamina>
+                <Club>CSKA Moskva</Club>
+                <DateOfBirth>19-09-1990</DateOfBirth>
+            </Player>
+            <Player id="9846">
+                <FirstName>Sergey</FirstName>
+                <LastName>Revyakin</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>29</Stamina>
+                <Club>CSKA Moskva</Club>
+                <DateOfBirth>02-04-1995</DateOfBirth>
+            </Player>
+            <Player id="11774">
+                <FirstName>Ahmed</FirstName>
+                <LastName>Musa</LastName>
+                <Position>ST</Position>
+                <Pace>93</Pace>
+                <Shooting>74</Shooting>
+                <Passing>66</Passing>
+                <Offensive>70</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>80</Stamina>
+                <Club>CSKA Moskva</Club>
+                <DateOfBirth>14-10-1992</DateOfBirth>
+            </Player>
+            <Player id="12393">
+                <FirstName>Igor</FirstName>
+                <LastName>Akinfeev</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>35</Stamina>
+                <Club>CSKA Moskva</Club>
+                <DateOfBirth>08-04-1986</DateOfBirth>
+            </Player>
+            <Player id="12570">
+                <FirstName>Georgiy</FirstName>
+                <LastName>Schennikov</LastName>
+                <Position>LB</Position>
+                <Pace>81</Pace>
+                <Shooting>49</Shooting>
+                <Passing>67</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>73</Defensive>
+                <Stamina>73</Stamina>
+                <Club>CSKA Moskva</Club>
+                <DateOfBirth>27-04-1991</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Zenit St. Petersburg">
+            <Player id="66">
+                <FirstName>Oleg</FirstName>
+                <LastName>Shatov</LastName>
+                <Position>CAM</Position>
+                <Pace>82</Pace>
+                <Shooting>61</Shooting>
+                <Passing>67</Passing>
+                <Offensive>64</Offensive>
+                <Defensive>50</Defensive>
+                <Stamina>56</Stamina>
+                <Club>Zenit St. Petersburg</Club>
+                <DateOfBirth>29-07-1990</DateOfBirth>
+            </Player>
+            <Player id="652">
+                <FirstName>Igor</FirstName>
+                <LastName>Smolnikov</LastName>
+                <Position>RB</Position>
+                <Pace>81</Pace>
+                <Shooting>47</Shooting>
+                <Passing>66</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>71</Defensive>
+                <Stamina>73</Stamina>
+                <Club>Zenit St. Petersburg</Club>
+                <DateOfBirth>08-08-1988</DateOfBirth>
+            </Player>
+            <Player id="824">
+                <FirstName>Salomón</FirstName>
+                <LastName>Rondón</LastName>
+                <Position>ST</Position>
+                <Pace>81</Pace>
+                <Shooting>84</Shooting>
+                <Passing>58</Passing>
+                <Offensive>71</Offensive>
+                <Defensive>34</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Zenit St. Petersburg</Club>
+                <DateOfBirth>16-09-1989</DateOfBirth>
+            </Player>
+            <Player id="2154">
+                <FirstName>Axel</FirstName>
+                <LastName>Witsel</LastName>
+                <Position>CM</Position>
+                <Pace>71</Pace>
+                <Shooting>73</Shooting>
+                <Passing>77</Passing>
+                <Offensive>75</Offensive>
+                <Defensive>74</Defensive>
+                <Stamina>85</Stamina>
+                <Club>Zenit St. Petersburg</Club>
+                <DateOfBirth>12-01-1989</DateOfBirth>
+            </Player>
+            <Player id="2626">
+                <FirstName>Ivan</FirstName>
+                <LastName>Solovyev</LastName>
+                <Position>LM</Position>
+                <Pace>74</Pace>
+                <Shooting>48</Shooting>
+                <Passing>65</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>50</Defensive>
+                <Stamina>62</Stamina>
+                <Club>Zenit St. Petersburg</Club>
+                <DateOfBirth>29-03-1993</DateOfBirth>
+            </Player>
+            <Player id="2632">
+                <FirstName>Milan</FirstName>
+                <LastName>Rodić</LastName>
+                <Position>LB</Position>
+                <Pace>69</Pace>
+                <Shooting>35</Shooting>
+                <Passing>54</Passing>
+                <Offensive>44</Offensive>
+                <Defensive>65</Defensive>
+                <Stamina>73</Stamina>
+                <Club>Zenit St. Petersburg</Club>
+                <DateOfBirth>02-04-1991</DateOfBirth>
+            </Player>
+            <Player id="2649">
+                <FirstName>Dzhamaldin</FirstName>
+                <LastName>Khodzhaniyazov</LastName>
+                <Position>LB</Position>
+                <Pace>71</Pace>
+                <Shooting>54</Shooting>
+                <Passing>55</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>68</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Zenit St. Petersburg</Club>
+                <DateOfBirth>18-07-1996</DateOfBirth>
+            </Player>
+            <Player id="3221">
+                <FirstName>Fran. Javier</FirstName>
+                <LastName>García Fernández</LastName>
+                <Position>CDM</Position>
+                <Pace>63</Pace>
+                <Shooting>66</Shooting>
+                <Passing>74</Passing>
+                <Offensive>70</Offensive>
+                <Defensive>81</Defensive>
+                <Stamina>77</Stamina>
+                <Club>Zenit St. Petersburg</Club>
+                <DateOfBirth>08-02-1987</DateOfBirth>
+            </Player>
+            <Player id="6163">
+                <FirstName>Alexandr</FirstName>
+                <LastName>Anyukov</LastName>
+                <Position>RB</Position>
+                <Pace>75</Pace>
+                <Shooting>63</Shooting>
+                <Passing>76</Passing>
+                <Offensive>69</Offensive>
+                <Defensive>76</Defensive>
+                <Stamina>88</Stamina>
+                <Club>Zenit St. Petersburg</Club>
+                <DateOfBirth>28-09-1982</DateOfBirth>
+            </Player>
+            <Player id="6688">
+                <FirstName>Yuriy</FirstName>
+                <LastName>Lodygin</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>37</Stamina>
+                <Club>Zenit St. Petersburg</Club>
+                <DateOfBirth>26-05-1990</DateOfBirth>
+            </Player>
+            <Player id="7477">
+                <FirstName>Alexandr</FirstName>
+                <LastName>Kerzhakov</LastName>
+                <Position>ST</Position>
+                <Pace>80</Pace>
+                <Shooting>74</Shooting>
+                <Passing>73</Passing>
+                <Offensive>73</Offensive>
+                <Defensive>35</Defensive>
+                <Stamina>82</Stamina>
+                <Club>Zenit St. Petersburg</Club>
+                <DateOfBirth>27-11-1982</DateOfBirth>
+            </Player>
+            <Player id="7731">
+                <FirstName>Nicolas</FirstName>
+                <LastName>Lombaerts</LastName>
+                <Position>CB</Position>
+                <Pace>42</Pace>
+                <Shooting>48</Shooting>
+                <Passing>66</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>77</Defensive>
+                <Stamina>66</Stamina>
+                <Club>Zenit St. Petersburg</Club>
+                <DateOfBirth>20-03-1985</DateOfBirth>
+            </Player>
+            <Player id="8970">
+                <FirstName>Ilya</FirstName>
+                <LastName>Zuev</LastName>
+                <Position>CB</Position>
+                <Pace>56</Pace>
+                <Shooting>31</Shooting>
+                <Passing>42</Passing>
+                <Offensive>36</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>58</Stamina>
+                <Club>Zenit St. Petersburg</Club>
+                <DateOfBirth>25-01-1994</DateOfBirth>
+            </Player>
+            <Player id="9089">
+                <FirstName>Vyacheslav</FirstName>
+                <LastName>Malafeev</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>38</Stamina>
+                <Club>Zenit St. Petersburg</Club>
+                <DateOfBirth>04-03-1979</DateOfBirth>
+            </Player>
+            <Player id="9247">
+                <FirstName>Alexey</FirstName>
+                <LastName>Gasilin</LastName>
+                <Position>ST</Position>
+                <Pace>72</Pace>
+                <Shooting>59</Shooting>
+                <Passing>49</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>58</Stamina>
+                <Club>Zenit St. Petersburg</Club>
+                <DateOfBirth>01-03-1996</DateOfBirth>
+            </Player>
+            <Player id="9886">
+                <FirstName>Andrey</FirstName>
+                <LastName>Arshavin</LastName>
+                <Position>LW</Position>
+                <Pace>75</Pace>
+                <Shooting>71</Shooting>
+                <Passing>76</Passing>
+                <Offensive>73</Offensive>
+                <Defensive>27</Defensive>
+                <Stamina>55</Stamina>
+                <Club>Zenit St. Petersburg</Club>
+                <DateOfBirth>29-05-1981</DateOfBirth>
+            </Player>
+            <Player id="10006">
+                <FirstName>Andrey</FirstName>
+                <LastName>Ivanov</LastName>
+                <Position>LB</Position>
+                <Pace>73</Pace>
+                <Shooting>30</Shooting>
+                <Passing>40</Passing>
+                <Offensive>35</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>69</Stamina>
+                <Club>Zenit St. Petersburg</Club>
+                <DateOfBirth>02-09-1994</DateOfBirth>
+            </Player>
+            <Player id="10111">
+                <FirstName>Danila</FirstName>
+                <LastName>Yaschuk</LastName>
+                <Position>LM</Position>
+                <Pace>74</Pace>
+                <Shooting>58</Shooting>
+                <Passing>53</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>46</Stamina>
+                <Club>Zenit St. Petersburg</Club>
+                <DateOfBirth>13-03-1995</DateOfBirth>
+            </Player>
+            <Player id="10774">
+                <FirstName>Stepan</FirstName>
+                <LastName>Rebenko</LastName>
+                <Position>CB</Position>
+                <Pace>78</Pace>
+                <Shooting>29</Shooting>
+                <Passing>33</Passing>
+                <Offensive>31</Offensive>
+                <Defensive>57</Defensive>
+                <Stamina>62</Stamina>
+                <Club>Zenit St. Petersburg</Club>
+                <DateOfBirth>01-05-1995</DateOfBirth>
+            </Player>
+            <Player id="11706">
+                <FirstName>Anatoliy</FirstName>
+                <LastName>Tymoshchuk</LastName>
+                <Position>CDM</Position>
+                <Pace>53</Pace>
+                <Shooting>58</Shooting>
+                <Passing>68</Passing>
+                <Offensive>63</Offensive>
+                <Defensive>78</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Zenit St. Petersburg</Club>
+                <DateOfBirth>30-03-1979</DateOfBirth>
+            </Player>
+            <Player id="11776">
+                <FirstName>Luís Carlos</FirstName>
+                <LastName>Novo Neto</LastName>
+                <Position>CB</Position>
+                <Pace>68</Pace>
+                <Shooting>36</Shooting>
+                <Passing>56</Passing>
+                <Offensive>46</Offensive>
+                <Defensive>78</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Zenit St. Petersburg</Club>
+                <DateOfBirth>26-05-1988</DateOfBirth>
+            </Player>
+            <Player id="12094">
+                <FirstName>Alexandr</FirstName>
+                <LastName>Ryazantsev</LastName>
+                <Position>RM</Position>
+                <Pace>73</Pace>
+                <Shooting>68</Shooting>
+                <Passing>73</Passing>
+                <Offensive>70</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>66</Stamina>
+                <Club>Zenit St. Petersburg</Club>
+                <DateOfBirth>05-09-1986</DateOfBirth>
+            </Player>
+            <Player id="12247">
+                <FirstName>Viktor</FirstName>
+                <LastName>Fayzulin</LastName>
+                <Position>CM</Position>
+                <Pace>79</Pace>
+                <Shooting>67</Shooting>
+                <Passing>76</Passing>
+                <Offensive>71</Offensive>
+                <Defensive>40</Defensive>
+                <Stamina>65</Stamina>
+                <Club>Zenit St. Petersburg</Club>
+                <DateOfBirth>22-04-1986</DateOfBirth>
+            </Player>
+            <Player id="12380">
+                <FirstName>Ezequiel</FirstName>
+                <LastName>Garay</LastName>
+                <Position>CB</Position>
+                <Pace>52</Pace>
+                <Shooting>57</Shooting>
+                <Passing>68</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>86</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Zenit St. Petersburg</Club>
+                <DateOfBirth>10-10-1986</DateOfBirth>
+            </Player>
+            <Player id="12383">
+                <FirstName>Givanildo</FirstName>
+                <LastName>Vieira de Souza</LastName>
+                <Position>RW</Position>
+                <Pace>82</Pace>
+                <Shooting>87</Shooting>
+                <Passing>79</Passing>
+                <Offensive>83</Offensive>
+                <Defensive>43</Defensive>
+                <Stamina>84</Stamina>
+                <Club>Zenit St. Petersburg</Club>
+                <DateOfBirth>25-07-1986</DateOfBirth>
+            </Player>
+            <Player id="12662">
+                <FirstName>Danny Miguel</FirstName>
+                <LastName>Alves Gomes</LastName>
+                <Position>LW</Position>
+                <Pace>85</Pace>
+                <Shooting>76</Shooting>
+                <Passing>81</Passing>
+                <Offensive>78</Offensive>
+                <Defensive>33</Defensive>
+                <Stamina>69</Stamina>
+                <Club>Zenit St. Petersburg</Club>
+                <DateOfBirth>07-08-1983</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Lokomotiv Moskva">
+            <Player id="131">
+                <FirstName>Alberto</FirstName>
+                <LastName>Zapater Arjol</LastName>
+                <Position>CDM</Position>
+                <Pace>57</Pace>
+                <Shooting>66</Shooting>
+                <Passing>71</Passing>
+                <Offensive>68</Offensive>
+                <Defensive>70</Defensive>
+                <Stamina>83</Stamina>
+                <Club>Lokomotiv Moskva</Club>
+                <DateOfBirth>13-06-1985</DateOfBirth>
+            </Player>
+            <Player id="162">
+                <FirstName>Taras</FirstName>
+                <LastName>Mykhalyk</LastName>
+                <Position>CB</Position>
+                <Pace>67</Pace>
+                <Shooting>47</Shooting>
+                <Passing>67</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>72</Defensive>
+                <Stamina>77</Stamina>
+                <Club>Lokomotiv Moskva</Club>
+                <DateOfBirth>28-10-1983</DateOfBirth>
+            </Player>
+            <Player id="565">
+                <FirstName>Mbark</FirstName>
+                <LastName>Boussoufa</LastName>
+                <Position>CAM</Position>
+                <Pace>80</Pace>
+                <Shooting>72</Shooting>
+                <Passing>82</Passing>
+                <Offensive>77</Offensive>
+                <Defensive>42</Defensive>
+                <Stamina>84</Stamina>
+                <Club>Lokomotiv Moskva</Club>
+                <DateOfBirth>15-08-1984</DateOfBirth>
+            </Player>
+            <Player id="1196">
+                <FirstName>Sergey</FirstName>
+                <LastName>Tkachev</LastName>
+                <Position>CAM</Position>
+                <Pace>72</Pace>
+                <Shooting>68</Shooting>
+                <Passing>70</Passing>
+                <Offensive>69</Offensive>
+                <Defensive>32</Defensive>
+                <Stamina>61</Stamina>
+                <Club>Lokomotiv Moskva</Club>
+                <DateOfBirth>19-05-1989</DateOfBirth>
+            </Player>
+            <Player id="2418">
+                <FirstName>Vedran</FirstName>
+                <LastName>Ćorluka</LastName>
+                <Position>CB</Position>
+                <Pace>53</Pace>
+                <Shooting>50</Shooting>
+                <Passing>68</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>83</Defensive>
+                <Stamina>84</Stamina>
+                <Club>Lokomotiv Moskva</Club>
+                <DateOfBirth>05-02-1986</DateOfBirth>
+            </Player>
+            <Player id="2438">
+                <FirstName>Yan</FirstName>
+                <LastName>Tigorev</LastName>
+                <Position>CDM</Position>
+                <Pace>67</Pace>
+                <Shooting>28</Shooting>
+                <Passing>55</Passing>
+                <Offensive>41</Offensive>
+                <Defensive>70</Defensive>
+                <Stamina>68</Stamina>
+                <Club>Lokomotiv Moskva</Club>
+                <DateOfBirth>10-03-1984</DateOfBirth>
+            </Player>
+            <Player id="3223">
+                <FirstName>Lassana</FirstName>
+                <LastName>Diarra</LastName>
+                <Position>CDM</Position>
+                <Pace>78</Pace>
+                <Shooting>52</Shooting>
+                <Passing>72</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>80</Defensive>
+                <Stamina>80</Stamina>
+                <Club>Lokomotiv Moskva</Club>
+                <DateOfBirth>10-03-1985</DateOfBirth>
+            </Player>
+            <Player id="3504">
+                <FirstName>Manuel H.</FirstName>
+                <LastName>Tavares Fernandes</LastName>
+                <Position>CM</Position>
+                <Pace>82</Pace>
+                <Shooting>74</Shooting>
+                <Passing>81</Passing>
+                <Offensive>77</Offensive>
+                <Defensive>70</Defensive>
+                <Stamina>73</Stamina>
+                <Club>Lokomotiv Moskva</Club>
+                <DateOfBirth>05-02-1986</DateOfBirth>
+            </Player>
+            <Player id="3728">
+                <FirstName>Miroslav</FirstName>
+                <LastName>Lobantsev</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>36</Stamina>
+                <Club>Lokomotiv Moskva</Club>
+                <DateOfBirth>27-05-1995</DateOfBirth>
+            </Player>
+            <Player id="3757">
+                <FirstName>Dame</FirstName>
+                <LastName>N'Doye</LastName>
+                <Position>ST</Position>
+                <Pace>75</Pace>
+                <Shooting>80</Shooting>
+                <Passing>62</Passing>
+                <Offensive>71</Offensive>
+                <Defensive>37</Defensive>
+                <Stamina>84</Stamina>
+                <Club>Lokomotiv Moskva</Club>
+                <DateOfBirth>21-02-1985</DateOfBirth>
+            </Player>
+            <Player id="3812">
+                <FirstName>Alexandr</FirstName>
+                <LastName>Sheshukov</LastName>
+                <Position>CDM</Position>
+                <Pace>69</Pace>
+                <Shooting>51</Shooting>
+                <Passing>65</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>64</Stamina>
+                <Club>Lokomotiv Moskva</Club>
+                <DateOfBirth>15-04-1983</DateOfBirth>
+            </Player>
+            <Player id="4550">
+                <FirstName>Alexandr</FirstName>
+                <LastName>Samedov</LastName>
+                <Position>RM</Position>
+                <Pace>81</Pace>
+                <Shooting>71</Shooting>
+                <Passing>79</Passing>
+                <Offensive>75</Offensive>
+                <Defensive>49</Defensive>
+                <Stamina>78</Stamina>
+                <Club>Lokomotiv Moskva</Club>
+                <DateOfBirth>19-07-1984</DateOfBirth>
+            </Player>
+            <Player id="4596">
+                <FirstName>Maxim</FirstName>
+                <LastName>Belyaev</LastName>
+                <Position>CB</Position>
+                <Pace>67</Pace>
+                <Shooting>27</Shooting>
+                <Passing>38</Passing>
+                <Offensive>32</Offensive>
+                <Defensive>70</Defensive>
+                <Stamina>56</Stamina>
+                <Club>Lokomotiv Moskva</Club>
+                <DateOfBirth>30-09-1991</DateOfBirth>
+            </Player>
+            <Player id="6420">
+                <FirstName>Guilherme Alvim</FirstName>
+                <LastName>Marinato</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>32</Stamina>
+                <Club>Lokomotiv Moskva</Club>
+                <DateOfBirth>12-12-1985</DateOfBirth>
+            </Player>
+            <Player id="7737">
+                <FirstName>Roman</FirstName>
+                <LastName>Shishkin</LastName>
+                <Position>RB</Position>
+                <Pace>77</Pace>
+                <Shooting>60</Shooting>
+                <Passing>72</Passing>
+                <Offensive>66</Offensive>
+                <Defensive>76</Defensive>
+                <Stamina>76</Stamina>
+                <Club>Lokomotiv Moskva</Club>
+                <DateOfBirth>27-01-1987</DateOfBirth>
+            </Player>
+            <Player id="8023">
+                <FirstName>Dmitriy</FirstName>
+                <LastName>Tarasov</LastName>
+                <Position>CDM</Position>
+                <Pace>72</Pace>
+                <Shooting>55</Shooting>
+                <Passing>67</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>76</Defensive>
+                <Stamina>78</Stamina>
+                <Club>Lokomotiv Moskva</Club>
+                <DateOfBirth>18-03-1987</DateOfBirth>
+            </Player>
+            <Player id="11752">
+                <FirstName>Maicon</FirstName>
+                <LastName>Marques Bittencourt</LastName>
+                <Position>LM</Position>
+                <Pace>93</Pace>
+                <Shooting>70</Shooting>
+                <Passing>68</Passing>
+                <Offensive>69</Offensive>
+                <Defensive>31</Defensive>
+                <Stamina>79</Stamina>
+                <Club>Lokomotiv Moskva</Club>
+                <DateOfBirth>18-02-1990</DateOfBirth>
+            </Player>
+            <Player id="12093">
+                <FirstName>Vitaliy</FirstName>
+                <LastName>Denisov</LastName>
+                <Position>LB</Position>
+                <Pace>84</Pace>
+                <Shooting>50</Shooting>
+                <Passing>64</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>73</Defensive>
+                <Stamina>86</Stamina>
+                <Club>Lokomotiv Moskva</Club>
+                <DateOfBirth>23-02-1987</DateOfBirth>
+            </Player>
+            <Player id="12164">
+                <FirstName>Nemanja</FirstName>
+                <LastName>Pejčinović</LastName>
+                <Position>CB</Position>
+                <Pace>54</Pace>
+                <Shooting>39</Shooting>
+                <Passing>60</Passing>
+                <Offensive>49</Offensive>
+                <Defensive>74</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Lokomotiv Moskva</Club>
+                <DateOfBirth>04-10-1987</DateOfBirth>
+            </Player>
+            <Player id="12437">
+                <FirstName>Roman</FirstName>
+                <LastName>Pavlyuchenko</LastName>
+                <Position>ST</Position>
+                <Pace>55</Pace>
+                <Shooting>78</Shooting>
+                <Passing>67</Passing>
+                <Offensive>72</Offensive>
+                <Defensive>32</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Lokomotiv Moskva</Club>
+                <DateOfBirth>15-12-1981</DateOfBirth>
+            </Player>
+            <Player id="12439">
+                <FirstName>Renat</FirstName>
+                <LastName>Yanbaev</LastName>
+                <Position>RB</Position>
+                <Pace>82</Pace>
+                <Shooting>58</Shooting>
+                <Passing>67</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>72</Defensive>
+                <Stamina>80</Stamina>
+                <Club>Lokomotiv Moskva</Club>
+                <DateOfBirth>07-04-1984</DateOfBirth>
+            </Player>
+            <Player id="12447">
+                <FirstName>Ilya</FirstName>
+                <LastName>Abaev</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>33</Stamina>
+                <Club>Lokomotiv Moskva</Club>
+                <DateOfBirth>02-08-1981</DateOfBirth>
+            </Player>
+            <Player id="12455">
+                <FirstName>Jan</FirstName>
+                <LastName>Ďurica</LastName>
+                <Position>CB</Position>
+                <Pace>52</Pace>
+                <Shooting>40</Shooting>
+                <Passing>55</Passing>
+                <Offensive>47</Offensive>
+                <Defensive>75</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Lokomotiv Moskva</Club>
+                <DateOfBirth>10-12-1981</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Dinamo Moskva">
+            <Player id="142">
+                <FirstName>Anton</FirstName>
+                <LastName>Shunin</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>30</Stamina>
+                <Club>Dinamo Moskva</Club>
+                <DateOfBirth>27-01-1987</DateOfBirth>
+            </Player>
+            <Player id="755">
+                <FirstName>Roman</FirstName>
+                <LastName>Berezovskiy</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>31</Stamina>
+                <Club>Dinamo Moskva</Club>
+                <DateOfBirth>05-08-1974</DateOfBirth>
+            </Player>
+            <Player id="833">
+                <FirstName>Mathieu</FirstName>
+                <LastName>Valbuena</LastName>
+                <Position>CAM</Position>
+                <Pace>86</Pace>
+                <Shooting>73</Shooting>
+                <Passing>80</Passing>
+                <Offensive>76</Offensive>
+                <Defensive>33</Defensive>
+                <Stamina>81</Stamina>
+                <Club>Dinamo Moskva</Club>
+                <DateOfBirth>28-09-1984</DateOfBirth>
+            </Player>
+            <Player id="932">
+                <FirstName>Alexey</FirstName>
+                <LastName>Kozlov</LastName>
+                <Position>RB</Position>
+                <Pace>62</Pace>
+                <Shooting>42</Shooting>
+                <Passing>61</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>70</Defensive>
+                <Stamina>75</Stamina>
+                <Club>Dinamo Moskva</Club>
+                <DateOfBirth>25-12-1986</DateOfBirth>
+            </Player>
+            <Player id="1331">
+                <FirstName>Stanislav</FirstName>
+                <LastName>Manolev</LastName>
+                <Position>RM</Position>
+                <Pace>74</Pace>
+                <Shooting>59</Shooting>
+                <Passing>65</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>86</Stamina>
+                <Club>Dinamo Moskva</Club>
+                <DateOfBirth>16-12-1985</DateOfBirth>
+            </Player>
+            <Player id="1623">
+                <FirstName>Balázs</FirstName>
+                <LastName>Dzsudzsák</LastName>
+                <Position>LM</Position>
+                <Pace>82</Pace>
+                <Shooting>82</Shooting>
+                <Passing>82</Passing>
+                <Offensive>82</Offensive>
+                <Defensive>27</Defensive>
+                <Stamina>82</Stamina>
+                <Club>Dinamo Moskva</Club>
+                <DateOfBirth>23-12-1986</DateOfBirth>
+            </Player>
+            <Player id="1880">
+                <FirstName>Igor</FirstName>
+                <LastName>Denisov</LastName>
+                <Position>CDM</Position>
+                <Pace>76</Pace>
+                <Shooting>67</Shooting>
+                <Passing>75</Passing>
+                <Offensive>71</Offensive>
+                <Defensive>80</Defensive>
+                <Stamina>91</Stamina>
+                <Club>Dinamo Moskva</Club>
+                <DateOfBirth>17-05-1984</DateOfBirth>
+            </Player>
+            <Player id="3302">
+                <FirstName>Alexandr</FirstName>
+                <LastName>Prudnikov</LastName>
+                <Position>ST</Position>
+                <Pace>63</Pace>
+                <Shooting>70</Shooting>
+                <Passing>55</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>65</Stamina>
+                <Club>Dinamo Moskva</Club>
+                <DateOfBirth>26-02-1989</DateOfBirth>
+            </Player>
+            <Player id="3872">
+                <FirstName>Boris</FirstName>
+                <LastName>Rotenberg</LastName>
+                <Position>CB</Position>
+                <Pace>43</Pace>
+                <Shooting>42</Shooting>
+                <Passing>52</Passing>
+                <Offensive>47</Offensive>
+                <Defensive>71</Defensive>
+                <Stamina>64</Stamina>
+                <Club>Dinamo Moskva</Club>
+                <DateOfBirth>19-05-1986</DateOfBirth>
+            </Player>
+            <Player id="4551">
+                <FirstName>Yuriy</FirstName>
+                <LastName>Zhirkov</LastName>
+                <Position>LM</Position>
+                <Pace>77</Pace>
+                <Shooting>68</Shooting>
+                <Passing>78</Passing>
+                <Offensive>73</Offensive>
+                <Defensive>69</Defensive>
+                <Stamina>81</Stamina>
+                <Club>Dinamo Moskva</Club>
+                <DateOfBirth>20-08-1983</DateOfBirth>
+            </Player>
+            <Player id="4813">
+                <FirstName>Alexandr</FirstName>
+                <LastName>Kokorin</LastName>
+                <Position>ST</Position>
+                <Pace>85</Pace>
+                <Shooting>77</Shooting>
+                <Passing>72</Passing>
+                <Offensive>74</Offensive>
+                <Defensive>44</Defensive>
+                <Stamina>63</Stamina>
+                <Club>Dinamo Moskva</Club>
+                <DateOfBirth>19-03-1991</DateOfBirth>
+            </Player>
+            <Player id="6152">
+                <FirstName>Christopher</FirstName>
+                <LastName>Samba</LastName>
+                <Position>CB</Position>
+                <Pace>47</Pace>
+                <Shooting>47</Shooting>
+                <Passing>43</Passing>
+                <Offensive>45</Offensive>
+                <Defensive>79</Defensive>
+                <Stamina>57</Stamina>
+                <Club>Dinamo Moskva</Club>
+                <DateOfBirth>28-03-1984</DateOfBirth>
+            </Player>
+            <Player id="8549">
+                <FirstName>Kevin</FirstName>
+                <LastName>Kuranyi</LastName>
+                <Position>ST</Position>
+                <Pace>70</Pace>
+                <Shooting>75</Shooting>
+                <Passing>65</Passing>
+                <Offensive>70</Offensive>
+                <Defensive>34</Defensive>
+                <Stamina>81</Stamina>
+                <Club>Dinamo Moskva</Club>
+                <DateOfBirth>02-03-1982</DateOfBirth>
+            </Player>
+            <Player id="9088">
+                <FirstName>Vladimir</FirstName>
+                <LastName>Gabulov</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>38</Stamina>
+                <Club>Dinamo Moskva</Club>
+                <DateOfBirth>19-10-1983</DateOfBirth>
+            </Player>
+            <Player id="9352">
+                <FirstName>Christian</FirstName>
+                <LastName>Noboa</LastName>
+                <Position>CDM</Position>
+                <Pace>73</Pace>
+                <Shooting>67</Shooting>
+                <Passing>79</Passing>
+                <Offensive>73</Offensive>
+                <Defensive>74</Defensive>
+                <Stamina>91</Stamina>
+                <Club>Dinamo Moskva</Club>
+                <DateOfBirth>08-04-1985</DateOfBirth>
+            </Player>
+            <Player id="10260">
+                <FirstName>Roman</FirstName>
+                <LastName>Zobnin</LastName>
+                <Position>CDM</Position>
+                <Pace>67</Pace>
+                <Shooting>39</Shooting>
+                <Passing>56</Passing>
+                <Offensive>47</Offensive>
+                <Defensive>50</Defensive>
+                <Stamina>63</Stamina>
+                <Club>Dinamo Moskva</Club>
+                <DateOfBirth>11-02-1994</DateOfBirth>
+            </Player>
+            <Player id="10365">
+                <FirstName>Alexandr</FirstName>
+                <LastName>Morgunov</LastName>
+                <Position>ST</Position>
+                <Pace>73</Pace>
+                <Shooting>53</Shooting>
+                <Passing>54</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>36</Defensive>
+                <Stamina>61</Stamina>
+                <Club>Dinamo Moskva</Club>
+                <DateOfBirth>04-06-1995</DateOfBirth>
+            </Player>
+            <Player id="10632">
+                <FirstName>Grigoriy</FirstName>
+                <LastName>Morozov</LastName>
+                <Position>LB</Position>
+                <Pace>58</Pace>
+                <Shooting>31</Shooting>
+                <Passing>42</Passing>
+                <Offensive>36</Offensive>
+                <Defensive>57</Defensive>
+                <Stamina>63</Stamina>
+                <Club>Dinamo Moskva</Club>
+                <DateOfBirth>06-06-1994</DateOfBirth>
+            </Player>
+            <Player id="11216">
+                <FirstName>Douglas</FirstName>
+                <LastName>Franco Teixeira</LastName>
+                <Position>CB</Position>
+                <Pace>66</Pace>
+                <Shooting>47</Shooting>
+                <Passing>53</Passing>
+                <Offensive>50</Offensive>
+                <Defensive>74</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Dinamo Moskva</Club>
+                <DateOfBirth>12-01-1988</DateOfBirth>
+            </Player>
+            <Player id="11916">
+                <FirstName>Tomáš</FirstName>
+                <LastName>Hubočan</LastName>
+                <Position>CB</Position>
+                <Pace>77</Pace>
+                <Shooting>59</Shooting>
+                <Passing>59</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>78</Defensive>
+                <Stamina>78</Stamina>
+                <Club>Dinamo Moskva</Club>
+                <DateOfBirth>17-09-1985</DateOfBirth>
+            </Player>
+            <Player id="12111">
+                <FirstName>William</FirstName>
+                <LastName>Vainqueur</LastName>
+                <Position>CDM</Position>
+                <Pace>80</Pace>
+                <Shooting>61</Shooting>
+                <Passing>69</Passing>
+                <Offensive>65</Offensive>
+                <Defensive>69</Defensive>
+                <Stamina>85</Stamina>
+                <Club>Dinamo Moskva</Club>
+                <DateOfBirth>19-11-1988</DateOfBirth>
+            </Player>
+            <Player id="12472">
+                <FirstName>Alexander</FirstName>
+                <LastName>Büttner</LastName>
+                <Position>LB</Position>
+                <Pace>84</Pace>
+                <Shooting>65</Shooting>
+                <Passing>69</Passing>
+                <Offensive>67</Offensive>
+                <Defensive>69</Defensive>
+                <Stamina>89</Stamina>
+                <Club>Dinamo Moskva</Club>
+                <DateOfBirth>11-02-1989</DateOfBirth>
+            </Player>
+            <Player id="12560">
+                <FirstName>Alexey</FirstName>
+                <LastName>Ionov</LastName>
+                <Position>RM</Position>
+                <Pace>77</Pace>
+                <Shooting>65</Shooting>
+                <Passing>69</Passing>
+                <Offensive>67</Offensive>
+                <Defensive>41</Defensive>
+                <Stamina>62</Stamina>
+                <Club>Dinamo Moskva</Club>
+                <DateOfBirth>18-02-1989</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="FC Krasnodar">
+            <Player id="165">
+                <FirstName>Odil</FirstName>
+                <LastName>Akhmedov</LastName>
+                <Position>CDM</Position>
+                <Pace>72</Pace>
+                <Shooting>65</Shooting>
+                <Passing>69</Passing>
+                <Offensive>67</Offensive>
+                <Defensive>69</Defensive>
+                <Stamina>82</Stamina>
+                <Club>FC Krasnodar</Club>
+                <DateOfBirth>25-11-1987</DateOfBirth>
+            </Player>
+            <Player id="443">
+                <FirstName>Ragnar</FirstName>
+                <LastName>Sigurðsson</LastName>
+                <Position>CB</Position>
+                <Pace>69</Pace>
+                <Shooting>39</Shooting>
+                <Passing>47</Passing>
+                <Offensive>43</Offensive>
+                <Defensive>72</Defensive>
+                <Stamina>72</Stamina>
+                <Club>FC Krasnodar</Club>
+                <DateOfBirth>19-06-1986</DateOfBirth>
+            </Player>
+            <Player id="612">
+                <FirstName>Andrey</FirstName>
+                <LastName>Sinitsyn</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>35</Stamina>
+                <Club>FC Krasnodar</Club>
+                <DateOfBirth>23-06-1988</DateOfBirth>
+            </Player>
+            <Player id="2530">
+                <FirstName>Yuriy</FirstName>
+                <LastName>Gazinskiy</LastName>
+                <Position>CDM</Position>
+                <Pace>66</Pace>
+                <Shooting>52</Shooting>
+                <Passing>65</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>65</Defensive>
+                <Stamina>76</Stamina>
+                <Club>FC Krasnodar</Club>
+                <DateOfBirth>20-07-1989</DateOfBirth>
+            </Player>
+            <Player id="2590">
+                <FirstName>Alyaksandr</FirstName>
+                <LastName>Martynovich</LastName>
+                <Position>CB</Position>
+                <Pace>47</Pace>
+                <Shooting>49</Shooting>
+                <Passing>56</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>69</Defensive>
+                <Stamina>56</Stamina>
+                <Club>FC Krasnodar</Club>
+                <DateOfBirth>26-08-1987</DateOfBirth>
+            </Player>
+            <Player id="3215">
+                <FirstName>Evgeniy</FirstName>
+                <LastName>Shipitsin</LastName>
+                <Position>CM</Position>
+                <Pace>72</Pace>
+                <Shooting>53</Shooting>
+                <Passing>66</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>70</Stamina>
+                <Club>FC Krasnodar</Club>
+                <DateOfBirth>16-01-1985</DateOfBirth>
+            </Player>
+            <Player id="3216">
+                <FirstName>Vitaliy</FirstName>
+                <LastName>Kaleshin</LastName>
+                <Position>LB</Position>
+                <Pace>76</Pace>
+                <Shooting>50</Shooting>
+                <Passing>69</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>70</Stamina>
+                <Club>FC Krasnodar</Club>
+                <DateOfBirth>03-10-1980</DateOfBirth>
+            </Player>
+            <Player id="3397">
+                <FirstName>Artur</FirstName>
+                <LastName>Jędrzejczyk</LastName>
+                <Position>RB</Position>
+                <Pace>70</Pace>
+                <Shooting>49</Shooting>
+                <Passing>49</Passing>
+                <Offensive>49</Offensive>
+                <Defensive>65</Defensive>
+                <Stamina>88</Stamina>
+                <Club>FC Krasnodar</Club>
+                <DateOfBirth>04-11-1987</DateOfBirth>
+            </Player>
+            <Player id="4318">
+                <FirstName>Mauricio</FirstName>
+                <LastName>Pereyra</LastName>
+                <Position>CM</Position>
+                <Pace>71</Pace>
+                <Shooting>56</Shooting>
+                <Passing>65</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>50</Defensive>
+                <Stamina>48</Stamina>
+                <Club>FC Krasnodar</Club>
+                <DateOfBirth>15-03-1990</DateOfBirth>
+            </Player>
+            <Player id="4481">
+                <FirstName>Nikita</FirstName>
+                <LastName>Burmistrov</LastName>
+                <Position>LM</Position>
+                <Pace>70</Pace>
+                <Shooting>66</Shooting>
+                <Passing>63</Passing>
+                <Offensive>64</Offensive>
+                <Defensive>31</Defensive>
+                <Stamina>49</Stamina>
+                <Club>FC Krasnodar</Club>
+                <DateOfBirth>06-07-1989</DateOfBirth>
+            </Player>
+            <Player id="4819">
+                <FirstName>João Natailton</FirstName>
+                <LastName>Ramos dos Santos</LastName>
+                <Position>LM</Position>
+                <Pace>88</Pace>
+                <Shooting>75</Shooting>
+                <Passing>78</Passing>
+                <Offensive>76</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>73</Stamina>
+                <Club>FC Krasnodar</Club>
+                <DateOfBirth>25-12-1988</DateOfBirth>
+            </Player>
+            <Player id="5459">
+                <FirstName>Sergey</FirstName>
+                <LastName>Petrov</LastName>
+                <Position>CM</Position>
+                <Pace>63</Pace>
+                <Shooting>54</Shooting>
+                <Passing>58</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>67</Defensive>
+                <Stamina>68</Stamina>
+                <Club>FC Krasnodar</Club>
+                <DateOfBirth>02-01-1991</DateOfBirth>
+            </Player>
+            <Player id="6085">
+                <FirstName>Ruslan</FirstName>
+                <LastName>Adzhindzhal</LastName>
+                <Position>LM</Position>
+                <Pace>34</Pace>
+                <Shooting>68</Shooting>
+                <Passing>69</Passing>
+                <Offensive>68</Offensive>
+                <Defensive>35</Defensive>
+                <Stamina>34</Stamina>
+                <Club>FC Krasnodar</Club>
+                <DateOfBirth>22-06-1974</DateOfBirth>
+            </Player>
+            <Player id="6690">
+                <FirstName>Ariclenes</FirstName>
+                <LastName>Da Silva Ferreira</LastName>
+                <Position>ST</Position>
+                <Pace>80</Pace>
+                <Shooting>81</Shooting>
+                <Passing>73</Passing>
+                <Offensive>77</Offensive>
+                <Defensive>35</Defensive>
+                <Stamina>79</Stamina>
+                <Club>FC Krasnodar</Club>
+                <DateOfBirth>11-12-1985</DateOfBirth>
+            </Player>
+            <Player id="6948">
+                <FirstName>Andreas</FirstName>
+                <LastName>Granqvist</LastName>
+                <Position>CB</Position>
+                <Pace>48</Pace>
+                <Shooting>60</Shooting>
+                <Passing>57</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>78</Defensive>
+                <Stamina>67</Stamina>
+                <Club>FC Krasnodar</Club>
+                <DateOfBirth>16-04-1985</DateOfBirth>
+            </Player>
+            <Player id="7486">
+                <FirstName>Andriy</FirstName>
+                <LastName>Dikan</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>45</Stamina>
+                <Club>FC Krasnodar</Club>
+                <DateOfBirth>16-07-1977</DateOfBirth>
+            </Player>
+            <Player id="7553">
+                <FirstName>Nikolay</FirstName>
+                <LastName>Markov</LastName>
+                <Position>RB</Position>
+                <Pace>44</Pace>
+                <Shooting>50</Shooting>
+                <Passing>56</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>62</Stamina>
+                <Club>FC Krasnodar</Club>
+                <DateOfBirth>20-04-1985</DateOfBirth>
+            </Player>
+            <Player id="9353">
+                <FirstName>Wanderson</FirstName>
+                <LastName>do Carmo Carneiro</LastName>
+                <Position>ST</Position>
+                <Pace>75</Pace>
+                <Shooting>78</Shooting>
+                <Passing>77</Passing>
+                <Offensive>77</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>77</Stamina>
+                <Club>FC Krasnodar</Club>
+                <DateOfBirth>18-02-1986</DateOfBirth>
+            </Player>
+            <Player id="11716">
+                <FirstName>Vladimir</FirstName>
+                <LastName>Bystrov</LastName>
+                <Position>RW</Position>
+                <Pace>90</Pace>
+                <Shooting>68</Shooting>
+                <Passing>73</Passing>
+                <Offensive>70</Offensive>
+                <Defensive>43</Defensive>
+                <Stamina>67</Stamina>
+                <Club>FC Krasnodar</Club>
+                <DateOfBirth>31-01-1984</DateOfBirth>
+            </Player>
+            <Player id="12233">
+                <FirstName>Marat</FirstName>
+                <LastName>Izmaylov</LastName>
+                <Position>RW</Position>
+                <Pace>71</Pace>
+                <Shooting>70</Shooting>
+                <Passing>72</Passing>
+                <Offensive>71</Offensive>
+                <Defensive>38</Defensive>
+                <Stamina>33</Stamina>
+                <Club>FC Krasnodar</Club>
+                <DateOfBirth>21-09-1982</DateOfBirth>
+            </Player>
+            <Player id="12561">
+                <FirstName>Pavel</FirstName>
+                <LastName>Mamaev</LastName>
+                <Position>CM</Position>
+                <Pace>80</Pace>
+                <Shooting>64</Shooting>
+                <Passing>73</Passing>
+                <Offensive>68</Offensive>
+                <Defensive>67</Defensive>
+                <Stamina>74</Stamina>
+                <Club>FC Krasnodar</Club>
+                <DateOfBirth>17-09-1988</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Kuban Krasnodar">
+            <Player id="176">
+                <FirstName>Vladislav</FirstName>
+                <LastName>Ignatiev</LastName>
+                <Position>RM</Position>
+                <Pace>80</Pace>
+                <Shooting>62</Shooting>
+                <Passing>72</Passing>
+                <Offensive>67</Offensive>
+                <Defensive>44</Defensive>
+                <Stamina>66</Stamina>
+                <Club>Kuban Krasnodar</Club>
+                <DateOfBirth>20-01-1987</DateOfBirth>
+            </Player>
+            <Player id="421">
+                <FirstName>Vladislav</FirstName>
+                <LastName>Kulik</LastName>
+                <Position>CDM</Position>
+                <Pace>60</Pace>
+                <Shooting>62</Shooting>
+                <Passing>71</Passing>
+                <Offensive>66</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>74</Stamina>
+                <Club>Kuban Krasnodar</Club>
+                <DateOfBirth>27-02-1985</DateOfBirth>
+            </Player>
+            <Player id="1209">
+                <FirstName>Toni</FirstName>
+                <LastName>Šunjić</LastName>
+                <Position>CB</Position>
+                <Pace>59</Pace>
+                <Shooting>33</Shooting>
+                <Passing>44</Passing>
+                <Offensive>38</Offensive>
+                <Defensive>71</Defensive>
+                <Stamina>62</Stamina>
+                <Club>Kuban Krasnodar</Club>
+                <DateOfBirth>15-12-1988</DateOfBirth>
+            </Player>
+            <Player id="1314">
+                <FirstName>Mohammed</FirstName>
+                <LastName>Rabiu</LastName>
+                <Position>CDM</Position>
+                <Pace>75</Pace>
+                <Shooting>28</Shooting>
+                <Passing>62</Passing>
+                <Offensive>45</Offensive>
+                <Defensive>67</Defensive>
+                <Stamina>88</Stamina>
+                <Club>Kuban Krasnodar</Club>
+                <DateOfBirth>31-12-1989</DateOfBirth>
+            </Player>
+            <Player id="1853">
+                <FirstName>Artur</FirstName>
+                <LastName>Tlisov</LastName>
+                <Position>CDM</Position>
+                <Pace>69</Pace>
+                <Shooting>60</Shooting>
+                <Passing>64</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>76</Stamina>
+                <Club>Kuban Krasnodar</Club>
+                <DateOfBirth>10-06-1982</DateOfBirth>
+            </Player>
+            <Player id="3959">
+                <FirstName>Evgeniy</FirstName>
+                <LastName>Pomazan</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>44</Stamina>
+                <Club>Kuban Krasnodar</Club>
+                <DateOfBirth>31-01-1989</DateOfBirth>
+            </Player>
+            <Player id="4098">
+                <FirstName>Gonzalo</FirstName>
+                <LastName>Bueno</LastName>
+                <Position>LW</Position>
+                <Pace>77</Pace>
+                <Shooting>67</Shooting>
+                <Passing>63</Passing>
+                <Offensive>65</Offensive>
+                <Defensive>24</Defensive>
+                <Stamina>59</Stamina>
+                <Club>Kuban Krasnodar</Club>
+                <DateOfBirth>16-08-1993</DateOfBirth>
+            </Player>
+            <Player id="5524">
+                <FirstName>Anton</FirstName>
+                <LastName>Sekret</LastName>
+                <Position>ST</Position>
+                <Pace>60</Pace>
+                <Shooting>65</Shooting>
+                <Passing>49</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>31</Defensive>
+                <Stamina>48</Stamina>
+                <Club>Kuban Krasnodar</Club>
+                <DateOfBirth>23-01-1992</DateOfBirth>
+            </Player>
+            <Player id="6426">
+                <FirstName>Ivelin</FirstName>
+                <LastName>Popov</LastName>
+                <Position>CAM</Position>
+                <Pace>80</Pace>
+                <Shooting>74</Shooting>
+                <Passing>77</Passing>
+                <Offensive>75</Offensive>
+                <Defensive>47</Defensive>
+                <Stamina>78</Stamina>
+                <Club>Kuban Krasnodar</Club>
+                <DateOfBirth>26-10-1987</DateOfBirth>
+            </Player>
+            <Player id="6801">
+                <FirstName>Maksim</FirstName>
+                <LastName>Zhavnerchik</LastName>
+                <Position>RB</Position>
+                <Pace>61</Pace>
+                <Shooting>54</Shooting>
+                <Passing>64</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>60</Stamina>
+                <Club>Kuban Krasnodar</Club>
+                <DateOfBirth>09-02-1985</DateOfBirth>
+            </Player>
+            <Player id="7071">
+                <FirstName>Arsen</FirstName>
+                <LastName>Khubulov</LastName>
+                <Position>RM</Position>
+                <Pace>72</Pace>
+                <Shooting>62</Shooting>
+                <Passing>58</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>27</Defensive>
+                <Stamina>73</Stamina>
+                <Club>Kuban Krasnodar</Club>
+                <DateOfBirth>13-12-1990</DateOfBirth>
+            </Player>
+            <Player id="7084">
+                <FirstName>Roman</FirstName>
+                <LastName>Bugaev</LastName>
+                <Position>LB</Position>
+                <Pace>64</Pace>
+                <Shooting>37</Shooting>
+                <Passing>59</Passing>
+                <Offensive>48</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Kuban Krasnodar</Club>
+                <DateOfBirth>11-02-1989</DateOfBirth>
+            </Player>
+            <Player id="7925">
+                <FirstName>Bogdan</FirstName>
+                <LastName>Karyukin</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>35</Stamina>
+                <Club>Kuban Krasnodar</Club>
+                <DateOfBirth>20-08-1985</DateOfBirth>
+            </Player>
+            <Player id="8711">
+                <FirstName>Eduard</FirstName>
+                <LastName>Baychora</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>32</Stamina>
+                <Club>Kuban Krasnodar</Club>
+                <DateOfBirth>04-02-1992</DateOfBirth>
+            </Player>
+            <Player id="10962">
+                <FirstName>Charles</FirstName>
+                <LastName>Kaboré</LastName>
+                <Position>CDM</Position>
+                <Pace>73</Pace>
+                <Shooting>60</Shooting>
+                <Passing>71</Passing>
+                <Offensive>65</Offensive>
+                <Defensive>75</Defensive>
+                <Stamina>85</Stamina>
+                <Club>Kuban Krasnodar</Club>
+                <DateOfBirth>09-02-1988</DateOfBirth>
+            </Player>
+            <Player id="11764">
+                <FirstName>Alexandre Luiz</FirstName>
+                <LastName>Reame</LastName>
+                <Position>CB</Position>
+                <Pace>52</Pace>
+                <Shooting>41</Shooting>
+                <Passing>51</Passing>
+                <Offensive>46</Offensive>
+                <Defensive>76</Defensive>
+                <Stamina>53</Stamina>
+                <Club>Kuban Krasnodar</Club>
+                <DateOfBirth>23-02-1988</DateOfBirth>
+            </Player>
+            <Player id="11902">
+                <FirstName>Lorenzo</FirstName>
+                <LastName>Melgarejo</LastName>
+                <Position>LW</Position>
+                <Pace>87</Pace>
+                <Shooting>69</Shooting>
+                <Passing>67</Passing>
+                <Offensive>68</Offensive>
+                <Defensive>72</Defensive>
+                <Stamina>79</Stamina>
+                <Club>Kuban Krasnodar</Club>
+                <DateOfBirth>10-08-1990</DateOfBirth>
+            </Player>
+            <Player id="12522">
+                <FirstName>Alexandr</FirstName>
+                <LastName>Belenov</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>44</Stamina>
+                <Club>Kuban Krasnodar</Club>
+                <DateOfBirth>13-09-1986</DateOfBirth>
+            </Player>
+            <Player id="12565">
+                <FirstName>Sekou</FirstName>
+                <LastName>Oliseh</LastName>
+                <Position>RM</Position>
+                <Pace>87</Pace>
+                <Shooting>66</Shooting>
+                <Passing>68</Passing>
+                <Offensive>67</Offensive>
+                <Defensive>32</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Kuban Krasnodar</Club>
+                <DateOfBirth>05-06-1990</DateOfBirth>
+            </Player>
+            <Player id="12856">
+                <FirstName>Andrey</FirstName>
+                <LastName>Eschenko</LastName>
+                <Position>RB</Position>
+                <Pace>80</Pace>
+                <Shooting>55</Shooting>
+                <Passing>68</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>70</Defensive>
+                <Stamina>77</Stamina>
+                <Club>Kuban Krasnodar</Club>
+                <DateOfBirth>09-02-1984</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Spartak Moskva">
+            <Player id="257">
+                <FirstName>João Carlos</FirstName>
+                <LastName>Pinto Chaves</LastName>
+                <Position>CB</Position>
+                <Pace>63</Pace>
+                <Shooting>47</Shooting>
+                <Passing>64</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>74</Defensive>
+                <Stamina>66</Stamina>
+                <Club>Spartak Moskva</Club>
+                <DateOfBirth>01-01-1982</DateOfBirth>
+            </Player>
+            <Player id="598">
+                <FirstName>Juan Manuel</FirstName>
+                <LastName>Insaurralde</LastName>
+                <Position>CB</Position>
+                <Pace>64</Pace>
+                <Shooting>38</Shooting>
+                <Passing>52</Passing>
+                <Offensive>45</Offensive>
+                <Defensive>71</Defensive>
+                <Stamina>80</Stamina>
+                <Club>Spartak Moskva</Club>
+                <DateOfBirth>03-10-1984</DateOfBirth>
+            </Player>
+            <Player id="992">
+                <FirstName>Evgeniy</FirstName>
+                <LastName>Makeev</LastName>
+                <Position>LB</Position>
+                <Pace>85</Pace>
+                <Shooting>51</Shooting>
+                <Passing>63</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>69</Defensive>
+                <Stamina>76</Stamina>
+                <Club>Spartak Moskva</Club>
+                <DateOfBirth>24-07-1989</DateOfBirth>
+            </Player>
+            <Player id="1208">
+                <FirstName>Sergey</FirstName>
+                <LastName>Bryzgalov</LastName>
+                <Position>CB</Position>
+                <Pace>73</Pace>
+                <Shooting>41</Shooting>
+                <Passing>56</Passing>
+                <Offensive>48</Offensive>
+                <Defensive>72</Defensive>
+                <Stamina>66</Stamina>
+                <Club>Spartak Moskva</Club>
+                <DateOfBirth>15-11-1992</DateOfBirth>
+            </Player>
+            <Player id="1368">
+                <FirstName>Artem</FirstName>
+                <LastName>Dzyuba</LastName>
+                <Position>ST</Position>
+                <Pace>78</Pace>
+                <Shooting>80</Shooting>
+                <Passing>71</Passing>
+                <Offensive>75</Offensive>
+                <Defensive>33</Defensive>
+                <Stamina>77</Stamina>
+                <Club>Spartak Moskva</Club>
+                <DateOfBirth>22-08-1988</DateOfBirth>
+            </Player>
+            <Player id="1610">
+                <FirstName>Alberto</FirstName>
+                <LastName>Costa</LastName>
+                <Position>CM</Position>
+                <Pace>64</Pace>
+                <Shooting>78</Shooting>
+                <Passing>83</Passing>
+                <Offensive>80</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>86</Stamina>
+                <Club>Spartak Moskva</Club>
+                <DateOfBirth>09-01-1985</DateOfBirth>
+            </Player>
+            <Player id="2699">
+                <FirstName>Roman</FirstName>
+                <LastName>Shirokov</LastName>
+                <Position>CM</Position>
+                <Pace>68</Pace>
+                <Shooting>78</Shooting>
+                <Passing>80</Passing>
+                <Offensive>79</Offensive>
+                <Defensive>70</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Spartak Moskva</Club>
+                <DateOfBirth>06-07-1981</DateOfBirth>
+            </Player>
+            <Player id="4559">
+                <FirstName>Patrick</FirstName>
+                <LastName>Ebert</LastName>
+                <Position>RM</Position>
+                <Pace>79</Pace>
+                <Shooting>74</Shooting>
+                <Passing>78</Passing>
+                <Offensive>76</Offensive>
+                <Defensive>45</Defensive>
+                <Stamina>73</Stamina>
+                <Club>Spartak Moskva</Club>
+                <DateOfBirth>17-03-1987</DateOfBirth>
+            </Player>
+            <Player id="4887">
+                <FirstName>Ilya</FirstName>
+                <LastName>Kutepov</LastName>
+                <Position>CB</Position>
+                <Pace>42</Pace>
+                <Shooting>42</Shooting>
+                <Passing>49</Passing>
+                <Offensive>45</Offensive>
+                <Defensive>65</Defensive>
+                <Stamina>64</Stamina>
+                <Club>Spartak Moskva</Club>
+                <DateOfBirth>29-07-1993</DateOfBirth>
+            </Player>
+            <Player id="5636">
+                <FirstName>Serdar</FirstName>
+                <LastName>Tasci</LastName>
+                <Position>CB</Position>
+                <Pace>66</Pace>
+                <Shooting>40</Shooting>
+                <Passing>62</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>78</Defensive>
+                <Stamina>65</Stamina>
+                <Club>Spartak Moskva</Club>
+                <DateOfBirth>24-04-1987</DateOfBirth>
+            </Player>
+            <Player id="5899">
+                <FirstName>Aras</FirstName>
+                <LastName>Özbiliz</LastName>
+                <Position>RW</Position>
+                <Pace>80</Pace>
+                <Shooting>78</Shooting>
+                <Passing>75</Passing>
+                <Offensive>76</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>65</Stamina>
+                <Club>Spartak Moskva</Club>
+                <DateOfBirth>09-03-1990</DateOfBirth>
+            </Player>
+            <Player id="6024">
+                <FirstName>Anton</FirstName>
+                <LastName>Mitryushkin</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>25</Stamina>
+                <Club>Spartak Moskva</Club>
+                <DateOfBirth>08-02-1996</DateOfBirth>
+            </Player>
+            <Player id="10403">
+                <FirstName>Jano</FirstName>
+                <LastName>Ananidze</LastName>
+                <Position>CAM</Position>
+                <Pace>75</Pace>
+                <Shooting>70</Shooting>
+                <Passing>75</Passing>
+                <Offensive>72</Offensive>
+                <Defensive>45</Defensive>
+                <Stamina>73</Stamina>
+                <Club>Spartak Moskva</Club>
+                <DateOfBirth>10-10-1992</DateOfBirth>
+            </Player>
+            <Player id="10952">
+                <FirstName>Salvatore</FirstName>
+                <LastName>Bocchetti</LastName>
+                <Position>CB</Position>
+                <Pace>78</Pace>
+                <Shooting>50</Shooting>
+                <Passing>58</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>77</Defensive>
+                <Stamina>62</Stamina>
+                <Club>Spartak Moskva</Club>
+                <DateOfBirth>30-11-1986</DateOfBirth>
+            </Player>
+            <Player id="11477">
+                <FirstName>Rômulo</FirstName>
+                <LastName>Borges Monteiro</LastName>
+                <Position>CDM</Position>
+                <Pace>71</Pace>
+                <Shooting>62</Shooting>
+                <Passing>71</Passing>
+                <Offensive>66</Offensive>
+                <Defensive>78</Defensive>
+                <Stamina>82</Stamina>
+                <Club>Spartak Moskva</Club>
+                <DateOfBirth>19-09-1990</DateOfBirth>
+            </Player>
+            <Player id="11722">
+                <FirstName>José Manuel</FirstName>
+                <LastName>Jurado Marín</LastName>
+                <Position>LM</Position>
+                <Pace>74</Pace>
+                <Shooting>78</Shooting>
+                <Passing>75</Passing>
+                <Offensive>76</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>53</Stamina>
+                <Club>Spartak Moskva</Club>
+                <DateOfBirth>29-06-1986</DateOfBirth>
+            </Player>
+            <Player id="11750">
+                <FirstName>Denis</FirstName>
+                <LastName>Glushakov</LastName>
+                <Position>CDM</Position>
+                <Pace>69</Pace>
+                <Shooting>71</Shooting>
+                <Passing>71</Passing>
+                <Offensive>71</Offensive>
+                <Defensive>72</Defensive>
+                <Stamina>79</Stamina>
+                <Club>Spartak Moskva</Club>
+                <DateOfBirth>27-01-1987</DateOfBirth>
+            </Player>
+            <Player id="11997">
+                <FirstName>Dmitriy</FirstName>
+                <LastName>Kombarov</LastName>
+                <Position>LW</Position>
+                <Pace>77</Pace>
+                <Shooting>69</Shooting>
+                <Passing>76</Passing>
+                <Offensive>72</Offensive>
+                <Defensive>67</Defensive>
+                <Stamina>83</Stamina>
+                <Club>Spartak Moskva</Club>
+                <DateOfBirth>22-01-1987</DateOfBirth>
+            </Player>
+            <Player id="12029">
+                <FirstName>Quincy</FirstName>
+                <LastName>Promes</LastName>
+                <Position>RW</Position>
+                <Pace>82</Pace>
+                <Shooting>75</Shooting>
+                <Passing>68</Passing>
+                <Offensive>71</Offensive>
+                <Defensive>26</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Spartak Moskva</Club>
+                <DateOfBirth>04-01-1992</DateOfBirth>
+            </Player>
+            <Player id="12287">
+                <FirstName>Sergey</FirstName>
+                <LastName>Parshivlyuk</LastName>
+                <Position>RB</Position>
+                <Pace>76</Pace>
+                <Shooting>54</Shooting>
+                <Passing>66</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>72</Defensive>
+                <Stamina>75</Stamina>
+                <Club>Spartak Moskva</Club>
+                <DateOfBirth>18-03-1989</DateOfBirth>
+            </Player>
+            <Player id="12305">
+                <FirstName>Pavel</FirstName>
+                <LastName>Yakovlev</LastName>
+                <Position>LW</Position>
+                <Pace>79</Pace>
+                <Shooting>71</Shooting>
+                <Passing>69</Passing>
+                <Offensive>70</Offensive>
+                <Defensive>43</Defensive>
+                <Stamina>73</Stamina>
+                <Club>Spartak Moskva</Club>
+                <DateOfBirth>07-04-1991</DateOfBirth>
+            </Player>
+            <Player id="12438">
+                <FirstName>Artem</FirstName>
+                <LastName>Rebrov</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>24</Stamina>
+                <Club>Spartak Moskva</Club>
+                <DateOfBirth>04-03-1984</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="FC Rostov">
+            <Player id="259">
+                <FirstName>Timofey</FirstName>
+                <LastName>Kalachev</LastName>
+                <Position>RM</Position>
+                <Pace>70</Pace>
+                <Shooting>68</Shooting>
+                <Passing>72</Passing>
+                <Offensive>70</Offensive>
+                <Defensive>41</Defensive>
+                <Stamina>74</Stamina>
+                <Club>FC Rostov</Club>
+                <DateOfBirth>01-05-1981</DateOfBirth>
+            </Player>
+            <Player id="363">
+                <FirstName>Kaku Guélor</FirstName>
+                <LastName>Kanga</LastName>
+                <Position>CAM</Position>
+                <Pace>75</Pace>
+                <Shooting>63</Shooting>
+                <Passing>70</Passing>
+                <Offensive>66</Offensive>
+                <Defensive>41</Defensive>
+                <Stamina>44</Stamina>
+                <Club>FC Rostov</Club>
+                <DateOfBirth>01-09-1990</DateOfBirth>
+            </Player>
+            <Player id="596">
+                <FirstName>Dmitriy</FirstName>
+                <LastName>Torbinskiy</LastName>
+                <Position>LM</Position>
+                <Pace>77</Pace>
+                <Shooting>66</Shooting>
+                <Passing>68</Passing>
+                <Offensive>67</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>78</Stamina>
+                <Club>FC Rostov</Club>
+                <DateOfBirth>28-04-1984</DateOfBirth>
+            </Player>
+            <Player id="1505">
+                <FirstName>Réginal</FirstName>
+                <LastName>Goreux</LastName>
+                <Position>RM</Position>
+                <Pace>80</Pace>
+                <Shooting>63</Shooting>
+                <Passing>67</Passing>
+                <Offensive>65</Offensive>
+                <Defensive>67</Defensive>
+                <Stamina>73</Stamina>
+                <Club>FC Rostov</Club>
+                <DateOfBirth>31-12-1987</DateOfBirth>
+            </Player>
+            <Player id="1799">
+                <FirstName>Vitaliy</FirstName>
+                <LastName>Dyakov</LastName>
+                <Position>CB</Position>
+                <Pace>65</Pace>
+                <Shooting>57</Shooting>
+                <Passing>47</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>70</Defensive>
+                <Stamina>65</Stamina>
+                <Club>FC Rostov</Club>
+                <DateOfBirth>31-01-1989</DateOfBirth>
+            </Player>
+            <Player id="2115">
+                <FirstName>Alexandru</FirstName>
+                <LastName>Gaţcan</LastName>
+                <Position>CDM</Position>
+                <Pace>67</Pace>
+                <Shooting>36</Shooting>
+                <Passing>65</Passing>
+                <Offensive>50</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>72</Stamina>
+                <Club>FC Rostov</Club>
+                <DateOfBirth>27-03-1984</DateOfBirth>
+            </Player>
+            <Player id="2899">
+                <FirstName>Bartolomeu</FirstName>
+                <LastName>Quissanga</LastName>
+                <Position>CB</Position>
+                <Pace>72</Pace>
+                <Shooting>33</Shooting>
+                <Passing>38</Passing>
+                <Offensive>35</Offensive>
+                <Defensive>70</Defensive>
+                <Stamina>63</Stamina>
+                <Club>FC Rostov</Club>
+                <DateOfBirth>27-03-1991</DateOfBirth>
+            </Player>
+            <Player id="3087">
+                <FirstName>Byung Soo</FirstName>
+                <LastName>Yoo</LastName>
+                <Position>ST</Position>
+                <Pace>77</Pace>
+                <Shooting>62</Shooting>
+                <Passing>53</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>35</Defensive>
+                <Stamina>73</Stamina>
+                <Club>FC Rostov</Club>
+                <DateOfBirth>26-03-1988</DateOfBirth>
+            </Player>
+            <Player id="3425">
+                <FirstName>Soslan</FirstName>
+                <LastName>Dzhanaev</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>28</Stamina>
+                <Club>FC Rostov</Club>
+                <DateOfBirth>13-03-1987</DateOfBirth>
+            </Player>
+            <Player id="3907">
+                <FirstName>Igor</FirstName>
+                <LastName>Lolo</LastName>
+                <Position>LB</Position>
+                <Pace>76</Pace>
+                <Shooting>48</Shooting>
+                <Passing>56</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>65</Defensive>
+                <Stamina>69</Stamina>
+                <Club>FC Rostov</Club>
+                <DateOfBirth>22-07-1982</DateOfBirth>
+            </Player>
+            <Player id="4477">
+                <FirstName>Anton</FirstName>
+                <LastName>Amelchenko</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>28</Stamina>
+                <Club>FC Rostov</Club>
+                <DateOfBirth>27-03-1985</DateOfBirth>
+            </Player>
+            <Player id="4569">
+                <FirstName>Siyanda</FirstName>
+                <LastName>Xulu</LastName>
+                <Position>CB</Position>
+                <Pace>74</Pace>
+                <Shooting>50</Shooting>
+                <Passing>57</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>74</Stamina>
+                <Club>FC Rostov</Club>
+                <DateOfBirth>30-12-1991</DateOfBirth>
+            </Player>
+            <Player id="5110">
+                <FirstName>Maxim</FirstName>
+                <LastName>Grigoriev</LastName>
+                <Position>CAM</Position>
+                <Pace>69</Pace>
+                <Shooting>60</Shooting>
+                <Passing>62</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>40</Defensive>
+                <Stamina>66</Stamina>
+                <Club>FC Rostov</Club>
+                <DateOfBirth>06-07-1990</DateOfBirth>
+            </Player>
+            <Player id="5441">
+                <FirstName>Maksim</FirstName>
+                <LastName>Bordachev</LastName>
+                <Position>LB</Position>
+                <Pace>65</Pace>
+                <Shooting>48</Shooting>
+                <Passing>60</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>65</Stamina>
+                <Club>FC Rostov</Club>
+                <DateOfBirth>18-06-1986</DateOfBirth>
+            </Player>
+            <Player id="8143">
+                <FirstName>Azim</FirstName>
+                <LastName>Fatullaev</LastName>
+                <Position>CM</Position>
+                <Pace>62</Pace>
+                <Shooting>50</Shooting>
+                <Passing>55</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>69</Stamina>
+                <Club>FC Rostov</Club>
+                <DateOfBirth>07-06-1986</DateOfBirth>
+            </Player>
+            <Player id="9243">
+                <FirstName>Nemanja</FirstName>
+                <LastName>Nikolić</LastName>
+                <Position>ST</Position>
+                <Pace>57</Pace>
+                <Shooting>60</Shooting>
+                <Passing>43</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>32</Defensive>
+                <Stamina>61</Stamina>
+                <Club>FC Rostov</Club>
+                <DateOfBirth>19-10-1992</DateOfBirth>
+            </Player>
+            <Player id="12689">
+                <FirstName>Alexandr</FirstName>
+                <LastName>Bukharov</LastName>
+                <Position>ST</Position>
+                <Pace>60</Pace>
+                <Shooting>71</Shooting>
+                <Passing>59</Passing>
+                <Offensive>65</Offensive>
+                <Defensive>32</Defensive>
+                <Stamina>68</Stamina>
+                <Club>FC Rostov</Club>
+                <DateOfBirth>12-03-1985</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Mordovia Saransk">
+            <Player id="371">
+                <FirstName>Marko</FirstName>
+                <LastName>Lomić</LastName>
+                <Position>LB</Position>
+                <Pace>65</Pace>
+                <Shooting>40</Shooting>
+                <Passing>74</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>71</Defensive>
+                <Stamina>63</Stamina>
+                <Club>Mordovia Saransk</Club>
+                <DateOfBirth>13-09-1983</DateOfBirth>
+            </Player>
+            <Player id="1854">
+                <FirstName>Anton</FirstName>
+                <LastName>Bober</LastName>
+                <Position>LM</Position>
+                <Pace>60</Pace>
+                <Shooting>60</Shooting>
+                <Passing>70</Passing>
+                <Offensive>65</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Mordovia Saransk</Club>
+                <DateOfBirth>28-09-1982</DateOfBirth>
+            </Player>
+            <Player id="2617">
+                <FirstName>Ruslan</FirstName>
+                <LastName>Mukhametshin</LastName>
+                <Position>ST</Position>
+                <Pace>67</Pace>
+                <Shooting>70</Shooting>
+                <Passing>52</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>26</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Mordovia Saransk</Club>
+                <DateOfBirth>29-10-1981</DateOfBirth>
+            </Player>
+            <Player id="3003">
+                <FirstName>Lorenzo</FirstName>
+                <LastName>Ebecilio</LastName>
+                <Position>LW</Position>
+                <Pace>73</Pace>
+                <Shooting>64</Shooting>
+                <Passing>57</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>34</Defensive>
+                <Stamina>64</Stamina>
+                <Club>Mordovia Saransk</Club>
+                <DateOfBirth>24-09-1991</DateOfBirth>
+            </Player>
+            <Player id="3620">
+                <FirstName>Viktor</FirstName>
+                <LastName>Vasin</LastName>
+                <Position>CB</Position>
+                <Pace>59</Pace>
+                <Shooting>32</Shooting>
+                <Passing>51</Passing>
+                <Offensive>41</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>65</Stamina>
+                <Club>Mordovia Saransk</Club>
+                <DateOfBirth>06-10-1988</DateOfBirth>
+            </Player>
+            <Player id="3814">
+                <FirstName>Oleg</FirstName>
+                <LastName>Vlasov</LastName>
+                <Position>LW</Position>
+                <Pace>72</Pace>
+                <Shooting>63</Shooting>
+                <Passing>70</Passing>
+                <Offensive>66</Offensive>
+                <Defensive>55</Defensive>
+                <Stamina>66</Stamina>
+                <Club>Mordovia Saransk</Club>
+                <DateOfBirth>10-12-1984</DateOfBirth>
+            </Player>
+            <Player id="6469">
+                <FirstName>Damien</FirstName>
+                <LastName>Le Tallec</LastName>
+                <Position>ST</Position>
+                <Pace>73</Pace>
+                <Shooting>58</Shooting>
+                <Passing>47</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>32</Defensive>
+                <Stamina>67</Stamina>
+                <Club>Mordovia Saransk</Club>
+                <DateOfBirth>19-04-1990</DateOfBirth>
+            </Player>
+            <Player id="6644">
+                <FirstName>Aslan</FirstName>
+                <LastName>Dudiev</LastName>
+                <Position>RB</Position>
+                <Pace>68</Pace>
+                <Shooting>38</Shooting>
+                <Passing>56</Passing>
+                <Offensive>47</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>67</Stamina>
+                <Club>Mordovia Saransk</Club>
+                <DateOfBirth>15-06-1990</DateOfBirth>
+            </Player>
+            <Player id="6770">
+                <FirstName>Ilie</FirstName>
+                <LastName>Cebanu</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>39</Stamina>
+                <Club>Mordovia Saransk</Club>
+                <DateOfBirth>29-12-1986</DateOfBirth>
+            </Player>
+            <Player id="7240">
+                <FirstName>Igor</FirstName>
+                <LastName>Shitov</LastName>
+                <Position>RB</Position>
+                <Pace>54</Pace>
+                <Shooting>40</Shooting>
+                <Passing>56</Passing>
+                <Offensive>48</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>75</Stamina>
+                <Club>Mordovia Saransk</Club>
+                <DateOfBirth>24-10-1986</DateOfBirth>
+            </Player>
+            <Player id="8964">
+                <FirstName>Denis</FirstName>
+                <LastName>Shebanov</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>21</Stamina>
+                <Club>Mordovia Saransk</Club>
+                <DateOfBirth>27-11-1989</DateOfBirth>
+            </Player>
+            <Player id="9724">
+                <FirstName>Mikhail</FirstName>
+                <LastName>Markin</LastName>
+                <Position>ST</Position>
+                <Pace>66</Pace>
+                <Shooting>60</Shooting>
+                <Passing>44</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>55</Stamina>
+                <Club>Mordovia Saransk</Club>
+                <DateOfBirth>21-11-1993</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Torpedo Moskva">
+            <Player id="539">
+                <FirstName>Diniyar</FirstName>
+                <LastName>Bilyaletdinov</LastName>
+                <Position>LM</Position>
+                <Pace>74</Pace>
+                <Shooting>73</Shooting>
+                <Passing>72</Passing>
+                <Offensive>72</Offensive>
+                <Defensive>46</Defensive>
+                <Stamina>69</Stamina>
+                <Club>Torpedo Moskva</Club>
+                <DateOfBirth>27-02-1985</DateOfBirth>
+            </Player>
+            <Player id="613">
+                <FirstName>Yuriy</FirstName>
+                <LastName>Zhevnov</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>29</Stamina>
+                <Club>Torpedo Moskva</Club>
+                <DateOfBirth>17-04-1981</DateOfBirth>
+            </Player>
+            <Player id="1315">
+                <FirstName>Kirill</FirstName>
+                <LastName>Kombarov</LastName>
+                <Position>RB</Position>
+                <Pace>75</Pace>
+                <Shooting>60</Shooting>
+                <Passing>71</Passing>
+                <Offensive>65</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Torpedo Moskva</Club>
+                <DateOfBirth>22-01-1987</DateOfBirth>
+            </Player>
+            <Player id="1606">
+                <FirstName>Sergey</FirstName>
+                <LastName>Davydov</LastName>
+                <Position>ST</Position>
+                <Pace>49</Pace>
+                <Shooting>76</Shooting>
+                <Passing>48</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>34</Defensive>
+                <Stamina>49</Stamina>
+                <Club>Torpedo Moskva</Club>
+                <DateOfBirth>22-07-1985</DateOfBirth>
+            </Player>
+            <Player id="4529">
+                <FirstName>Ivan</FirstName>
+                <LastName>Franjić</LastName>
+                <Position>RB</Position>
+                <Pace>76</Pace>
+                <Shooting>64</Shooting>
+                <Passing>63</Passing>
+                <Offensive>63</Offensive>
+                <Defensive>61</Defensive>
+                <Stamina>80</Stamina>
+                <Club>Torpedo Moskva</Club>
+                <DateOfBirth>10-09-1987</DateOfBirth>
+            </Player>
+            <Player id="5557">
+                <FirstName>Adam</FirstName>
+                <LastName>Kokoszka</LastName>
+                <Position>CB</Position>
+                <Pace>71</Pace>
+                <Shooting>38</Shooting>
+                <Passing>41</Passing>
+                <Offensive>39</Offensive>
+                <Defensive>65</Defensive>
+                <Stamina>80</Stamina>
+                <Club>Torpedo Moskva</Club>
+                <DateOfBirth>06-10-1986</DateOfBirth>
+            </Player>
+            <Player id="5774">
+                <FirstName>Goran</FirstName>
+                <LastName>Blažević</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>25</Stamina>
+                <Club>Torpedo Moskva</Club>
+                <DateOfBirth>07-06-1986</DateOfBirth>
+            </Player>
+            <Player id="5984">
+                <FirstName>Vladimir</FirstName>
+                <LastName>Rykov</LastName>
+                <Position>CB</Position>
+                <Pace>54</Pace>
+                <Shooting>31</Shooting>
+                <Passing>36</Passing>
+                <Offensive>33</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Torpedo Moskva</Club>
+                <DateOfBirth>13-11-1987</DateOfBirth>
+            </Player>
+            <Player id="8226">
+                <FirstName>Yuriy</FirstName>
+                <LastName>Kuleshov</LastName>
+                <Position>CM</Position>
+                <Pace>60</Pace>
+                <Shooting>41</Shooting>
+                <Passing>54</Passing>
+                <Offensive>47</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Torpedo Moskva</Club>
+                <DateOfBirth>12-04-1981</DateOfBirth>
+            </Player>
+            <Player id="9392">
+                <FirstName>Egor</FirstName>
+                <LastName>Tarakanov</LastName>
+                <Position>CB</Position>
+                <Pace>67</Pace>
+                <Shooting>30</Shooting>
+                <Passing>33</Passing>
+                <Offensive>31</Offensive>
+                <Defensive>61</Defensive>
+                <Stamina>57</Stamina>
+                <Club>Torpedo Moskva</Club>
+                <DateOfBirth>17-04-1987</DateOfBirth>
+            </Player>
+            <Player id="10826">
+                <FirstName>Ivan</FirstName>
+                <LastName>Knyazev</LastName>
+                <Position>CB</Position>
+                <Pace>50</Pace>
+                <Shooting>24</Shooting>
+                <Passing>31</Passing>
+                <Offensive>27</Offensive>
+                <Defensive>49</Defensive>
+                <Stamina>41</Stamina>
+                <Club>Torpedo Moskva</Club>
+                <DateOfBirth>05-11-1992</DateOfBirth>
+            </Player>
+            <Player id="12795">
+                <FirstName>Hugo Filipe</FirstName>
+                <LastName>da Costa Oliveira</LastName>
+                <Position>ST</Position>
+                <Pace>81</Pace>
+                <Shooting>70</Shooting>
+                <Passing>66</Passing>
+                <Offensive>68</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Torpedo Moskva</Club>
+                <DateOfBirth>25-07-1988</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Rubin Kazan">
+            <Player id="636">
+                <FirstName>Carlos Eduardo</FirstName>
+                <LastName>Marques</LastName>
+                <Position>CAM</Position>
+                <Pace>69</Pace>
+                <Shooting>65</Shooting>
+                <Passing>69</Passing>
+                <Offensive>67</Offensive>
+                <Defensive>26</Defensive>
+                <Stamina>58</Stamina>
+                <Club>Rubin Kazan</Club>
+                <DateOfBirth>18-07-1987</DateOfBirth>
+            </Player>
+            <Player id="665">
+                <FirstName>Vladimir</FirstName>
+                <LastName>Dyadyun</LastName>
+                <Position>ST</Position>
+                <Pace>67</Pace>
+                <Shooting>72</Shooting>
+                <Passing>66</Passing>
+                <Offensive>69</Offensive>
+                <Defensive>32</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Rubin Kazan</Club>
+                <DateOfBirth>12-07-1988</DateOfBirth>
+            </Player>
+            <Player id="674">
+                <FirstName>Magomed</FirstName>
+                <LastName>Ozdoev</LastName>
+                <Position>CDM</Position>
+                <Pace>68</Pace>
+                <Shooting>57</Shooting>
+                <Passing>67</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>70</Defensive>
+                <Stamina>66</Stamina>
+                <Club>Rubin Kazan</Club>
+                <DateOfBirth>05-11-1992</DateOfBirth>
+            </Player>
+            <Player id="873">
+                <FirstName>Marko</FirstName>
+                <LastName>Livaja</LastName>
+                <Position>ST</Position>
+                <Pace>69</Pace>
+                <Shooting>68</Shooting>
+                <Passing>51</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Rubin Kazan</Club>
+                <DateOfBirth>26-08-1993</DateOfBirth>
+            </Player>
+            <Player id="1290">
+                <FirstName>Blagoy</FirstName>
+                <LastName>Georgiev</LastName>
+                <Position>CDM</Position>
+                <Pace>57</Pace>
+                <Shooting>62</Shooting>
+                <Passing>71</Passing>
+                <Offensive>66</Offensive>
+                <Defensive>57</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Rubin Kazan</Club>
+                <DateOfBirth>21-12-1981</DateOfBirth>
+            </Player>
+            <Player id="1579">
+                <FirstName>Alexandr</FirstName>
+                <LastName>Filtsov</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>38</Stamina>
+                <Club>Rubin Kazan</Club>
+                <DateOfBirth>02-01-1990</DateOfBirth>
+            </Player>
+            <Player id="2491">
+                <FirstName>Taras</FirstName>
+                <LastName>Burlak</LastName>
+                <Position>CB</Position>
+                <Pace>68</Pace>
+                <Shooting>45</Shooting>
+                <Passing>53</Passing>
+                <Offensive>49</Offensive>
+                <Defensive>71</Defensive>
+                <Stamina>68</Stamina>
+                <Club>Rubin Kazan</Club>
+                <DateOfBirth>22-02-1990</DateOfBirth>
+            </Player>
+            <Player id="2871">
+                <FirstName>Solomon</FirstName>
+                <LastName>Kvirkvelia</LastName>
+                <Position>CB</Position>
+                <Pace>67</Pace>
+                <Shooting>30</Shooting>
+                <Passing>36</Passing>
+                <Offensive>33</Offensive>
+                <Defensive>71</Defensive>
+                <Stamina>60</Stamina>
+                <Club>Rubin Kazan</Club>
+                <DateOfBirth>06-02-1992</DateOfBirth>
+            </Player>
+            <Player id="5799">
+                <FirstName>Alisher</FirstName>
+                <LastName>Dzhalilov</LastName>
+                <Position>CAM</Position>
+                <Pace>76</Pace>
+                <Shooting>60</Shooting>
+                <Passing>57</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>37</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Rubin Kazan</Club>
+                <DateOfBirth>29-08-1993</DateOfBirth>
+            </Player>
+            <Player id="6632">
+                <FirstName>Shota</FirstName>
+                <LastName>Bibilov</LastName>
+                <Position>LM</Position>
+                <Pace>76</Pace>
+                <Shooting>60</Shooting>
+                <Passing>60</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>46</Defensive>
+                <Stamina>69</Stamina>
+                <Club>Rubin Kazan</Club>
+                <DateOfBirth>06-08-1990</DateOfBirth>
+            </Player>
+            <Player id="6682">
+                <FirstName>Marko</FirstName>
+                <LastName>Dević</LastName>
+                <Position>ST</Position>
+                <Pace>79</Pace>
+                <Shooting>77</Shooting>
+                <Passing>67</Passing>
+                <Offensive>72</Offensive>
+                <Defensive>36</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Rubin Kazan</Club>
+                <DateOfBirth>27-10-1983</DateOfBirth>
+            </Player>
+            <Player id="6813">
+                <FirstName>Vladimir</FirstName>
+                <LastName>Sobolev</LastName>
+                <Position>RM</Position>
+                <Pace>72</Pace>
+                <Shooting>55</Shooting>
+                <Passing>60</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>38</Defensive>
+                <Stamina>58</Stamina>
+                <Club>Rubin Kazan</Club>
+                <DateOfBirth>30-07-1991</DateOfBirth>
+            </Player>
+            <Player id="6816">
+                <FirstName>Igor</FirstName>
+                <LastName>Portnyagin</LastName>
+                <Position>ST</Position>
+                <Pace>70</Pace>
+                <Shooting>59</Shooting>
+                <Passing>39</Passing>
+                <Offensive>49</Offensive>
+                <Defensive>32</Defensive>
+                <Stamina>68</Stamina>
+                <Club>Rubin Kazan</Club>
+                <DateOfBirth>07-01-1989</DateOfBirth>
+            </Player>
+            <Player id="8201">
+                <FirstName>Sergey</FirstName>
+                <LastName>Kislyak</LastName>
+                <Position>CDM</Position>
+                <Pace>62</Pace>
+                <Shooting>54</Shooting>
+                <Passing>60</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>57</Defensive>
+                <Stamina>62</Stamina>
+                <Club>Rubin Kazan</Club>
+                <DateOfBirth>06-08-1987</DateOfBirth>
+            </Player>
+            <Player id="8202">
+                <FirstName>Inal</FirstName>
+                <LastName>Getigezhev</LastName>
+                <Position>LB</Position>
+                <Pace>58</Pace>
+                <Shooting>29</Shooting>
+                <Passing>52</Passing>
+                <Offensive>40</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>63</Stamina>
+                <Club>Rubin Kazan</Club>
+                <DateOfBirth>23-05-1987</DateOfBirth>
+            </Player>
+            <Player id="8269">
+                <FirstName>Serdar</FirstName>
+                <LastName>Azmoun</LastName>
+                <Position>ST</Position>
+                <Pace>76</Pace>
+                <Shooting>58</Shooting>
+                <Passing>57</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>36</Defensive>
+                <Stamina>33</Stamina>
+                <Club>Rubin Kazan</Club>
+                <DateOfBirth>01-01-1995</DateOfBirth>
+            </Player>
+            <Player id="9047">
+                <FirstName>Kamil</FirstName>
+                <LastName>Mullin</LastName>
+                <Position>ST</Position>
+                <Pace>80</Pace>
+                <Shooting>63</Shooting>
+                <Passing>44</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>27</Defensive>
+                <Stamina>66</Stamina>
+                <Club>Rubin Kazan</Club>
+                <DateOfBirth>05-01-1994</DateOfBirth>
+            </Player>
+            <Player id="9740">
+                <FirstName>Mamuka</FirstName>
+                <LastName>Kobakhidze</LastName>
+                <Position>CB</Position>
+                <Pace>59</Pace>
+                <Shooting>30</Shooting>
+                <Passing>33</Passing>
+                <Offensive>31</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>64</Stamina>
+                <Club>Rubin Kazan</Club>
+                <DateOfBirth>23-08-1992</DateOfBirth>
+            </Player>
+            <Player id="9885">
+                <FirstName>Sergey</FirstName>
+                <LastName>Ryzhikov</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>32</Stamina>
+                <Club>Rubin Kazan</Club>
+                <DateOfBirth>19-09-1980</DateOfBirth>
+            </Player>
+            <Player id="11923">
+                <FirstName>César</FirstName>
+                <LastName>González Navas</LastName>
+                <Position>CB</Position>
+                <Pace>49</Pace>
+                <Shooting>38</Shooting>
+                <Passing>54</Passing>
+                <Offensive>46</Offensive>
+                <Defensive>79</Defensive>
+                <Stamina>81</Stamina>
+                <Club>Rubin Kazan</Club>
+                <DateOfBirth>14-02-1980</DateOfBirth>
+            </Player>
+            <Player id="11945">
+                <FirstName>Gökdeniz</FirstName>
+                <LastName>Karadeniz</LastName>
+                <Position>LM</Position>
+                <Pace>77</Pace>
+                <Shooting>70</Shooting>
+                <Passing>69</Passing>
+                <Offensive>69</Offensive>
+                <Defensive>46</Defensive>
+                <Stamina>76</Stamina>
+                <Club>Rubin Kazan</Club>
+                <DateOfBirth>11-01-1980</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="FC Ural Yekaterinburg">
+            <Player id="754">
+                <FirstName>Spartak</FirstName>
+                <LastName>Gogniev</LastName>
+                <Position>ST</Position>
+                <Pace>76</Pace>
+                <Shooting>71</Shooting>
+                <Passing>54</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>36</Defensive>
+                <Stamina>70</Stamina>
+                <Club>FC Ural Yekaterinburg</Club>
+                <DateOfBirth>19-01-1981</DateOfBirth>
+            </Player>
+            <Player id="878">
+                <FirstName>Gerson</FirstName>
+                <LastName>Acevedo</LastName>
+                <Position>CM</Position>
+                <Pace>72</Pace>
+                <Shooting>70</Shooting>
+                <Passing>69</Passing>
+                <Offensive>69</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>70</Stamina>
+                <Club>FC Ural Yekaterinburg</Club>
+                <DateOfBirth>05-04-1988</DateOfBirth>
+            </Player>
+            <Player id="1394">
+                <FirstName>Chisamba</FirstName>
+                <LastName>Lungu</LastName>
+                <Position>RM</Position>
+                <Pace>84</Pace>
+                <Shooting>54</Shooting>
+                <Passing>63</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>44</Defensive>
+                <Stamina>73</Stamina>
+                <Club>FC Ural Yekaterinburg</Club>
+                <DateOfBirth>31-01-1991</DateOfBirth>
+            </Player>
+            <Player id="1715">
+                <FirstName>Nikolay</FirstName>
+                <LastName>Zabolotnyy</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>37</Stamina>
+                <Club>FC Ural Yekaterinburg</Club>
+                <DateOfBirth>16-04-1990</DateOfBirth>
+            </Player>
+            <Player id="1871">
+                <FirstName>Markus</FirstName>
+                <LastName>Berger</LastName>
+                <Position>CB</Position>
+                <Pace>61</Pace>
+                <Shooting>45</Shooting>
+                <Passing>56</Passing>
+                <Offensive>50</Offensive>
+                <Defensive>68</Defensive>
+                <Stamina>76</Stamina>
+                <Club>FC Ural Yekaterinburg</Club>
+                <DateOfBirth>21-01-1985</DateOfBirth>
+            </Player>
+            <Player id="2207">
+                <FirstName>Sölvi</FirstName>
+                <LastName>Ottesen</LastName>
+                <Position>CB</Position>
+                <Pace>49</Pace>
+                <Shooting>40</Shooting>
+                <Passing>42</Passing>
+                <Offensive>41</Offensive>
+                <Defensive>69</Defensive>
+                <Stamina>68</Stamina>
+                <Club>FC Ural Yekaterinburg</Club>
+                <DateOfBirth>18-02-1984</DateOfBirth>
+            </Player>
+            <Player id="3458">
+                <FirstName>Alexandr</FirstName>
+                <LastName>Sapeta</LastName>
+                <Position>CDM</Position>
+                <Pace>62</Pace>
+                <Shooting>55</Shooting>
+                <Passing>66</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>57</Stamina>
+                <Club>FC Ural Yekaterinburg</Club>
+                <DateOfBirth>28-06-1989</DateOfBirth>
+            </Player>
+            <Player id="4142">
+                <FirstName>Alexandr</FirstName>
+                <LastName>Novikov</LastName>
+                <Position>CB</Position>
+                <Pace>64</Pace>
+                <Shooting>55</Shooting>
+                <Passing>59</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>71</Stamina>
+                <Club>FC Ural Yekaterinburg</Club>
+                <DateOfBirth>12-10-1984</DateOfBirth>
+            </Player>
+            <Player id="4704">
+                <FirstName>Edgar</FirstName>
+                <LastName>Manucharyan</LastName>
+                <Position>RM</Position>
+                <Pace>71</Pace>
+                <Shooting>66</Shooting>
+                <Passing>59</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>27</Defensive>
+                <Stamina>65</Stamina>
+                <Club>FC Ural Yekaterinburg</Club>
+                <DateOfBirth>19-01-1987</DateOfBirth>
+            </Player>
+            <Player id="5526">
+                <FirstName>Alexandr</FirstName>
+                <LastName>Erokhin</LastName>
+                <Position>CAM</Position>
+                <Pace>62</Pace>
+                <Shooting>63</Shooting>
+                <Passing>62</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>54</Defensive>
+                <Stamina>67</Stamina>
+                <Club>FC Ural Yekaterinburg</Club>
+                <DateOfBirth>13-10-1989</DateOfBirth>
+            </Player>
+            <Player id="6490">
+                <FirstName>Alexandr</FirstName>
+                <LastName>Belozerov</LastName>
+                <Position>CB</Position>
+                <Pace>57</Pace>
+                <Shooting>39</Shooting>
+                <Passing>50</Passing>
+                <Offensive>44</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>81</Stamina>
+                <Club>FC Ural Yekaterinburg</Club>
+                <DateOfBirth>27-10-1981</DateOfBirth>
+            </Player>
+            <Player id="6729">
+                <FirstName>Igor</FirstName>
+                <LastName>Kot</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>39</Stamina>
+                <Club>FC Ural Yekaterinburg</Club>
+                <DateOfBirth>03-06-1980</DateOfBirth>
+            </Player>
+            <Player id="6991">
+                <FirstName>Alexandr</FirstName>
+                <LastName>Dantsev</LastName>
+                <Position>LB</Position>
+                <Pace>69</Pace>
+                <Shooting>57</Shooting>
+                <Passing>64</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>75</Stamina>
+                <Club>FC Ural Yekaterinburg</Club>
+                <DateOfBirth>14-10-1984</DateOfBirth>
+            </Player>
+            <Player id="8579">
+                <FirstName>Alexandr</FirstName>
+                <LastName>Shanitsyn</LastName>
+                <Position>RM</Position>
+                <Pace>67</Pace>
+                <Shooting>45</Shooting>
+                <Passing>59</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>60</Stamina>
+                <Club>FC Ural Yekaterinburg</Club>
+                <DateOfBirth>02-12-1984</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Amkar Perm">
+            <Player id="944">
+                <FirstName>Sergey</FirstName>
+                <LastName>Narubin</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>40</Stamina>
+                <Club>Amkar Perm</Club>
+                <DateOfBirth>05-12-1981</DateOfBirth>
+            </Player>
+            <Player id="2005">
+                <FirstName>Alexandr</FirstName>
+                <LastName>Kolomeytsev</LastName>
+                <Position>CM</Position>
+                <Pace>56</Pace>
+                <Shooting>62</Shooting>
+                <Passing>70</Passing>
+                <Offensive>66</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>83</Stamina>
+                <Club>Amkar Perm</Club>
+                <DateOfBirth>21-02-1989</DateOfBirth>
+            </Player>
+            <Player id="2858">
+                <FirstName>Fegor</FirstName>
+                <LastName>Ogude</LastName>
+                <Position>CM</Position>
+                <Pace>80</Pace>
+                <Shooting>64</Shooting>
+                <Passing>63</Passing>
+                <Offensive>63</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>92</Stamina>
+                <Club>Amkar Perm</Club>
+                <DateOfBirth>29-07-1987</DateOfBirth>
+            </Player>
+            <Player id="3505">
+                <FirstName>Janusz</FirstName>
+                <LastName>Gol</LastName>
+                <Position>CDM</Position>
+                <Pace>65</Pace>
+                <Shooting>52</Shooting>
+                <Passing>62</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>82</Stamina>
+                <Club>Amkar Perm</Club>
+                <DateOfBirth>11-11-1985</DateOfBirth>
+            </Player>
+            <Player id="4163">
+                <FirstName>Dmitriy</FirstName>
+                <LastName>Belorukov</LastName>
+                <Position>CB</Position>
+                <Pace>30</Pace>
+                <Shooting>36</Shooting>
+                <Passing>56</Passing>
+                <Offensive>46</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>78</Stamina>
+                <Club>Amkar Perm</Club>
+                <DateOfBirth>24-03-1983</DateOfBirth>
+            </Player>
+            <Player id="4189">
+                <FirstName>Thomas</FirstName>
+                <LastName>Phibel</LastName>
+                <Position>CB</Position>
+                <Pace>39</Pace>
+                <Shooting>38</Shooting>
+                <Passing>47</Passing>
+                <Offensive>42</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>63</Stamina>
+                <Club>Amkar Perm</Club>
+                <DateOfBirth>31-05-1986</DateOfBirth>
+            </Player>
+            <Player id="5053">
+                <FirstName>Damian</FirstName>
+                <LastName>Zbozień</LastName>
+                <Position>RB</Position>
+                <Pace>59</Pace>
+                <Shooting>48</Shooting>
+                <Passing>58</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>68</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Amkar Perm</Club>
+                <DateOfBirth>25-04-1989</DateOfBirth>
+            </Player>
+            <Player id="5583">
+                <FirstName>Roman</FirstName>
+                <LastName>Gerus</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>45</Stamina>
+                <Club>Amkar Perm</Club>
+                <DateOfBirth>14-09-1980</DateOfBirth>
+            </Player>
+            <Player id="5836">
+                <FirstName>Pavel</FirstName>
+                <LastName>Solomatin</LastName>
+                <Position>ST</Position>
+                <Pace>70</Pace>
+                <Shooting>65</Shooting>
+                <Passing>56</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>33</Defensive>
+                <Stamina>64</Stamina>
+                <Club>Amkar Perm</Club>
+                <DateOfBirth>04-04-1993</DateOfBirth>
+            </Player>
+            <Player id="6812">
+                <FirstName>Igor</FirstName>
+                <LastName>Kireev</LastName>
+                <Position>RW</Position>
+                <Pace>73</Pace>
+                <Shooting>50</Shooting>
+                <Passing>58</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>37</Defensive>
+                <Stamina>65</Stamina>
+                <Club>Amkar Perm</Club>
+                <DateOfBirth>17-02-1992</DateOfBirth>
+            </Player>
+            <Player id="7415">
+                <FirstName>Zahari</FirstName>
+                <LastName>Sirakov</LastName>
+                <Position>RB</Position>
+                <Pace>61</Pace>
+                <Shooting>37</Shooting>
+                <Passing>57</Passing>
+                <Offensive>47</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>62</Stamina>
+                <Club>Amkar Perm</Club>
+                <DateOfBirth>08-10-1977</DateOfBirth>
+            </Player>
+            <Player id="9044">
+                <FirstName>Vladimirs</FirstName>
+                <LastName>Kamešs</LastName>
+                <Position>LW</Position>
+                <Pace>67</Pace>
+                <Shooting>60</Shooting>
+                <Passing>52</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>46</Stamina>
+                <Club>Amkar Perm</Club>
+                <DateOfBirth>28-10-1988</DateOfBirth>
+            </Player>
+            <Player id="9731">
+                <FirstName>Brian</FirstName>
+                <LastName>Idowu</LastName>
+                <Position>RB</Position>
+                <Pace>61</Pace>
+                <Shooting>38</Shooting>
+                <Passing>42</Passing>
+                <Offensive>40</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>61</Stamina>
+                <Club>Amkar Perm</Club>
+                <DateOfBirth>18-05-1992</DateOfBirth>
+            </Player>
+            <Player id="10652">
+                <FirstName>Aleksandr</FirstName>
+                <LastName>Selikhov</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>24</Stamina>
+                <Club>Amkar Perm</Club>
+                <DateOfBirth>07-04-1994</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Terek Grozny">
+            <Player id="1173">
+                <FirstName>Maurício José</FirstName>
+                <LastName>da Silveira Júnior</LastName>
+                <Position>CDM</Position>
+                <Pace>72</Pace>
+                <Shooting>73</Shooting>
+                <Passing>70</Passing>
+                <Offensive>71</Offensive>
+                <Defensive>72</Defensive>
+                <Stamina>76</Stamina>
+                <Club>Terek Grozny</Club>
+                <DateOfBirth>21-10-1988</DateOfBirth>
+            </Player>
+            <Player id="1400">
+                <FirstName>Facundo</FirstName>
+                <LastName>Píriz</LastName>
+                <Position>CDM</Position>
+                <Pace>66</Pace>
+                <Shooting>43</Shooting>
+                <Passing>64</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>65</Defensive>
+                <Stamina>76</Stamina>
+                <Club>Terek Grozny</Club>
+                <DateOfBirth>27-03-1990</DateOfBirth>
+            </Player>
+            <Player id="1676">
+                <FirstName>Igor</FirstName>
+                <LastName>Lebedenko</LastName>
+                <Position>RM</Position>
+                <Pace>73</Pace>
+                <Shooting>70</Shooting>
+                <Passing>66</Passing>
+                <Offensive>68</Offensive>
+                <Defensive>44</Defensive>
+                <Stamina>73</Stamina>
+                <Club>Terek Grozny</Club>
+                <DateOfBirth>27-05-1983</DateOfBirth>
+            </Player>
+            <Player id="1684">
+                <FirstName>Ailton José</FirstName>
+                <LastName>Almeida</LastName>
+                <Position>ST</Position>
+                <Pace>75</Pace>
+                <Shooting>68</Shooting>
+                <Passing>50</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>34</Defensive>
+                <Stamina>61</Stamina>
+                <Club>Terek Grozny</Club>
+                <DateOfBirth>20-08-1984</DateOfBirth>
+            </Player>
+            <Player id="1908">
+                <FirstName>Oleg</FirstName>
+                <LastName>Ivanov</LastName>
+                <Position>CAM</Position>
+                <Pace>69</Pace>
+                <Shooting>66</Shooting>
+                <Passing>66</Passing>
+                <Offensive>66</Offensive>
+                <Defensive>49</Defensive>
+                <Stamina>81</Stamina>
+                <Club>Terek Grozny</Club>
+                <DateOfBirth>04-08-1986</DateOfBirth>
+            </Player>
+            <Player id="3392">
+                <FirstName>Marcin</FirstName>
+                <LastName>Komorowski</LastName>
+                <Position>CB</Position>
+                <Pace>74</Pace>
+                <Shooting>56</Shooting>
+                <Passing>54</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>77</Stamina>
+                <Club>Terek Grozny</Club>
+                <DateOfBirth>17-04-1984</DateOfBirth>
+            </Player>
+            <Player id="3542">
+                <FirstName>Andrey</FirstName>
+                <LastName>Semenov</LastName>
+                <Position>CB</Position>
+                <Pace>62</Pace>
+                <Shooting>38</Shooting>
+                <Passing>42</Passing>
+                <Offensive>40</Offensive>
+                <Defensive>69</Defensive>
+                <Stamina>68</Stamina>
+                <Club>Terek Grozny</Club>
+                <DateOfBirth>24-03-1989</DateOfBirth>
+            </Player>
+            <Player id="4194">
+                <FirstName>Fedor</FirstName>
+                <LastName>Kudryashov</LastName>
+                <Position>LB</Position>
+                <Pace>71</Pace>
+                <Shooting>41</Shooting>
+                <Passing>54</Passing>
+                <Offensive>47</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Terek Grozny</Club>
+                <DateOfBirth>05-04-1987</DateOfBirth>
+            </Player>
+            <Player id="4244">
+                <FirstName>António</FirstName>
+                <LastName>Ferreira</LastName>
+                <Position>CB</Position>
+                <Pace>80</Pace>
+                <Shooting>55</Shooting>
+                <Passing>61</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Terek Grozny</Club>
+                <DateOfBirth>24-10-1984</DateOfBirth>
+            </Player>
+            <Player id="4307">
+                <FirstName>Evgeniy</FirstName>
+                <LastName>Gorodov</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>35</Stamina>
+                <Club>Terek Grozny</Club>
+                <DateOfBirth>13-12-1985</DateOfBirth>
+            </Player>
+            <Player id="5797">
+                <FirstName>Juhani</FirstName>
+                <LastName>Ojala</LastName>
+                <Position>CB</Position>
+                <Pace>53</Pace>
+                <Shooting>30</Shooting>
+                <Passing>45</Passing>
+                <Offensive>37</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>61</Stamina>
+                <Club>Terek Grozny</Club>
+                <DateOfBirth>19-06-1989</DateOfBirth>
+            </Player>
+            <Player id="8995">
+                <FirstName>Murad</FirstName>
+                <LastName>Tagilov</LastName>
+                <Position>CB</Position>
+                <Pace>62</Pace>
+                <Shooting>26</Shooting>
+                <Passing>42</Passing>
+                <Offensive>34</Offensive>
+                <Defensive>56</Defensive>
+                <Stamina>63</Stamina>
+                <Club>Terek Grozny</Club>
+                <DateOfBirth>27-01-1990</DateOfBirth>
+            </Player>
+            <Player id="9395">
+                <FirstName>Khalid</FirstName>
+                <LastName>Kadyrov</LastName>
+                <Position>ST</Position>
+                <Pace>79</Pace>
+                <Shooting>59</Shooting>
+                <Passing>47</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>25</Defensive>
+                <Stamina>51</Stamina>
+                <Club>Terek Grozny</Club>
+                <DateOfBirth>19-04-1994</DateOfBirth>
+            </Player>
+            <Player id="11598">
+                <FirstName>Apti</FirstName>
+                <LastName>Akhyadov</LastName>
+                <Position>CF</Position>
+                <Pace>66</Pace>
+                <Shooting>51</Shooting>
+                <Passing>34</Passing>
+                <Offensive>42</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>32</Stamina>
+                <Club>Terek Grozny</Club>
+                <DateOfBirth>24-08-1993</DateOfBirth>
+            </Player>
+            <Player id="12547">
+                <FirstName>Adilson</FirstName>
+                <LastName>Warken</LastName>
+                <Position>CDM</Position>
+                <Pace>55</Pace>
+                <Shooting>54</Shooting>
+                <Passing>62</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>70</Defensive>
+                <Stamina>90</Stamina>
+                <Club>Terek Grozny</Club>
+                <DateOfBirth>16-01-1987</DateOfBirth>
+            </Player>
+            <Player id="12556">
+                <FirstName>Maciej</FirstName>
+                <LastName>Rybus</LastName>
+                <Position>LM</Position>
+                <Pace>86</Pace>
+                <Shooting>73</Shooting>
+                <Passing>72</Passing>
+                <Offensive>72</Offensive>
+                <Defensive>31</Defensive>
+                <Stamina>65</Stamina>
+                <Club>Terek Grozny</Club>
+                <DateOfBirth>19-08-1989</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="FC Ufa">
+            <Player id="1425">
+                <FirstName>Takafumi</FirstName>
+                <LastName>Akahoshi</LastName>
+                <Position>CAM</Position>
+                <Pace>73</Pace>
+                <Shooting>61</Shooting>
+                <Passing>68</Passing>
+                <Offensive>64</Offensive>
+                <Defensive>38</Defensive>
+                <Stamina>70</Stamina>
+                <Club>FC Ufa</Club>
+                <DateOfBirth>27-05-1986</DateOfBirth>
+            </Player>
+            <Player id="3426">
+                <FirstName>David</FirstName>
+                <LastName>Yurchenko</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>20</Stamina>
+                <Club>FC Ufa</Club>
+                <DateOfBirth>27-03-1986</DateOfBirth>
+            </Player>
+            <Player id="3813">
+                <FirstName>Dmitriy</FirstName>
+                <LastName>Golubov</LastName>
+                <Position>ST</Position>
+                <Pace>67</Pace>
+                <Shooting>69</Shooting>
+                <Passing>56</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>35</Defensive>
+                <Stamina>70</Stamina>
+                <Club>FC Ufa</Club>
+                <DateOfBirth>24-06-1985</DateOfBirth>
+            </Player>
+            <Player id="4792">
+                <FirstName>Vagiz</FirstName>
+                <LastName>Galiulin</LastName>
+                <Position>CM</Position>
+                <Pace>72</Pace>
+                <Shooting>50</Shooting>
+                <Passing>69</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>36</Defensive>
+                <Stamina>59</Stamina>
+                <Club>FC Ufa</Club>
+                <DateOfBirth>10-10-1987</DateOfBirth>
+            </Player>
+            <Player id="4971">
+                <FirstName>Sergey</FirstName>
+                <LastName>Veremko</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>29</Stamina>
+                <Club>FC Ufa</Club>
+                <DateOfBirth>16-10-1982</DateOfBirth>
+            </Player>
+            <Player id="5282">
+                <FirstName>Denis</FirstName>
+                <LastName>Tumasyan</LastName>
+                <Position>CB</Position>
+                <Pace>60</Pace>
+                <Shooting>42</Shooting>
+                <Passing>47</Passing>
+                <Offensive>44</Offensive>
+                <Defensive>67</Defensive>
+                <Stamina>64</Stamina>
+                <Club>FC Ufa</Club>
+                <DateOfBirth>24-04-1985</DateOfBirth>
+            </Player>
+            <Player id="7241">
+                <FirstName>Dmitriy</FirstName>
+                <LastName>Verkhovtsov</LastName>
+                <Position>CB</Position>
+                <Pace>46</Pace>
+                <Shooting>25</Shooting>
+                <Passing>50</Passing>
+                <Offensive>37</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>73</Stamina>
+                <Club>FC Ufa</Club>
+                <DateOfBirth>10-10-1986</DateOfBirth>
+            </Player>
+            <Player id="7252">
+                <FirstName>Ivan</FirstName>
+                <LastName>Paurevic</LastName>
+                <Position>CDM</Position>
+                <Pace>45</Pace>
+                <Shooting>47</Shooting>
+                <Passing>53</Passing>
+                <Offensive>50</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>68</Stamina>
+                <Club>FC Ufa</Club>
+                <DateOfBirth>01-07-1991</DateOfBirth>
+            </Player>
+            <Player id="8780">
+                <FirstName>Artem</FirstName>
+                <LastName>Leonov</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>21</Stamina>
+                <Club>FC Ufa</Club>
+                <DateOfBirth>28-06-1994</DateOfBirth>
+            </Player>
+            <Player id="9425">
+                <FirstName>Nikolay</FirstName>
+                <LastName>Safronidi</LastName>
+                <Position>LM</Position>
+                <Pace>72</Pace>
+                <Shooting>60</Shooting>
+                <Passing>58</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>53</Defensive>
+                <Stamina>49</Stamina>
+                <Club>FC Ufa</Club>
+                <DateOfBirth>10-09-1983</DateOfBirth>
+            </Player>
+            <Player id="10207">
+                <FirstName>Haris</FirstName>
+                <LastName>Handžić</LastName>
+                <Position>ST</Position>
+                <Pace>52</Pace>
+                <Shooting>55</Shooting>
+                <Passing>40</Passing>
+                <Offensive>47</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>65</Stamina>
+                <Club>FC Ufa</Club>
+                <DateOfBirth>20-06-1990</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Arsenal Tula">
+            <Player id="1689">
+                <FirstName>Alexandr</FirstName>
+                <LastName>Filimonov</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>33</Stamina>
+                <Club>Arsenal Tula</Club>
+                <DateOfBirth>15-10-1973</DateOfBirth>
+            </Player>
+            <Player id="3002">
+                <FirstName>Alexandr</FirstName>
+                <LastName>Zotov</LastName>
+                <Position>CDM</Position>
+                <Pace>70</Pace>
+                <Shooting>50</Shooting>
+                <Passing>60</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>68</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Arsenal Tula</Club>
+                <DateOfBirth>27-08-1990</DateOfBirth>
+            </Player>
+            <Player id="5817">
+                <FirstName>Evgeniy</FirstName>
+                <LastName>Osipov</LastName>
+                <Position>CB</Position>
+                <Pace>62</Pace>
+                <Shooting>29</Shooting>
+                <Passing>45</Passing>
+                <Offensive>37</Offensive>
+                <Defensive>65</Defensive>
+                <Stamina>69</Stamina>
+                <Club>Arsenal Tula</Club>
+                <DateOfBirth>29-10-1986</DateOfBirth>
+            </Player>
+            <Player id="6476">
+                <FirstName>Mladen</FirstName>
+                <LastName>Kašćelan</LastName>
+                <Position>CDM</Position>
+                <Pace>67</Pace>
+                <Shooting>43</Shooting>
+                <Passing>53</Passing>
+                <Offensive>48</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>89</Stamina>
+                <Club>Arsenal Tula</Club>
+                <DateOfBirth>13-02-1983</DateOfBirth>
+            </Player>
+            <Player id="8630">
+                <FirstName>Artur</FirstName>
+                <LastName>Maloyan</LastName>
+                <Position>CAM</Position>
+                <Pace>62</Pace>
+                <Shooting>60</Shooting>
+                <Passing>56</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>42</Defensive>
+                <Stamina>62</Stamina>
+                <Club>Arsenal Tula</Club>
+                <DateOfBirth>04-02-1989</DateOfBirth>
+            </Player>
+            <Player id="9647">
+                <FirstName>Sergey</FirstName>
+                <LastName>Kuznetsov</LastName>
+                <Position>CM</Position>
+                <Pace>56</Pace>
+                <Shooting>51</Shooting>
+                <Passing>58</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>52</Defensive>
+                <Stamina>66</Stamina>
+                <Club>Arsenal Tula</Club>
+                <DateOfBirth>07-05-1986</DateOfBirth>
+            </Player>
+            <Player id="9835">
+                <FirstName>Andrey</FirstName>
+                <LastName>Vasilyev</LastName>
+                <Position>RB</Position>
+                <Pace>58</Pace>
+                <Shooting>31</Shooting>
+                <Passing>35</Passing>
+                <Offensive>33</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>64</Stamina>
+                <Club>Arsenal Tula</Club>
+                <DateOfBirth>11-02-1992</DateOfBirth>
+            </Player>
+        </Team>
+    </League>
+</Players>

@@ -1,0 +1,4173 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Players>
+    <League Name="T-Mobile Ekstraklasa">
+        <Team Name="Legia Warszawa">
+            <Player id="419">
+                <FirstName>Miroslav</FirstName>
+                <LastName>Radović</LastName>
+                <Position>CAM</Position>
+                <Pace>75</Pace>
+                <Shooting>62</Shooting>
+                <Passing>67</Passing>
+                <Offensive>64</Offensive>
+                <Defensive>41</Defensive>
+                <Stamina>66</Stamina>
+                <Club>Legia Warszawa</Club>
+                <DateOfBirth>16-01-1984</DateOfBirth>
+            </Player>
+            <Player id="1168">
+                <FirstName>Orlando Carlos</FirstName>
+                <LastName>Braga de Sá</LastName>
+                <Position>ST</Position>
+                <Pace>63</Pace>
+                <Shooting>68</Shooting>
+                <Passing>56</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>34</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Legia Warszawa</Club>
+                <DateOfBirth>26-05-1988</DateOfBirth>
+            </Player>
+            <Player id="1199">
+                <FirstName>Arkadiusz</FirstName>
+                <LastName>Piech</LastName>
+                <Position>ST</Position>
+                <Pace>86</Pace>
+                <Shooting>65</Shooting>
+                <Passing>54</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>34</Defensive>
+                <Stamina>86</Stamina>
+                <Club>Legia Warszawa</Club>
+                <DateOfBirth>07-06-1985</DateOfBirth>
+            </Player>
+            <Player id="1572">
+                <FirstName>Jakub</FirstName>
+                <LastName>Kosecki</LastName>
+                <Position>LM</Position>
+                <Pace>92</Pace>
+                <Shooting>65</Shooting>
+                <Passing>58</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>42</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Legia Warszawa</Club>
+                <DateOfBirth>29-08-1990</DateOfBirth>
+            </Player>
+            <Player id="2338">
+                <FirstName>Iñaki</FirstName>
+                <LastName>Astiz Ventura</LastName>
+                <Position>CB</Position>
+                <Pace>69</Pace>
+                <Shooting>27</Shooting>
+                <Passing>50</Passing>
+                <Offensive>38</Offensive>
+                <Defensive>68</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Legia Warszawa</Club>
+                <DateOfBirth>05-11-1983</DateOfBirth>
+            </Player>
+            <Player id="2574">
+                <FirstName>Ivica</FirstName>
+                <LastName>Vrdoljak</LastName>
+                <Position>CDM</Position>
+                <Pace>57</Pace>
+                <Shooting>40</Shooting>
+                <Passing>60</Passing>
+                <Offensive>50</Offensive>
+                <Defensive>67</Defensive>
+                <Stamina>75</Stamina>
+                <Club>Legia Warszawa</Club>
+                <DateOfBirth>19-09-1983</DateOfBirth>
+            </Player>
+            <Player id="2575">
+                <FirstName>Bartosz</FirstName>
+                <LastName>Bereszyński</LastName>
+                <Position>RB</Position>
+                <Pace>83</Pace>
+                <Shooting>58</Shooting>
+                <Passing>65</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>82</Stamina>
+                <Club>Legia Warszawa</Club>
+                <DateOfBirth>12-07-1992</DateOfBirth>
+            </Player>
+            <Player id="2781">
+                <FirstName>Tomasz</FirstName>
+                <LastName>Brzyski</LastName>
+                <Position>LB</Position>
+                <Pace>73</Pace>
+                <Shooting>61</Shooting>
+                <Passing>67</Passing>
+                <Offensive>64</Offensive>
+                <Defensive>65</Defensive>
+                <Stamina>84</Stamina>
+                <Club>Legia Warszawa</Club>
+                <DateOfBirth>10-01-1982</DateOfBirth>
+            </Player>
+            <Player id="2980">
+                <FirstName>Jakub</FirstName>
+                <LastName>Rzeźniczak</LastName>
+                <Position>CB</Position>
+                <Pace>77</Pace>
+                <Shooting>50</Shooting>
+                <Passing>55</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>67</Defensive>
+                <Stamina>93</Stamina>
+                <Club>Legia Warszawa</Club>
+                <DateOfBirth>26-10-1986</DateOfBirth>
+            </Player>
+            <Player id="3328">
+                <FirstName>Dossa Momade</FirstName>
+                <LastName>Hassamo Júnior</LastName>
+                <Position>CB</Position>
+                <Pace>74</Pace>
+                <Shooting>38</Shooting>
+                <Passing>47</Passing>
+                <Offensive>42</Offensive>
+                <Defensive>65</Defensive>
+                <Stamina>55</Stamina>
+                <Club>Legia Warszawa</Club>
+                <DateOfBirth>27-08-1986</DateOfBirth>
+            </Player>
+            <Player id="3604">
+                <FirstName>Łukasz</FirstName>
+                <LastName>Broź</LastName>
+                <Position>RB</Position>
+                <Pace>72</Pace>
+                <Shooting>58</Shooting>
+                <Passing>57</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>65</Defensive>
+                <Stamina>77</Stamina>
+                <Club>Legia Warszawa</Club>
+                <DateOfBirth>17-12-1985</DateOfBirth>
+            </Player>
+            <Player id="3684">
+                <FirstName>Guilherme</FirstName>
+                <LastName>Costa Marques</LastName>
+                <Position>CAM</Position>
+                <Pace>76</Pace>
+                <Shooting>63</Shooting>
+                <Passing>61</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>52</Defensive>
+                <Stamina>69</Stamina>
+                <Club>Legia Warszawa</Club>
+                <DateOfBirth>21-05-1991</DateOfBirth>
+            </Player>
+            <Player id="3847">
+                <FirstName>Ondrej</FirstName>
+                <LastName>Duda</LastName>
+                <Position>CAM</Position>
+                <Pace>70</Pace>
+                <Shooting>48</Shooting>
+                <Passing>63</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>32</Defensive>
+                <Stamina>55</Stamina>
+                <Club>Legia Warszawa</Club>
+                <DateOfBirth>15-12-1994</DateOfBirth>
+            </Player>
+            <Player id="3917">
+                <FirstName>Tomasz</FirstName>
+                <LastName>Jodłowiec</LastName>
+                <Position>CDM</Position>
+                <Pace>61</Pace>
+                <Shooting>47</Shooting>
+                <Passing>61</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>67</Defensive>
+                <Stamina>81</Stamina>
+                <Club>Legia Warszawa</Club>
+                <DateOfBirth>08-09-1985</DateOfBirth>
+            </Player>
+            <Player id="3965">
+                <FirstName>Igor</FirstName>
+                <LastName>Lewczuk</LastName>
+                <Position>RB</Position>
+                <Pace>75</Pace>
+                <Shooting>45</Shooting>
+                <Passing>59</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>61</Defensive>
+                <Stamina>92</Stamina>
+                <Club>Legia Warszawa</Club>
+                <DateOfBirth>30-05-1985</DateOfBirth>
+            </Player>
+            <Player id="4300">
+                <FirstName>Michał</FirstName>
+                <LastName>Kucharczyk</LastName>
+                <Position>RM</Position>
+                <Pace>77</Pace>
+                <Shooting>64</Shooting>
+                <Passing>58</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>35</Defensive>
+                <Stamina>68</Stamina>
+                <Club>Legia Warszawa</Club>
+                <DateOfBirth>20-03-1991</DateOfBirth>
+            </Player>
+            <Player id="4668">
+                <FirstName>Marek</FirstName>
+                <LastName>Saganowski</LastName>
+                <Position>ST</Position>
+                <Pace>50</Pace>
+                <Shooting>66</Shooting>
+                <Passing>54</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>38</Defensive>
+                <Stamina>28</Stamina>
+                <Club>Legia Warszawa</Club>
+                <DateOfBirth>31-10-1978</DateOfBirth>
+            </Player>
+            <Player id="4716">
+                <FirstName>Helio José</FirstName>
+                <LastName>Ribielo Pinto</LastName>
+                <Position>CAM</Position>
+                <Pace>59</Pace>
+                <Shooting>56</Shooting>
+                <Passing>69</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>40</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Legia Warszawa</Club>
+                <DateOfBirth>29-02-1984</DateOfBirth>
+            </Player>
+            <Player id="4832">
+                <FirstName>Michał</FirstName>
+                <LastName>Żyro</LastName>
+                <Position>LM</Position>
+                <Pace>77</Pace>
+                <Shooting>65</Shooting>
+                <Passing>61</Passing>
+                <Offensive>63</Offensive>
+                <Defensive>34</Defensive>
+                <Stamina>60</Stamina>
+                <Club>Legia Warszawa</Club>
+                <DateOfBirth>20-09-1992</DateOfBirth>
+            </Player>
+            <Player id="8263">
+                <FirstName>Ronan</FirstName>
+                <LastName>Q. de Paula Afonso</LastName>
+                <Position>LB</Position>
+                <Pace>85</Pace>
+                <Shooting>36</Shooting>
+                <Passing>47</Passing>
+                <Offensive>41</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>66</Stamina>
+                <Club>Legia Warszawa</Club>
+                <DateOfBirth>29-08-1994</DateOfBirth>
+            </Player>
+            <Player id="10356">
+                <FirstName>Michał</FirstName>
+                <LastName>Kopczyński</LastName>
+                <Position>CDM</Position>
+                <Pace>66</Pace>
+                <Shooting>49</Shooting>
+                <Passing>53</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>53</Defensive>
+                <Stamina>62</Stamina>
+                <Club>Legia Warszawa</Club>
+                <DateOfBirth>15-06-1992</DateOfBirth>
+            </Player>
+            <Player id="10999">
+                <FirstName>Konrad</FirstName>
+                <LastName>Jałocha</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>25</Stamina>
+                <Club>Legia Warszawa</Club>
+                <DateOfBirth>09-05-1991</DateOfBirth>
+            </Player>
+            <Player id="11183">
+                <FirstName>Robert</FirstName>
+                <LastName>Bartczak</LastName>
+                <Position>LM</Position>
+                <Pace>76</Pace>
+                <Shooting>49</Shooting>
+                <Passing>47</Passing>
+                <Offensive>48</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>47</Stamina>
+                <Club>Legia Warszawa</Club>
+                <DateOfBirth>12-03-1996</DateOfBirth>
+            </Player>
+            <Player id="11249">
+                <FirstName>Mateusz</FirstName>
+                <LastName>Szwoch</LastName>
+                <Position>CAM</Position>
+                <Pace>79</Pace>
+                <Shooting>39</Shooting>
+                <Passing>52</Passing>
+                <Offensive>45</Offensive>
+                <Defensive>38</Defensive>
+                <Stamina>50</Stamina>
+                <Club>Legia Warszawa</Club>
+                <DateOfBirth>19-03-1993</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Pogoń Szczecin">
+            <Player id="430">
+                <FirstName>Marcin</FirstName>
+                <LastName>Robak</LastName>
+                <Position>ST</Position>
+                <Pace>70</Pace>
+                <Shooting>71</Shooting>
+                <Passing>50</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>39</Defensive>
+                <Stamina>64</Stamina>
+                <Club>Pogoń Szczecin</Club>
+                <DateOfBirth>29-11-1982</DateOfBirth>
+            </Player>
+            <Player id="3250">
+                <FirstName>Rafał</FirstName>
+                <LastName>Murawski</LastName>
+                <Position>CDM</Position>
+                <Pace>60</Pace>
+                <Shooting>60</Shooting>
+                <Passing>67</Passing>
+                <Offensive>63</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>65</Stamina>
+                <Club>Pogoń Szczecin</Club>
+                <DateOfBirth>09-10-1981</DateOfBirth>
+            </Player>
+            <Player id="3589">
+                <FirstName>Radosław</FirstName>
+                <LastName>Janukiewicz</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>25</Stamina>
+                <Club>Pogoń Szczecin</Club>
+                <DateOfBirth>05-05-1984</DateOfBirth>
+            </Player>
+            <Player id="4222">
+                <FirstName>Maciej</FirstName>
+                <LastName>Dąbrowski</LastName>
+                <Position>CB</Position>
+                <Pace>57</Pace>
+                <Shooting>38</Shooting>
+                <Passing>46</Passing>
+                <Offensive>42</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Pogoń Szczecin</Club>
+                <DateOfBirth>20-04-1987</DateOfBirth>
+            </Player>
+            <Player id="4351">
+                <FirstName>Takuya</FirstName>
+                <LastName>Murayama</LastName>
+                <Position>RM</Position>
+                <Pace>75</Pace>
+                <Shooting>55</Shooting>
+                <Passing>64</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>31</Defensive>
+                <Stamina>68</Stamina>
+                <Club>Pogoń Szczecin</Club>
+                <DateOfBirth>08-08-1989</DateOfBirth>
+            </Player>
+            <Player id="4431">
+                <FirstName>Tomasz</FirstName>
+                <LastName>Lisowski</LastName>
+                <Position>LB</Position>
+                <Pace>77</Pace>
+                <Shooting>53</Shooting>
+                <Passing>54</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>65</Defensive>
+                <Stamina>79</Stamina>
+                <Club>Pogoń Szczecin</Club>
+                <DateOfBirth>04-04-1985</DateOfBirth>
+            </Player>
+            <Player id="5793">
+                <FirstName>Wojciech</FirstName>
+                <LastName>Golla</LastName>
+                <Position>CB</Position>
+                <Pace>63</Pace>
+                <Shooting>35</Shooting>
+                <Passing>48</Passing>
+                <Offensive>41</Offensive>
+                <Defensive>65</Defensive>
+                <Stamina>61</Stamina>
+                <Club>Pogoń Szczecin</Club>
+                <DateOfBirth>12-01-1992</DateOfBirth>
+            </Player>
+            <Player id="5819">
+                <FirstName>Adam</FirstName>
+                <LastName>Frączczak</LastName>
+                <Position>RB</Position>
+                <Pace>78</Pace>
+                <Shooting>57</Shooting>
+                <Passing>64</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>87</Stamina>
+                <Club>Pogoń Szczecin</Club>
+                <DateOfBirth>07-08-1987</DateOfBirth>
+            </Player>
+            <Player id="6002">
+                <FirstName>Maksymilian</FirstName>
+                <LastName>Rogalski</LastName>
+                <Position>CDM</Position>
+                <Pace>69</Pace>
+                <Shooting>61</Shooting>
+                <Passing>59</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Pogoń Szczecin</Club>
+                <DateOfBirth>24-06-1983</DateOfBirth>
+            </Player>
+            <Player id="6091">
+                <FirstName>Jose Hernani</FirstName>
+                <LastName>Da Rosa</LastName>
+                <Position>CB</Position>
+                <Pace>66</Pace>
+                <Shooting>46</Shooting>
+                <Passing>48</Passing>
+                <Offensive>47</Offensive>
+                <Defensive>61</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Pogoń Szczecin</Club>
+                <DateOfBirth>03-02-1984</DateOfBirth>
+            </Player>
+            <Player id="7285">
+                <FirstName>Jakub</FirstName>
+                <LastName>Bąk</LastName>
+                <Position>RM</Position>
+                <Pace>82</Pace>
+                <Shooting>60</Shooting>
+                <Passing>55</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>38</Defensive>
+                <Stamina>66</Stamina>
+                <Club>Pogoń Szczecin</Club>
+                <DateOfBirth>28-05-1993</DateOfBirth>
+            </Player>
+            <Player id="8056">
+                <FirstName>Sebastian</FirstName>
+                <LastName>Rudol</LastName>
+                <Position>RB</Position>
+                <Pace>73</Pace>
+                <Shooting>34</Shooting>
+                <Passing>51</Passing>
+                <Offensive>42</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>85</Stamina>
+                <Club>Pogoń Szczecin</Club>
+                <DateOfBirth>21-02-1995</DateOfBirth>
+            </Player>
+            <Player id="8228">
+                <FirstName>Łukasz</FirstName>
+                <LastName>Zwoliński</LastName>
+                <Position>ST</Position>
+                <Pace>69</Pace>
+                <Shooting>57</Shooting>
+                <Passing>39</Passing>
+                <Offensive>48</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Pogoń Szczecin</Club>
+                <DateOfBirth>24-02-1993</DateOfBirth>
+            </Player>
+            <Player id="9264">
+                <FirstName>Dominik</FirstName>
+                <LastName>Kun</LastName>
+                <Position>LM</Position>
+                <Pace>82</Pace>
+                <Shooting>53</Shooting>
+                <Passing>52</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>63</Stamina>
+                <Club>Pogoń Szczecin</Club>
+                <DateOfBirth>22-06-1993</DateOfBirth>
+            </Player>
+            <Player id="10779">
+                <FirstName>Filip</FirstName>
+                <LastName>Kozłowski</LastName>
+                <Position>ST</Position>
+                <Pace>80</Pace>
+                <Shooting>56</Shooting>
+                <Passing>39</Passing>
+                <Offensive>47</Offensive>
+                <Defensive>26</Defensive>
+                <Stamina>45</Stamina>
+                <Club>Pogoń Szczecin</Club>
+                <DateOfBirth>11-07-1995</DateOfBirth>
+            </Player>
+            <Player id="10860">
+                <FirstName>Michał</FirstName>
+                <LastName>Walski</LastName>
+                <Position>CAM</Position>
+                <Pace>74</Pace>
+                <Shooting>41</Shooting>
+                <Passing>54</Passing>
+                <Offensive>47</Offensive>
+                <Defensive>47</Defensive>
+                <Stamina>44</Stamina>
+                <Club>Pogoń Szczecin</Club>
+                <DateOfBirth>27-02-1997</DateOfBirth>
+            </Player>
+            <Player id="11297">
+                <FirstName>Michał</FirstName>
+                <LastName>Koj</LastName>
+                <Position>CB</Position>
+                <Pace>61</Pace>
+                <Shooting>30</Shooting>
+                <Passing>31</Passing>
+                <Offensive>30</Offensive>
+                <Defensive>51</Defensive>
+                <Stamina>57</Stamina>
+                <Club>Pogoń Szczecin</Club>
+                <DateOfBirth>28-07-1993</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Lech Poznań">
+            <Player id="634">
+                <FirstName>Szymon</FirstName>
+                <LastName>Pawłowski</LastName>
+                <Position>RM</Position>
+                <Pace>86</Pace>
+                <Shooting>71</Shooting>
+                <Passing>64</Passing>
+                <Offensive>67</Offensive>
+                <Defensive>42</Defensive>
+                <Stamina>92</Stamina>
+                <Club>Lech Poznań</Club>
+                <DateOfBirth>04-11-1986</DateOfBirth>
+            </Player>
+            <Player id="700">
+                <FirstName>Gergő</FirstName>
+                <LastName>Lovrencsics</LastName>
+                <Position>RM</Position>
+                <Pace>89</Pace>
+                <Shooting>71</Shooting>
+                <Passing>64</Passing>
+                <Offensive>67</Offensive>
+                <Defensive>47</Defensive>
+                <Stamina>91</Stamina>
+                <Club>Lech Poznań</Club>
+                <DateOfBirth>01-09-1988</DateOfBirth>
+            </Player>
+            <Player id="2393">
+                <FirstName>Muhamed</FirstName>
+                <LastName>Keita</LastName>
+                <Position>LW</Position>
+                <Pace>85</Pace>
+                <Shooting>62</Shooting>
+                <Passing>60</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>65</Stamina>
+                <Club>Lech Poznań</Club>
+                <DateOfBirth>02-09-1990</DateOfBirth>
+            </Player>
+            <Player id="2449">
+                <FirstName>Jasmin</FirstName>
+                <LastName>Burić</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>42</Stamina>
+                <Club>Lech Poznań</Club>
+                <DateOfBirth>18-02-1987</DateOfBirth>
+            </Player>
+            <Player id="2986">
+                <FirstName>Kasper</FirstName>
+                <LastName>Hämäläinen</LastName>
+                <Position>CAM</Position>
+                <Pace>75</Pace>
+                <Shooting>62</Shooting>
+                <Passing>65</Passing>
+                <Offensive>63</Offensive>
+                <Defensive>52</Defensive>
+                <Stamina>73</Stamina>
+                <Club>Lech Poznań</Club>
+                <DateOfBirth>08-08-1986</DateOfBirth>
+            </Player>
+            <Player id="3277">
+                <FirstName>Hubert</FirstName>
+                <LastName>Wołąkiewicz</LastName>
+                <Position>CB</Position>
+                <Pace>74</Pace>
+                <Shooting>37</Shooting>
+                <Passing>60</Passing>
+                <Offensive>48</Offensive>
+                <Defensive>68</Defensive>
+                <Stamina>75</Stamina>
+                <Club>Lech Poznań</Club>
+                <DateOfBirth>21-10-1985</DateOfBirth>
+            </Player>
+            <Player id="3301">
+                <FirstName>Kebba</FirstName>
+                <LastName>Ceesay</LastName>
+                <Position>RB</Position>
+                <Pace>92</Pace>
+                <Shooting>55</Shooting>
+                <Passing>55</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>86</Stamina>
+                <Club>Lech Poznań</Club>
+                <DateOfBirth>14-11-1987</DateOfBirth>
+            </Player>
+            <Player id="3882">
+                <FirstName>Łukasz</FirstName>
+                <LastName>Trałka</LastName>
+                <Position>CDM</Position>
+                <Pace>67</Pace>
+                <Shooting>58</Shooting>
+                <Passing>62</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>65</Defensive>
+                <Stamina>83</Stamina>
+                <Club>Lech Poznań</Club>
+                <DateOfBirth>11-05-1984</DateOfBirth>
+            </Player>
+            <Player id="4004">
+                <FirstName>Marcin</FirstName>
+                <LastName>Kamiński</LastName>
+                <Position>CB</Position>
+                <Pace>76</Pace>
+                <Shooting>45</Shooting>
+                <Passing>58</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>77</Stamina>
+                <Club>Lech Poznań</Club>
+                <DateOfBirth>15-01-1992</DateOfBirth>
+            </Player>
+            <Player id="4272">
+                <FirstName>Barry</FirstName>
+                <LastName>Douglas</LastName>
+                <Position>LB</Position>
+                <Pace>80</Pace>
+                <Shooting>44</Shooting>
+                <Passing>65</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>73</Stamina>
+                <Club>Lech Poznań</Club>
+                <DateOfBirth>04-09-1989</DateOfBirth>
+            </Player>
+            <Player id="4442">
+                <FirstName>Maciej</FirstName>
+                <LastName>Gostomski</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>24</Stamina>
+                <Club>Lech Poznań</Club>
+                <DateOfBirth>27-09-1988</DateOfBirth>
+            </Player>
+            <Player id="4722">
+                <FirstName>Luis</FirstName>
+                <LastName>Henríquez</LastName>
+                <Position>LB</Position>
+                <Pace>74</Pace>
+                <Shooting>57</Shooting>
+                <Passing>62</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>80</Stamina>
+                <Club>Lech Poznań</Club>
+                <DateOfBirth>23-11-1981</DateOfBirth>
+            </Player>
+            <Player id="6277">
+                <FirstName>Tomasz</FirstName>
+                <LastName>Kędziora</LastName>
+                <Position>RB</Position>
+                <Pace>72</Pace>
+                <Shooting>38</Shooting>
+                <Passing>55</Passing>
+                <Offensive>46</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>73</Stamina>
+                <Club>Lech Poznań</Club>
+                <DateOfBirth>11-06-1994</DateOfBirth>
+            </Player>
+            <Player id="6498">
+                <FirstName>Krzysztof</FirstName>
+                <LastName>Kotorowski</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>34</Stamina>
+                <Club>Lech Poznań</Club>
+                <DateOfBirth>12-09-1976</DateOfBirth>
+            </Player>
+            <Player id="7302">
+                <FirstName>Szymon</FirstName>
+                <LastName>Drewniak</LastName>
+                <Position>CDM</Position>
+                <Pace>71</Pace>
+                <Shooting>50</Shooting>
+                <Passing>60</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>79</Stamina>
+                <Club>Lech Poznań</Club>
+                <DateOfBirth>11-07-1993</DateOfBirth>
+            </Player>
+            <Player id="8463">
+                <FirstName>Darko</FirstName>
+                <LastName>Jevtić</LastName>
+                <Position>CAM</Position>
+                <Pace>62</Pace>
+                <Shooting>45</Shooting>
+                <Passing>57</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>48</Defensive>
+                <Stamina>63</Stamina>
+                <Club>Lech Poznań</Club>
+                <DateOfBirth>08-02-1993</DateOfBirth>
+            </Player>
+            <Player id="9423">
+                <FirstName>Dariusz</FirstName>
+                <LastName>Formella</LastName>
+                <Position>RM</Position>
+                <Pace>81</Pace>
+                <Shooting>61</Shooting>
+                <Passing>52</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>31</Defensive>
+                <Stamina>74</Stamina>
+                <Club>Lech Poznań</Club>
+                <DateOfBirth>21-10-1995</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Wisła Kraków">
+            <Player id="757">
+                <FirstName>Dariusz</FirstName>
+                <LastName>Dudka</LastName>
+                <Position>CB</Position>
+                <Pace>63</Pace>
+                <Shooting>55</Shooting>
+                <Passing>66</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>70</Defensive>
+                <Stamina>38</Stamina>
+                <Club>Wisła Kraków</Club>
+                <DateOfBirth>09-12-1983</DateOfBirth>
+            </Player>
+            <Player id="1055">
+                <FirstName>Paweł</FirstName>
+                <LastName>Brożek</LastName>
+                <Position>ST</Position>
+                <Pace>67</Pace>
+                <Shooting>72</Shooting>
+                <Passing>64</Passing>
+                <Offensive>68</Offensive>
+                <Defensive>34</Defensive>
+                <Stamina>54</Stamina>
+                <Club>Wisła Kraków</Club>
+                <DateOfBirth>21-04-1983</DateOfBirth>
+            </Player>
+            <Player id="1831">
+                <FirstName>Arkadiusz</FirstName>
+                <LastName>Głowacki</LastName>
+                <Position>CB</Position>
+                <Pace>39</Pace>
+                <Shooting>46</Shooting>
+                <Passing>60</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>69</Defensive>
+                <Stamina>34</Stamina>
+                <Club>Wisła Kraków</Club>
+                <DateOfBirth>13-03-1979</DateOfBirth>
+            </Player>
+            <Player id="3879">
+                <FirstName>Łukasz</FirstName>
+                <LastName>Garguła</LastName>
+                <Position>CAM</Position>
+                <Pace>52</Pace>
+                <Shooting>66</Shooting>
+                <Passing>74</Passing>
+                <Offensive>70</Offensive>
+                <Defensive>43</Defensive>
+                <Stamina>55</Stamina>
+                <Club>Wisła Kraków</Club>
+                <DateOfBirth>25-02-1981</DateOfBirth>
+            </Player>
+            <Player id="4506">
+                <FirstName>Łukasz</FirstName>
+                <LastName>Burliga</LastName>
+                <Position>RB</Position>
+                <Pace>71</Pace>
+                <Shooting>46</Shooting>
+                <Passing>53</Passing>
+                <Offensive>49</Offensive>
+                <Defensive>65</Defensive>
+                <Stamina>68</Stamina>
+                <Club>Wisła Kraków</Club>
+                <DateOfBirth>15-05-1988</DateOfBirth>
+            </Player>
+            <Player id="4585">
+                <FirstName>Marko</FirstName>
+                <LastName>Jovanović</LastName>
+                <Position>CB</Position>
+                <Pace>65</Pace>
+                <Shooting>42</Shooting>
+                <Passing>49</Passing>
+                <Offensive>45</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>80</Stamina>
+                <Club>Wisła Kraków</Club>
+                <DateOfBirth>26-03-1988</DateOfBirth>
+            </Player>
+            <Player id="4962">
+                <FirstName>Maciej</FirstName>
+                <LastName>Sadlok</LastName>
+                <Position>LB</Position>
+                <Pace>69</Pace>
+                <Shooting>42</Shooting>
+                <Passing>54</Passing>
+                <Offensive>48</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>80</Stamina>
+                <Club>Wisła Kraków</Club>
+                <DateOfBirth>29-06-1989</DateOfBirth>
+            </Player>
+            <Player id="5719">
+                <FirstName>Ostoja</FirstName>
+                <LastName>Stjepanovic</LastName>
+                <Position>CDM</Position>
+                <Pace>63</Pace>
+                <Shooting>48</Shooting>
+                <Passing>62</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>62</Stamina>
+                <Club>Wisła Kraków</Club>
+                <DateOfBirth>17-01-1985</DateOfBirth>
+            </Player>
+            <Player id="6567">
+                <FirstName>Michał</FirstName>
+                <LastName>Buchalik</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>36</Stamina>
+                <Club>Wisła Kraków</Club>
+                <DateOfBirth>03-02-1989</DateOfBirth>
+            </Player>
+            <Player id="6875">
+                <FirstName>Mariusz</FirstName>
+                <LastName>Stępiński</LastName>
+                <Position>ST</Position>
+                <Pace>68</Pace>
+                <Shooting>60</Shooting>
+                <Passing>51</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>55</Stamina>
+                <Club>Wisła Kraków</Club>
+                <DateOfBirth>12-05-1995</DateOfBirth>
+            </Player>
+            <Player id="7013">
+                <FirstName>Rafał</FirstName>
+                <LastName>Boguski</LastName>
+                <Position>RM</Position>
+                <Pace>67</Pace>
+                <Shooting>59</Shooting>
+                <Passing>56</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>66</Stamina>
+                <Club>Wisła Kraków</Club>
+                <DateOfBirth>09-06-1984</DateOfBirth>
+            </Player>
+            <Player id="7058">
+                <FirstName>Michał</FirstName>
+                <LastName>Czekaj</LastName>
+                <Position>CB</Position>
+                <Pace>43</Pace>
+                <Shooting>42</Shooting>
+                <Passing>49</Passing>
+                <Offensive>45</Offensive>
+                <Defensive>59</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Wisła Kraków</Club>
+                <DateOfBirth>13-02-1992</DateOfBirth>
+            </Player>
+            <Player id="8131">
+                <FirstName>Emmanuel</FirstName>
+                <LastName>Sarki</LastName>
+                <Position>RM</Position>
+                <Pace>93</Pace>
+                <Shooting>49</Shooting>
+                <Passing>53</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>38</Defensive>
+                <Stamina>58</Stamina>
+                <Club>Wisła Kraków</Club>
+                <DateOfBirth>26-12-1987</DateOfBirth>
+            </Player>
+            <Player id="10443">
+                <FirstName>Gerard</FirstName>
+                <LastName>Bieszczad</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>44</Stamina>
+                <Club>Wisła Kraków</Club>
+                <DateOfBirth>05-02-1993</DateOfBirth>
+            </Player>
+            <Player id="11179">
+                <FirstName>Tomasz</FirstName>
+                <LastName>Zając</LastName>
+                <Position>ST</Position>
+                <Pace>80</Pace>
+                <Shooting>55</Shooting>
+                <Passing>41</Passing>
+                <Offensive>48</Offensive>
+                <Defensive>26</Defensive>
+                <Stamina>68</Stamina>
+                <Club>Wisła Kraków</Club>
+                <DateOfBirth>14-07-1995</DateOfBirth>
+            </Player>
+            <Player id="11332">
+                <FirstName>Przemysław</FirstName>
+                <LastName>Lech</LastName>
+                <Position>CAM</Position>
+                <Pace>68</Pace>
+                <Shooting>40</Shooting>
+                <Passing>51</Passing>
+                <Offensive>45</Offensive>
+                <Defensive>39</Defensive>
+                <Stamina>64</Stamina>
+                <Club>Wisła Kraków</Club>
+                <DateOfBirth>05-07-1995</DateOfBirth>
+            </Player>
+            <Player id="11446">
+                <FirstName>Mateusz</FirstName>
+                <LastName>Zając</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>32</Stamina>
+                <Club>Wisła Kraków</Club>
+                <DateOfBirth>13-04-1996</DateOfBirth>
+            </Player>
+            <Player id="11566">
+                <FirstName>Bartłomiej</FirstName>
+                <LastName>Kolanko</LastName>
+                <Position>RB</Position>
+                <Pace>59</Pace>
+                <Shooting>27</Shooting>
+                <Passing>33</Passing>
+                <Offensive>30</Offensive>
+                <Defensive>53</Defensive>
+                <Stamina>62</Stamina>
+                <Club>Wisła Kraków</Club>
+                <DateOfBirth>21-03-1995</DateOfBirth>
+            </Player>
+            <Player id="11590">
+                <FirstName>Adrian</FirstName>
+                <LastName>Wójcik</LastName>
+                <Position>CM</Position>
+                <Pace>63</Pace>
+                <Shooting>34</Shooting>
+                <Passing>49</Passing>
+                <Offensive>41</Offensive>
+                <Defensive>45</Defensive>
+                <Stamina>57</Stamina>
+                <Club>Wisła Kraków</Club>
+                <DateOfBirth>22-02-1996</DateOfBirth>
+            </Player>
+            <Player id="11592">
+                <FirstName>Lucas Guedes</FirstName>
+                <LastName>de Lima</LastName>
+                <Position>CM</Position>
+                <Pace>59</Pace>
+                <Shooting>34</Shooting>
+                <Passing>48</Passing>
+                <Offensive>41</Offensive>
+                <Defensive>49</Defensive>
+                <Stamina>54</Stamina>
+                <Club>Wisła Kraków</Club>
+                <DateOfBirth>30-05-1996</DateOfBirth>
+            </Player>
+            <Player id="11632">
+                <FirstName>Michał</FirstName>
+                <LastName>Bierzało</LastName>
+                <Position>CB</Position>
+                <Pace>58</Pace>
+                <Shooting>27</Shooting>
+                <Passing>26</Passing>
+                <Offensive>26</Offensive>
+                <Defensive>49</Defensive>
+                <Stamina>63</Stamina>
+                <Club>Wisła Kraków</Club>
+                <DateOfBirth>25-06-1995</DateOfBirth>
+            </Player>
+            <Player id="11637">
+                <FirstName>Alan</FirstName>
+                <LastName>Uryga</LastName>
+                <Position>CDM</Position>
+                <Pace>49</Pace>
+                <Shooting>28</Shooting>
+                <Passing>33</Passing>
+                <Offensive>30</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>48</Stamina>
+                <Club>Wisła Kraków</Club>
+                <DateOfBirth>19-02-1994</DateOfBirth>
+            </Player>
+            <Player id="11704">
+                <FirstName>Piotr</FirstName>
+                <LastName>Żemło</LastName>
+                <Position>LM</Position>
+                <Pace>58</Pace>
+                <Shooting>27</Shooting>
+                <Passing>35</Passing>
+                <Offensive>31</Offensive>
+                <Defensive>52</Defensive>
+                <Stamina>74</Stamina>
+                <Club>Wisła Kraków</Club>
+                <DateOfBirth>10-07-1995</DateOfBirth>
+            </Player>
+            <Player id="12720">
+                <FirstName>Semir</FirstName>
+                <LastName>Štilić</LastName>
+                <Position>CAM</Position>
+                <Pace>42</Pace>
+                <Shooting>64</Shooting>
+                <Passing>75</Passing>
+                <Offensive>69</Offensive>
+                <Defensive>27</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Wisła Kraków</Club>
+                <DateOfBirth>08-10-1987</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Śląsk Wrocław ">
+            <Player id="764">
+                <FirstName>Piotr</FirstName>
+                <LastName>Celeban</LastName>
+                <Position>RB</Position>
+                <Pace>72</Pace>
+                <Shooting>58</Shooting>
+                <Passing>50</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>73</Defensive>
+                <Stamina>81</Stamina>
+                <Club>Śląsk Wrocław </Club>
+                <DateOfBirth>25-06-1985</DateOfBirth>
+            </Player>
+            <Player id="1248">
+                <FirstName>Flavio Emmanuel</FirstName>
+                <LastName>Lopes Paixão</LastName>
+                <Position>RM</Position>
+                <Pace>73</Pace>
+                <Shooting>57</Shooting>
+                <Passing>65</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>31</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Śląsk Wrocław </Club>
+                <DateOfBirth>19-09-1984</DateOfBirth>
+            </Player>
+            <Player id="1529">
+                <FirstName>Marco Filipe</FirstName>
+                <LastName>Lopes Paixão</LastName>
+                <Position>ST</Position>
+                <Pace>70</Pace>
+                <Shooting>68</Shooting>
+                <Passing>59</Passing>
+                <Offensive>63</Offensive>
+                <Defensive>33</Defensive>
+                <Stamina>79</Stamina>
+                <Club>Śląsk Wrocław </Club>
+                <DateOfBirth>19-09-1984</DateOfBirth>
+            </Player>
+            <Player id="1677">
+                <FirstName>Sebastian</FirstName>
+                <LastName>Mila</LastName>
+                <Position>CAM</Position>
+                <Pace>39</Pace>
+                <Shooting>62</Shooting>
+                <Passing>77</Passing>
+                <Offensive>69</Offensive>
+                <Defensive>33</Defensive>
+                <Stamina>60</Stamina>
+                <Club>Śląsk Wrocław </Club>
+                <DateOfBirth>10-07-1982</DateOfBirth>
+            </Player>
+            <Player id="3636">
+                <FirstName>Tom</FirstName>
+                <LastName>Hateley</LastName>
+                <Position>CDM</Position>
+                <Pace>67</Pace>
+                <Shooting>53</Shooting>
+                <Passing>64</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>87</Stamina>
+                <Club>Śląsk Wrocław </Club>
+                <DateOfBirth>12-09-1989</DateOfBirth>
+            </Player>
+            <Player id="4150">
+                <FirstName>Mariusz</FirstName>
+                <LastName>Pawelec</LastName>
+                <Position>CB</Position>
+                <Pace>61</Pace>
+                <Shooting>44</Shooting>
+                <Passing>48</Passing>
+                <Offensive>46</Offensive>
+                <Defensive>67</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Śląsk Wrocław </Club>
+                <DateOfBirth>14-04-1986</DateOfBirth>
+            </Player>
+            <Player id="4445">
+                <FirstName>Carlos Eduardo</FirstName>
+                <LastName>de Souza Tomé</LastName>
+                <Position>LB</Position>
+                <Pace>78</Pace>
+                <Shooting>49</Shooting>
+                <Passing>61</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>76</Stamina>
+                <Club>Śląsk Wrocław </Club>
+                <DateOfBirth>11-03-1985</DateOfBirth>
+            </Player>
+            <Player id="4833">
+                <FirstName>Wojciech</FirstName>
+                <LastName>Pawłowski</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>32</Stamina>
+                <Club>Śląsk Wrocław </Club>
+                <DateOfBirth>18-01-1993</DateOfBirth>
+            </Player>
+            <Player id="4914">
+                <FirstName>Rafał</FirstName>
+                <LastName>Grodzicki</LastName>
+                <Position>CB</Position>
+                <Pace>33</Pace>
+                <Shooting>35</Shooting>
+                <Passing>44</Passing>
+                <Offensive>39</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>85</Stamina>
+                <Club>Śląsk Wrocław </Club>
+                <DateOfBirth>28-10-1983</DateOfBirth>
+            </Player>
+            <Player id="5585">
+                <FirstName>Mariusz</FirstName>
+                <LastName>Pawełek</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>43</Stamina>
+                <Club>Śląsk Wrocław </Club>
+                <DateOfBirth>17-03-1981</DateOfBirth>
+            </Player>
+            <Player id="6242">
+                <FirstName>Juan</FirstName>
+                <LastName>Calahorro Bares</LastName>
+                <Position>CB</Position>
+                <Pace>64</Pace>
+                <Shooting>30</Shooting>
+                <Passing>51</Passing>
+                <Offensive>40</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>73</Stamina>
+                <Club>Śląsk Wrocław </Club>
+                <DateOfBirth>12-05-1988</DateOfBirth>
+            </Player>
+            <Player id="6584">
+                <FirstName>Mateusz</FirstName>
+                <LastName>Machaj</LastName>
+                <Position>CAM</Position>
+                <Pace>73</Pace>
+                <Shooting>56</Shooting>
+                <Passing>60</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>33</Defensive>
+                <Stamina>81</Stamina>
+                <Club>Śląsk Wrocław </Club>
+                <DateOfBirth>28-06-1989</DateOfBirth>
+            </Player>
+            <Player id="8492">
+                <FirstName>Tomasz</FirstName>
+                <LastName>Hołota</LastName>
+                <Position>LB</Position>
+                <Pace>56</Pace>
+                <Shooting>44</Shooting>
+                <Passing>55</Passing>
+                <Offensive>49</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Śląsk Wrocław </Club>
+                <DateOfBirth>27-01-1991</DateOfBirth>
+            </Player>
+            <Player id="9128">
+                <FirstName>Krzysztof</FirstName>
+                <LastName>Ostrowski</LastName>
+                <Position>RB</Position>
+                <Pace>58</Pace>
+                <Shooting>49</Shooting>
+                <Passing>54</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>57</Defensive>
+                <Stamina>73</Stamina>
+                <Club>Śląsk Wrocław </Club>
+                <DateOfBirth>03-05-1982</DateOfBirth>
+            </Player>
+            <Player id="9326">
+                <FirstName>Paweł</FirstName>
+                <LastName>Zieliński</LastName>
+                <Position>RB</Position>
+                <Pace>67</Pace>
+                <Shooting>33</Shooting>
+                <Passing>44</Passing>
+                <Offensive>38</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>56</Stamina>
+                <Club>Śląsk Wrocław </Club>
+                <DateOfBirth>17-07-1990</DateOfBirth>
+            </Player>
+            <Player id="9489">
+                <FirstName>Krzysztof</FirstName>
+                <LastName>Danielewicz</LastName>
+                <Position>CM</Position>
+                <Pace>70</Pace>
+                <Shooting>54</Shooting>
+                <Passing>54</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>50</Defensive>
+                <Stamina>59</Stamina>
+                <Club>Śląsk Wrocław </Club>
+                <DateOfBirth>26-07-1991</DateOfBirth>
+            </Player>
+            <Player id="10788">
+                <FirstName>Waldemar</FirstName>
+                <LastName>Gancarczyk</LastName>
+                <Position>CM</Position>
+                <Pace>63</Pace>
+                <Shooting>37</Shooting>
+                <Passing>56</Passing>
+                <Offensive>46</Offensive>
+                <Defensive>43</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Śląsk Wrocław </Club>
+                <DateOfBirth>05-02-1990</DateOfBirth>
+            </Player>
+            <Player id="11448">
+                <FirstName>Michał</FirstName>
+                <LastName>Bartkowiak</LastName>
+                <Position>CM</Position>
+                <Pace>60</Pace>
+                <Shooting>42</Shooting>
+                <Passing>49</Passing>
+                <Offensive>45</Offensive>
+                <Defensive>44</Defensive>
+                <Stamina>56</Stamina>
+                <Club>Śląsk Wrocław </Club>
+                <DateOfBirth>03-02-1997</DateOfBirth>
+            </Player>
+            <Player id="11461">
+                <FirstName>Kamil</FirstName>
+                <LastName>Dankowski</LastName>
+                <Position>RM</Position>
+                <Pace>72</Pace>
+                <Shooting>46</Shooting>
+                <Passing>47</Passing>
+                <Offensive>46</Offensive>
+                <Defensive>26</Defensive>
+                <Stamina>67</Stamina>
+                <Club>Śląsk Wrocław </Club>
+                <DateOfBirth>22-07-1996</DateOfBirth>
+            </Player>
+            <Player id="11504">
+                <FirstName>Marcin</FirstName>
+                <LastName>Przybylski</LastName>
+                <Position>ST</Position>
+                <Pace>71</Pace>
+                <Shooting>49</Shooting>
+                <Passing>39</Passing>
+                <Offensive>44</Offensive>
+                <Defensive>26</Defensive>
+                <Stamina>62</Stamina>
+                <Club>Śląsk Wrocław </Club>
+                <DateOfBirth>22-10-1995</DateOfBirth>
+            </Player>
+            <Player id="11559">
+                <FirstName>Jakub</FirstName>
+                <LastName>Wrąbel</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>34</Stamina>
+                <Club>Śląsk Wrocław </Club>
+                <DateOfBirth>08-06-1996</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Zawisza Bydgoszcz">
+            <Player id="1124">
+                <FirstName>Luís Carlos</FirstName>
+                <LastName>E. Conceição Lima</LastName>
+                <Position>LW</Position>
+                <Pace>92</Pace>
+                <Shooting>65</Shooting>
+                <Passing>61</Passing>
+                <Offensive>63</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>68</Stamina>
+                <Club>Zawisza Bydgoszcz</Club>
+                <DateOfBirth>15-06-1987</DateOfBirth>
+            </Player>
+            <Player id="1813">
+                <FirstName>Michał</FirstName>
+                <LastName>Masłowski</LastName>
+                <Position>CAM</Position>
+                <Pace>71</Pace>
+                <Shooting>66</Shooting>
+                <Passing>68</Passing>
+                <Offensive>67</Offensive>
+                <Defensive>39</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Zawisza Bydgoszcz</Club>
+                <DateOfBirth>19-12-1989</DateOfBirth>
+            </Player>
+            <Player id="2549">
+                <FirstName>Wojciech</FirstName>
+                <LastName>Kaczmarek</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>42</Stamina>
+                <Club>Zawisza Bydgoszcz</Club>
+                <DateOfBirth>29-03-1983</DateOfBirth>
+            </Player>
+            <Player id="2608">
+                <FirstName>André</FirstName>
+                <LastName>Micael Pereira</LastName>
+                <Position>CB</Position>
+                <Pace>59</Pace>
+                <Shooting>28</Shooting>
+                <Passing>39</Passing>
+                <Offensive>33</Offensive>
+                <Defensive>67</Defensive>
+                <Stamina>62</Stamina>
+                <Club>Zawisza Bydgoszcz</Club>
+                <DateOfBirth>04-02-1989</DateOfBirth>
+            </Player>
+            <Player id="3473">
+                <FirstName>Kamil</FirstName>
+                <LastName>Drygas</LastName>
+                <Position>CDM</Position>
+                <Pace>73</Pace>
+                <Shooting>65</Shooting>
+                <Passing>63</Passing>
+                <Offensive>64</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>77</Stamina>
+                <Club>Zawisza Bydgoszcz</Club>
+                <DateOfBirth>07-09-1991</DateOfBirth>
+            </Player>
+            <Player id="3622">
+                <FirstName>Grzegorz</FirstName>
+                <LastName>Sandomierski</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>31</Stamina>
+                <Club>Zawisza Bydgoszcz</Club>
+                <DateOfBirth>05-09-1989</DateOfBirth>
+            </Player>
+            <Player id="4417">
+                <FirstName>Bernardo Lino</FirstName>
+                <LastName>Paes Vasconcelos</LastName>
+                <Position>ST</Position>
+                <Pace>51</Pace>
+                <Shooting>65</Shooting>
+                <Passing>53</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>60</Stamina>
+                <Club>Zawisza Bydgoszcz</Club>
+                <DateOfBirth>10-06-1979</DateOfBirth>
+            </Player>
+            <Player id="4917">
+                <FirstName>David</FirstName>
+                <LastName>Fleurival</LastName>
+                <Position>CDM</Position>
+                <Pace>57</Pace>
+                <Shooting>51</Shooting>
+                <Passing>57</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>61</Defensive>
+                <Stamina>84</Stamina>
+                <Club>Zawisza Bydgoszcz</Club>
+                <DateOfBirth>19-02-1984</DateOfBirth>
+            </Player>
+            <Player id="5133">
+                <FirstName>Jakub</FirstName>
+                <LastName>Wójcicki</LastName>
+                <Position>RM</Position>
+                <Pace>74</Pace>
+                <Shooting>58</Shooting>
+                <Passing>62</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>76</Stamina>
+                <Club>Zawisza Bydgoszcz</Club>
+                <DateOfBirth>09-07-1988</DateOfBirth>
+            </Player>
+            <Player id="6025">
+                <FirstName>Andrzej</FirstName>
+                <LastName>Witan</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>25</Stamina>
+                <Club>Zawisza Bydgoszcz</Club>
+                <DateOfBirth>22-02-1990</DateOfBirth>
+            </Player>
+            <Player id="6039">
+                <FirstName>Micael Cabrita</FirstName>
+                <LastName>Silva</LastName>
+                <Position>CAM</Position>
+                <Pace>66</Pace>
+                <Shooting>59</Shooting>
+                <Passing>60</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>38</Defensive>
+                <Stamina>69</Stamina>
+                <Club>Zawisza Bydgoszcz</Club>
+                <DateOfBirth>16-03-1993</DateOfBirth>
+            </Player>
+            <Player id="6244">
+                <FirstName>Álvaro Ricardo</FirstName>
+                <LastName>Faustino Gomes</LastName>
+                <Position>LW</Position>
+                <Pace>80</Pace>
+                <Shooting>60</Shooting>
+                <Passing>55</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>63</Stamina>
+                <Club>Zawisza Bydgoszcz</Club>
+                <DateOfBirth>03-09-1990</DateOfBirth>
+            </Player>
+            <Player id="6892">
+                <FirstName>Vahan</FirstName>
+                <LastName>Gevorgyan</LastName>
+                <Position>ST</Position>
+                <Pace>80</Pace>
+                <Shooting>60</Shooting>
+                <Passing>58</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>26</Defensive>
+                <Stamina>34</Stamina>
+                <Club>Zawisza Bydgoszcz</Club>
+                <DateOfBirth>19-12-1981</DateOfBirth>
+            </Player>
+            <Player id="6933">
+                <FirstName>Jorge Paulo</FirstName>
+                <LastName>Lima Alves</LastName>
+                <Position>ST</Position>
+                <Pace>75</Pace>
+                <Shooting>60</Shooting>
+                <Passing>47</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>27</Defensive>
+                <Stamina>60</Stamina>
+                <Club>Zawisza Bydgoszcz</Club>
+                <DateOfBirth>10-04-1991</DateOfBirth>
+            </Player>
+            <Player id="8869">
+                <FirstName>Samuel</FirstName>
+                <LastName>de Araújo Miranda</LastName>
+                <Position>CB</Position>
+                <Pace>49</Pace>
+                <Shooting>38</Shooting>
+                <Passing>34</Passing>
+                <Offensive>36</Offensive>
+                <Defensive>57</Defensive>
+                <Stamina>62</Stamina>
+                <Club>Zawisza Bydgoszcz</Club>
+                <DateOfBirth>28-03-1988</DateOfBirth>
+            </Player>
+            <Player id="9133">
+                <FirstName>Piotr</FirstName>
+                <LastName>Petasz</LastName>
+                <Position>LM</Position>
+                <Pace>66</Pace>
+                <Shooting>60</Shooting>
+                <Passing>60</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>57</Defensive>
+                <Stamina>59</Stamina>
+                <Club>Zawisza Bydgoszcz</Club>
+                <DateOfBirth>27-06-1984</DateOfBirth>
+            </Player>
+            <Player id="9480">
+                <FirstName>Jakub</FirstName>
+                <LastName>Łukowski</LastName>
+                <Position>LM</Position>
+                <Pace>81</Pace>
+                <Shooting>52</Shooting>
+                <Passing>54</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>33</Defensive>
+                <Stamina>74</Stamina>
+                <Club>Zawisza Bydgoszcz</Club>
+                <DateOfBirth>25-05-1996</DateOfBirth>
+            </Player>
+            <Player id="9683">
+                <FirstName>Anestis</FirstName>
+                <LastName>Argyriou</LastName>
+                <Position>RB</Position>
+                <Pace>74</Pace>
+                <Shooting>49</Shooting>
+                <Passing>52</Passing>
+                <Offensive>50</Offensive>
+                <Defensive>56</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Zawisza Bydgoszcz</Club>
+                <DateOfBirth>04-01-1988</DateOfBirth>
+            </Player>
+            <Player id="10596">
+                <FirstName>Arkadiusz</FirstName>
+                <LastName>Gajewski</LastName>
+                <Position>ST</Position>
+                <Pace>67</Pace>
+                <Shooting>54</Shooting>
+                <Passing>43</Passing>
+                <Offensive>48</Offensive>
+                <Defensive>55</Defensive>
+                <Stamina>63</Stamina>
+                <Club>Zawisza Bydgoszcz</Club>
+                <DateOfBirth>11-03-1997</DateOfBirth>
+            </Player>
+            <Player id="11168">
+                <FirstName>Damian</FirstName>
+                <LastName>Ciechanowski</LastName>
+                <Position>RB</Position>
+                <Pace>74</Pace>
+                <Shooting>26</Shooting>
+                <Passing>39</Passing>
+                <Offensive>32</Offensive>
+                <Defensive>51</Defensive>
+                <Stamina>81</Stamina>
+                <Club>Zawisza Bydgoszcz</Club>
+                <DateOfBirth>03-04-1996</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Lechia Gdańsk ">
+            <Player id="1316">
+                <FirstName>Ariel</FirstName>
+                <LastName>Borysiuk</LastName>
+                <Position>CDM</Position>
+                <Pace>64</Pace>
+                <Shooting>60</Shooting>
+                <Passing>67</Passing>
+                <Offensive>63</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Lechia Gdańsk </Club>
+                <DateOfBirth>29-07-1991</DateOfBirth>
+            </Player>
+            <Player id="1919">
+                <FirstName>Tiago Carlos</FirstName>
+                <LastName>Morais Valente</LastName>
+                <Position>CB</Position>
+                <Pace>56</Pace>
+                <Shooting>28</Shooting>
+                <Passing>46</Passing>
+                <Offensive>37</Offensive>
+                <Defensive>68</Defensive>
+                <Stamina>53</Stamina>
+                <Club>Lechia Gdańsk </Club>
+                <DateOfBirth>24-04-1985</DateOfBirth>
+            </Player>
+            <Player id="2857">
+                <FirstName>Bartłomiej</FirstName>
+                <LastName>Pawłowski</LastName>
+                <Position>CAM</Position>
+                <Pace>78</Pace>
+                <Shooting>63</Shooting>
+                <Passing>58</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>27</Defensive>
+                <Stamina>49</Stamina>
+                <Club>Lechia Gdańsk </Club>
+                <DateOfBirth>13-11-1992</DateOfBirth>
+            </Player>
+            <Player id="3536">
+                <FirstName>Dariusz</FirstName>
+                <LastName>Trela</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>34</Stamina>
+                <Club>Lechia Gdańsk </Club>
+                <DateOfBirth>05-12-1989</DateOfBirth>
+            </Player>
+            <Player id="4224">
+                <FirstName>Marcin</FirstName>
+                <LastName>Pietrowski</LastName>
+                <Position>CDM</Position>
+                <Pace>67</Pace>
+                <Shooting>54</Shooting>
+                <Passing>59</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>61</Defensive>
+                <Stamina>82</Stamina>
+                <Club>Lechia Gdańsk </Club>
+                <DateOfBirth>01-03-1988</DateOfBirth>
+            </Player>
+            <Player id="5550">
+                <FirstName>Piotr</FirstName>
+                <LastName>Wiśniewski</LastName>
+                <Position>CAM</Position>
+                <Pace>72</Pace>
+                <Shooting>60</Shooting>
+                <Passing>64</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>36</Defensive>
+                <Stamina>73</Stamina>
+                <Club>Lechia Gdańsk </Club>
+                <DateOfBirth>11-08-1982</DateOfBirth>
+            </Player>
+            <Player id="5787">
+                <FirstName>Mavroudis</FirstName>
+                <LastName>Bougaidis</LastName>
+                <Position>CB</Position>
+                <Pace>61</Pace>
+                <Shooting>35</Shooting>
+                <Passing>45</Passing>
+                <Offensive>40</Offensive>
+                <Defensive>65</Defensive>
+                <Stamina>65</Stamina>
+                <Club>Lechia Gdańsk </Club>
+                <DateOfBirth>01-06-1993</DateOfBirth>
+            </Player>
+            <Player id="5823">
+                <FirstName>Filip</FirstName>
+                <LastName>Malbasic</LastName>
+                <Position>LW</Position>
+                <Pace>68</Pace>
+                <Shooting>57</Shooting>
+                <Passing>57</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>26</Defensive>
+                <Stamina>55</Stamina>
+                <Club>Lechia Gdańsk </Club>
+                <DateOfBirth>18-11-1992</DateOfBirth>
+            </Player>
+            <Player id="5915">
+                <FirstName>Mateusz</FirstName>
+                <LastName>Bąk</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>34</Stamina>
+                <Club>Lechia Gdańsk </Club>
+                <DateOfBirth>24-02-1983</DateOfBirth>
+            </Player>
+            <Player id="6461">
+                <FirstName>Zaur</FirstName>
+                <LastName>Sadaev</LastName>
+                <Position>CF</Position>
+                <Pace>72</Pace>
+                <Shooting>62</Shooting>
+                <Passing>41</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>27</Defensive>
+                <Stamina>42</Stamina>
+                <Club>Lechia Gdańsk </Club>
+                <DateOfBirth>06-11-1989</DateOfBirth>
+            </Player>
+            <Player id="6563">
+                <FirstName>Adlan</FirstName>
+                <LastName>Katsaev</LastName>
+                <Position>CM</Position>
+                <Pace>57</Pace>
+                <Shooting>54</Shooting>
+                <Passing>65</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>57</Defensive>
+                <Stamina>63</Stamina>
+                <Club>Lechia Gdańsk </Club>
+                <DateOfBirth>20-02-1988</DateOfBirth>
+            </Player>
+            <Player id="6576">
+                <FirstName>Danijel</FirstName>
+                <LastName>Aleksić</LastName>
+                <Position>ST</Position>
+                <Pace>67</Pace>
+                <Shooting>64</Shooting>
+                <Passing>53</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>35</Defensive>
+                <Stamina>60</Stamina>
+                <Club>Lechia Gdańsk </Club>
+                <DateOfBirth>30-04-1991</DateOfBirth>
+            </Player>
+            <Player id="7367">
+                <FirstName>Stojan</FirstName>
+                <LastName>Vranješ</LastName>
+                <Position>CDM</Position>
+                <Pace>63</Pace>
+                <Shooting>53</Shooting>
+                <Passing>67</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>56</Defensive>
+                <Stamina>66</Stamina>
+                <Club>Lechia Gdańsk </Club>
+                <DateOfBirth>11-10-1986</DateOfBirth>
+            </Player>
+            <Player id="7540">
+                <FirstName>Rafał</FirstName>
+                <LastName>Janicki</LastName>
+                <Position>CB</Position>
+                <Pace>53</Pace>
+                <Shooting>33</Shooting>
+                <Passing>48</Passing>
+                <Offensive>40</Offensive>
+                <Defensive>59</Defensive>
+                <Stamina>58</Stamina>
+                <Club>Lechia Gdańsk </Club>
+                <DateOfBirth>05-07-1992</DateOfBirth>
+            </Player>
+            <Player id="7643">
+                <FirstName>Antonio-Mirko</FirstName>
+                <LastName>Čolak</LastName>
+                <Position>ST</Position>
+                <Pace>59</Pace>
+                <Shooting>62</Shooting>
+                <Passing>45</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>55</Stamina>
+                <Club>Lechia Gdańsk </Club>
+                <DateOfBirth>17-09-1993</DateOfBirth>
+            </Player>
+            <Player id="10479">
+                <FirstName>Damian</FirstName>
+                <LastName>Podleśny</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>26</Stamina>
+                <Club>Lechia Gdańsk </Club>
+                <DateOfBirth>18-05-1995</DateOfBirth>
+            </Player>
+            <Player id="10575">
+                <FirstName>Bernard</FirstName>
+                <LastName>Powszuk</LastName>
+                <Position>CB</Position>
+                <Pace>55</Pace>
+                <Shooting>25</Shooting>
+                <Passing>29</Passing>
+                <Offensive>27</Offensive>
+                <Defensive>55</Defensive>
+                <Stamina>51</Stamina>
+                <Club>Lechia Gdańsk </Club>
+                <DateOfBirth>02-03-1994</DateOfBirth>
+            </Player>
+            <Player id="10766">
+                <FirstName>Adam</FirstName>
+                <LastName>Dźwigała</LastName>
+                <Position>CDM</Position>
+                <Pace>67</Pace>
+                <Shooting>44</Shooting>
+                <Passing>48</Passing>
+                <Offensive>46</Offensive>
+                <Defensive>56</Defensive>
+                <Stamina>76</Stamina>
+                <Club>Lechia Gdańsk </Club>
+                <DateOfBirth>25-09-1995</DateOfBirth>
+            </Player>
+            <Player id="11402">
+                <FirstName>Adam</FirstName>
+                <LastName>Buksa</LastName>
+                <Position>ST</Position>
+                <Pace>51</Pace>
+                <Shooting>50</Shooting>
+                <Passing>35</Passing>
+                <Offensive>42</Offensive>
+                <Defensive>26</Defensive>
+                <Stamina>58</Stamina>
+                <Club>Lechia Gdańsk </Club>
+                <DateOfBirth>12-07-1996</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Piast Gliwice">
+            <Player id="2114">
+                <FirstName>Tomasz</FirstName>
+                <LastName>Podgórski</LastName>
+                <Position>LM</Position>
+                <Pace>77</Pace>
+                <Shooting>58</Shooting>
+                <Passing>65</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>42</Defensive>
+                <Stamina>75</Stamina>
+                <Club>Piast Gliwice</Club>
+                <DateOfBirth>30-12-1985</DateOfBirth>
+            </Player>
+            <Player id="3264">
+                <FirstName>Rubén</FirstName>
+                <LastName>Jurado Fernández</LastName>
+                <Position>ST</Position>
+                <Pace>78</Pace>
+                <Shooting>66</Shooting>
+                <Passing>59</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>32</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Piast Gliwice</Club>
+                <DateOfBirth>25-04-1986</DateOfBirth>
+            </Player>
+            <Player id="4483">
+                <FirstName>Łukasz</FirstName>
+                <LastName>Hanzel</LastName>
+                <Position>CAM</Position>
+                <Pace>74</Pace>
+                <Shooting>53</Shooting>
+                <Passing>67</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>46</Defensive>
+                <Stamina>77</Stamina>
+                <Club>Piast Gliwice</Club>
+                <DateOfBirth>16-09-1986</DateOfBirth>
+            </Player>
+            <Player id="4717">
+                <FirstName>Dawid</FirstName>
+                <LastName>Janczyk</LastName>
+                <Position>ST</Position>
+                <Pace>56</Pace>
+                <Shooting>66</Shooting>
+                <Passing>58</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>34</Defensive>
+                <Stamina>46</Stamina>
+                <Club>Piast Gliwice</Club>
+                <DateOfBirth>23-09-1987</DateOfBirth>
+            </Player>
+            <Player id="5243">
+                <FirstName>Kamil</FirstName>
+                <LastName>Wilczek</LastName>
+                <Position>CAM</Position>
+                <Pace>66</Pace>
+                <Shooting>65</Shooting>
+                <Passing>64</Passing>
+                <Offensive>64</Offensive>
+                <Defensive>46</Defensive>
+                <Stamina>77</Stamina>
+                <Club>Piast Gliwice</Club>
+                <DateOfBirth>14-01-1988</DateOfBirth>
+            </Player>
+            <Player id="5757">
+                <FirstName>Carles Marc</FirstName>
+                <LastName>Martínez Embuena</LastName>
+                <Position>CDM</Position>
+                <Pace>63</Pace>
+                <Shooting>41</Shooting>
+                <Passing>58</Passing>
+                <Offensive>49</Offensive>
+                <Defensive>61</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Piast Gliwice</Club>
+                <DateOfBirth>03-01-1988</DateOfBirth>
+            </Player>
+            <Player id="6113">
+                <FirstName>Wojciech</FirstName>
+                <LastName>Kędziora</LastName>
+                <Position>ST</Position>
+                <Pace>49</Pace>
+                <Shooting>62</Shooting>
+                <Passing>45</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>40</Defensive>
+                <Stamina>60</Stamina>
+                <Club>Piast Gliwice</Club>
+                <DateOfBirth>20-12-1980</DateOfBirth>
+            </Player>
+            <Player id="6352">
+                <FirstName>Piotr</FirstName>
+                <LastName>Brożek</LastName>
+                <Position>LB</Position>
+                <Pace>74</Pace>
+                <Shooting>51</Shooting>
+                <Passing>59</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>59</Defensive>
+                <Stamina>83</Stamina>
+                <Club>Piast Gliwice</Club>
+                <DateOfBirth>21-04-1983</DateOfBirth>
+            </Player>
+            <Player id="6569">
+                <FirstName>Csaba</FirstName>
+                <LastName>Horváth</LastName>
+                <Position>CB</Position>
+                <Pace>41</Pace>
+                <Shooting>43</Shooting>
+                <Passing>43</Passing>
+                <Offensive>43</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>74</Stamina>
+                <Club>Piast Gliwice</Club>
+                <DateOfBirth>02-05-1982</DateOfBirth>
+            </Player>
+            <Player id="7343">
+                <FirstName>Matej</FirstName>
+                <LastName>Ižvolt</LastName>
+                <Position>RM</Position>
+                <Pace>62</Pace>
+                <Shooting>50</Shooting>
+                <Passing>61</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>46</Defensive>
+                <Stamina>76</Stamina>
+                <Club>Piast Gliwice</Club>
+                <DateOfBirth>05-06-1986</DateOfBirth>
+            </Player>
+            <Player id="7427">
+                <FirstName>Adrian</FirstName>
+                <LastName>Klepczyński</LastName>
+                <Position>RB</Position>
+                <Pace>56</Pace>
+                <Shooting>41</Shooting>
+                <Passing>46</Passing>
+                <Offensive>43</Offensive>
+                <Defensive>61</Defensive>
+                <Stamina>79</Stamina>
+                <Club>Piast Gliwice</Club>
+                <DateOfBirth>01-04-1981</DateOfBirth>
+            </Player>
+            <Player id="7554">
+                <FirstName>Gerard</FirstName>
+                <LastName>Badía Cortés</LastName>
+                <Position>LM</Position>
+                <Pace>73</Pace>
+                <Shooting>56</Shooting>
+                <Passing>57</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>27</Defensive>
+                <Stamina>62</Stamina>
+                <Club>Piast Gliwice</Club>
+                <DateOfBirth>18-10-1989</DateOfBirth>
+            </Player>
+            <Player id="7664">
+                <FirstName>Jakub</FirstName>
+                <LastName>Szmatuła</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>45</Stamina>
+                <Club>Piast Gliwice</Club>
+                <DateOfBirth>22-03-1981</DateOfBirth>
+            </Player>
+            <Player id="8227">
+                <FirstName>Radosław</FirstName>
+                <LastName>Murawski</LastName>
+                <Position>CDM</Position>
+                <Pace>70</Pace>
+                <Shooting>47</Shooting>
+                <Passing>60</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>57</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Piast Gliwice</Club>
+                <DateOfBirth>22-04-1994</DateOfBirth>
+            </Player>
+            <Player id="8441">
+                <FirstName>Tomáš</FirstName>
+                <LastName>Dočekal</LastName>
+                <Position>ST</Position>
+                <Pace>51</Pace>
+                <Shooting>58</Shooting>
+                <Passing>53</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>33</Defensive>
+                <Stamina>63</Stamina>
+                <Club>Piast Gliwice</Club>
+                <DateOfBirth>24-05-1989</DateOfBirth>
+            </Player>
+            <Player id="8660">
+                <FirstName>Jakub</FirstName>
+                <LastName>Szumski</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>24</Stamina>
+                <Club>Piast Gliwice</Club>
+                <DateOfBirth>06-03-1992</DateOfBirth>
+            </Player>
+            <Player id="8961">
+                <FirstName>Kornel</FirstName>
+                <LastName>Osyra</LastName>
+                <Position>CB</Position>
+                <Pace>59</Pace>
+                <Shooting>27</Shooting>
+                <Passing>42</Passing>
+                <Offensive>34</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>66</Stamina>
+                <Club>Piast Gliwice</Club>
+                <DateOfBirth>07-02-1993</DateOfBirth>
+            </Player>
+            <Player id="10299">
+                <FirstName>Paweł</FirstName>
+                <LastName>Moskwik</LastName>
+                <Position>ST</Position>
+                <Pace>68</Pace>
+                <Shooting>59</Shooting>
+                <Passing>42</Passing>
+                <Offensive>50</Offensive>
+                <Defensive>24</Defensive>
+                <Stamina>59</Stamina>
+                <Club>Piast Gliwice</Club>
+                <DateOfBirth>08-06-1992</DateOfBirth>
+            </Player>
+            <Player id="10496">
+                <FirstName>Mohamed Amine</FirstName>
+                <LastName>Hadj Saïd</LastName>
+                <Position>CDM</Position>
+                <Pace>60</Pace>
+                <Shooting>31</Shooting>
+                <Passing>52</Passing>
+                <Offensive>41</Offensive>
+                <Defensive>56</Defensive>
+                <Stamina>60</Stamina>
+                <Club>Piast Gliwice</Club>
+                <DateOfBirth>17-02-1987</DateOfBirth>
+            </Player>
+            <Player id="10556">
+                <FirstName>Bartosz</FirstName>
+                <LastName>Szeliga</LastName>
+                <Position>LB</Position>
+                <Pace>76</Pace>
+                <Shooting>56</Shooting>
+                <Passing>55</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>54</Defensive>
+                <Stamina>68</Stamina>
+                <Club>Piast Gliwice</Club>
+                <DateOfBirth>10-01-1993</DateOfBirth>
+            </Player>
+            <Player id="10759">
+                <FirstName>Krzysztof</FirstName>
+                <LastName>Hałgas</LastName>
+                <Position>CAM</Position>
+                <Pace>61</Pace>
+                <Shooting>48</Shooting>
+                <Passing>54</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>32</Defensive>
+                <Stamina>63</Stamina>
+                <Club>Piast Gliwice</Club>
+                <DateOfBirth>27-01-1991</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Korona Kielce">
+            <Player id="2664">
+                <FirstName>Olivier</FirstName>
+                <LastName>Kapo</LastName>
+                <Position>CAM</Position>
+                <Pace>75</Pace>
+                <Shooting>65</Shooting>
+                <Passing>61</Passing>
+                <Offensive>63</Offensive>
+                <Defensive>31</Defensive>
+                <Stamina>69</Stamina>
+                <Club>Korona Kielce</Club>
+                <DateOfBirth>27-09-1980</DateOfBirth>
+            </Player>
+            <Player id="4426">
+                <FirstName>Serhiy</FirstName>
+                <LastName>Pylypchuk</LastName>
+                <Position>LM</Position>
+                <Pace>67</Pace>
+                <Shooting>68</Shooting>
+                <Passing>65</Passing>
+                <Offensive>66</Offensive>
+                <Defensive>44</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Korona Kielce</Club>
+                <DateOfBirth>26-11-1984</DateOfBirth>
+            </Player>
+            <Player id="4979">
+                <FirstName>Paweł</FirstName>
+                <LastName>Golański</LastName>
+                <Position>RB</Position>
+                <Pace>73</Pace>
+                <Shooting>57</Shooting>
+                <Passing>63</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>61</Defensive>
+                <Stamina>76</Stamina>
+                <Club>Korona Kielce</Club>
+                <DateOfBirth>12-10-1982</DateOfBirth>
+            </Player>
+            <Player id="5104">
+                <FirstName>Vlastimir</FirstName>
+                <LastName>Jovanović</LastName>
+                <Position>CDM</Position>
+                <Pace>69</Pace>
+                <Shooting>52</Shooting>
+                <Passing>60</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>84</Stamina>
+                <Club>Korona Kielce</Club>
+                <DateOfBirth>03-04-1985</DateOfBirth>
+            </Player>
+            <Player id="5328">
+                <FirstName>Leandro</FirstName>
+                <LastName>Messias dos Santos</LastName>
+                <Position>CB</Position>
+                <Pace>64</Pace>
+                <Shooting>35</Shooting>
+                <Passing>52</Passing>
+                <Offensive>43</Offensive>
+                <Defensive>65</Defensive>
+                <Stamina>61</Stamina>
+                <Club>Korona Kielce</Club>
+                <DateOfBirth>29-12-1983</DateOfBirth>
+            </Player>
+            <Player id="5568">
+                <FirstName>Kamil</FirstName>
+                <LastName>Kuzera</LastName>
+                <Position>RB</Position>
+                <Pace>73</Pace>
+                <Shooting>51</Shooting>
+                <Passing>55</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>78</Stamina>
+                <Club>Korona Kielce</Club>
+                <DateOfBirth>11-03-1983</DateOfBirth>
+            </Player>
+            <Player id="6090">
+                <FirstName>Paweł</FirstName>
+                <LastName>Sobolewski</LastName>
+                <Position>RM</Position>
+                <Pace>72</Pace>
+                <Shooting>58</Shooting>
+                <Passing>63</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>46</Defensive>
+                <Stamina>33</Stamina>
+                <Club>Korona Kielce</Club>
+                <DateOfBirth>20-06-1979</DateOfBirth>
+            </Player>
+            <Player id="6467">
+                <FirstName>Radek</FirstName>
+                <LastName>Dejmek</LastName>
+                <Position>CB</Position>
+                <Pace>65</Pace>
+                <Shooting>33</Shooting>
+                <Passing>49</Passing>
+                <Offensive>41</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Korona Kielce</Club>
+                <DateOfBirth>02-02-1988</DateOfBirth>
+            </Player>
+            <Player id="7072">
+                <FirstName>Piotr</FirstName>
+                <LastName>Malarczyk</LastName>
+                <Position>CB</Position>
+                <Pace>67</Pace>
+                <Shooting>28</Shooting>
+                <Passing>37</Passing>
+                <Offensive>32</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>62</Stamina>
+                <Club>Korona Kielce</Club>
+                <DateOfBirth>01-08-1991</DateOfBirth>
+            </Player>
+            <Player id="9165">
+                <FirstName>Przemysław</FirstName>
+                <LastName>Trytko</LastName>
+                <Position>ST</Position>
+                <Pace>55</Pace>
+                <Shooting>58</Shooting>
+                <Passing>48</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>39</Defensive>
+                <Stamina>73</Stamina>
+                <Club>Korona Kielce</Club>
+                <DateOfBirth>26-08-1987</DateOfBirth>
+            </Player>
+            <Player id="9411">
+                <FirstName>Kamil</FirstName>
+                <LastName>Sylwestrzak</LastName>
+                <Position>LB</Position>
+                <Pace>70</Pace>
+                <Shooting>35</Shooting>
+                <Passing>42</Passing>
+                <Offensive>38</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>67</Stamina>
+                <Club>Korona Kielce</Club>
+                <DateOfBirth>16-07-1988</DateOfBirth>
+            </Player>
+            <Player id="9739">
+                <FirstName>Vanja</FirstName>
+                <LastName>Marković</LastName>
+                <Position>CDM</Position>
+                <Pace>53</Pace>
+                <Shooting>45</Shooting>
+                <Passing>53</Passing>
+                <Offensive>49</Offensive>
+                <Defensive>57</Defensive>
+                <Stamina>66</Stamina>
+                <Club>Korona Kielce</Club>
+                <DateOfBirth>20-06-1994</DateOfBirth>
+            </Player>
+            <Player id="9851">
+                <FirstName>Marcin</FirstName>
+                <LastName>Cebula</LastName>
+                <Position>CM</Position>
+                <Pace>69</Pace>
+                <Shooting>45</Shooting>
+                <Passing>57</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>48</Defensive>
+                <Stamina>67</Stamina>
+                <Club>Korona Kielce</Club>
+                <DateOfBirth>06-12-1995</DateOfBirth>
+            </Player>
+            <Player id="9939">
+                <FirstName>Sergey</FirstName>
+                <LastName>Khizhnichenko</LastName>
+                <Position>CF</Position>
+                <Pace>62</Pace>
+                <Shooting>62</Shooting>
+                <Passing>42</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>81</Stamina>
+                <Club>Korona Kielce</Club>
+                <DateOfBirth>17-07-1991</DateOfBirth>
+            </Player>
+            <Player id="10325">
+                <FirstName>Sebastian</FirstName>
+                <LastName>Kosiorowski</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>20</Stamina>
+                <Club>Korona Kielce</Club>
+                <DateOfBirth>21-05-1990</DateOfBirth>
+            </Player>
+            <Player id="11007">
+                <FirstName>Bartosz</FirstName>
+                <LastName>Kwiecień</LastName>
+                <Position>CM</Position>
+                <Pace>69</Pace>
+                <Shooting>49</Shooting>
+                <Passing>52</Passing>
+                <Offensive>50</Offensive>
+                <Defensive>40</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Korona Kielce</Club>
+                <DateOfBirth>07-05-1994</DateOfBirth>
+            </Player>
+            <Player id="11247">
+                <FirstName>Nabil</FirstName>
+                <LastName>Aankour</LastName>
+                <Position>CM</Position>
+                <Pace>67</Pace>
+                <Shooting>43</Shooting>
+                <Passing>50</Passing>
+                <Offensive>46</Offensive>
+                <Defensive>54</Defensive>
+                <Stamina>65</Stamina>
+                <Club>Korona Kielce</Club>
+                <DateOfBirth>09-08-1993</DateOfBirth>
+            </Player>
+            <Player id="11630">
+                <FirstName>Kyrylo</FirstName>
+                <LastName>Petrov</LastName>
+                <Position>CDM</Position>
+                <Pace>57</Pace>
+                <Shooting>27</Shooting>
+                <Passing>33</Passing>
+                <Offensive>30</Offensive>
+                <Defensive>59</Defensive>
+                <Stamina>58</Stamina>
+                <Club>Korona Kielce</Club>
+                <DateOfBirth>22-06-1990</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Górnik Zabrze">
+            <Player id="2767">
+                <FirstName>Dawid</FirstName>
+                <LastName>Plizga</LastName>
+                <Position>RM</Position>
+                <Pace>86</Pace>
+                <Shooting>63</Shooting>
+                <Passing>65</Passing>
+                <Offensive>64</Offensive>
+                <Defensive>36</Defensive>
+                <Stamina>90</Stamina>
+                <Club>Górnik Zabrze</Club>
+                <DateOfBirth>17-11-1985</DateOfBirth>
+            </Player>
+            <Player id="3377">
+                <FirstName>Łukasz</FirstName>
+                <LastName>Madej</LastName>
+                <Position>LM</Position>
+                <Pace>77</Pace>
+                <Shooting>59</Shooting>
+                <Passing>63</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>42</Defensive>
+                <Stamina>76</Stamina>
+                <Club>Górnik Zabrze</Club>
+                <DateOfBirth>14-04-1982</DateOfBirth>
+            </Player>
+            <Player id="4197">
+                <FirstName>Błażej</FirstName>
+                <LastName>Augustyn</LastName>
+                <Position>CB</Position>
+                <Pace>54</Pace>
+                <Shooting>46</Shooting>
+                <Passing>50</Passing>
+                <Offensive>48</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>55</Stamina>
+                <Club>Górnik Zabrze</Club>
+                <DateOfBirth>26-01-1988</DateOfBirth>
+            </Player>
+            <Player id="4571">
+                <FirstName>Mateusz</FirstName>
+                <LastName>Zachara</LastName>
+                <Position>ST</Position>
+                <Pace>70</Pace>
+                <Shooting>62</Shooting>
+                <Passing>44</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>31</Defensive>
+                <Stamina>60</Stamina>
+                <Club>Górnik Zabrze</Club>
+                <DateOfBirth>27-03-1990</DateOfBirth>
+            </Player>
+            <Player id="5300">
+                <FirstName>Bartosz</FirstName>
+                <LastName>Iwan</LastName>
+                <Position>CAM</Position>
+                <Pace>40</Pace>
+                <Shooting>56</Shooting>
+                <Passing>66</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>55</Stamina>
+                <Club>Górnik Zabrze</Club>
+                <DateOfBirth>18-04-1984</DateOfBirth>
+            </Player>
+            <Player id="5420">
+                <FirstName>Pavels</FirstName>
+                <LastName>Šteinbors</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>39</Stamina>
+                <Club>Górnik Zabrze</Club>
+                <DateOfBirth>21-09-1985</DateOfBirth>
+            </Player>
+            <Player id="5514">
+                <FirstName>Armin</FirstName>
+                <LastName>Čerimagić</LastName>
+                <Position>LW</Position>
+                <Pace>77</Pace>
+                <Shooting>63</Shooting>
+                <Passing>59</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>37</Defensive>
+                <Stamina>67</Stamina>
+                <Club>Górnik Zabrze</Club>
+                <DateOfBirth>14-01-1994</DateOfBirth>
+            </Player>
+            <Player id="5515">
+                <FirstName>Oleksandr</FirstName>
+                <LastName>Shevelyukhin</LastName>
+                <Position>CB</Position>
+                <Pace>49</Pace>
+                <Shooting>39</Shooting>
+                <Passing>45</Passing>
+                <Offensive>42</Offensive>
+                <Defensive>65</Defensive>
+                <Stamina>56</Stamina>
+                <Club>Górnik Zabrze</Club>
+                <DateOfBirth>27-08-1982</DateOfBirth>
+            </Player>
+            <Player id="5525">
+                <FirstName>Róbert</FirstName>
+                <LastName>Jež</LastName>
+                <Position>CM</Position>
+                <Pace>67</Pace>
+                <Shooting>66</Shooting>
+                <Passing>69</Passing>
+                <Offensive>67</Offensive>
+                <Defensive>61</Defensive>
+                <Stamina>34</Stamina>
+                <Club>Górnik Zabrze</Club>
+                <DateOfBirth>10-07-1981</DateOfBirth>
+            </Player>
+            <Player id="5614">
+                <FirstName>Seweryn</FirstName>
+                <LastName>Gancarczyk</LastName>
+                <Position>CB</Position>
+                <Pace>62</Pace>
+                <Shooting>46</Shooting>
+                <Passing>59</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>61</Defensive>
+                <Stamina>69</Stamina>
+                <Club>Górnik Zabrze</Club>
+                <DateOfBirth>22-11-1981</DateOfBirth>
+            </Player>
+            <Player id="6464">
+                <FirstName>Mariusz</FirstName>
+                <LastName>Przybylski</LastName>
+                <Position>CAM</Position>
+                <Pace>57</Pace>
+                <Shooting>56</Shooting>
+                <Passing>63</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>67</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Górnik Zabrze</Club>
+                <DateOfBirth>19-01-1982</DateOfBirth>
+            </Player>
+            <Player id="6779">
+                <FirstName>Maciej</FirstName>
+                <LastName>Małkowski</LastName>
+                <Position>LM</Position>
+                <Pace>76</Pace>
+                <Shooting>49</Shooting>
+                <Passing>56</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>53</Defensive>
+                <Stamina>73</Stamina>
+                <Club>Górnik Zabrze</Club>
+                <DateOfBirth>19-03-1985</DateOfBirth>
+            </Player>
+            <Player id="7649">
+                <FirstName>Dzikamai</FirstName>
+                <LastName>Gwaze</LastName>
+                <Position>RM</Position>
+                <Pace>92</Pace>
+                <Shooting>58</Shooting>
+                <Passing>54</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>38</Defensive>
+                <Stamina>60</Stamina>
+                <Club>Górnik Zabrze</Club>
+                <DateOfBirth>22-04-1989</DateOfBirth>
+            </Player>
+            <Player id="7707">
+                <FirstName>Grzegorz</FirstName>
+                <LastName>Kasprzik</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>35</Stamina>
+                <Club>Górnik Zabrze</Club>
+                <DateOfBirth>20-09-1983</DateOfBirth>
+            </Player>
+            <Player id="9398">
+                <FirstName>Konrad</FirstName>
+                <LastName>Nowak</LastName>
+                <Position>RM</Position>
+                <Pace>75</Pace>
+                <Shooting>45</Shooting>
+                <Passing>53</Passing>
+                <Offensive>49</Offensive>
+                <Defensive>26</Defensive>
+                <Stamina>57</Stamina>
+                <Club>Górnik Zabrze</Club>
+                <DateOfBirth>07-11-1994</DateOfBirth>
+            </Player>
+            <Player id="9774">
+                <FirstName>Rafał</FirstName>
+                <LastName>Kurzawa</LastName>
+                <Position>CAM</Position>
+                <Pace>67</Pace>
+                <Shooting>50</Shooting>
+                <Passing>59</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>54</Stamina>
+                <Club>Górnik Zabrze</Club>
+                <DateOfBirth>29-01-1993</DateOfBirth>
+            </Player>
+            <Player id="10042">
+                <FirstName>Roman</FirstName>
+                <LastName>Gergel</LastName>
+                <Position>CM</Position>
+                <Pace>63</Pace>
+                <Shooting>48</Shooting>
+                <Passing>57</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>58</Stamina>
+                <Club>Górnik Zabrze</Club>
+                <DateOfBirth>22-02-1988</DateOfBirth>
+            </Player>
+            <Player id="10442">
+                <FirstName>Wojciech</FirstName>
+                <LastName>Łuczak</LastName>
+                <Position>CDM</Position>
+                <Pace>71</Pace>
+                <Shooting>60</Shooting>
+                <Passing>56</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>50</Defensive>
+                <Stamina>69</Stamina>
+                <Club>Górnik Zabrze</Club>
+                <DateOfBirth>28-07-1989</DateOfBirth>
+            </Player>
+            <Player id="10775">
+                <FirstName>Mateusz</FirstName>
+                <LastName>Kuchta</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>40</Stamina>
+                <Club>Górnik Zabrze</Club>
+                <DateOfBirth>05-02-1996</DateOfBirth>
+            </Player>
+            <Player id="10884">
+                <FirstName>Maciej</FirstName>
+                <LastName>Mańka</LastName>
+                <Position>RB</Position>
+                <Pace>66</Pace>
+                <Shooting>47</Shooting>
+                <Passing>42</Passing>
+                <Offensive>44</Offensive>
+                <Defensive>52</Defensive>
+                <Stamina>76</Stamina>
+                <Club>Górnik Zabrze</Club>
+                <DateOfBirth>30-06-1989</DateOfBirth>
+            </Player>
+            <Player id="11447">
+                <FirstName>Dominik</FirstName>
+                <LastName>Sadzawicki</LastName>
+                <Position>RB</Position>
+                <Pace>60</Pace>
+                <Shooting>26</Shooting>
+                <Passing>35</Passing>
+                <Offensive>30</Offensive>
+                <Defensive>52</Defensive>
+                <Stamina>57</Stamina>
+                <Club>Górnik Zabrze</Club>
+                <DateOfBirth>19-04-1994</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Cracovia">
+            <Player id="2797">
+                <FirstName>Dawid</FirstName>
+                <LastName>Nowak</LastName>
+                <Position>ST</Position>
+                <Pace>82</Pace>
+                <Shooting>68</Shooting>
+                <Passing>48</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>33</Defensive>
+                <Stamina>79</Stamina>
+                <Club>Cracovia</Club>
+                <DateOfBirth>30-11-1984</DateOfBirth>
+            </Player>
+            <Player id="3974">
+                <FirstName>Boubacar</FirstName>
+                <LastName>Diabang</LastName>
+                <Position>LM</Position>
+                <Pace>91</Pace>
+                <Shooting>58</Shooting>
+                <Passing>58</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>47</Defensive>
+                <Stamina>83</Stamina>
+                <Club>Cracovia</Club>
+                <DateOfBirth>13-07-1988</DateOfBirth>
+            </Player>
+            <Player id="4192">
+                <FirstName>Luiz Carlos</FirstName>
+                <LastName>Santos</LastName>
+                <Position>RB</Position>
+                <Pace>80</Pace>
+                <Shooting>58</Shooting>
+                <Passing>64</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>61</Defensive>
+                <Stamina>88</Stamina>
+                <Club>Cracovia</Club>
+                <DateOfBirth>01-03-1984</DateOfBirth>
+            </Player>
+            <Player id="4987">
+                <FirstName>Tomislav</FirstName>
+                <LastName>Mikulic</LastName>
+                <Position>CB</Position>
+                <Pace>58</Pace>
+                <Shooting>43</Shooting>
+                <Passing>54</Passing>
+                <Offensive>48</Offensive>
+                <Defensive>65</Defensive>
+                <Stamina>69</Stamina>
+                <Club>Cracovia</Club>
+                <DateOfBirth>04-01-1982</DateOfBirth>
+            </Player>
+            <Player id="5430">
+                <FirstName>Marcin</FirstName>
+                <LastName>Budziński</LastName>
+                <Position>CM</Position>
+                <Pace>54</Pace>
+                <Shooting>52</Shooting>
+                <Passing>63</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>78</Stamina>
+                <Club>Cracovia</Club>
+                <DateOfBirth>06-07-1990</DateOfBirth>
+            </Player>
+            <Player id="6185">
+                <FirstName>Mateusz</FirstName>
+                <LastName>Cetnarski</LastName>
+                <Position>CAM</Position>
+                <Pace>74</Pace>
+                <Shooting>55</Shooting>
+                <Passing>68</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>37</Defensive>
+                <Stamina>64</Stamina>
+                <Club>Cracovia</Club>
+                <DateOfBirth>06-07-1988</DateOfBirth>
+            </Player>
+            <Player id="7185">
+                <FirstName>Adam</FirstName>
+                <LastName>Marciniak</LastName>
+                <Position>LB</Position>
+                <Pace>66</Pace>
+                <Shooting>54</Shooting>
+                <Passing>49</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Cracovia</Club>
+                <DateOfBirth>28-09-1988</DateOfBirth>
+            </Player>
+            <Player id="7198">
+                <FirstName>Matko</FirstName>
+                <LastName>Perdijić</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>38</Stamina>
+                <Club>Cracovia</Club>
+                <DateOfBirth>26-05-1982</DateOfBirth>
+            </Player>
+            <Player id="7763">
+                <FirstName>Damian</FirstName>
+                <LastName>Dąbrowski</LastName>
+                <Position>CM</Position>
+                <Pace>73</Pace>
+                <Shooting>52</Shooting>
+                <Passing>59</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>65</Stamina>
+                <Club>Cracovia</Club>
+                <DateOfBirth>27-08-1992</DateOfBirth>
+            </Player>
+            <Player id="8140">
+                <FirstName>Krzysztof</FirstName>
+                <LastName>Nykiel</LastName>
+                <Position>RB</Position>
+                <Pace>64</Pace>
+                <Shooting>46</Shooting>
+                <Passing>56</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>59</Defensive>
+                <Stamina>87</Stamina>
+                <Club>Cracovia</Club>
+                <DateOfBirth>08-08-1982</DateOfBirth>
+            </Player>
+            <Player id="8575">
+                <FirstName>Mateusz</FirstName>
+                <LastName>Żytko</LastName>
+                <Position>CB</Position>
+                <Pace>65</Pace>
+                <Shooting>47</Shooting>
+                <Passing>50</Passing>
+                <Offensive>48</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>57</Stamina>
+                <Club>Cracovia</Club>
+                <DateOfBirth>27-11-1982</DateOfBirth>
+            </Player>
+            <Player id="8585">
+                <FirstName>Sławomir</FirstName>
+                <LastName>Szeliga</LastName>
+                <Position>CDM</Position>
+                <Pace>42</Pace>
+                <Shooting>50</Shooting>
+                <Passing>63</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>56</Defensive>
+                <Stamina>53</Stamina>
+                <Club>Cracovia</Club>
+                <DateOfBirth>17-07-1982</DateOfBirth>
+            </Player>
+            <Player id="9318">
+                <FirstName>Paweł</FirstName>
+                <LastName>Jaroszyński</LastName>
+                <Position>LB</Position>
+                <Pace>67</Pace>
+                <Shooting>41</Shooting>
+                <Passing>48</Passing>
+                <Offensive>44</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>64</Stamina>
+                <Club>Cracovia</Club>
+                <DateOfBirth>02-10-1994</DateOfBirth>
+            </Player>
+            <Player id="9373">
+                <FirstName>Łukasz</FirstName>
+                <LastName>Zejdler</LastName>
+                <Position>LM</Position>
+                <Pace>76</Pace>
+                <Shooting>48</Shooting>
+                <Passing>58</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>53</Defensive>
+                <Stamina>79</Stamina>
+                <Club>Cracovia</Club>
+                <DateOfBirth>22-03-1992</DateOfBirth>
+            </Player>
+            <Player id="9927">
+                <FirstName>Bartłomiej</FirstName>
+                <LastName>Dudzic</LastName>
+                <Position>LW</Position>
+                <Pace>82</Pace>
+                <Shooting>56</Shooting>
+                <Passing>46</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>36</Defensive>
+                <Stamina>42</Stamina>
+                <Club>Cracovia</Club>
+                <DateOfBirth>01-01-1988</DateOfBirth>
+            </Player>
+            <Player id="10457">
+                <FirstName>Przemysław</FirstName>
+                <LastName>Kita</LastName>
+                <Position>ST</Position>
+                <Pace>60</Pace>
+                <Shooting>57</Shooting>
+                <Passing>50</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>36</Defensive>
+                <Stamina>57</Stamina>
+                <Club>Cracovia</Club>
+                <DateOfBirth>19-10-1993</DateOfBirth>
+            </Player>
+            <Player id="10530">
+                <FirstName>Deniss</FirstName>
+                <LastName>Rakels</LastName>
+                <Position>ST</Position>
+                <Pace>74</Pace>
+                <Shooting>55</Shooting>
+                <Passing>48</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>45</Stamina>
+                <Club>Cracovia</Club>
+                <DateOfBirth>20-08-1992</DateOfBirth>
+            </Player>
+            <Player id="10606">
+                <FirstName>Dariusz</FirstName>
+                <LastName>Zjawiński</LastName>
+                <Position>ST</Position>
+                <Pace>65</Pace>
+                <Shooting>57</Shooting>
+                <Passing>47</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>26</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Cracovia</Club>
+                <DateOfBirth>19-08-1986</DateOfBirth>
+            </Player>
+            <Player id="10937">
+                <FirstName>Krystian</FirstName>
+                <LastName>Stępniowski</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>28</Stamina>
+                <Club>Cracovia</Club>
+                <DateOfBirth>05-12-1992</DateOfBirth>
+            </Player>
+            <Player id="11324">
+                <FirstName>Damian</FirstName>
+                <LastName>Drzewiecki</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>39</Stamina>
+                <Club>Cracovia</Club>
+                <DateOfBirth>25-06-1994</DateOfBirth>
+            </Player>
+            <Player id="11445">
+                <FirstName>Jakub</FirstName>
+                <LastName>Mrozik</LastName>
+                <Position>CDM</Position>
+                <Pace>64</Pace>
+                <Shooting>39</Shooting>
+                <Passing>50</Passing>
+                <Offensive>44</Offensive>
+                <Defensive>46</Defensive>
+                <Stamina>59</Stamina>
+                <Club>Cracovia</Club>
+                <DateOfBirth>21-06-1993</DateOfBirth>
+            </Player>
+            <Player id="11539">
+                <FirstName>Bartosz</FirstName>
+                <LastName>Kapustka</LastName>
+                <Position>CM</Position>
+                <Pace>75</Pace>
+                <Shooting>40</Shooting>
+                <Passing>53</Passing>
+                <Offensive>46</Offensive>
+                <Defensive>42</Defensive>
+                <Stamina>54</Stamina>
+                <Club>Cracovia</Club>
+                <DateOfBirth>23-12-1996</DateOfBirth>
+            </Player>
+            <Player id="11626">
+                <FirstName>Krzysztof</FirstName>
+                <LastName>Szewczyk</LastName>
+                <Position>ST</Position>
+                <Pace>64</Pace>
+                <Shooting>48</Shooting>
+                <Passing>36</Passing>
+                <Offensive>42</Offensive>
+                <Defensive>26</Defensive>
+                <Stamina>62</Stamina>
+                <Club>Cracovia</Club>
+                <DateOfBirth>06-03-1996</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Podbeskidzie Bielsko-Biała">
+            <Player id="3391">
+                <FirstName>Richard</FirstName>
+                <LastName>Zajac</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>25</Stamina>
+                <Club>Podbeskidzie Bielsko-Biała</Club>
+                <DateOfBirth>16-08-1976</DateOfBirth>
+            </Player>
+            <Player id="3428">
+                <FirstName>Michal</FirstName>
+                <LastName>Peškovič</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>25</Stamina>
+                <Club>Podbeskidzie Bielsko-Biała</Club>
+                <DateOfBirth>08-02-1982</DateOfBirth>
+            </Player>
+            <Player id="4310">
+                <FirstName>Robert</FirstName>
+                <LastName>Demjan</LastName>
+                <Position>ST</Position>
+                <Pace>60</Pace>
+                <Shooting>65</Shooting>
+                <Passing>62</Passing>
+                <Offensive>63</Offensive>
+                <Defensive>35</Defensive>
+                <Stamina>68</Stamina>
+                <Club>Podbeskidzie Bielsko-Biała</Club>
+                <DateOfBirth>26-10-1982</DateOfBirth>
+            </Player>
+            <Player id="6247">
+                <FirstName>Damian</FirstName>
+                <LastName>Chmiel</LastName>
+                <Position>RM</Position>
+                <Pace>67</Pace>
+                <Shooting>60</Shooting>
+                <Passing>62</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>39</Defensive>
+                <Stamina>50</Stamina>
+                <Club>Podbeskidzie Bielsko-Biała</Club>
+                <DateOfBirth>06-05-1987</DateOfBirth>
+            </Player>
+            <Player id="6797">
+                <FirstName>Artur</FirstName>
+                <LastName>Lenartowski</LastName>
+                <Position>CDM</Position>
+                <Pace>33</Pace>
+                <Shooting>57</Shooting>
+                <Passing>60</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>48</Defensive>
+                <Stamina>91</Stamina>
+                <Club>Podbeskidzie Bielsko-Biała</Club>
+                <DateOfBirth>17-03-1988</DateOfBirth>
+            </Player>
+            <Player id="6800">
+                <FirstName>Krzysztof</FirstName>
+                <LastName>Chrapek</LastName>
+                <Position>ST</Position>
+                <Pace>81</Pace>
+                <Shooting>60</Shooting>
+                <Passing>45</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Podbeskidzie Bielsko-Biała</Club>
+                <DateOfBirth>07-10-1985</DateOfBirth>
+            </Player>
+            <Player id="7382">
+                <FirstName>Maciej</FirstName>
+                <LastName>Iwański</LastName>
+                <Position>CAM</Position>
+                <Pace>58</Pace>
+                <Shooting>59</Shooting>
+                <Passing>62</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>37</Defensive>
+                <Stamina>64</Stamina>
+                <Club>Podbeskidzie Bielsko-Biała</Club>
+                <DateOfBirth>07-05-1981</DateOfBirth>
+            </Player>
+            <Player id="7399">
+                <FirstName>Bartłomiej</FirstName>
+                <LastName>Konieczny</LastName>
+                <Position>CB</Position>
+                <Pace>36</Pace>
+                <Shooting>39</Shooting>
+                <Passing>39</Passing>
+                <Offensive>39</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>64</Stamina>
+                <Club>Podbeskidzie Bielsko-Biała</Club>
+                <DateOfBirth>09-06-1981</DateOfBirth>
+            </Player>
+            <Player id="7406">
+                <FirstName>Dariusz</FirstName>
+                <LastName>Pietrasiak</LastName>
+                <Position>CB</Position>
+                <Pace>31</Pace>
+                <Shooting>32</Shooting>
+                <Passing>42</Passing>
+                <Offensive>37</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>61</Stamina>
+                <Club>Podbeskidzie Bielsko-Biała</Club>
+                <DateOfBirth>12-02-1980</DateOfBirth>
+            </Player>
+            <Player id="7459">
+                <FirstName>Tomasz</FirstName>
+                <LastName>Górkiewicz</LastName>
+                <Position>RB</Position>
+                <Pace>65</Pace>
+                <Shooting>35</Shooting>
+                <Passing>52</Passing>
+                <Offensive>43</Offensive>
+                <Defensive>61</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Podbeskidzie Bielsko-Biała</Club>
+                <DateOfBirth>28-01-1985</DateOfBirth>
+            </Player>
+            <Player id="7613">
+                <FirstName>Anton</FirstName>
+                <LastName>Sloboda</LastName>
+                <Position>CM</Position>
+                <Pace>72</Pace>
+                <Shooting>57</Shooting>
+                <Passing>63</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>50</Defensive>
+                <Stamina>60</Stamina>
+                <Club>Podbeskidzie Bielsko-Biała</Club>
+                <DateOfBirth>10-07-1987</DateOfBirth>
+            </Player>
+            <Player id="8361">
+                <FirstName>Piotr</FirstName>
+                <LastName>Malinowski</LastName>
+                <Position>LM</Position>
+                <Pace>83</Pace>
+                <Shooting>45</Shooting>
+                <Passing>57</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>35</Defensive>
+                <Stamina>64</Stamina>
+                <Club>Podbeskidzie Bielsko-Biała</Club>
+                <DateOfBirth>24-03-1984</DateOfBirth>
+            </Player>
+            <Player id="8767">
+                <FirstName>Idrissa</FirstName>
+                <LastName>Cissé</LastName>
+                <Position>ST</Position>
+                <Pace>87</Pace>
+                <Shooting>57</Shooting>
+                <Passing>38</Passing>
+                <Offensive>47</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>59</Stamina>
+                <Club>Podbeskidzie Bielsko-Biała</Club>
+                <DateOfBirth>01-01-1990</DateOfBirth>
+            </Player>
+            <Player id="9043">
+                <FirstName>Frank</FirstName>
+                <LastName>Adu Kwame</LastName>
+                <Position>LB</Position>
+                <Pace>91</Pace>
+                <Shooting>40</Shooting>
+                <Passing>50</Passing>
+                <Offensive>45</Offensive>
+                <Defensive>57</Defensive>
+                <Stamina>69</Stamina>
+                <Club>Podbeskidzie Bielsko-Biała</Club>
+                <DateOfBirth>16-05-1985</DateOfBirth>
+            </Player>
+            <Player id="9308">
+                <FirstName>Rafał</FirstName>
+                <LastName>Grzelak</LastName>
+                <Position>LB</Position>
+                <Pace>62</Pace>
+                <Shooting>53</Shooting>
+                <Passing>56</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>52</Defensive>
+                <Stamina>77</Stamina>
+                <Club>Podbeskidzie Bielsko-Biała</Club>
+                <DateOfBirth>06-08-1988</DateOfBirth>
+            </Player>
+            <Player id="9922">
+                <FirstName>Dariusz</FirstName>
+                <LastName>Kołodziej</LastName>
+                <Position>CM</Position>
+                <Pace>43</Pace>
+                <Shooting>61</Shooting>
+                <Passing>60</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>41</Defensive>
+                <Stamina>57</Stamina>
+                <Club>Podbeskidzie Bielsko-Biała</Club>
+                <DateOfBirth>17-04-1982</DateOfBirth>
+            </Player>
+            <Player id="9997">
+                <FirstName>Adam</FirstName>
+                <LastName>Deja</LastName>
+                <Position>CM</Position>
+                <Pace>64</Pace>
+                <Shooting>43</Shooting>
+                <Passing>55</Passing>
+                <Offensive>49</Offensive>
+                <Defensive>51</Defensive>
+                <Stamina>74</Stamina>
+                <Club>Podbeskidzie Bielsko-Biała</Club>
+                <DateOfBirth>24-06-1993</DateOfBirth>
+            </Player>
+            <Player id="10065">
+                <FirstName>Marek</FirstName>
+                <LastName>Sokołowski</LastName>
+                <Position>RM</Position>
+                <Pace>52</Pace>
+                <Shooting>53</Shooting>
+                <Passing>60</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>32</Stamina>
+                <Club>Podbeskidzie Bielsko-Biała</Club>
+                <DateOfBirth>11-03-1978</DateOfBirth>
+            </Player>
+            <Player id="11085">
+                <FirstName>Bartosz</FirstName>
+                <LastName>Śpiączka</LastName>
+                <Position>ST</Position>
+                <Pace>75</Pace>
+                <Shooting>55</Shooting>
+                <Passing>40</Passing>
+                <Offensive>47</Offensive>
+                <Defensive>26</Defensive>
+                <Stamina>59</Stamina>
+                <Club>Podbeskidzie Bielsko-Biała</Club>
+                <DateOfBirth>19-08-1991</DateOfBirth>
+            </Player>
+            <Player id="11133">
+                <FirstName>Szymon</FirstName>
+                <LastName>Jarosz</LastName>
+                <Position>CB</Position>
+                <Pace>62</Pace>
+                <Shooting>27</Shooting>
+                <Passing>30</Passing>
+                <Offensive>28</Offensive>
+                <Defensive>54</Defensive>
+                <Stamina>63</Stamina>
+                <Club>Podbeskidzie Bielsko-Biała</Club>
+                <DateOfBirth>06-03-1997</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="GKS Bełchatów">
+            <Player id="4100">
+                <FirstName>Emilijus</FirstName>
+                <LastName>Zubas</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>30</Stamina>
+                <Club>GKS Bełchatów</Club>
+                <DateOfBirth>10-07-1990</DateOfBirth>
+            </Player>
+            <Player id="4870">
+                <FirstName>Mateusz</FirstName>
+                <LastName>Mak</LastName>
+                <Position>RW</Position>
+                <Pace>81</Pace>
+                <Shooting>61</Shooting>
+                <Passing>61</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>46</Defensive>
+                <Stamina>56</Stamina>
+                <Club>GKS Bełchatów</Club>
+                <DateOfBirth>14-11-1991</DateOfBirth>
+            </Player>
+            <Player id="5584">
+                <FirstName>Bartosz</FirstName>
+                <LastName>Ślusarski</LastName>
+                <Position>ST</Position>
+                <Pace>61</Pace>
+                <Shooting>62</Shooting>
+                <Passing>54</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>37</Defensive>
+                <Stamina>58</Stamina>
+                <Club>GKS Bełchatów</Club>
+                <DateOfBirth>11-12-1981</DateOfBirth>
+            </Player>
+            <Player id="5991">
+                <FirstName>Michał</FirstName>
+                <LastName>Mak</LastName>
+                <Position>LW</Position>
+                <Pace>88</Pace>
+                <Shooting>64</Shooting>
+                <Passing>52</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>60</Stamina>
+                <Club>GKS Bełchatów</Club>
+                <DateOfBirth>14-11-1991</DateOfBirth>
+            </Player>
+            <Player id="6361">
+                <FirstName>Arkadiusz</FirstName>
+                <LastName>Malarz</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>28</Stamina>
+                <Club>GKS Bełchatów</Club>
+                <DateOfBirth>19-06-1980</DateOfBirth>
+            </Player>
+            <Player id="7490">
+                <FirstName>Adam</FirstName>
+                <LastName>Mójta</LastName>
+                <Position>LB</Position>
+                <Pace>70</Pace>
+                <Shooting>55</Shooting>
+                <Passing>48</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>59</Defensive>
+                <Stamina>79</Stamina>
+                <Club>GKS Bełchatów</Club>
+                <DateOfBirth>30-06-1986</DateOfBirth>
+            </Player>
+            <Player id="7502">
+                <FirstName>Grzegorz</FirstName>
+                <LastName>Baran</LastName>
+                <Position>CDM</Position>
+                <Pace>52</Pace>
+                <Shooting>37</Shooting>
+                <Passing>54</Passing>
+                <Offensive>45</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>80</Stamina>
+                <Club>GKS Bełchatów</Club>
+                <DateOfBirth>23-12-1982</DateOfBirth>
+            </Player>
+            <Player id="7926">
+                <FirstName>Błażej</FirstName>
+                <LastName>Telichowski</LastName>
+                <Position>LB</Position>
+                <Pace>70</Pace>
+                <Shooting>54</Shooting>
+                <Passing>59</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>84</Stamina>
+                <Club>GKS Bełchatów</Club>
+                <DateOfBirth>06-06-1984</DateOfBirth>
+            </Player>
+            <Player id="7927">
+                <FirstName>Patryk</FirstName>
+                <LastName>Rachwał</LastName>
+                <Position>CDM</Position>
+                <Pace>65</Pace>
+                <Shooting>53</Shooting>
+                <Passing>54</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>77</Stamina>
+                <Club>GKS Bełchatów</Club>
+                <DateOfBirth>27-01-1981</DateOfBirth>
+            </Player>
+            <Player id="7929">
+                <FirstName>Szymon</FirstName>
+                <LastName>Sawala</LastName>
+                <Position>CDM</Position>
+                <Pace>58</Pace>
+                <Shooting>52</Shooting>
+                <Passing>57</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>59</Defensive>
+                <Stamina>66</Stamina>
+                <Club>GKS Bełchatów</Club>
+                <DateOfBirth>25-09-1982</DateOfBirth>
+            </Player>
+            <Player id="8776">
+                <FirstName>Łukasz</FirstName>
+                <LastName>Wroński</LastName>
+                <Position>RM</Position>
+                <Pace>76</Pace>
+                <Shooting>54</Shooting>
+                <Passing>57</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>75</Stamina>
+                <Club>GKS Bełchatów</Club>
+                <DateOfBirth>13-01-1994</DateOfBirth>
+            </Player>
+            <Player id="8957">
+                <FirstName>Daniils</FirstName>
+                <LastName>Turkovs</LastName>
+                <Position>CF</Position>
+                <Pace>66</Pace>
+                <Shooting>58</Shooting>
+                <Passing>50</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>50</Stamina>
+                <Club>GKS Bełchatów</Club>
+                <DateOfBirth>17-02-1988</DateOfBirth>
+            </Player>
+            <Player id="9414">
+                <FirstName>Marcin</FirstName>
+                <LastName>Flis</LastName>
+                <Position>LB</Position>
+                <Pace>71</Pace>
+                <Shooting>30</Shooting>
+                <Passing>44</Passing>
+                <Offensive>37</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>67</Stamina>
+                <Club>GKS Bełchatów</Club>
+                <DateOfBirth>10-02-1994</DateOfBirth>
+            </Player>
+            <Player id="9717">
+                <FirstName>Piotr</FirstName>
+                <LastName>Witasik</LastName>
+                <Position>CB</Position>
+                <Pace>69</Pace>
+                <Shooting>27</Shooting>
+                <Passing>45</Passing>
+                <Offensive>36</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>64</Stamina>
+                <Club>GKS Bełchatów</Club>
+                <DateOfBirth>04-12-1992</DateOfBirth>
+            </Player>
+            <Player id="10935">
+                <FirstName>Wiktor</FirstName>
+                <LastName>Baranowski</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>30</Stamina>
+                <Club>GKS Bełchatów</Club>
+                <DateOfBirth>30-12-1994</DateOfBirth>
+            </Player>
+            <Player id="11181">
+                <FirstName>Damian</FirstName>
+                <LastName>Szymański</LastName>
+                <Position>CM</Position>
+                <Pace>62</Pace>
+                <Shooting>46</Shooting>
+                <Passing>50</Passing>
+                <Offensive>48</Offensive>
+                <Defensive>48</Defensive>
+                <Stamina>48</Stamina>
+                <Club>GKS Bełchatów</Club>
+                <DateOfBirth>16-06-1995</DateOfBirth>
+            </Player>
+            <Player id="11246">
+                <FirstName>Paweł</FirstName>
+                <LastName>Lenarcik</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>25</Stamina>
+                <Club>GKS Bełchatów</Club>
+                <DateOfBirth>21-03-1995</DateOfBirth>
+            </Player>
+            <Player id="11358">
+                <FirstName>Mateusz</FirstName>
+                <LastName>Szymorek</LastName>
+                <Position>LB</Position>
+                <Pace>72</Pace>
+                <Shooting>25</Shooting>
+                <Passing>34</Passing>
+                <Offensive>29</Offensive>
+                <Defensive>55</Defensive>
+                <Stamina>56</Stamina>
+                <Club>GKS Bełchatów</Club>
+                <DateOfBirth>04-11-1993</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Ruch Chorzów">
+            <Player id="4334">
+                <FirstName>Filip</FirstName>
+                <LastName>Starzyński</LastName>
+                <Position>CAM</Position>
+                <Pace>48</Pace>
+                <Shooting>58</Shooting>
+                <Passing>70</Passing>
+                <Offensive>64</Offensive>
+                <Defensive>42</Defensive>
+                <Stamina>59</Stamina>
+                <Club>Ruch Chorzów</Club>
+                <DateOfBirth>27-05-1991</DateOfBirth>
+            </Player>
+            <Player id="5393">
+                <FirstName>Piotr</FirstName>
+                <LastName>Stawarczyk</LastName>
+                <Position>CB</Position>
+                <Pace>49</Pace>
+                <Shooting>31</Shooting>
+                <Passing>43</Passing>
+                <Offensive>37</Offensive>
+                <Defensive>67</Defensive>
+                <Stamina>86</Stamina>
+                <Club>Ruch Chorzów</Club>
+                <DateOfBirth>29-09-1983</DateOfBirth>
+            </Player>
+            <Player id="6055">
+                <FirstName>Marcin</FirstName>
+                <LastName>Malinowski</LastName>
+                <Position>CB</Position>
+                <Pace>39</Pace>
+                <Shooting>58</Shooting>
+                <Passing>59</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>30</Stamina>
+                <Club>Ruch Chorzów</Club>
+                <DateOfBirth>06-11-1975</DateOfBirth>
+            </Player>
+            <Player id="6208">
+                <FirstName>Roland</FirstName>
+                <LastName>Gigolaev</LastName>
+                <Position>LM</Position>
+                <Pace>74</Pace>
+                <Shooting>58</Shooting>
+                <Passing>59</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>47</Defensive>
+                <Stamina>73</Stamina>
+                <Club>Ruch Chorzów</Club>
+                <DateOfBirth>04-01-1990</DateOfBirth>
+            </Player>
+            <Player id="7110">
+                <FirstName>Senad</FirstName>
+                <LastName>Karahmet</LastName>
+                <Position>LB</Position>
+                <Pace>65</Pace>
+                <Shooting>35</Shooting>
+                <Passing>56</Passing>
+                <Offensive>45</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>65</Stamina>
+                <Club>Ruch Chorzów</Club>
+                <DateOfBirth>25-02-1992</DateOfBirth>
+            </Player>
+            <Player id="7439">
+                <FirstName>Łukasz</FirstName>
+                <LastName>Surma</LastName>
+                <Position>CDM</Position>
+                <Pace>52</Pace>
+                <Shooting>52</Shooting>
+                <Passing>58</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>31</Stamina>
+                <Club>Ruch Chorzów</Club>
+                <DateOfBirth>28-06-1977</DateOfBirth>
+            </Player>
+            <Player id="7661">
+                <FirstName>Marcin</FirstName>
+                <LastName>Kuś</LastName>
+                <Position>RB</Position>
+                <Pace>63</Pace>
+                <Shooting>55</Shooting>
+                <Passing>60</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>53</Stamina>
+                <Club>Ruch Chorzów</Club>
+                <DateOfBirth>02-09-1981</DateOfBirth>
+            </Player>
+            <Player id="8947">
+                <FirstName>Wojciech</FirstName>
+                <LastName>Skaba</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>43</Stamina>
+                <Club>Ruch Chorzów</Club>
+                <DateOfBirth>09-04-1984</DateOfBirth>
+            </Player>
+            <Player id="9188">
+                <FirstName>Michał</FirstName>
+                <LastName>Efir</LastName>
+                <Position>ST</Position>
+                <Pace>81</Pace>
+                <Shooting>56</Shooting>
+                <Passing>43</Passing>
+                <Offensive>49</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>66</Stamina>
+                <Club>Ruch Chorzów</Club>
+                <DateOfBirth>14-04-1992</DateOfBirth>
+            </Player>
+            <Player id="9233">
+                <FirstName>Krzysztof</FirstName>
+                <LastName>Kamiński</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>34</Stamina>
+                <Club>Ruch Chorzów</Club>
+                <DateOfBirth>26-11-1990</DateOfBirth>
+            </Player>
+            <Player id="9665">
+                <FirstName>Sebastian</FirstName>
+                <LastName>Janik</LastName>
+                <Position>CM</Position>
+                <Pace>67</Pace>
+                <Shooting>55</Shooting>
+                <Passing>57</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>52</Defensive>
+                <Stamina>89</Stamina>
+                <Club>Ruch Chorzów</Club>
+                <DateOfBirth>18-04-1989</DateOfBirth>
+            </Player>
+            <Player id="9723">
+                <FirstName>Jakub</FirstName>
+                <LastName>Kowalski</LastName>
+                <Position>RM</Position>
+                <Pace>77</Pace>
+                <Shooting>50</Shooting>
+                <Passing>54</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>27</Defensive>
+                <Stamina>74</Stamina>
+                <Club>Ruch Chorzów</Club>
+                <DateOfBirth>09-10-1987</DateOfBirth>
+            </Player>
+            <Player id="9804">
+                <FirstName>Bartłomiej</FirstName>
+                <LastName>Babiarz</LastName>
+                <Position>CDM</Position>
+                <Pace>54</Pace>
+                <Shooting>50</Shooting>
+                <Passing>60</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>56</Defensive>
+                <Stamina>73</Stamina>
+                <Club>Ruch Chorzów</Club>
+                <DateOfBirth>03-02-1989</DateOfBirth>
+            </Player>
+            <Player id="9836">
+                <FirstName>Michał</FirstName>
+                <LastName>Szewczyk</LastName>
+                <Position>CAM</Position>
+                <Pace>75</Pace>
+                <Shooting>47</Shooting>
+                <Passing>59</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>47</Defensive>
+                <Stamina>61</Stamina>
+                <Club>Ruch Chorzów</Club>
+                <DateOfBirth>17-10-1992</DateOfBirth>
+            </Player>
+            <Player id="10548">
+                <FirstName>Martin</FirstName>
+                <LastName>Konczkowski</LastName>
+                <Position>RB</Position>
+                <Pace>69</Pace>
+                <Shooting>22</Shooting>
+                <Passing>43</Passing>
+                <Offensive>32</Offensive>
+                <Defensive>54</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Ruch Chorzów</Club>
+                <DateOfBirth>14-09-1993</DateOfBirth>
+            </Player>
+            <Player id="11120">
+                <FirstName>Kamil</FirstName>
+                <LastName>Lech</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>32</Stamina>
+                <Club>Ruch Chorzów</Club>
+                <DateOfBirth>15-09-1994</DateOfBirth>
+            </Player>
+            <Player id="11206">
+                <FirstName>Michał</FirstName>
+                <LastName>Helik</LastName>
+                <Position>RB</Position>
+                <Pace>59</Pace>
+                <Shooting>40</Shooting>
+                <Passing>52</Passing>
+                <Offensive>46</Offensive>
+                <Defensive>51</Defensive>
+                <Stamina>65</Stamina>
+                <Club>Ruch Chorzów</Club>
+                <DateOfBirth>09-09-1995</DateOfBirth>
+            </Player>
+            <Player id="11516">
+                <FirstName>Michał</FirstName>
+                <LastName>Rzuchowski</LastName>
+                <Position>CDM</Position>
+                <Pace>59</Pace>
+                <Shooting>36</Shooting>
+                <Passing>50</Passing>
+                <Offensive>43</Offensive>
+                <Defensive>46</Defensive>
+                <Stamina>41</Stamina>
+                <Club>Ruch Chorzów</Club>
+                <DateOfBirth>27-12-1993</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Jagiellonia Białystok">
+            <Player id="4700">
+                <FirstName>Sebastian</FirstName>
+                <LastName>Madera</LastName>
+                <Position>CB</Position>
+                <Pace>36</Pace>
+                <Shooting>39</Shooting>
+                <Passing>52</Passing>
+                <Offensive>45</Offensive>
+                <Defensive>65</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Jagiellonia Białystok</Club>
+                <DateOfBirth>30-05-1985</DateOfBirth>
+            </Player>
+            <Player id="4955">
+                <FirstName>Rafał</FirstName>
+                <LastName>Grzyb</LastName>
+                <Position>CDM</Position>
+                <Pace>71</Pace>
+                <Shooting>51</Shooting>
+                <Passing>60</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>73</Stamina>
+                <Club>Jagiellonia Białystok</Club>
+                <DateOfBirth>16-01-1983</DateOfBirth>
+            </Player>
+            <Player id="5773">
+                <FirstName>Jakub</FirstName>
+                <LastName>Słowik</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>21</Stamina>
+                <Club>Jagiellonia Białystok</Club>
+                <DateOfBirth>31-08-1991</DateOfBirth>
+            </Player>
+            <Player id="5982">
+                <FirstName>Krzysztof</FirstName>
+                <LastName>Baran</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>21</Stamina>
+                <Club>Jagiellonia Białystok</Club>
+                <DateOfBirth>12-02-1990</DateOfBirth>
+            </Player>
+            <Player id="6487">
+                <FirstName>Martin</FirstName>
+                <LastName>Baran</LastName>
+                <Position>CB</Position>
+                <Pace>61</Pace>
+                <Shooting>46</Shooting>
+                <Passing>55</Passing>
+                <Offensive>50</Offensive>
+                <Defensive>61</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Jagiellonia Białystok</Club>
+                <DateOfBirth>03-01-1988</DateOfBirth>
+            </Player>
+            <Player id="7869">
+                <FirstName>Przemysław</FirstName>
+                <LastName>Frankowski</LastName>
+                <Position>RM</Position>
+                <Pace>88</Pace>
+                <Shooting>56</Shooting>
+                <Passing>57</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>42</Defensive>
+                <Stamina>49</Stamina>
+                <Club>Jagiellonia Białystok</Club>
+                <DateOfBirth>12-04-1995</DateOfBirth>
+            </Player>
+            <Player id="8484">
+                <FirstName>Maciej</FirstName>
+                <LastName>Gajos</LastName>
+                <Position>CDM</Position>
+                <Pace>63</Pace>
+                <Shooting>58</Shooting>
+                <Passing>55</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>56</Defensive>
+                <Stamina>86</Stamina>
+                <Club>Jagiellonia Białystok</Club>
+                <DateOfBirth>19-03-1991</DateOfBirth>
+            </Player>
+            <Player id="8508">
+                <FirstName>Jonatan</FirstName>
+                <LastName>Straus</LastName>
+                <Position>LB</Position>
+                <Pace>70</Pace>
+                <Shooting>39</Shooting>
+                <Passing>52</Passing>
+                <Offensive>45</Offensive>
+                <Defensive>61</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Jagiellonia Białystok</Club>
+                <DateOfBirth>30-06-1994</DateOfBirth>
+            </Player>
+            <Player id="8691">
+                <FirstName>Patryk</FirstName>
+                <LastName>Tuszyński</LastName>
+                <Position>ST</Position>
+                <Pace>70</Pace>
+                <Shooting>60</Shooting>
+                <Passing>53</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>36</Defensive>
+                <Stamina>60</Stamina>
+                <Club>Jagiellonia Białystok</Club>
+                <DateOfBirth>13-12-1989</DateOfBirth>
+            </Player>
+            <Player id="9426">
+                <FirstName>Mateusz</FirstName>
+                <LastName>Piątkowski</LastName>
+                <Position>ST</Position>
+                <Pace>68</Pace>
+                <Shooting>59</Shooting>
+                <Passing>40</Passing>
+                <Offensive>49</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>65</Stamina>
+                <Club>Jagiellonia Białystok</Club>
+                <DateOfBirth>22-11-1984</DateOfBirth>
+            </Player>
+            <Player id="9640">
+                <FirstName>Radosław</FirstName>
+                <LastName>Jasiński</LastName>
+                <Position>LB</Position>
+                <Pace>61</Pace>
+                <Shooting>41</Shooting>
+                <Passing>56</Passing>
+                <Offensive>48</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>58</Stamina>
+                <Club>Jagiellonia Białystok</Club>
+                <DateOfBirth>01-04-1990</DateOfBirth>
+            </Player>
+            <Player id="10202">
+                <FirstName>Łukasz</FirstName>
+                <LastName>Tymiński</LastName>
+                <Position>CM</Position>
+                <Pace>60</Pace>
+                <Shooting>51</Shooting>
+                <Passing>51</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>48</Defensive>
+                <Stamina>83</Stamina>
+                <Club>Jagiellonia Białystok</Club>
+                <DateOfBirth>08-11-1990</DateOfBirth>
+            </Player>
+            <Player id="10932">
+                <FirstName>Karol</FirstName>
+                <LastName>Buzun</LastName>
+                <Position>CF</Position>
+                <Pace>63</Pace>
+                <Shooting>52</Shooting>
+                <Passing>47</Passing>
+                <Offensive>49</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>67</Stamina>
+                <Club>Jagiellonia Białystok</Club>
+                <DateOfBirth>04-03-1996</DateOfBirth>
+            </Player>
+            <Player id="11051">
+                <FirstName>Damian</FirstName>
+                <LastName>Kądzior</LastName>
+                <Position>CM</Position>
+                <Pace>66</Pace>
+                <Shooting>38</Shooting>
+                <Passing>51</Passing>
+                <Offensive>44</Offensive>
+                <Defensive>44</Defensive>
+                <Stamina>75</Stamina>
+                <Club>Jagiellonia Białystok</Club>
+                <DateOfBirth>16-06-1992</DateOfBirth>
+            </Player>
+            <Player id="11083">
+                <FirstName>Patryk</FirstName>
+                <LastName>Malinowski</LastName>
+                <Position>CM</Position>
+                <Pace>61</Pace>
+                <Shooting>39</Shooting>
+                <Passing>52</Passing>
+                <Offensive>45</Offensive>
+                <Defensive>43</Defensive>
+                <Stamina>67</Stamina>
+                <Club>Jagiellonia Białystok</Club>
+                <DateOfBirth>10-07-1994</DateOfBirth>
+            </Player>
+            <Player id="11208">
+                <FirstName>Adam</FirstName>
+                <LastName>Waszkiewicz</LastName>
+                <Position>RB</Position>
+                <Pace>62</Pace>
+                <Shooting>26</Shooting>
+                <Passing>33</Passing>
+                <Offensive>29</Offensive>
+                <Defensive>55</Defensive>
+                <Stamina>58</Stamina>
+                <Club>Jagiellonia Białystok</Club>
+                <DateOfBirth>06-12-1993</DateOfBirth>
+            </Player>
+            <Player id="11251">
+                <FirstName>Taras</FirstName>
+                <LastName>Romanczuk</LastName>
+                <Position>CDM</Position>
+                <Pace>56</Pace>
+                <Shooting>40</Shooting>
+                <Passing>50</Passing>
+                <Offensive>45</Offensive>
+                <Defensive>51</Defensive>
+                <Stamina>55</Stamina>
+                <Club>Jagiellonia Białystok</Club>
+                <DateOfBirth>14-11-1991</DateOfBirth>
+            </Player>
+            <Player id="11500">
+                <FirstName>Bartłomiej</FirstName>
+                <LastName>Drągowski</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>34</Stamina>
+                <Club>Jagiellonia Białystok</Club>
+                <DateOfBirth>19-08-1997</DateOfBirth>
+            </Player>
+            <Player id="11571">
+                <FirstName>Karol</FirstName>
+                <LastName>Świderski</LastName>
+                <Position>ST</Position>
+                <Pace>59</Pace>
+                <Shooting>51</Shooting>
+                <Passing>42</Passing>
+                <Offensive>46</Offensive>
+                <Defensive>27</Defensive>
+                <Stamina>64</Stamina>
+                <Club>Jagiellonia Białystok</Club>
+                <DateOfBirth>23-01-1997</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Górnik Łęczna">
+            <Player id="4981">
+                <FirstName>Shpëtim</FirstName>
+                <LastName>Hasani</LastName>
+                <Position>ST</Position>
+                <Pace>72</Pace>
+                <Shooting>61</Shooting>
+                <Passing>49</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>34</Defensive>
+                <Stamina>78</Stamina>
+                <Club>Górnik Łęczna</Club>
+                <DateOfBirth>10-08-1982</DateOfBirth>
+            </Player>
+            <Player id="6232">
+                <FirstName>Marcin</FirstName>
+                <LastName>Kalkowski</LastName>
+                <Position>CB</Position>
+                <Pace>49</Pace>
+                <Shooting>36</Shooting>
+                <Passing>50</Passing>
+                <Offensive>43</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>43</Stamina>
+                <Club>Górnik Łęczna</Club>
+                <DateOfBirth>06-11-1989</DateOfBirth>
+            </Player>
+            <Player id="6362">
+                <FirstName>Sebastian</FirstName>
+                <LastName>Szałachowski</LastName>
+                <Position>RW</Position>
+                <Pace>87</Pace>
+                <Shooting>62</Shooting>
+                <Passing>48</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>34</Defensive>
+                <Stamina>60</Stamina>
+                <Club>Górnik Łęczna</Club>
+                <DateOfBirth>21-01-1984</DateOfBirth>
+            </Player>
+            <Player id="6872">
+                <FirstName>Patrik</FirstName>
+                <LastName>Mráz</LastName>
+                <Position>LB</Position>
+                <Pace>63</Pace>
+                <Shooting>42</Shooting>
+                <Passing>53</Passing>
+                <Offensive>47</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>59</Stamina>
+                <Club>Górnik Łęczna</Club>
+                <DateOfBirth>01-02-1987</DateOfBirth>
+            </Player>
+            <Player id="7179">
+                <FirstName>Paweł</FirstName>
+                <LastName>Buzała</LastName>
+                <Position>ST</Position>
+                <Pace>72</Pace>
+                <Shooting>58</Shooting>
+                <Passing>59</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>36</Defensive>
+                <Stamina>85</Stamina>
+                <Club>Górnik Łęczna</Club>
+                <DateOfBirth>27-12-1985</DateOfBirth>
+            </Player>
+            <Player id="7428">
+                <FirstName>Grzegorz</FirstName>
+                <LastName>Bonin</LastName>
+                <Position>RM</Position>
+                <Pace>60</Pace>
+                <Shooting>68</Shooting>
+                <Passing>63</Passing>
+                <Offensive>65</Offensive>
+                <Defensive>51</Defensive>
+                <Stamina>66</Stamina>
+                <Club>Górnik Łęczna</Club>
+                <DateOfBirth>02-12-1983</DateOfBirth>
+            </Player>
+            <Player id="7555">
+                <FirstName>Radosław</FirstName>
+                <LastName>Pruchnik</LastName>
+                <Position>CM</Position>
+                <Pace>65</Pace>
+                <Shooting>45</Shooting>
+                <Passing>56</Passing>
+                <Offensive>50</Offensive>
+                <Defensive>44</Defensive>
+                <Stamina>94</Stamina>
+                <Club>Górnik Łęczna</Club>
+                <DateOfBirth>11-10-1986</DateOfBirth>
+            </Player>
+            <Player id="8656">
+                <FirstName>Miroslav</FirstName>
+                <LastName>Božok</LastName>
+                <Position>CM</Position>
+                <Pace>61</Pace>
+                <Shooting>57</Shooting>
+                <Passing>62</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>52</Defensive>
+                <Stamina>75</Stamina>
+                <Club>Górnik Łęczna</Club>
+                <DateOfBirth>19-10-1984</DateOfBirth>
+            </Player>
+            <Player id="8752">
+                <FirstName>Silvio</FirstName>
+                <LastName>Rodić</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>24</Stamina>
+                <Club>Górnik Łęczna</Club>
+                <DateOfBirth>25-07-1987</DateOfBirth>
+            </Player>
+            <Player id="9127">
+                <FirstName>Veljko</FirstName>
+                <LastName>Nikitović</LastName>
+                <Position>CDM</Position>
+                <Pace>58</Pace>
+                <Shooting>43</Shooting>
+                <Passing>51</Passing>
+                <Offensive>47</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Górnik Łęczna</Club>
+                <DateOfBirth>03-10-1980</DateOfBirth>
+            </Player>
+            <Player id="9912">
+                <FirstName>Maciej</FirstName>
+                <LastName>Szmatiuk</LastName>
+                <Position>CB</Position>
+                <Pace>42</Pace>
+                <Shooting>30</Shooting>
+                <Passing>40</Passing>
+                <Offensive>35</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>77</Stamina>
+                <Club>Górnik Łęczna</Club>
+                <DateOfBirth>09-05-1980</DateOfBirth>
+            </Player>
+            <Player id="10298">
+                <FirstName>Tomislav</FirstName>
+                <LastName>Božić</LastName>
+                <Position>CB</Position>
+                <Pace>67</Pace>
+                <Shooting>28</Shooting>
+                <Passing>27</Passing>
+                <Offensive>27</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>62</Stamina>
+                <Club>Górnik Łęczna</Club>
+                <DateOfBirth>01-11-1987</DateOfBirth>
+            </Player>
+            <Player id="10510">
+                <FirstName>Lukáš</FirstName>
+                <LastName>Bielák</LastName>
+                <Position>CB</Position>
+                <Pace>62</Pace>
+                <Shooting>28</Shooting>
+                <Passing>32</Passing>
+                <Offensive>30</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>67</Stamina>
+                <Club>Górnik Łęczna</Club>
+                <DateOfBirth>14-12-1986</DateOfBirth>
+            </Player>
+            <Player id="10786">
+                <FirstName>Sergiusz</FirstName>
+                <LastName>Prusak</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>25</Stamina>
+                <Club>Górnik Łęczna</Club>
+                <DateOfBirth>01-05-1979</DateOfBirth>
+            </Player>
+            <Player id="11243">
+                <FirstName>Wojciech</FirstName>
+                <LastName>Kalinowski</LastName>
+                <Position>CAM</Position>
+                <Pace>61</Pace>
+                <Shooting>40</Shooting>
+                <Passing>60</Passing>
+                <Offensive>50</Offensive>
+                <Defensive>36</Defensive>
+                <Stamina>44</Stamina>
+                <Club>Górnik Łęczna</Club>
+                <DateOfBirth>09-09-1993</DateOfBirth>
+            </Player>
+            <Player id="11472">
+                <FirstName>Patryk</FirstName>
+                <LastName>Burzyński</LastName>
+                <Position>CDM</Position>
+                <Pace>59</Pace>
+                <Shooting>35</Shooting>
+                <Passing>49</Passing>
+                <Offensive>42</Offensive>
+                <Defensive>46</Defensive>
+                <Stamina>53</Stamina>
+                <Club>Górnik Łęczna</Club>
+                <DateOfBirth>01-06-1994</DateOfBirth>
+            </Player>
+            <Player id="11697">
+                <FirstName>Paweł</FirstName>
+                <LastName>Socha</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>32</Stamina>
+                <Club>Górnik Łęczna</Club>
+                <DateOfBirth>13-08-1991</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="1899 Hoffenheim">
+            <Player id="5317">
+                <FirstName>Bruno</FirstName>
+                <LastName>dos Santos Nazario</LastName>
+                <Position>CAM</Position>
+                <Pace>68</Pace>
+                <Shooting>56</Shooting>
+                <Passing>62</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>25</Defensive>
+                <Stamina>52</Stamina>
+                <Club>1899 Hoffenheim</Club>
+                <DateOfBirth>09-02-1995</DateOfBirth>
+            </Player>
+        </Team>
+    </League>
+</Players>

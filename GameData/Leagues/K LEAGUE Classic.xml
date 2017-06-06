@@ -1,0 +1,3500 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Players>
+    <League Name="K LEAGUE Classic">
+        <Team Name="Suwon Samsung Bluewings">
+            <Player id="109">
+                <FirstName>Do Heon</FirstName>
+                <LastName>Kim</LastName>
+                <Position>CAM</Position>
+                <Pace>59</Pace>
+                <Shooting>71</Shooting>
+                <Passing>74</Passing>
+                <Offensive>72</Offensive>
+                <Defensive>57</Defensive>
+                <Stamina>78</Stamina>
+                <Club>Suwon Samsung Bluewings</Club>
+                <DateOfBirth>14-07-1982</DateOfBirth>
+            </Player>
+            <Player id="1150">
+                <FirstName>Ki Hun</FirstName>
+                <LastName>Yeom</LastName>
+                <Position>LW</Position>
+                <Pace>80</Pace>
+                <Shooting>69</Shooting>
+                <Passing>71</Passing>
+                <Offensive>70</Offensive>
+                <Defensive>33</Defensive>
+                <Stamina>90</Stamina>
+                <Club>Suwon Samsung Bluewings</Club>
+                <DateOfBirth>30-03-1983</DateOfBirth>
+            </Player>
+            <Player id="1341">
+                <FirstName>Chul</FirstName>
+                <LastName>Hong</LastName>
+                <Position>LB</Position>
+                <Pace>88</Pace>
+                <Shooting>46</Shooting>
+                <Passing>67</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>65</Defensive>
+                <Stamina>90</Stamina>
+                <Club>Suwon Samsung Bluewings</Club>
+                <DateOfBirth>17-09-1990</DateOfBirth>
+            </Player>
+            <Player id="2211">
+                <FirstName>Roger</FirstName>
+                <LastName>Rodrigues da Silva</LastName>
+                <Position>ST</Position>
+                <Pace>56</Pace>
+                <Shooting>68</Shooting>
+                <Passing>58</Passing>
+                <Offensive>63</Offensive>
+                <Defensive>33</Defensive>
+                <Stamina>73</Stamina>
+                <Club>Suwon Samsung Bluewings</Club>
+                <DateOfBirth>07-01-1985</DateOfBirth>
+            </Player>
+            <Player id="2951">
+                <FirstName>Jae Soo</FirstName>
+                <LastName>Choi</LastName>
+                <Position>LB</Position>
+                <Pace>71</Pace>
+                <Shooting>56</Shooting>
+                <Passing>68</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>79</Stamina>
+                <Club>Suwon Samsung Bluewings</Club>
+                <DateOfBirth>02-05-1983</DateOfBirth>
+            </Player>
+            <Player id="3279">
+                <FirstName>Sung Ryong</FirstName>
+                <LastName>Jung</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>25</Stamina>
+                <Club>Suwon Samsung Bluewings</Club>
+                <DateOfBirth>04-01-1985</DateOfBirth>
+            </Player>
+            <Player id="3393">
+                <FirstName>Ki Jong</FirstName>
+                <LastName>Bae</LastName>
+                <Position>CAM</Position>
+                <Pace>93</Pace>
+                <Shooting>64</Shooting>
+                <Passing>62</Passing>
+                <Offensive>63</Offensive>
+                <Defensive>32</Defensive>
+                <Stamina>84</Stamina>
+                <Club>Suwon Samsung Bluewings</Club>
+                <DateOfBirth>26-05-1983</DateOfBirth>
+            </Player>
+            <Player id="5654">
+                <FirstName>Sang Ho</FirstName>
+                <LastName>Lee</LastName>
+                <Position>CAM</Position>
+                <Pace>84</Pace>
+                <Shooting>64</Shooting>
+                <Passing>62</Passing>
+                <Offensive>63</Offensive>
+                <Defensive>48</Defensive>
+                <Stamina>90</Stamina>
+                <Club>Suwon Samsung Bluewings</Club>
+                <DateOfBirth>09-05-1987</DateOfBirth>
+            </Player>
+            <Player id="5963">
+                <FirstName>Eun Sun</FirstName>
+                <LastName>Kim</LastName>
+                <Position>CM</Position>
+                <Pace>76</Pace>
+                <Shooting>57</Shooting>
+                <Passing>59</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>57</Defensive>
+                <Stamina>80</Stamina>
+                <Club>Suwon Samsung Bluewings</Club>
+                <DateOfBirth>30-03-1988</DateOfBirth>
+            </Player>
+            <Player id="5966">
+                <FirstName>Ji Hun</FirstName>
+                <LastName>Cho</LastName>
+                <Position>CAM</Position>
+                <Pace>66</Pace>
+                <Shooting>64</Shooting>
+                <Passing>61</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>44</Defensive>
+                <Stamina>61</Stamina>
+                <Club>Suwon Samsung Bluewings</Club>
+                <DateOfBirth>29-05-1990</DateOfBirth>
+            </Player>
+            <Player id="7169">
+                <FirstName>Sung Jin</FirstName>
+                <LastName>Cho</LastName>
+                <Position>CB</Position>
+                <Pace>66</Pace>
+                <Shooting>26</Shooting>
+                <Passing>41</Passing>
+                <Offensive>33</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>60</Stamina>
+                <Club>Suwon Samsung Bluewings</Club>
+                <DateOfBirth>14-12-1990</DateOfBirth>
+            </Player>
+            <Player id="8205">
+                <FirstName>Sang Gi</FirstName>
+                <LastName>Min</LastName>
+                <Position>CB</Position>
+                <Pace>80</Pace>
+                <Shooting>28</Shooting>
+                <Passing>37</Passing>
+                <Offensive>32</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>74</Stamina>
+                <Club>Suwon Samsung Bluewings</Club>
+                <DateOfBirth>27-08-1991</DateOfBirth>
+            </Player>
+            <Player id="8676">
+                <FirstName>Se Gye</FirstName>
+                <LastName>Sin</LastName>
+                <Position>RB</Position>
+                <Pace>78</Pace>
+                <Shooting>43</Shooting>
+                <Passing>61</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>56</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Suwon Samsung Bluewings</Club>
+                <DateOfBirth>16-09-1990</DateOfBirth>
+            </Player>
+            <Player id="9276">
+                <FirstName>Won Deuk</FirstName>
+                <LastName>Cho</LastName>
+                <Position>RB</Position>
+                <Pace>66</Pace>
+                <Shooting>29</Shooting>
+                <Passing>46</Passing>
+                <Offensive>37</Offensive>
+                <Defensive>59</Defensive>
+                <Stamina>69</Stamina>
+                <Club>Suwon Samsung Bluewings</Club>
+                <DateOfBirth>21-06-1991</DateOfBirth>
+            </Player>
+            <Player id="9463">
+                <FirstName>Chang Hoon</FirstName>
+                <LastName>Kwon</LastName>
+                <Position>CAM</Position>
+                <Pace>48</Pace>
+                <Shooting>53</Shooting>
+                <Passing>61</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>42</Defensive>
+                <Stamina>44</Stamina>
+                <Club>Suwon Samsung Bluewings</Club>
+                <DateOfBirth>30-06-1994</DateOfBirth>
+            </Player>
+            <Player id="9467">
+                <FirstName>Dae Kyung</FirstName>
+                <LastName>Kim</LastName>
+                <Position>RW</Position>
+                <Pace>68</Pace>
+                <Shooting>49</Shooting>
+                <Passing>51</Passing>
+                <Offensive>50</Offensive>
+                <Defensive>26</Defensive>
+                <Stamina>67</Stamina>
+                <Club>Suwon Samsung Bluewings</Club>
+                <DateOfBirth>02-09-1991</DateOfBirth>
+            </Player>
+            <Player id="11235">
+                <FirstName>Woo Seok</FirstName>
+                <LastName>Lee</LastName>
+                <Position>RW</Position>
+                <Pace>60</Pace>
+                <Shooting>48</Shooting>
+                <Passing>49</Passing>
+                <Offensive>48</Offensive>
+                <Defensive>41</Defensive>
+                <Stamina>67</Stamina>
+                <Club>Suwon Samsung Bluewings</Club>
+                <DateOfBirth>27-03-1995</DateOfBirth>
+            </Player>
+            <Player id="11282">
+                <FirstName>Ja Ryong</FirstName>
+                <LastName>Koo</LastName>
+                <Position>CB</Position>
+                <Pace>59</Pace>
+                <Shooting>26</Shooting>
+                <Passing>26</Passing>
+                <Offensive>26</Offensive>
+                <Defensive>51</Defensive>
+                <Stamina>65</Stamina>
+                <Club>Suwon Samsung Bluewings</Club>
+                <DateOfBirth>06-04-1992</DateOfBirth>
+            </Player>
+            <Player id="11393">
+                <FirstName>Min Sung</FirstName>
+                <LastName>Ko</LastName>
+                <Position>CM</Position>
+                <Pace>43</Pace>
+                <Shooting>46</Shooting>
+                <Passing>55</Passing>
+                <Offensive>50</Offensive>
+                <Defensive>40</Defensive>
+                <Stamina>62</Stamina>
+                <Club>Suwon Samsung Bluewings</Club>
+                <DateOfBirth>20-11-1995</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="FC Seoul">
+            <Player id="767">
+                <FirstName>Mauricio</FirstName>
+                <LastName>Molina</LastName>
+                <Position>CAM</Position>
+                <Pace>59</Pace>
+                <Shooting>74</Shooting>
+                <Passing>73</Passing>
+                <Offensive>73</Offensive>
+                <Defensive>27</Defensive>
+                <Stamina>58</Stamina>
+                <Club>FC Seoul</Club>
+                <DateOfBirth>30-04-1980</DateOfBirth>
+            </Player>
+            <Player id="922">
+                <FirstName>Jin Kyu</FirstName>
+                <LastName>Kim</LastName>
+                <Position>CB</Position>
+                <Pace>40</Pace>
+                <Shooting>65</Shooting>
+                <Passing>51</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>72</Defensive>
+                <Stamina>76</Stamina>
+                <Club>FC Seoul</Club>
+                <DateOfBirth>16-02-1985</DateOfBirth>
+            </Player>
+            <Player id="976">
+                <FirstName>Everton Leandro</FirstName>
+                <LastName>dos Santos Pinto</LastName>
+                <Position>LW</Position>
+                <Pace>86</Pace>
+                <Shooting>66</Shooting>
+                <Passing>61</Passing>
+                <Offensive>63</Offensive>
+                <Defensive>32</Defensive>
+                <Stamina>72</Stamina>
+                <Club>FC Seoul</Club>
+                <DateOfBirth>14-10-1986</DateOfBirth>
+            </Player>
+            <Player id="1656">
+                <FirstName>Yong Dae</FirstName>
+                <LastName>Kim</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>22</Stamina>
+                <Club>FC Seoul</Club>
+                <DateOfBirth>11-10-1979</DateOfBirth>
+            </Player>
+            <Player id="2856">
+                <FirstName>Du Ri</FirstName>
+                <LastName>Cha</LastName>
+                <Position>RB</Position>
+                <Pace>86</Pace>
+                <Shooting>54</Shooting>
+                <Passing>64</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>77</Stamina>
+                <Club>FC Seoul</Club>
+                <DateOfBirth>25-07-1980</DateOfBirth>
+            </Player>
+            <Player id="2993">
+                <FirstName>Hyo Jin</FirstName>
+                <LastName>Choi</LastName>
+                <Position>RB</Position>
+                <Pace>86</Pace>
+                <Shooting>56</Shooting>
+                <Passing>62</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>81</Stamina>
+                <Club>FC Seoul</Club>
+                <DateOfBirth>18-08-1983</DateOfBirth>
+            </Player>
+            <Player id="3089">
+                <FirstName>Ju Young</FirstName>
+                <LastName>Kim</LastName>
+                <Position>CB</Position>
+                <Pace>78</Pace>
+                <Shooting>51</Shooting>
+                <Passing>50</Passing>
+                <Offensive>50</Offensive>
+                <Defensive>65</Defensive>
+                <Stamina>78</Stamina>
+                <Club>FC Seoul</Club>
+                <DateOfBirth>09-07-1988</DateOfBirth>
+            </Player>
+            <Player id="3110">
+                <FirstName>Il Lok</FirstName>
+                <LastName>Yun</LastName>
+                <Position>LW</Position>
+                <Pace>73</Pace>
+                <Shooting>70</Shooting>
+                <Passing>63</Passing>
+                <Offensive>66</Offensive>
+                <Defensive>42</Defensive>
+                <Stamina>71</Stamina>
+                <Club>FC Seoul</Club>
+                <DateOfBirth>07-03-1992</DateOfBirth>
+            </Player>
+            <Player id="3311">
+                <FirstName>Myong Jin</FirstName>
+                <LastName>Koh</LastName>
+                <Position>CAM</Position>
+                <Pace>79</Pace>
+                <Shooting>64</Shooting>
+                <Passing>67</Passing>
+                <Offensive>65</Offensive>
+                <Defensive>35</Defensive>
+                <Stamina>82</Stamina>
+                <Club>FC Seoul</Club>
+                <DateOfBirth>19-01-1988</DateOfBirth>
+            </Player>
+            <Player id="3608">
+                <FirstName>Sergio</FirstName>
+                <LastName>Escudero</LastName>
+                <Position>LM</Position>
+                <Pace>89</Pace>
+                <Shooting>60</Shooting>
+                <Passing>60</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>37</Defensive>
+                <Stamina>77</Stamina>
+                <Club>FC Seoul</Club>
+                <DateOfBirth>01-08-1988</DateOfBirth>
+            </Player>
+            <Player id="3945">
+                <FirstName>Yo Han</FirstName>
+                <LastName>Ko</LastName>
+                <Position>RM</Position>
+                <Pace>77</Pace>
+                <Shooting>52</Shooting>
+                <Passing>61</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>77</Stamina>
+                <Club>FC Seoul</Club>
+                <DateOfBirth>10-03-1988</DateOfBirth>
+            </Player>
+            <Player id="4503">
+                <FirstName>Seung Jo</FirstName>
+                <LastName>Kang</LastName>
+                <Position>CM</Position>
+                <Pace>72</Pace>
+                <Shooting>51</Shooting>
+                <Passing>63</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>63</Stamina>
+                <Club>FC Seoul</Club>
+                <DateOfBirth>20-01-1986</DateOfBirth>
+            </Player>
+            <Player id="5145">
+                <FirstName>Hyun Tae</FirstName>
+                <LastName>Choi</LastName>
+                <Position>CM</Position>
+                <Pace>67</Pace>
+                <Shooting>69</Shooting>
+                <Passing>64</Passing>
+                <Offensive>66</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>73</Stamina>
+                <Club>FC Seoul</Club>
+                <DateOfBirth>15-09-1987</DateOfBirth>
+            </Player>
+            <Player id="5729">
+                <FirstName>Osmar</FirstName>
+                <LastName>Barba Ibañez</LastName>
+                <Position>CB</Position>
+                <Pace>32</Pace>
+                <Shooting>51</Shooting>
+                <Passing>54</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>45</Stamina>
+                <Club>FC Seoul</Club>
+                <DateOfBirth>08-06-1988</DateOfBirth>
+            </Player>
+            <Player id="6586">
+                <FirstName>Hyun Sung</FirstName>
+                <LastName>Kim</LastName>
+                <Position>ST</Position>
+                <Pace>72</Pace>
+                <Shooting>64</Shooting>
+                <Passing>50</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>33</Defensive>
+                <Stamina>71</Stamina>
+                <Club>FC Seoul</Club>
+                <DateOfBirth>27-09-1989</DateOfBirth>
+            </Player>
+            <Player id="6852">
+                <FirstName>Ju Tae</FirstName>
+                <LastName>Yun</LastName>
+                <Position>CF</Position>
+                <Pace>78</Pace>
+                <Shooting>55</Shooting>
+                <Passing>58</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>79</Stamina>
+                <Club>FC Seoul</Club>
+                <DateOfBirth>22-06-1990</DateOfBirth>
+            </Player>
+            <Player id="8044">
+                <FirstName>Kwang Min</FirstName>
+                <LastName>Ko</LastName>
+                <Position>CAM</Position>
+                <Pace>78</Pace>
+                <Shooting>56</Shooting>
+                <Passing>56</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>38</Defensive>
+                <Stamina>74</Stamina>
+                <Club>FC Seoul</Club>
+                <DateOfBirth>21-09-1988</DateOfBirth>
+            </Player>
+            <Player id="8435">
+                <FirstName>Seung Yong</FirstName>
+                <LastName>Jung</LastName>
+                <Position>ST</Position>
+                <Pace>76</Pace>
+                <Shooting>59</Shooting>
+                <Passing>52</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>40</Defensive>
+                <Stamina>48</Stamina>
+                <Club>FC Seoul</Club>
+                <DateOfBirth>25-03-1991</DateOfBirth>
+            </Player>
+            <Player id="8806">
+                <FirstName>Hee Seong</FirstName>
+                <LastName>Park</LastName>
+                <Position>ST</Position>
+                <Pace>64</Pace>
+                <Shooting>56</Shooting>
+                <Passing>35</Passing>
+                <Offensive>45</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>68</Stamina>
+                <Club>FC Seoul</Club>
+                <DateOfBirth>07-04-1990</DateOfBirth>
+            </Player>
+            <Player id="9409">
+                <FirstName>Sang Hyeob</FirstName>
+                <LastName>Lee</LastName>
+                <Position>LW</Position>
+                <Pace>65</Pace>
+                <Shooting>58</Shooting>
+                <Passing>57</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>27</Defensive>
+                <Stamina>60</Stamina>
+                <Club>FC Seoul</Club>
+                <DateOfBirth>01-01-1990</DateOfBirth>
+            </Player>
+            <Player id="9511">
+                <FirstName>Woong Hee</FirstName>
+                <LastName>Lee</LastName>
+                <Position>RB</Position>
+                <Pace>65</Pace>
+                <Shooting>30</Shooting>
+                <Passing>51</Passing>
+                <Offensive>40</Offensive>
+                <Defensive>56</Defensive>
+                <Stamina>72</Stamina>
+                <Club>FC Seoul</Club>
+                <DateOfBirth>18-07-1988</DateOfBirth>
+            </Player>
+            <Player id="10450">
+                <FirstName>Il Koo</FirstName>
+                <LastName>Han</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>33</Stamina>
+                <Club>FC Seoul</Club>
+                <DateOfBirth>18-02-1987</DateOfBirth>
+            </Player>
+            <Player id="11645">
+                <FirstName>Nam Ki</FirstName>
+                <LastName>Cho</LastName>
+                <Position>RM</Position>
+                <Pace>64</Pace>
+                <Shooting>45</Shooting>
+                <Passing>46</Passing>
+                <Offensive>45</Offensive>
+                <Defensive>24</Defensive>
+                <Stamina>48</Stamina>
+                <Club>FC Seoul</Club>
+                <DateOfBirth>24-09-1990</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Jeju United FC">
+            <Player id="969">
+                <FirstName>Hugo</FirstName>
+                <LastName>Droguett</LastName>
+                <Position>RM</Position>
+                <Pace>83</Pace>
+                <Shooting>68</Shooting>
+                <Passing>68</Passing>
+                <Offensive>68</Offensive>
+                <Defensive>39</Defensive>
+                <Stamina>73</Stamina>
+                <Club>Jeju United FC</Club>
+                <DateOfBirth>02-09-1982</DateOfBirth>
+            </Player>
+            <Player id="1957">
+                <FirstName>Jin Hyung</FirstName>
+                <LastName>Song</LastName>
+                <Position>CAM</Position>
+                <Pace>85</Pace>
+                <Shooting>60</Shooting>
+                <Passing>65</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>57</Defensive>
+                <Stamina>76</Stamina>
+                <Club>Jeju United FC</Club>
+                <DateOfBirth>13-08-1987</DateOfBirth>
+            </Player>
+            <Player id="2578">
+                <FirstName>Bit Ga Ram</FirstName>
+                <LastName>Yoon</LastName>
+                <Position>CAM</Position>
+                <Pace>58</Pace>
+                <Shooting>63</Shooting>
+                <Passing>69</Passing>
+                <Offensive>66</Offensive>
+                <Defensive>54</Defensive>
+                <Stamina>63</Stamina>
+                <Club>Jeju United FC</Club>
+                <DateOfBirth>07-05-1990</DateOfBirth>
+            </Player>
+            <Player id="5090">
+                <FirstName>Young Sin</FirstName>
+                <LastName>Kim</LastName>
+                <Position>RW</Position>
+                <Pace>92</Pace>
+                <Shooting>61</Shooting>
+                <Passing>55</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>90</Stamina>
+                <Club>Jeju United FC</Club>
+                <DateOfBirth>28-02-1986</DateOfBirth>
+            </Player>
+            <Player id="5462">
+                <FirstName>Il Su</FirstName>
+                <LastName>Hwang</LastName>
+                <Position>LM</Position>
+                <Pace>82</Pace>
+                <Shooting>51</Shooting>
+                <Passing>59</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Jeju United FC</Club>
+                <DateOfBirth>08-08-1987</DateOfBirth>
+            </Player>
+            <Player id="5809">
+                <FirstName>Il Hwan</FirstName>
+                <LastName>Bae</LastName>
+                <Position>RW</Position>
+                <Pace>76</Pace>
+                <Shooting>54</Shooting>
+                <Passing>58</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>27</Defensive>
+                <Stamina>61</Stamina>
+                <Club>Jeju United FC</Club>
+                <DateOfBirth>20-07-1988</DateOfBirth>
+            </Player>
+            <Player id="5947">
+                <FirstName>Do Yeon</FirstName>
+                <LastName>Hwang</LastName>
+                <Position>CB</Position>
+                <Pace>76</Pace>
+                <Shooting>35</Shooting>
+                <Passing>49</Passing>
+                <Offensive>42</Offensive>
+                <Defensive>59</Defensive>
+                <Stamina>78</Stamina>
+                <Club>Jeju United FC</Club>
+                <DateOfBirth>27-02-1991</DateOfBirth>
+            </Player>
+            <Player id="6773">
+                <FirstName>Ho Jun</FirstName>
+                <LastName>Kim</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>25</Stamina>
+                <Club>Jeju United FC</Club>
+                <DateOfBirth>21-06-1984</DateOfBirth>
+            </Player>
+            <Player id="6842">
+                <FirstName>Soo Beom</FirstName>
+                <LastName>Kim</LastName>
+                <Position>LB</Position>
+                <Pace>86</Pace>
+                <Shooting>49</Shooting>
+                <Passing>59</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>56</Defensive>
+                <Stamina>83</Stamina>
+                <Club>Jeju United FC</Club>
+                <DateOfBirth>02-10-1990</DateOfBirth>
+            </Player>
+            <Player id="7390">
+                <FirstName>Seung Bum</FirstName>
+                <LastName>Oh</LastName>
+                <Position>CM</Position>
+                <Pace>78</Pace>
+                <Shooting>48</Shooting>
+                <Passing>64</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>50</Defensive>
+                <Stamina>65</Stamina>
+                <Club>Jeju United FC</Club>
+                <DateOfBirth>26-02-1981</DateOfBirth>
+            </Player>
+            <Player id="7715">
+                <FirstName>Da Hwon</FirstName>
+                <LastName>Jung</LastName>
+                <Position>RB</Position>
+                <Pace>70</Pace>
+                <Shooting>49</Shooting>
+                <Passing>60</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>58</Stamina>
+                <Club>Jeju United FC</Club>
+                <DateOfBirth>22-12-1987</DateOfBirth>
+            </Player>
+            <Player id="7977">
+                <FirstName>Yong</FirstName>
+                <LastName>Lee</LastName>
+                <Position>CB</Position>
+                <Pace>78</Pace>
+                <Shooting>52</Shooting>
+                <Passing>53</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>59</Defensive>
+                <Stamina>89</Stamina>
+                <Club>Jeju United FC</Club>
+                <DateOfBirth>21-01-1989</DateOfBirth>
+            </Player>
+            <Player id="8215">
+                <FirstName>Hyun</FirstName>
+                <LastName>Kim</LastName>
+                <Position>ST</Position>
+                <Pace>63</Pace>
+                <Shooting>60</Shooting>
+                <Passing>47</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>49</Stamina>
+                <Club>Jeju United FC</Club>
+                <DateOfBirth>03-05-1993</DateOfBirth>
+            </Player>
+            <Player id="8220">
+                <FirstName>Yong Su</FirstName>
+                <LastName>Han</LastName>
+                <Position>CB</Position>
+                <Pace>41</Pace>
+                <Shooting>27</Shooting>
+                <Passing>30</Passing>
+                <Offensive>28</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>51</Stamina>
+                <Club>Jeju United FC</Club>
+                <DateOfBirth>05-05-1990</DateOfBirth>
+            </Player>
+            <Player id="8753">
+                <FirstName>Kyung Min</FirstName>
+                <LastName>Kim</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>26</Stamina>
+                <Club>Jeju United FC</Club>
+                <DateOfBirth>01-11-1991</DateOfBirth>
+            </Player>
+            <Player id="8783">
+                <FirstName>Ban Suk</FirstName>
+                <LastName>Oh</LastName>
+                <Position>CB</Position>
+                <Pace>57</Pace>
+                <Shooting>25</Shooting>
+                <Passing>28</Passing>
+                <Offensive>26</Offensive>
+                <Defensive>59</Defensive>
+                <Stamina>61</Stamina>
+                <Club>Jeju United FC</Club>
+                <DateOfBirth>20-05-1988</DateOfBirth>
+            </Player>
+            <Player id="9741">
+                <FirstName>Aleksandar</FirstName>
+                <LastName>Jovanović</LastName>
+                <Position>CB</Position>
+                <Pace>58</Pace>
+                <Shooting>28</Shooting>
+                <Passing>33</Passing>
+                <Offensive>30</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>73</Stamina>
+                <Club>Jeju United FC</Club>
+                <DateOfBirth>04-08-1989</DateOfBirth>
+            </Player>
+            <Player id="9965">
+                <FirstName>Beom San</FirstName>
+                <LastName>Heo</LastName>
+                <Position>CM</Position>
+                <Pace>63</Pace>
+                <Shooting>47</Shooting>
+                <Passing>58</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>42</Defensive>
+                <Stamina>45</Stamina>
+                <Club>Jeju United FC</Club>
+                <DateOfBirth>14-09-1989</DateOfBirth>
+            </Player>
+            <Player id="10344">
+                <FirstName>Soo Chang</FirstName>
+                <LastName>Park</LastName>
+                <Position>CM</Position>
+                <Pace>72</Pace>
+                <Shooting>51</Shooting>
+                <Passing>54</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>49</Defensive>
+                <Stamina>85</Stamina>
+                <Club>Jeju United FC</Club>
+                <DateOfBirth>20-06-1989</DateOfBirth>
+            </Player>
+            <Player id="10769">
+                <FirstName>Bong Rae</FirstName>
+                <LastName>Kim</LastName>
+                <Position>RB</Position>
+                <Pace>62</Pace>
+                <Shooting>30</Shooting>
+                <Passing>47</Passing>
+                <Offensive>38</Offensive>
+                <Defensive>55</Defensive>
+                <Stamina>66</Stamina>
+                <Club>Jeju United FC</Club>
+                <DateOfBirth>02-07-1990</DateOfBirth>
+            </Player>
+            <Player id="10843">
+                <FirstName>Dae Sung</FirstName>
+                <LastName>Jin</LastName>
+                <Position>CAM</Position>
+                <Pace>77</Pace>
+                <Shooting>52</Shooting>
+                <Passing>46</Passing>
+                <Offensive>49</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>46</Stamina>
+                <Club>Jeju United FC</Club>
+                <DateOfBirth>19-09-1989</DateOfBirth>
+            </Player>
+            <Player id="11152">
+                <FirstName>Joon Woo</FirstName>
+                <LastName>Kang</LastName>
+                <Position>RB</Position>
+                <Pace>65</Pace>
+                <Shooting>50</Shooting>
+                <Passing>48</Passing>
+                <Offensive>49</Offensive>
+                <Defensive>52</Defensive>
+                <Stamina>63</Stamina>
+                <Club>Jeju United FC</Club>
+                <DateOfBirth>03-06-1982</DateOfBirth>
+            </Player>
+            <Player id="11498">
+                <FirstName>In Ho</FirstName>
+                <LastName>Hwang</LastName>
+                <Position>CB</Position>
+                <Pace>56</Pace>
+                <Shooting>24</Shooting>
+                <Passing>27</Passing>
+                <Offensive>25</Offensive>
+                <Defensive>50</Defensive>
+                <Stamina>53</Stamina>
+                <Club>Jeju United FC</Club>
+                <DateOfBirth>26-03-1990</DateOfBirth>
+            </Player>
+            <Player id="11580">
+                <FirstName>Jun Hyun</FirstName>
+                <LastName>Cho</LastName>
+                <Position>RB</Position>
+                <Pace>64</Pace>
+                <Shooting>22</Shooting>
+                <Passing>39</Passing>
+                <Offensive>30</Offensive>
+                <Defensive>51</Defensive>
+                <Stamina>51</Stamina>
+                <Club>Jeju United FC</Club>
+                <DateOfBirth>26-09-1989</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Jeonbuk Hyundai Motors">
+            <Player id="1211">
+                <FirstName>Seung Gi</FirstName>
+                <LastName>Lee</LastName>
+                <Position>CAM</Position>
+                <Pace>75</Pace>
+                <Shooting>65</Shooting>
+                <Passing>70</Passing>
+                <Offensive>67</Offensive>
+                <Defensive>54</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Jeonbuk Hyundai Motors</Club>
+                <DateOfBirth>02-06-1988</DateOfBirth>
+            </Player>
+            <Player id="1834">
+                <FirstName>Nam Il</FirstName>
+                <LastName>Kim</LastName>
+                <Position>CDM</Position>
+                <Pace>51</Pace>
+                <Shooting>58</Shooting>
+                <Passing>67</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>64</Stamina>
+                <Club>Jeonbuk Hyundai Motors</Club>
+                <DateOfBirth>14-03-1977</DateOfBirth>
+            </Player>
+            <Player id="2447">
+                <FirstName>Hyung Min</FirstName>
+                <LastName>Shin</LastName>
+                <Position>CDM</Position>
+                <Pace>76</Pace>
+                <Shooting>61</Shooting>
+                <Passing>68</Passing>
+                <Offensive>64</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>85</Stamina>
+                <Club>Jeonbuk Hyundai Motors</Club>
+                <DateOfBirth>18-07-1986</DateOfBirth>
+            </Player>
+            <Player id="3278">
+                <FirstName>Chul Soon</FirstName>
+                <LastName>Choi</LastName>
+                <Position>RB</Position>
+                <Pace>88</Pace>
+                <Shooting>45</Shooting>
+                <Passing>57</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>87</Stamina>
+                <Club>Jeonbuk Hyundai Motors</Club>
+                <DateOfBirth>08-02-1987</DateOfBirth>
+            </Player>
+            <Player id="3923">
+                <FirstName>In Whan</FirstName>
+                <LastName>Jung</LastName>
+                <Position>CB</Position>
+                <Pace>74</Pace>
+                <Shooting>35</Shooting>
+                <Passing>47</Passing>
+                <Offensive>41</Offensive>
+                <Defensive>67</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Jeonbuk Hyundai Motors</Club>
+                <DateOfBirth>15-12-1986</DateOfBirth>
+            </Player>
+            <Player id="3937">
+                <FirstName>Alex</FirstName>
+                <LastName>Wilkinson</LastName>
+                <Position>CB</Position>
+                <Pace>43</Pace>
+                <Shooting>47</Shooting>
+                <Passing>53</Passing>
+                <Offensive>50</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Jeonbuk Hyundai Motors</Club>
+                <DateOfBirth>13-08-1984</DateOfBirth>
+            </Player>
+            <Player id="4178">
+                <FirstName>Sun Tae</FirstName>
+                <LastName>Kwoun</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>20</Stamina>
+                <Club>Jeonbuk Hyundai Motors</Club>
+                <DateOfBirth>11-09-1984</DateOfBirth>
+            </Player>
+            <Player id="4213">
+                <FirstName>Sang Hup</FirstName>
+                <LastName>Lee</LastName>
+                <Position>ST</Position>
+                <Pace>82</Pace>
+                <Shooting>73</Shooting>
+                <Passing>62</Passing>
+                <Offensive>67</Offensive>
+                <Defensive>35</Defensive>
+                <Stamina>77</Stamina>
+                <Club>Jeonbuk Hyundai Motors</Club>
+                <DateOfBirth>03-08-1986</DateOfBirth>
+            </Player>
+            <Player id="4382">
+                <FirstName>Jae Sung</FirstName>
+                <LastName>Lee</LastName>
+                <Position>LM</Position>
+                <Pace>69</Pace>
+                <Shooting>52</Shooting>
+                <Passing>67</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>55</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Jeonbuk Hyundai Motors</Club>
+                <DateOfBirth>10-08-1992</DateOfBirth>
+            </Player>
+            <Player id="4451">
+                <FirstName>Won Jae</FirstName>
+                <LastName>Park</LastName>
+                <Position>LB</Position>
+                <Pace>80</Pace>
+                <Shooting>39</Shooting>
+                <Passing>56</Passing>
+                <Offensive>47</Offensive>
+                <Defensive>61</Defensive>
+                <Stamina>89</Stamina>
+                <Club>Jeonbuk Hyundai Motors</Club>
+                <DateOfBirth>28-05-1984</DateOfBirth>
+            </Player>
+            <Player id="4843">
+                <FirstName>Kyo Won</FirstName>
+                <LastName>Han</LastName>
+                <Position>RW</Position>
+                <Pace>69</Pace>
+                <Shooting>61</Shooting>
+                <Passing>60</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>33</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Jeonbuk Hyundai Motors</Club>
+                <DateOfBirth>15-06-1990</DateOfBirth>
+            </Player>
+            <Player id="6034">
+                <FirstName>Joo Yong</FirstName>
+                <LastName>Lee</LastName>
+                <Position>LB</Position>
+                <Pace>70</Pace>
+                <Shooting>58</Shooting>
+                <Passing>54</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>73</Stamina>
+                <Club>Jeonbuk Hyundai Motors</Club>
+                <DateOfBirth>26-09-1992</DateOfBirth>
+            </Player>
+            <Player id="6161">
+                <FirstName>Dong Gook</FirstName>
+                <LastName>Lee</LastName>
+                <Position>ST</Position>
+                <Pace>64</Pace>
+                <Shooting>81</Shooting>
+                <Passing>72</Passing>
+                <Offensive>76</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>73</Stamina>
+                <Club>Jeonbuk Hyundai Motors</Club>
+                <DateOfBirth>29-04-1979</DateOfBirth>
+            </Player>
+            <Player id="6459">
+                <FirstName>Seung Yeoul</FirstName>
+                <LastName>Lee</LastName>
+                <Position>LW</Position>
+                <Pace>73</Pace>
+                <Shooting>58</Shooting>
+                <Passing>59</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>33</Defensive>
+                <Stamina>78</Stamina>
+                <Club>Jeonbuk Hyundai Motors</Club>
+                <DateOfBirth>06-03-1989</DateOfBirth>
+            </Player>
+            <Player id="6460">
+                <FirstName>Kyu Ro</FirstName>
+                <LastName>Lee</LastName>
+                <Position>RB</Position>
+                <Pace>68</Pace>
+                <Shooting>29</Shooting>
+                <Passing>58</Passing>
+                <Offensive>43</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Jeonbuk Hyundai Motors</Club>
+                <DateOfBirth>20-08-1988</DateOfBirth>
+            </Player>
+            <Player id="6846">
+                <FirstName>Kee Hee</FirstName>
+                <LastName>Kim</LastName>
+                <Position>CB</Position>
+                <Pace>70</Pace>
+                <Shooting>36</Shooting>
+                <Passing>59</Passing>
+                <Offensive>47</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>73</Stamina>
+                <Club>Jeonbuk Hyundai Motors</Club>
+                <DateOfBirth>13-07-1989</DateOfBirth>
+            </Player>
+            <Player id="6937">
+                <FirstName>Leonardo</FirstName>
+                <LastName>Rodriguez Pereira</LastName>
+                <Position>LM</Position>
+                <Pace>87</Pace>
+                <Shooting>77</Shooting>
+                <Passing>76</Passing>
+                <Offensive>76</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>80</Stamina>
+                <Club>Jeonbuk Hyundai Motors</Club>
+                <DateOfBirth>22-09-1986</DateOfBirth>
+            </Player>
+            <Player id="7030">
+                <FirstName>Kaio Felipe</FirstName>
+                <LastName>Gonçalves</LastName>
+                <Position>CM</Position>
+                <Pace>61</Pace>
+                <Shooting>59</Shooting>
+                <Passing>61</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>59</Defensive>
+                <Stamina>76</Stamina>
+                <Club>Jeonbuk Hyundai Motors</Club>
+                <DateOfBirth>06-07-1987</DateOfBirth>
+            </Player>
+            <Player id="7080">
+                <FirstName>Jae Myung</FirstName>
+                <LastName>Lee</LastName>
+                <Position>LB</Position>
+                <Pace>78</Pace>
+                <Shooting>27</Shooting>
+                <Passing>53</Passing>
+                <Offensive>40</Offensive>
+                <Defensive>59</Defensive>
+                <Stamina>84</Stamina>
+                <Club>Jeonbuk Hyundai Motors</Club>
+                <DateOfBirth>25-07-1991</DateOfBirth>
+            </Player>
+            <Player id="7370">
+                <FirstName>Min Sik</FirstName>
+                <LastName>Kim</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>29</Stamina>
+                <Club>Jeonbuk Hyundai Motors</Club>
+                <DateOfBirth>29-10-1985</DateOfBirth>
+            </Player>
+            <Player id="8149">
+                <FirstName>Kang Jin</FirstName>
+                <LastName>Lee</LastName>
+                <Position>CB</Position>
+                <Pace>64</Pace>
+                <Shooting>52</Shooting>
+                <Passing>53</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Jeonbuk Hyundai Motors</Club>
+                <DateOfBirth>25-04-1986</DateOfBirth>
+            </Player>
+            <Player id="8204">
+                <FirstName>Bo Kyung</FirstName>
+                <LastName>Choi</LastName>
+                <Position>CB</Position>
+                <Pace>66</Pace>
+                <Shooting>41</Shooting>
+                <Passing>53</Passing>
+                <Offensive>47</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Jeonbuk Hyundai Motors</Club>
+                <DateOfBirth>12-04-1988</DateOfBirth>
+            </Player>
+            <Player id="8445">
+                <FirstName>Bum Soo</FirstName>
+                <LastName>Lee</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>23</Stamina>
+                <Club>Jeonbuk Hyundai Motors</Club>
+                <DateOfBirth>10-12-1990</DateOfBirth>
+            </Player>
+            <Player id="8502">
+                <FirstName>Kyung Won</FirstName>
+                <LastName>Kwon</LastName>
+                <Position>CDM</Position>
+                <Pace>66</Pace>
+                <Shooting>36</Shooting>
+                <Passing>57</Passing>
+                <Offensive>46</Offensive>
+                <Defensive>56</Defensive>
+                <Stamina>63</Stamina>
+                <Club>Jeonbuk Hyundai Motors</Club>
+                <DateOfBirth>31-01-1992</DateOfBirth>
+            </Player>
+            <Player id="10364">
+                <FirstName>Young Jin</FirstName>
+                <LastName>Kwon</LastName>
+                <Position>RB</Position>
+                <Pace>78</Pace>
+                <Shooting>23</Shooting>
+                <Passing>48</Passing>
+                <Offensive>35</Offensive>
+                <Defensive>55</Defensive>
+                <Stamina>59</Stamina>
+                <Club>Jeonbuk Hyundai Motors</Club>
+                <DateOfBirth>23-01-1991</DateOfBirth>
+            </Player>
+            <Player id="10540">
+                <FirstName>Se Jik</FirstName>
+                <LastName>Park</LastName>
+                <Position>RW</Position>
+                <Pace>71</Pace>
+                <Shooting>53</Shooting>
+                <Passing>55</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>33</Defensive>
+                <Stamina>34</Stamina>
+                <Club>Jeonbuk Hyundai Motors</Club>
+                <DateOfBirth>25-05-1989</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="GyeongNam FC">
+            <Player id="1282">
+                <FirstName>Young Kwang</FirstName>
+                <LastName>Kim</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>30</Stamina>
+                <Club>GyeongNam FC</Club>
+                <DateOfBirth>28-06-1983</DateOfBirth>
+            </Player>
+            <Player id="4441">
+                <FirstName>Min Hyuk</FirstName>
+                <LastName>Kang</LastName>
+                <Position>CB</Position>
+                <Pace>42</Pace>
+                <Shooting>36</Shooting>
+                <Passing>55</Passing>
+                <Offensive>45</Offensive>
+                <Defensive>65</Defensive>
+                <Stamina>60</Stamina>
+                <Club>GyeongNam FC</Club>
+                <DateOfBirth>10-07-1982</DateOfBirth>
+            </Player>
+            <Player id="4769">
+                <FirstName>Luke</FirstName>
+                <LastName>DeVere</LastName>
+                <Position>CB</Position>
+                <Pace>58</Pace>
+                <Shooting>40</Shooting>
+                <Passing>42</Passing>
+                <Offensive>41</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>80</Stamina>
+                <Club>GyeongNam FC</Club>
+                <DateOfBirth>05-11-1989</DateOfBirth>
+            </Player>
+            <Player id="6136">
+                <FirstName>Sreten</FirstName>
+                <LastName>Sretenovic</LastName>
+                <Position>CB</Position>
+                <Pace>38</Pace>
+                <Shooting>42</Shooting>
+                <Passing>48</Passing>
+                <Offensive>45</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>72</Stamina>
+                <Club>GyeongNam FC</Club>
+                <DateOfBirth>12-01-1985</DateOfBirth>
+            </Player>
+            <Player id="6717">
+                <FirstName>Milos</FirstName>
+                <LastName>Stojanovic</LastName>
+                <Position>ST</Position>
+                <Pace>45</Pace>
+                <Shooting>64</Shooting>
+                <Passing>51</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>62</Stamina>
+                <Club>GyeongNam FC</Club>
+                <DateOfBirth>25-12-1984</DateOfBirth>
+            </Player>
+            <Player id="7125">
+                <FirstName>Chang Gyoon</FirstName>
+                <LastName>Im</LastName>
+                <Position>CAM</Position>
+                <Pace>68</Pace>
+                <Shooting>54</Shooting>
+                <Passing>61</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>45</Defensive>
+                <Stamina>59</Stamina>
+                <Club>GyeongNam FC</Club>
+                <DateOfBirth>19-04-1990</DateOfBirth>
+            </Player>
+            <Player id="7364">
+                <FirstName>Chang Min</FirstName>
+                <LastName>Lee</LastName>
+                <Position>CM</Position>
+                <Pace>66</Pace>
+                <Shooting>52</Shooting>
+                <Passing>64</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>50</Defensive>
+                <Stamina>77</Stamina>
+                <Club>GyeongNam FC</Club>
+                <DateOfBirth>20-01-1994</DateOfBirth>
+            </Player>
+            <Player id="7695">
+                <FirstName>Ju Sung</FirstName>
+                <LastName>Woo</LastName>
+                <Position>CB</Position>
+                <Pace>41</Pace>
+                <Shooting>46</Shooting>
+                <Passing>40</Passing>
+                <Offensive>43</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>63</Stamina>
+                <Club>GyeongNam FC</Club>
+                <DateOfBirth>16-03-1993</DateOfBirth>
+            </Player>
+            <Player id="7861">
+                <FirstName>Sung Hye</FirstName>
+                <LastName>Yeo</LastName>
+                <Position>CB</Position>
+                <Pace>59</Pace>
+                <Shooting>28</Shooting>
+                <Passing>27</Passing>
+                <Offensive>27</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>53</Stamina>
+                <Club>GyeongNam FC</Club>
+                <DateOfBirth>06-08-1987</DateOfBirth>
+            </Player>
+            <Player id="7972">
+                <FirstName>In Han</FirstName>
+                <LastName>Kim</LastName>
+                <Position>LW</Position>
+                <Pace>76</Pace>
+                <Shooting>56</Shooting>
+                <Passing>62</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>34</Defensive>
+                <Stamina>71</Stamina>
+                <Club>GyeongNam FC</Club>
+                <DateOfBirth>26-11-1988</DateOfBirth>
+            </Player>
+            <Player id="7979">
+                <FirstName>Jae An</FirstName>
+                <LastName>Lee</LastName>
+                <Position>CF</Position>
+                <Pace>75</Pace>
+                <Shooting>60</Shooting>
+                <Passing>62</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>39</Defensive>
+                <Stamina>76</Stamina>
+                <Club>GyeongNam FC</Club>
+                <DateOfBirth>21-06-1988</DateOfBirth>
+            </Player>
+            <Player id="8116">
+                <FirstName>Kyung Sun</FirstName>
+                <LastName>Jin</LastName>
+                <Position>CDM</Position>
+                <Pace>75</Pace>
+                <Shooting>49</Shooting>
+                <Passing>56</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>56</Defensive>
+                <Stamina>76</Stamina>
+                <Club>GyeongNam FC</Club>
+                <DateOfBirth>10-04-1980</DateOfBirth>
+            </Player>
+            <Player id="8307">
+                <FirstName>Soo Young</FirstName>
+                <LastName>Song</LastName>
+                <Position>ST</Position>
+                <Pace>66</Pace>
+                <Shooting>60</Shooting>
+                <Passing>53</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>42</Defensive>
+                <Stamina>62</Stamina>
+                <Club>GyeongNam FC</Club>
+                <DateOfBirth>08-07-1991</DateOfBirth>
+            </Player>
+            <Player id="8460">
+                <FirstName>Han Saem</FirstName>
+                <LastName>Lee</LastName>
+                <Position>CM</Position>
+                <Pace>56</Pace>
+                <Shooting>37</Shooting>
+                <Passing>58</Passing>
+                <Offensive>47</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>62</Stamina>
+                <Club>GyeongNam FC</Club>
+                <DateOfBirth>18-10-1989</DateOfBirth>
+            </Player>
+            <Player id="9368">
+                <FirstName>Sang Hoon</FirstName>
+                <LastName>Jeon</LastName>
+                <Position>LB</Position>
+                <Pace>80</Pace>
+                <Shooting>39</Shooting>
+                <Passing>52</Passing>
+                <Offensive>45</Offensive>
+                <Defensive>54</Defensive>
+                <Stamina>74</Stamina>
+                <Club>GyeongNam FC</Club>
+                <DateOfBirth>10-09-1989</DateOfBirth>
+            </Player>
+            <Player id="9450">
+                <FirstName>Joo Sung</FirstName>
+                <LastName>Park</LastName>
+                <Position>LB</Position>
+                <Pace>66</Pace>
+                <Shooting>49</Shooting>
+                <Passing>54</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>65</Stamina>
+                <Club>GyeongNam FC</Club>
+                <DateOfBirth>20-02-1984</DateOfBirth>
+            </Player>
+            <Player id="9509">
+                <FirstName>Jun Yub</FirstName>
+                <LastName>Kim</LastName>
+                <Position>LM</Position>
+                <Pace>72</Pace>
+                <Shooting>51</Shooting>
+                <Passing>50</Passing>
+                <Offensive>50</Offensive>
+                <Defensive>54</Defensive>
+                <Stamina>79</Stamina>
+                <Club>GyeongNam FC</Club>
+                <DateOfBirth>10-05-1988</DateOfBirth>
+            </Player>
+            <Player id="10028">
+                <FirstName>Seul Ki</FirstName>
+                <LastName>Kim</LastName>
+                <Position>RM</Position>
+                <Pace>69</Pace>
+                <Shooting>43</Shooting>
+                <Passing>52</Passing>
+                <Offensive>47</Offensive>
+                <Defensive>24</Defensive>
+                <Stamina>71</Stamina>
+                <Club>GyeongNam FC</Club>
+                <DateOfBirth>06-11-1992</DateOfBirth>
+            </Player>
+            <Player id="10504">
+                <FirstName>Jeong Hyeon</FirstName>
+                <LastName>Son</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>25</Stamina>
+                <Club>GyeongNam FC</Club>
+                <DateOfBirth>25-11-1991</DateOfBirth>
+            </Player>
+            <Player id="10866">
+                <FirstName>Hak Min</FirstName>
+                <LastName>Lee</LastName>
+                <Position>RB</Position>
+                <Pace>68</Pace>
+                <Shooting>45</Shooting>
+                <Passing>50</Passing>
+                <Offensive>47</Offensive>
+                <Defensive>54</Defensive>
+                <Stamina>63</Stamina>
+                <Club>GyeongNam FC</Club>
+                <DateOfBirth>11-03-1991</DateOfBirth>
+            </Player>
+            <Player id="10900">
+                <FirstName>Hyung Jun</FirstName>
+                <LastName>Son</LastName>
+                <Position>CDM</Position>
+                <Pace>50</Pace>
+                <Shooting>46</Shooting>
+                <Passing>53</Passing>
+                <Offensive>49</Offensive>
+                <Defensive>54</Defensive>
+                <Stamina>42</Stamina>
+                <Club>GyeongNam FC</Club>
+                <DateOfBirth>13-01-1995</DateOfBirth>
+            </Player>
+            <Player id="11347">
+                <FirstName>Ji Min</FirstName>
+                <LastName>Park</LastName>
+                <Position>CF</Position>
+                <Pace>64</Pace>
+                <Shooting>52</Shooting>
+                <Passing>42</Passing>
+                <Offensive>47</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>50</Stamina>
+                <Club>GyeongNam FC</Club>
+                <DateOfBirth>07-03-1994</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Jeonnam Dragons">
+            <Player id="1298">
+                <FirstName>Stevica</FirstName>
+                <LastName>Ristić</LastName>
+                <Position>ST</Position>
+                <Pace>68</Pace>
+                <Shooting>69</Shooting>
+                <Passing>55</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>34</Defensive>
+                <Stamina>77</Stamina>
+                <Club>Jeonnam Dragons</Club>
+                <DateOfBirth>23-05-1982</DateOfBirth>
+            </Player>
+            <Player id="1594">
+                <FirstName>Byung Ji</FirstName>
+                <LastName>Kim</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>25</Stamina>
+                <Club>Jeonnam Dragons</Club>
+                <DateOfBirth>08-04-1970</DateOfBirth>
+            </Player>
+            <Player id="2799">
+                <FirstName>George Leandro</FirstName>
+                <LastName>Abreu de Lima</LastName>
+                <Position>CAM</Position>
+                <Pace>81</Pace>
+                <Shooting>61</Shooting>
+                <Passing>67</Passing>
+                <Offensive>64</Offensive>
+                <Defensive>43</Defensive>
+                <Stamina>77</Stamina>
+                <Club>Jeonnam Dragons</Club>
+                <DateOfBirth>09-11-1985</DateOfBirth>
+            </Player>
+            <Player id="4780">
+                <FirstName>Jun Tae</FirstName>
+                <LastName>Park</LastName>
+                <Position>CF</Position>
+                <Pace>91</Pace>
+                <Shooting>59</Shooting>
+                <Passing>39</Passing>
+                <Offensive>49</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>59</Stamina>
+                <Club>Jeonnam Dragons</Club>
+                <DateOfBirth>02-12-1989</DateOfBirth>
+            </Player>
+            <Player id="4948">
+                <FirstName>Robert</FirstName>
+                <LastName>Cornthwaite</LastName>
+                <Position>CB</Position>
+                <Pace>43</Pace>
+                <Shooting>39</Shooting>
+                <Passing>40</Passing>
+                <Offensive>39</Offensive>
+                <Defensive>67</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Jeonnam Dragons</Club>
+                <DateOfBirth>24-10-1985</DateOfBirth>
+            </Player>
+            <Player id="5265">
+                <FirstName>Young Min</FirstName>
+                <LastName>Hyun</LastName>
+                <Position>LB</Position>
+                <Pace>81</Pace>
+                <Shooting>54</Shooting>
+                <Passing>60</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>88</Stamina>
+                <Club>Jeonnam Dragons</Club>
+                <DateOfBirth>25-12-1979</DateOfBirth>
+            </Player>
+            <Player id="5716">
+                <FirstName>Jong Eun</FirstName>
+                <LastName>Lim</LastName>
+                <Position>CB</Position>
+                <Pace>73</Pace>
+                <Shooting>36</Shooting>
+                <Passing>44</Passing>
+                <Offensive>40</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>59</Stamina>
+                <Club>Jeonnam Dragons</Club>
+                <DateOfBirth>18-06-1990</DateOfBirth>
+            </Player>
+            <Player id="6326">
+                <FirstName>Yong Woo</FirstName>
+                <LastName>Ahn</LastName>
+                <Position>RM</Position>
+                <Pace>75</Pace>
+                <Shooting>58</Shooting>
+                <Passing>60</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>33</Defensive>
+                <Stamina>42</Stamina>
+                <Club>Jeonnam Dragons</Club>
+                <DateOfBirth>10-08-1991</DateOfBirth>
+            </Player>
+            <Player id="6807">
+                <FirstName>Young Wook</FirstName>
+                <LastName>Kim</LastName>
+                <Position>LM</Position>
+                <Pace>77</Pace>
+                <Shooting>58</Shooting>
+                <Passing>63</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>54</Defensive>
+                <Stamina>29</Stamina>
+                <Club>Jeonnam Dragons</Club>
+                <DateOfBirth>29-04-1991</DateOfBirth>
+            </Player>
+            <Player id="7020">
+                <FirstName>Hyun Seung</FirstName>
+                <LastName>Lee</LastName>
+                <Position>CAM</Position>
+                <Pace>77</Pace>
+                <Shooting>52</Shooting>
+                <Passing>62</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>34</Defensive>
+                <Stamina>61</Stamina>
+                <Club>Jeonnam Dragons</Club>
+                <DateOfBirth>14-12-1988</DateOfBirth>
+            </Player>
+            <Player id="7040">
+                <FirstName>Young Woo</FirstName>
+                <LastName>Kim</LastName>
+                <Position>CM</Position>
+                <Pace>82</Pace>
+                <Shooting>58</Shooting>
+                <Passing>61</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>79</Stamina>
+                <Club>Jeonnam Dragons</Club>
+                <DateOfBirth>15-06-1984</DateOfBirth>
+            </Player>
+            <Player id="7646">
+                <FirstName>Sandi</FirstName>
+                <LastName>Križman</LastName>
+                <Position>RW</Position>
+                <Pace>71</Pace>
+                <Shooting>60</Shooting>
+                <Passing>58</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>26</Defensive>
+                <Stamina>61</Stamina>
+                <Club>Jeonnam Dragons</Club>
+                <DateOfBirth>17-08-1989</DateOfBirth>
+            </Player>
+            <Player id="7716">
+                <FirstName>Dae Jong</FirstName>
+                <LastName>Bang</LastName>
+                <Position>CB</Position>
+                <Pace>77</Pace>
+                <Shooting>44</Shooting>
+                <Passing>39</Passing>
+                <Offensive>41</Offensive>
+                <Defensive>61</Defensive>
+                <Stamina>77</Stamina>
+                <Club>Jeonnam Dragons</Club>
+                <DateOfBirth>28-01-1985</DateOfBirth>
+            </Player>
+            <Player id="7964">
+                <FirstName>Seung Hee</FirstName>
+                <LastName>Lee</LastName>
+                <Position>CDM</Position>
+                <Pace>78</Pace>
+                <Shooting>45</Shooting>
+                <Passing>51</Passing>
+                <Offensive>48</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>59</Stamina>
+                <Club>Jeonnam Dragons</Club>
+                <DateOfBirth>10-06-1988</DateOfBirth>
+            </Player>
+            <Player id="7980">
+                <FirstName>Jong Ho</FirstName>
+                <LastName>Lee</LastName>
+                <Position>CF</Position>
+                <Pace>80</Pace>
+                <Shooting>63</Shooting>
+                <Passing>50</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>80</Stamina>
+                <Club>Jeonnam Dragons</Club>
+                <DateOfBirth>24-02-1992</DateOfBirth>
+            </Player>
+            <Player id="8046">
+                <FirstName>Dong Woon</FirstName>
+                <LastName>Sim</LastName>
+                <Position>CAM</Position>
+                <Pace>78</Pace>
+                <Shooting>56</Shooting>
+                <Passing>53</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>27</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Jeonnam Dragons</Club>
+                <DateOfBirth>03-03-1990</DateOfBirth>
+            </Player>
+            <Player id="8461">
+                <FirstName>Hyeon Chul</FirstName>
+                <LastName>Jeon</LastName>
+                <Position>CAM</Position>
+                <Pace>75</Pace>
+                <Shooting>60</Shooting>
+                <Passing>58</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>57</Stamina>
+                <Club>Jeonnam Dragons</Club>
+                <DateOfBirth>03-07-1990</DateOfBirth>
+            </Player>
+            <Player id="8674">
+                <FirstName>Gi Dong</FirstName>
+                <LastName>Park</LastName>
+                <Position>ST</Position>
+                <Pace>64</Pace>
+                <Shooting>58</Shooting>
+                <Passing>37</Passing>
+                <Offensive>47</Offensive>
+                <Defensive>26</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Jeonnam Dragons</Club>
+                <DateOfBirth>01-11-1988</DateOfBirth>
+            </Player>
+            <Player id="8841">
+                <FirstName>Chang Ho</FirstName>
+                <LastName>Song</LastName>
+                <Position>CM</Position>
+                <Pace>79</Pace>
+                <Shooting>62</Shooting>
+                <Passing>61</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>52</Defensive>
+                <Stamina>85</Stamina>
+                <Club>Jeonnam Dragons</Club>
+                <DateOfBirth>20-02-1986</DateOfBirth>
+            </Player>
+            <Player id="8958">
+                <FirstName>Sun Yong</FirstName>
+                <LastName>Park</LastName>
+                <Position>CDM</Position>
+                <Pace>67</Pace>
+                <Shooting>33</Shooting>
+                <Passing>59</Passing>
+                <Offensive>46</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>64</Stamina>
+                <Club>Jeonnam Dragons</Club>
+                <DateOfBirth>12-03-1989</DateOfBirth>
+            </Player>
+            <Player id="9208">
+                <FirstName>Yong Jae</FirstName>
+                <LastName>Park</LastName>
+                <Position>CDM</Position>
+                <Pace>71</Pace>
+                <Shooting>33</Shooting>
+                <Passing>52</Passing>
+                <Offensive>42</Offensive>
+                <Defensive>54</Defensive>
+                <Stamina>64</Stamina>
+                <Club>Jeonnam Dragons</Club>
+                <DateOfBirth>28-11-1989</DateOfBirth>
+            </Player>
+            <Player id="9471">
+                <FirstName>Joong Kwon</FirstName>
+                <LastName>Lee</LastName>
+                <Position>LB</Position>
+                <Pace>63</Pace>
+                <Shooting>46</Shooting>
+                <Passing>57</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>55</Defensive>
+                <Stamina>67</Stamina>
+                <Club>Jeonnam Dragons</Club>
+                <DateOfBirth>01-01-1992</DateOfBirth>
+            </Player>
+            <Player id="9737">
+                <FirstName>Tae Ho</FirstName>
+                <LastName>Kim</LastName>
+                <Position>RB</Position>
+                <Pace>67</Pace>
+                <Shooting>27</Shooting>
+                <Passing>42</Passing>
+                <Offensive>34</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>60</Stamina>
+                <Club>Jeonnam Dragons</Club>
+                <DateOfBirth>22-09-1989</DateOfBirth>
+            </Player>
+            <Player id="9855">
+                <FirstName>Min Soo</FirstName>
+                <LastName>Kim</LastName>
+                <Position>RW</Position>
+                <Pace>68</Pace>
+                <Shooting>53</Shooting>
+                <Passing>54</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>26</Defensive>
+                <Stamina>69</Stamina>
+                <Club>Jeonnam Dragons</Club>
+                <DateOfBirth>09-07-1990</DateOfBirth>
+            </Player>
+            <Player id="11600">
+                <FirstName>Seul Chan</FirstName>
+                <LastName>Lee</LastName>
+                <Position>RB</Position>
+                <Pace>50</Pace>
+                <Shooting>26</Shooting>
+                <Passing>39</Passing>
+                <Offensive>32</Offensive>
+                <Defensive>51</Defensive>
+                <Stamina>59</Stamina>
+                <Club>Jeonnam Dragons</Club>
+                <DateOfBirth>15-08-1993</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Incheon United FC">
+            <Player id="1448">
+                <FirstName>Ki Hyeon</FirstName>
+                <LastName>Seol</LastName>
+                <Position>ST</Position>
+                <Pace>73</Pace>
+                <Shooting>69</Shooting>
+                <Passing>67</Passing>
+                <Offensive>68</Offensive>
+                <Defensive>38</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Incheon United FC</Club>
+                <DateOfBirth>08-01-1979</DateOfBirth>
+            </Player>
+            <Player id="3686">
+                <FirstName>Jun Jae</FirstName>
+                <LastName>Nam</LastName>
+                <Position>LW</Position>
+                <Pace>80</Pace>
+                <Shooting>58</Shooting>
+                <Passing>60</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>31</Defensive>
+                <Stamina>74</Stamina>
+                <Club>Incheon United FC</Club>
+                <DateOfBirth>07-04-1988</DateOfBirth>
+            </Player>
+            <Player id="4447">
+                <FirstName>Olívio</FirstName>
+                <LastName>da Rosa</LastName>
+                <Position>CAM</Position>
+                <Pace>73</Pace>
+                <Shooting>62</Shooting>
+                <Passing>64</Passing>
+                <Offensive>63</Offensive>
+                <Defensive>36</Defensive>
+                <Stamina>77</Stamina>
+                <Club>Incheon United FC</Club>
+                <DateOfBirth>02-10-1986</DateOfBirth>
+            </Player>
+            <Player id="5122">
+                <FirstName>Seok Hyun</FirstName>
+                <LastName>Lee</LastName>
+                <Position>CAM</Position>
+                <Pace>70</Pace>
+                <Shooting>61</Shooting>
+                <Passing>63</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>69</Stamina>
+                <Club>Incheon United FC</Club>
+                <DateOfBirth>13-06-1990</DateOfBirth>
+            </Player>
+            <Player id="5423">
+                <FirstName>Yun Pyo</FirstName>
+                <LastName>Lee</LastName>
+                <Position>CB</Position>
+                <Pace>62</Pace>
+                <Shooting>47</Shooting>
+                <Passing>45</Passing>
+                <Offensive>46</Offensive>
+                <Defensive>65</Defensive>
+                <Stamina>73</Stamina>
+                <Club>Incheon United FC</Club>
+                <DateOfBirth>04-09-1984</DateOfBirth>
+            </Player>
+            <Player id="5702">
+                <FirstName>Jae Joon</FirstName>
+                <LastName>Ahn</LastName>
+                <Position>CB</Position>
+                <Pace>61</Pace>
+                <Shooting>25</Shooting>
+                <Passing>42</Passing>
+                <Offensive>33</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>74</Stamina>
+                <Club>Incheon United FC</Club>
+                <DateOfBirth>08-02-1986</DateOfBirth>
+            </Player>
+            <Player id="6007">
+                <FirstName>Bon Sang</FirstName>
+                <LastName>Gu</LastName>
+                <Position>CDM</Position>
+                <Pace>48</Pace>
+                <Shooting>37</Shooting>
+                <Passing>58</Passing>
+                <Offensive>47</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Incheon United FC</Club>
+                <DateOfBirth>04-10-1989</DateOfBirth>
+            </Player>
+            <Player id="6021">
+                <FirstName>Diogo</FirstName>
+                <LastName>da Silva Farias</LastName>
+                <Position>ST</Position>
+                <Pace>73</Pace>
+                <Shooting>58</Shooting>
+                <Passing>49</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>58</Stamina>
+                <Club>Incheon United FC</Club>
+                <DateOfBirth>13-06-1990</DateOfBirth>
+            </Player>
+            <Player id="6062">
+                <FirstName>Jeong Hyuk</FirstName>
+                <LastName>Kwon</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>31</Stamina>
+                <Club>Incheon United FC</Club>
+                <DateOfBirth>02-08-1978</DateOfBirth>
+            </Player>
+            <Player id="6562">
+                <FirstName>Tae Min</FirstName>
+                <LastName>Park</LastName>
+                <Position>LB</Position>
+                <Pace>78</Pace>
+                <Shooting>51</Shooting>
+                <Passing>55</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>77</Stamina>
+                <Club>Incheon United FC</Club>
+                <DateOfBirth>01-02-1986</DateOfBirth>
+            </Player>
+            <Player id="7647">
+                <FirstName>Do Hyuk</FirstName>
+                <LastName>Kim</LastName>
+                <Position>CM</Position>
+                <Pace>57</Pace>
+                <Shooting>52</Shooting>
+                <Passing>65</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>51</Defensive>
+                <Stamina>84</Stamina>
+                <Club>Incheon United FC</Club>
+                <DateOfBirth>08-02-1992</DateOfBirth>
+            </Player>
+            <Player id="8197">
+                <FirstName>Ha Ram</FirstName>
+                <LastName>Lim</LastName>
+                <Position>CB</Position>
+                <Pace>82</Pace>
+                <Shooting>43</Shooting>
+                <Passing>50</Passing>
+                <Offensive>46</Offensive>
+                <Defensive>57</Defensive>
+                <Stamina>85</Stamina>
+                <Club>Incheon United FC</Club>
+                <DateOfBirth>18-11-1990</DateOfBirth>
+            </Player>
+            <Player id="8217">
+                <FirstName>Hyo Kyun</FirstName>
+                <LastName>Lee</LastName>
+                <Position>ST</Position>
+                <Pace>64</Pace>
+                <Shooting>57</Shooting>
+                <Passing>33</Passing>
+                <Offensive>45</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>63</Stamina>
+                <Club>Incheon United FC</Club>
+                <DateOfBirth>12-03-1988</DateOfBirth>
+            </Player>
+            <Player id="8693">
+                <FirstName>Sang Yoon</FirstName>
+                <LastName>Moon</LastName>
+                <Position>CDM</Position>
+                <Pace>66</Pace>
+                <Shooting>50</Shooting>
+                <Passing>62</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>54</Defensive>
+                <Stamina>62</Stamina>
+                <Club>Incheon United FC</Club>
+                <DateOfBirth>09-01-1991</DateOfBirth>
+            </Player>
+            <Player id="9190">
+                <FirstName>Jin Hwan</FirstName>
+                <LastName>Kim</LastName>
+                <Position>CB</Position>
+                <Pace>54</Pace>
+                <Shooting>33</Shooting>
+                <Passing>34</Passing>
+                <Offensive>33</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>51</Stamina>
+                <Club>Incheon United FC</Club>
+                <DateOfBirth>01-03-1989</DateOfBirth>
+            </Player>
+            <Player id="9380">
+                <FirstName>Yong Chan</FirstName>
+                <LastName>Kim</LastName>
+                <Position>LB</Position>
+                <Pace>73</Pace>
+                <Shooting>33</Shooting>
+                <Passing>53</Passing>
+                <Offensive>43</Offensive>
+                <Defensive>56</Defensive>
+                <Stamina>62</Stamina>
+                <Club>Incheon United FC</Club>
+                <DateOfBirth>08-04-1990</DateOfBirth>
+            </Player>
+            <Player id="9831">
+                <FirstName>Jong Hwan</FirstName>
+                <LastName>Choi</LastName>
+                <Position>RB</Position>
+                <Pace>76</Pace>
+                <Shooting>49</Shooting>
+                <Passing>60</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>52</Defensive>
+                <Stamina>77</Stamina>
+                <Club>Incheon United FC</Club>
+                <DateOfBirth>12-08-1987</DateOfBirth>
+            </Player>
+            <Player id="10167">
+                <FirstName>Yong Hwan</FirstName>
+                <LastName>Kim</LastName>
+                <Position>RWB</Position>
+                <Pace>70</Pace>
+                <Shooting>33</Shooting>
+                <Passing>45</Passing>
+                <Offensive>39</Offensive>
+                <Defensive>54</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Incheon United FC</Club>
+                <DateOfBirth>25-05-1993</DateOfBirth>
+            </Player>
+            <Player id="10449">
+                <FirstName>Hyun Jin</FirstName>
+                <LastName>Yong</LastName>
+                <Position>RB</Position>
+                <Pace>62</Pace>
+                <Shooting>42</Shooting>
+                <Passing>49</Passing>
+                <Offensive>45</Offensive>
+                <Defensive>56</Defensive>
+                <Stamina>64</Stamina>
+                <Club>Incheon United FC</Club>
+                <DateOfBirth>19-07-1988</DateOfBirth>
+            </Player>
+            <Player id="10782">
+                <FirstName>Seung Jin</FirstName>
+                <LastName>Bae</LastName>
+                <Position>CDM</Position>
+                <Pace>62</Pace>
+                <Shooting>28</Shooting>
+                <Passing>42</Passing>
+                <Offensive>35</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>66</Stamina>
+                <Club>Incheon United FC</Club>
+                <DateOfBirth>03-11-1987</DateOfBirth>
+            </Player>
+            <Player id="10846">
+                <FirstName>Hyuk Jin</FirstName>
+                <LastName>Kwon</LastName>
+                <Position>ST</Position>
+                <Pace>69</Pace>
+                <Shooting>50</Shooting>
+                <Passing>53</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>41</Defensive>
+                <Stamina>67</Stamina>
+                <Club>Incheon United FC</Club>
+                <DateOfBirth>23-03-1988</DateOfBirth>
+            </Player>
+            <Player id="11054">
+                <FirstName>Soo Chul</FirstName>
+                <LastName>Cho</LastName>
+                <Position>CAM</Position>
+                <Pace>57</Pace>
+                <Shooting>42</Shooting>
+                <Passing>57</Passing>
+                <Offensive>49</Offensive>
+                <Defensive>36</Defensive>
+                <Stamina>30</Stamina>
+                <Club>Incheon United FC</Club>
+                <DateOfBirth>30-10-1990</DateOfBirth>
+            </Player>
+            <Player id="11646">
+                <FirstName>Bong Jin</FirstName>
+                <LastName>Kim</LastName>
+                <Position>CDM</Position>
+                <Pace>38</Pace>
+                <Shooting>36</Shooting>
+                <Passing>50</Passing>
+                <Offensive>43</Offensive>
+                <Defensive>44</Defensive>
+                <Stamina>30</Stamina>
+                <Club>Incheon United FC</Club>
+                <DateOfBirth>18-07-1990</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Seongnam FC">
+            <Player id="2125">
+                <FirstName>Server</FirstName>
+                <LastName>Djeparov</LastName>
+                <Position>CAM</Position>
+                <Pace>69</Pace>
+                <Shooting>65</Shooting>
+                <Passing>71</Passing>
+                <Offensive>68</Offensive>
+                <Defensive>44</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Seongnam FC</Club>
+                <DateOfBirth>03-10-1982</DateOfBirth>
+            </Player>
+            <Player id="3004">
+                <FirstName>Jun Hyuk</FirstName>
+                <LastName>Park</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>23</Stamina>
+                <Club>Seongnam FC</Club>
+                <DateOfBirth>11-04-1987</DateOfBirth>
+            </Player>
+            <Player id="3682">
+                <FirstName>Sang Wook</FirstName>
+                <LastName>Jeon</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>25</Stamina>
+                <Club>Seongnam FC</Club>
+                <DateOfBirth>22-09-1979</DateOfBirth>
+            </Player>
+            <Player id="4228">
+                <FirstName>Chang Hoon</FirstName>
+                <LastName>Lee</LastName>
+                <Position>LW</Position>
+                <Pace>79</Pace>
+                <Shooting>54</Shooting>
+                <Passing>59</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>43</Defensive>
+                <Stamina>60</Stamina>
+                <Club>Seongnam FC</Club>
+                <DateOfBirth>17-12-1986</DateOfBirth>
+            </Player>
+            <Player id="4262">
+                <FirstName>Young Sun</FirstName>
+                <LastName>Yun</LastName>
+                <Position>CB</Position>
+                <Pace>84</Pace>
+                <Shooting>32</Shooting>
+                <Passing>48</Passing>
+                <Offensive>40</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>83</Stamina>
+                <Club>Seongnam FC</Club>
+                <DateOfBirth>04-10-1988</DateOfBirth>
+            </Player>
+            <Player id="4842">
+                <FirstName>Jin Po</FirstName>
+                <LastName>Park</LastName>
+                <Position>RB</Position>
+                <Pace>76</Pace>
+                <Shooting>51</Shooting>
+                <Passing>57</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>86</Stamina>
+                <Club>Seongnam FC</Club>
+                <DateOfBirth>13-08-1987</DateOfBirth>
+            </Player>
+            <Player id="5943">
+                <FirstName>Tae Hwan</FirstName>
+                <LastName>Kim</LastName>
+                <Position>RW</Position>
+                <Pace>82</Pace>
+                <Shooting>50</Shooting>
+                <Passing>58</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>31</Defensive>
+                <Stamina>85</Stamina>
+                <Club>Seongnam FC</Club>
+                <DateOfBirth>24-07-1989</DateOfBirth>
+            </Player>
+            <Player id="5976">
+                <FirstName>Jong Won</FirstName>
+                <LastName>Lee</LastName>
+                <Position>CM</Position>
+                <Pace>50</Pace>
+                <Shooting>52</Shooting>
+                <Passing>63</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>54</Defensive>
+                <Stamina>58</Stamina>
+                <Club>Seongnam FC</Club>
+                <DateOfBirth>14-03-1989</DateOfBirth>
+            </Player>
+            <Player id="6236">
+                <FirstName>Dong Sub</FirstName>
+                <LastName>Kim</LastName>
+                <Position>ST</Position>
+                <Pace>74</Pace>
+                <Shooting>62</Shooting>
+                <Passing>55</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>69</Stamina>
+                <Club>Seongnam FC</Club>
+                <DateOfBirth>29-03-1989</DateOfBirth>
+            </Player>
+            <Player id="6935">
+                <FirstName>Caique</FirstName>
+                <LastName>Ferreira Da Silva</LastName>
+                <Position>CAM</Position>
+                <Pace>67</Pace>
+                <Shooting>46</Shooting>
+                <Passing>58</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>38</Defensive>
+                <Stamina>69</Stamina>
+                <Club>Seongnam FC</Club>
+                <DateOfBirth>23-09-1992</DateOfBirth>
+            </Player>
+            <Player id="7026">
+                <FirstName>Woo Yeon</FirstName>
+                <LastName>Sim</LastName>
+                <Position>CB</Position>
+                <Pace>45</Pace>
+                <Shooting>54</Shooting>
+                <Passing>52</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>61</Defensive>
+                <Stamina>75</Stamina>
+                <Club>Seongnam FC</Club>
+                <DateOfBirth>03-04-1985</DateOfBirth>
+            </Player>
+            <Player id="7354">
+                <FirstName>Ivan</FirstName>
+                <LastName>Vuković</LastName>
+                <Position>ST</Position>
+                <Pace>72</Pace>
+                <Shooting>60</Shooting>
+                <Passing>37</Passing>
+                <Offensive>48</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>67</Stamina>
+                <Club>Seongnam FC</Club>
+                <DateOfBirth>09-02-1987</DateOfBirth>
+            </Player>
+            <Player id="7407">
+                <FirstName>Yo Han</FirstName>
+                <LastName>Lee</LastName>
+                <Position>CB</Position>
+                <Pace>65</Pace>
+                <Shooting>37</Shooting>
+                <Passing>52</Passing>
+                <Offensive>44</Offensive>
+                <Defensive>61</Defensive>
+                <Stamina>82</Stamina>
+                <Club>Seongnam FC</Club>
+                <DateOfBirth>18-12-1985</DateOfBirth>
+            </Player>
+            <Player id="7826">
+                <FirstName>Chae Min</FirstName>
+                <LastName>Lim</LastName>
+                <Position>CB</Position>
+                <Pace>74</Pace>
+                <Shooting>27</Shooting>
+                <Passing>27</Passing>
+                <Offensive>27</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>67</Stamina>
+                <Club>Seongnam FC</Club>
+                <DateOfBirth>18-11-1990</DateOfBirth>
+            </Player>
+            <Player id="8573">
+                <FirstName>Chul Ho</FirstName>
+                <LastName>Kim</LastName>
+                <Position>CDM</Position>
+                <Pace>74</Pace>
+                <Shooting>45</Shooting>
+                <Passing>58</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>57</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Seongnam FC</Club>
+                <DateOfBirth>26-09-1983</DateOfBirth>
+            </Player>
+            <Player id="8727">
+                <FirstName>Eui Jo</FirstName>
+                <LastName>Hwang</LastName>
+                <Position>ST</Position>
+                <Pace>66</Pace>
+                <Shooting>60</Shooting>
+                <Passing>46</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>37</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Seongnam FC</Club>
+                <DateOfBirth>28-08-1992</DateOfBirth>
+            </Player>
+            <Player id="9275">
+                <FirstName>Min Woo</FirstName>
+                <LastName>Lee</LastName>
+                <Position>ST</Position>
+                <Pace>67</Pace>
+                <Shooting>61</Shooting>
+                <Passing>49</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>26</Defensive>
+                <Stamina>66</Stamina>
+                <Club>Seongnam FC</Club>
+                <DateOfBirth>01-12-1991</DateOfBirth>
+            </Player>
+            <Player id="9510">
+                <FirstName>Pyung Rae</FirstName>
+                <LastName>Kim</LastName>
+                <Position>CM</Position>
+                <Pace>66</Pace>
+                <Shooting>52</Shooting>
+                <Passing>61</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>49</Defensive>
+                <Stamina>60</Stamina>
+                <Club>Seongnam FC</Club>
+                <DateOfBirth>09-11-1987</DateOfBirth>
+            </Player>
+            <Player id="9719">
+                <FirstName>Dong Hee</FirstName>
+                <LastName>Kim</LastName>
+                <Position>LM</Position>
+                <Pace>75</Pace>
+                <Shooting>55</Shooting>
+                <Passing>56</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>32</Defensive>
+                <Stamina>34</Stamina>
+                <Club>Seongnam FC</Club>
+                <DateOfBirth>06-05-1989</DateOfBirth>
+            </Player>
+            <Player id="9950">
+                <FirstName>Hee Seong</FirstName>
+                <LastName>Park</LastName>
+                <Position>LB</Position>
+                <Pace>80</Pace>
+                <Shooting>50</Shooting>
+                <Passing>53</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>52</Defensive>
+                <Stamina>81</Stamina>
+                <Club>Seongnam FC</Club>
+                <DateOfBirth>07-04-1987</DateOfBirth>
+            </Player>
+            <Player id="10025">
+                <FirstName>Chung Yoon</FirstName>
+                <LastName>Yoo</LastName>
+                <Position>CB</Position>
+                <Pace>58</Pace>
+                <Shooting>29</Shooting>
+                <Passing>40</Passing>
+                <Offensive>34</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>58</Stamina>
+                <Club>Seongnam FC</Club>
+                <DateOfBirth>07-09-1992</DateOfBirth>
+            </Player>
+            <Player id="10115">
+                <FirstName>Sun Ho</FirstName>
+                <LastName>Jung</LastName>
+                <Position>CM</Position>
+                <Pace>62</Pace>
+                <Shooting>52</Shooting>
+                <Passing>58</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>39</Defensive>
+                <Stamina>46</Stamina>
+                <Club>Seongnam FC</Club>
+                <DateOfBirth>25-03-1989</DateOfBirth>
+            </Player>
+            <Player id="10609">
+                <FirstName>Tae Ahn</FirstName>
+                <LastName>Kwon</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>23</Stamina>
+                <Club>Seongnam FC</Club>
+                <DateOfBirth>09-04-1992</DateOfBirth>
+            </Player>
+            <Player id="10977">
+                <FirstName>Suk Won</FirstName>
+                <LastName>Jang</LastName>
+                <Position>RB</Position>
+                <Pace>46</Pace>
+                <Shooting>41</Shooting>
+                <Passing>55</Passing>
+                <Offensive>48</Offensive>
+                <Defensive>54</Defensive>
+                <Stamina>68</Stamina>
+                <Club>Seongnam FC</Club>
+                <DateOfBirth>11-08-1989</DateOfBirth>
+            </Player>
+            <Player id="11238">
+                <FirstName>Nam Gun</FirstName>
+                <LastName>Kim</LastName>
+                <Position>CM</Position>
+                <Pace>69</Pace>
+                <Shooting>52</Shooting>
+                <Passing>51</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>41</Defensive>
+                <Stamina>58</Stamina>
+                <Club>Seongnam FC</Club>
+                <DateOfBirth>16-08-1990</DateOfBirth>
+            </Player>
+            <Player id="11681">
+                <FirstName>Young Nam</FirstName>
+                <LastName>Kim</LastName>
+                <Position>CDM</Position>
+                <Pace>59</Pace>
+                <Shooting>35</Shooting>
+                <Passing>45</Passing>
+                <Offensive>40</Offensive>
+                <Defensive>42</Defensive>
+                <Stamina>48</Stamina>
+                <Club>Seongnam FC</Club>
+                <DateOfBirth>24-03-1991</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Pohang Steelers">
+            <Player id="2202">
+                <FirstName>Hwa Yong</FirstName>
+                <LastName>Shin</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>25</Stamina>
+                <Club>Pohang Steelers</Club>
+                <DateOfBirth>13-04-1983</DateOfBirth>
+            </Player>
+            <Player id="2629">
+                <FirstName>Seung Dae</FirstName>
+                <LastName>Kim</LastName>
+                <Position>ST</Position>
+                <Pace>80</Pace>
+                <Shooting>61</Shooting>
+                <Passing>62</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>36</Defensive>
+                <Stamina>77</Stamina>
+                <Club>Pohang Steelers</Club>
+                <DateOfBirth>01-04-1991</DateOfBirth>
+            </Player>
+            <Player id="2784">
+                <FirstName>Jae Sung</FirstName>
+                <LastName>Kim</LastName>
+                <Position>CM</Position>
+                <Pace>83</Pace>
+                <Shooting>65</Shooting>
+                <Passing>67</Passing>
+                <Offensive>66</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>87</Stamina>
+                <Club>Pohang Steelers</Club>
+                <DateOfBirth>03-10-1983</DateOfBirth>
+            </Player>
+            <Player id="3088">
+                <FirstName>Chan Ho</FirstName>
+                <LastName>Cho</LastName>
+                <Position>RW</Position>
+                <Pace>74</Pace>
+                <Shooting>64</Shooting>
+                <Passing>63</Passing>
+                <Offensive>63</Offensive>
+                <Defensive>40</Defensive>
+                <Stamina>57</Stamina>
+                <Club>Pohang Steelers</Club>
+                <DateOfBirth>10-04-1986</DateOfBirth>
+            </Player>
+            <Player id="3694">
+                <FirstName>Dae Ho</FirstName>
+                <LastName>Kim</LastName>
+                <Position>LB</Position>
+                <Pace>78</Pace>
+                <Shooting>44</Shooting>
+                <Passing>60</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>65</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Pohang Steelers</Club>
+                <DateOfBirth>15-05-1988</DateOfBirth>
+            </Player>
+            <Player id="3950">
+                <FirstName>Kwang Suk</FirstName>
+                <LastName>Kim</LastName>
+                <Position>CB</Position>
+                <Pace>91</Pace>
+                <Shooting>40</Shooting>
+                <Passing>50</Passing>
+                <Offensive>45</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>63</Stamina>
+                <Club>Pohang Steelers</Club>
+                <DateOfBirth>12-02-1983</DateOfBirth>
+            </Player>
+            <Player id="4450">
+                <FirstName>Hyung Il</FirstName>
+                <LastName>Kim</LastName>
+                <Position>CB</Position>
+                <Pace>33</Pace>
+                <Shooting>48</Shooting>
+                <Passing>42</Passing>
+                <Offensive>45</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>91</Stamina>
+                <Club>Pohang Steelers</Club>
+                <DateOfBirth>27-04-1984</DateOfBirth>
+            </Player>
+            <Player id="4757">
+                <FirstName>Kwang Hoon</FirstName>
+                <LastName>Shin</LastName>
+                <Position>RB</Position>
+                <Pace>81</Pace>
+                <Shooting>47</Shooting>
+                <Passing>63</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Pohang Steelers</Club>
+                <DateOfBirth>18-03-1987</DateOfBirth>
+            </Player>
+            <Player id="4915">
+                <FirstName>Hee Chul</FirstName>
+                <LastName>Park</LastName>
+                <Position>LB</Position>
+                <Pace>85</Pace>
+                <Shooting>48</Shooting>
+                <Passing>63</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>84</Stamina>
+                <Club>Pohang Steelers</Club>
+                <DateOfBirth>07-01-1986</DateOfBirth>
+            </Player>
+            <Player id="5590">
+                <FirstName>Ji Soo</FirstName>
+                <LastName>Hwang</LastName>
+                <Position>CDM</Position>
+                <Pace>67</Pace>
+                <Shooting>48</Shooting>
+                <Passing>61</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>91</Stamina>
+                <Club>Pohang Steelers</Club>
+                <DateOfBirth>27-03-1981</DateOfBirth>
+            </Player>
+            <Player id="5772">
+                <FirstName>Won Il</FirstName>
+                <LastName>Kim</LastName>
+                <Position>CB</Position>
+                <Pace>67</Pace>
+                <Shooting>34</Shooting>
+                <Passing>40</Passing>
+                <Offensive>37</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>86</Stamina>
+                <Club>Pohang Steelers</Club>
+                <DateOfBirth>18-10-1986</DateOfBirth>
+            </Player>
+            <Player id="6237">
+                <FirstName>Moo Yul</FirstName>
+                <LastName>Ko</LastName>
+                <Position>ST</Position>
+                <Pace>75</Pace>
+                <Shooting>61</Shooting>
+                <Passing>55</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>32</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Pohang Steelers</Club>
+                <DateOfBirth>05-09-1990</DateOfBirth>
+            </Player>
+            <Player id="6327">
+                <FirstName>Joon Ho</FirstName>
+                <LastName>Son</LastName>
+                <Position>CDM</Position>
+                <Pace>45</Pace>
+                <Shooting>57</Shooting>
+                <Passing>65</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>64</Stamina>
+                <Club>Pohang Steelers</Club>
+                <DateOfBirth>12-05-1992</DateOfBirth>
+            </Player>
+            <Player id="6633">
+                <FirstName>Soo Il</FirstName>
+                <LastName>Kang</LastName>
+                <Position>ST</Position>
+                <Pace>90</Pace>
+                <Shooting>52</Shooting>
+                <Passing>56</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>32</Defensive>
+                <Stamina>80</Stamina>
+                <Club>Pohang Steelers</Club>
+                <DateOfBirth>15-07-1987</DateOfBirth>
+            </Player>
+            <Player id="6860">
+                <FirstName>Young Jun</FirstName>
+                <LastName>Shin</LastName>
+                <Position>RW</Position>
+                <Pace>81</Pace>
+                <Shooting>58</Shooting>
+                <Passing>59</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>34</Defensive>
+                <Stamina>77</Stamina>
+                <Club>Pohang Steelers</Club>
+                <DateOfBirth>06-09-1989</DateOfBirth>
+            </Player>
+            <Player id="7054">
+                <FirstName>Chang Hyun</FirstName>
+                <LastName>Ryu</LastName>
+                <Position>ST</Position>
+                <Pace>77</Pace>
+                <Shooting>59</Shooting>
+                <Passing>45</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>27</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Pohang Steelers</Club>
+                <DateOfBirth>14-05-1985</DateOfBirth>
+            </Player>
+            <Player id="7259">
+                <FirstName>Da Sol</FirstName>
+                <LastName>Kim</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>32</Stamina>
+                <Club>Pohang Steelers</Club>
+                <DateOfBirth>04-01-1989</DateOfBirth>
+            </Player>
+            <Player id="8049">
+                <FirstName>Chang Jin</FirstName>
+                <LastName>Moon</LastName>
+                <Position>CAM</Position>
+                <Pace>68</Pace>
+                <Shooting>52</Shooting>
+                <Passing>60</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>25</Defensive>
+                <Stamina>61</Stamina>
+                <Club>Pohang Steelers</Club>
+                <DateOfBirth>12-07-1993</DateOfBirth>
+            </Player>
+            <Player id="8574">
+                <FirstName>Tae Su</FirstName>
+                <LastName>Kim</LastName>
+                <Position>CM</Position>
+                <Pace>40</Pace>
+                <Shooting>49</Shooting>
+                <Passing>60</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>57</Defensive>
+                <Stamina>64</Stamina>
+                <Club>Pohang Steelers</Club>
+                <DateOfBirth>25-08-1981</DateOfBirth>
+            </Player>
+            <Player id="9067">
+                <FirstName>Jin Young</FirstName>
+                <LastName>Kim</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>25</Stamina>
+                <Club>Pohang Steelers</Club>
+                <DateOfBirth>02-03-1992</DateOfBirth>
+            </Player>
+            <Player id="9069">
+                <FirstName>Je Ho</FirstName>
+                <LastName>Yu</LastName>
+                <Position>ST</Position>
+                <Pace>65</Pace>
+                <Shooting>61</Shooting>
+                <Passing>44</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>27</Defensive>
+                <Stamina>58</Stamina>
+                <Club>Pohang Steelers</Club>
+                <DateOfBirth>10-08-1992</DateOfBirth>
+            </Player>
+            <Player id="10234">
+                <FirstName>Seul Kee</FirstName>
+                <LastName>Bae</LastName>
+                <Position>CB</Position>
+                <Pace>62</Pace>
+                <Shooting>28</Shooting>
+                <Passing>29</Passing>
+                <Offensive>28</Offensive>
+                <Defensive>56</Defensive>
+                <Stamina>59</Stamina>
+                <Club>Pohang Steelers</Club>
+                <DateOfBirth>09-06-1985</DateOfBirth>
+            </Player>
+            <Player id="10360">
+                <FirstName>Chun Suk</FirstName>
+                <LastName>Bae</LastName>
+                <Position>ST</Position>
+                <Pace>48</Pace>
+                <Shooting>55</Shooting>
+                <Passing>32</Passing>
+                <Offensive>43</Offensive>
+                <Defensive>27</Defensive>
+                <Stamina>66</Stamina>
+                <Club>Pohang Steelers</Club>
+                <DateOfBirth>27-04-1990</DateOfBirth>
+            </Player>
+            <Player id="10482">
+                <FirstName>Sun Joo</FirstName>
+                <LastName>Park</LastName>
+                <Position>LW</Position>
+                <Pace>61</Pace>
+                <Shooting>52</Shooting>
+                <Passing>54</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>49</Defensive>
+                <Stamina>54</Stamina>
+                <Club>Pohang Steelers</Club>
+                <DateOfBirth>26-03-1992</DateOfBirth>
+            </Player>
+            <Player id="10781">
+                <FirstName>Kwang Hyuk</FirstName>
+                <LastName>Lee</LastName>
+                <Position>LW</Position>
+                <Pace>80</Pace>
+                <Shooting>42</Shooting>
+                <Passing>51</Passing>
+                <Offensive>46</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>66</Stamina>
+                <Club>Pohang Steelers</Club>
+                <DateOfBirth>11-09-1995</DateOfBirth>
+            </Player>
+            <Player id="11376">
+                <FirstName>Jun Sung</FirstName>
+                <LastName>Yoon</LastName>
+                <Position>CB</Position>
+                <Pace>56</Pace>
+                <Shooting>31</Shooting>
+                <Passing>26</Passing>
+                <Offensive>28</Offensive>
+                <Defensive>51</Defensive>
+                <Stamina>61</Stamina>
+                <Club>Pohang Steelers</Club>
+                <DateOfBirth>28-09-1989</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Busan I'Park">
+            <Player id="2766">
+                <FirstName>Hak Young</FirstName>
+                <LastName>Jang</LastName>
+                <Position>LB</Position>
+                <Pace>80</Pace>
+                <Shooting>59</Shooting>
+                <Passing>64</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>82</Stamina>
+                <Club>Busan I'Park</Club>
+                <DateOfBirth>24-08-1981</DateOfBirth>
+            </Player>
+            <Player id="3119">
+                <FirstName>José</FirstName>
+                <LastName>Fagner Silva da Luz</LastName>
+                <Position>CF</Position>
+                <Pace>83</Pace>
+                <Shooting>63</Shooting>
+                <Passing>58</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>68</Stamina>
+                <Club>Busan I'Park</Club>
+                <DateOfBirth>25-05-1988</DateOfBirth>
+            </Player>
+            <Player id="5917">
+                <FirstName>Won Young</FirstName>
+                <LastName>Lee</LastName>
+                <Position>CB</Position>
+                <Pace>68</Pace>
+                <Shooting>52</Shooting>
+                <Passing>50</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>57</Stamina>
+                <Club>Busan I'Park</Club>
+                <DateOfBirth>13-03-1981</DateOfBirth>
+            </Player>
+            <Player id="5928">
+                <FirstName>Sang Hyup</FirstName>
+                <LastName>Lim</LastName>
+                <Position>LM</Position>
+                <Pace>68</Pace>
+                <Shooting>53</Shooting>
+                <Passing>58</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>39</Defensive>
+                <Stamina>43</Stamina>
+                <Club>Busan I'Park</Club>
+                <DateOfBirth>08-07-1988</DateOfBirth>
+            </Player>
+            <Player id="5978">
+                <FirstName>Sung Chan</FirstName>
+                <LastName>Jeon</LastName>
+                <Position>CDM</Position>
+                <Pace>65</Pace>
+                <Shooting>50</Shooting>
+                <Passing>60</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Busan I'Park</Club>
+                <DateOfBirth>27-12-1987</DateOfBirth>
+            </Player>
+            <Player id="6226">
+                <FirstName>Kyung Ryul</FirstName>
+                <LastName>Lee</LastName>
+                <Position>CB</Position>
+                <Pace>71</Pace>
+                <Shooting>34</Shooting>
+                <Passing>41</Passing>
+                <Offensive>37</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Busan I'Park</Club>
+                <DateOfBirth>16-01-1988</DateOfBirth>
+            </Player>
+            <Player id="6597">
+                <FirstName>Nilson Ricardo</FirstName>
+                <LastName>da Silva Júnior</LastName>
+                <Position>CDM</Position>
+                <Pace>72</Pace>
+                <Shooting>49</Shooting>
+                <Passing>59</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>63</Stamina>
+                <Club>Busan I'Park</Club>
+                <DateOfBirth>31-03-1989</DateOfBirth>
+            </Player>
+            <Player id="7276">
+                <FirstName>Ji Ho</FirstName>
+                <LastName>Han</LastName>
+                <Position>ST</Position>
+                <Pace>70</Pace>
+                <Shooting>58</Shooting>
+                <Passing>59</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>31</Defensive>
+                <Stamina>58</Stamina>
+                <Club>Busan I'Park</Club>
+                <DateOfBirth>15-12-1988</DateOfBirth>
+            </Player>
+            <Player id="8150">
+                <FirstName>Yong Tae</FirstName>
+                <LastName>Kim</LastName>
+                <Position>RW</Position>
+                <Pace>64</Pace>
+                <Shooting>48</Shooting>
+                <Passing>59</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>90</Stamina>
+                <Club>Busan I'Park</Club>
+                <DateOfBirth>20-05-1984</DateOfBirth>
+            </Player>
+            <Player id="8179">
+                <FirstName>Ik Hyun</FirstName>
+                <LastName>Kim</LastName>
+                <Position>CM</Position>
+                <Pace>66</Pace>
+                <Shooting>48</Shooting>
+                <Passing>59</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>54</Defensive>
+                <Stamina>66</Stamina>
+                <Club>Busan I'Park</Club>
+                <DateOfBirth>30-04-1989</DateOfBirth>
+            </Player>
+            <Player id="8250">
+                <FirstName>Yong Ji</FirstName>
+                <LastName>Park</LastName>
+                <Position>ST</Position>
+                <Pace>70</Pace>
+                <Shooting>55</Shooting>
+                <Passing>59</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>59</Stamina>
+                <Club>Busan I'Park</Club>
+                <DateOfBirth>09-10-1992</DateOfBirth>
+            </Player>
+            <Player id="8262">
+                <FirstName>Jun Gang</FirstName>
+                <LastName>Park</LastName>
+                <Position>RB</Position>
+                <Pace>66</Pace>
+                <Shooting>25</Shooting>
+                <Passing>48</Passing>
+                <Offensive>36</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>63</Stamina>
+                <Club>Busan I'Park</Club>
+                <DateOfBirth>06-06-1991</DateOfBirth>
+            </Player>
+            <Player id="8523">
+                <FirstName>Chan Young</FirstName>
+                <LastName>Kim</LastName>
+                <Position>CB</Position>
+                <Pace>42</Pace>
+                <Shooting>28</Shooting>
+                <Passing>39</Passing>
+                <Offensive>33</Offensive>
+                <Defensive>57</Defensive>
+                <Stamina>64</Stamina>
+                <Club>Busan I'Park</Club>
+                <DateOfBirth>01-04-1989</DateOfBirth>
+            </Player>
+            <Player id="8854">
+                <FirstName>Dong Min</FirstName>
+                <LastName>Yoon</LastName>
+                <Position>CF</Position>
+                <Pace>69</Pace>
+                <Shooting>61</Shooting>
+                <Passing>49</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>36</Defensive>
+                <Stamina>54</Stamina>
+                <Club>Busan I'Park</Club>
+                <DateOfBirth>20-07-1988</DateOfBirth>
+            </Player>
+            <Player id="8918">
+                <FirstName>Ji No</FirstName>
+                <LastName>Yu</LastName>
+                <Position>RB</Position>
+                <Pace>73</Pace>
+                <Shooting>39</Shooting>
+                <Passing>51</Passing>
+                <Offensive>45</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>75</Stamina>
+                <Club>Busan I'Park</Club>
+                <DateOfBirth>06-11-1989</DateOfBirth>
+            </Player>
+            <Player id="8972">
+                <FirstName>Chang Keun</FirstName>
+                <LastName>Lee</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>22</Stamina>
+                <Club>Busan I'Park</Club>
+                <DateOfBirth>30-08-1993</DateOfBirth>
+            </Player>
+            <Player id="9068">
+                <FirstName>Dong Hyun</FirstName>
+                <LastName>Hong</LastName>
+                <Position>CAM</Position>
+                <Pace>46</Pace>
+                <Shooting>59</Shooting>
+                <Passing>62</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>43</Defensive>
+                <Stamina>46</Stamina>
+                <Club>Busan I'Park</Club>
+                <DateOfBirth>30-10-1991</DateOfBirth>
+            </Player>
+            <Player id="9162">
+                <FirstName>Eung Jin</FirstName>
+                <LastName>Kim</LastName>
+                <Position>CB</Position>
+                <Pace>64</Pace>
+                <Shooting>45</Shooting>
+                <Passing>55</Passing>
+                <Offensive>50</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>68</Stamina>
+                <Club>Busan I'Park</Club>
+                <DateOfBirth>09-03-1987</DateOfBirth>
+            </Player>
+            <Player id="9727">
+                <FirstName>Ji Min</FirstName>
+                <LastName>Kim</LastName>
+                <Position>ST</Position>
+                <Pace>63</Pace>
+                <Shooting>58</Shooting>
+                <Passing>36</Passing>
+                <Offensive>47</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>59</Stamina>
+                <Club>Busan I'Park</Club>
+                <DateOfBirth>05-06-1993</DateOfBirth>
+            </Player>
+            <Player id="9732">
+                <FirstName>Jei Min</FirstName>
+                <LastName>Yeon</LastName>
+                <Position>CB</Position>
+                <Pace>77</Pace>
+                <Shooting>26</Shooting>
+                <Passing>34</Passing>
+                <Offensive>30</Offensive>
+                <Defensive>57</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Busan I'Park</Club>
+                <DateOfBirth>28-05-1993</DateOfBirth>
+            </Player>
+            <Player id="10230">
+                <FirstName>Shin Young</FirstName>
+                <LastName>Kim</LastName>
+                <Position>ST</Position>
+                <Pace>59</Pace>
+                <Shooting>55</Shooting>
+                <Passing>33</Passing>
+                <Offensive>44</Offensive>
+                <Defensive>26</Defensive>
+                <Stamina>66</Stamina>
+                <Club>Busan I'Park</Club>
+                <DateOfBirth>16-06-1983</DateOfBirth>
+            </Player>
+            <Player id="11452">
+                <FirstName>Hyun Jun</FirstName>
+                <LastName>Ku</LastName>
+                <Position>LB</Position>
+                <Pace>56</Pace>
+                <Shooting>43</Shooting>
+                <Passing>49</Passing>
+                <Offensive>46</Offensive>
+                <Defensive>47</Defensive>
+                <Stamina>60</Stamina>
+                <Club>Busan I'Park</Club>
+                <DateOfBirth>13-12-1993</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Sangju Sangmu FC">
+            <Player id="3424">
+                <FirstName>Dong Geon</FirstName>
+                <LastName>Cho</LastName>
+                <Position>ST</Position>
+                <Pace>85</Pace>
+                <Shooting>59</Shooting>
+                <Passing>54</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Sangju Sangmu FC</Club>
+                <DateOfBirth>16-04-1986</DateOfBirth>
+            </Player>
+            <Player id="4229">
+                <FirstName>Kwang Sun</FirstName>
+                <LastName>Kwak</LastName>
+                <Position>CB</Position>
+                <Pace>63</Pace>
+                <Shooting>30</Shooting>
+                <Passing>52</Passing>
+                <Offensive>41</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>82</Stamina>
+                <Club>Sangju Sangmu FC</Club>
+                <DateOfBirth>28-03-1986</DateOfBirth>
+            </Player>
+            <Player id="4502">
+                <FirstName>Soon Hyung</FirstName>
+                <LastName>Kwon</LastName>
+                <Position>CM</Position>
+                <Pace>41</Pace>
+                <Shooting>57</Shooting>
+                <Passing>63</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>57</Defensive>
+                <Stamina>90</Stamina>
+                <Club>Sangju Sangmu FC</Club>
+                <DateOfBirth>16-06-1986</DateOfBirth>
+            </Player>
+            <Player id="5284">
+                <FirstName>Ho</FirstName>
+                <LastName>Lee</LastName>
+                <Position>CDM</Position>
+                <Pace>66</Pace>
+                <Shooting>54</Shooting>
+                <Passing>60</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>57</Defensive>
+                <Stamina>81</Stamina>
+                <Club>Sangju Sangmu FC</Club>
+                <DateOfBirth>22-10-1984</DateOfBirth>
+            </Player>
+            <Player id="5589">
+                <FirstName>Min Soo</FirstName>
+                <LastName>Kang</LastName>
+                <Position>CB</Position>
+                <Pace>69</Pace>
+                <Shooting>37</Shooting>
+                <Passing>48</Passing>
+                <Offensive>42</Offensive>
+                <Defensive>59</Defensive>
+                <Stamina>80</Stamina>
+                <Club>Sangju Sangmu FC</Club>
+                <DateOfBirth>14-02-1986</DateOfBirth>
+            </Player>
+            <Player id="7238">
+                <FirstName>Yong Gi</FirstName>
+                <LastName>Lee</LastName>
+                <Position>CB</Position>
+                <Pace>74</Pace>
+                <Shooting>43</Shooting>
+                <Passing>54</Passing>
+                <Offensive>48</Offensive>
+                <Defensive>61</Defensive>
+                <Stamina>66</Stamina>
+                <Club>Sangju Sangmu FC</Club>
+                <DateOfBirth>30-05-1985</DateOfBirth>
+            </Player>
+            <Player id="7611">
+                <FirstName>Hoo Kwon</FirstName>
+                <LastName>Lee</LastName>
+                <Position>LM</Position>
+                <Pace>79</Pace>
+                <Shooting>45</Shooting>
+                <Passing>57</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>56</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Sangju Sangmu FC</Club>
+                <DateOfBirth>30-10-1990</DateOfBirth>
+            </Player>
+            <Player id="7963">
+                <FirstName>Jun A</FirstName>
+                <LastName>Yang</LastName>
+                <Position>CB</Position>
+                <Pace>72</Pace>
+                <Shooting>56</Shooting>
+                <Passing>57</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>61</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Sangju Sangmu FC</Club>
+                <DateOfBirth>13-06-1989</DateOfBirth>
+            </Player>
+            <Player id="8189">
+                <FirstName>Ho Jung</FirstName>
+                <LastName>Choi</LastName>
+                <Position>RB</Position>
+                <Pace>69</Pace>
+                <Shooting>42</Shooting>
+                <Passing>54</Passing>
+                <Offensive>48</Offensive>
+                <Defensive>59</Defensive>
+                <Stamina>62</Stamina>
+                <Club>Sangju Sangmu FC</Club>
+                <DateOfBirth>08-12-1989</DateOfBirth>
+            </Player>
+            <Player id="8503">
+                <FirstName>Jung Hyup</FirstName>
+                <LastName>Lee</LastName>
+                <Position>ST</Position>
+                <Pace>53</Pace>
+                <Shooting>58</Shooting>
+                <Passing>34</Passing>
+                <Offensive>46</Offensive>
+                <Defensive>27</Defensive>
+                <Stamina>61</Stamina>
+                <Club>Sangju Sangmu FC</Club>
+                <DateOfBirth>24-06-1991</DateOfBirth>
+            </Player>
+            <Player id="9995">
+                <FirstName>Won Jae</FirstName>
+                <LastName>Song</LastName>
+                <Position>CM</Position>
+                <Pace>60</Pace>
+                <Shooting>53</Shooting>
+                <Passing>60</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>44</Defensive>
+                <Stamina>40</Stamina>
+                <Club>Sangju Sangmu FC</Club>
+                <DateOfBirth>21-02-1989</DateOfBirth>
+            </Player>
+            <Player id="10116">
+                <FirstName>Ji Woong</FirstName>
+                <LastName>Kim</LastName>
+                <Position>LB</Position>
+                <Pace>70</Pace>
+                <Shooting>26</Shooting>
+                <Passing>53</Passing>
+                <Offensive>39</Offensive>
+                <Defensive>55</Defensive>
+                <Stamina>66</Stamina>
+                <Club>Sangju Sangmu FC</Club>
+                <DateOfBirth>19-05-1990</DateOfBirth>
+            </Player>
+            <Player id="10323">
+                <FirstName>Jeong Nam</FirstName>
+                <LastName>Hong</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>23</Stamina>
+                <Club>Sangju Sangmu FC</Club>
+                <DateOfBirth>21-05-1988</DateOfBirth>
+            </Player>
+            <Player id="10770">
+                <FirstName>Kyung Min</FirstName>
+                <LastName>Kim</LastName>
+                <Position>CB</Position>
+                <Pace>49</Pace>
+                <Shooting>26</Shooting>
+                <Passing>33</Passing>
+                <Offensive>29</Offensive>
+                <Defensive>55</Defensive>
+                <Stamina>63</Stamina>
+                <Club>Sangju Sangmu FC</Club>
+                <DateOfBirth>15-08-1990</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Ulsan Hyundai Horang-i">
+            <Player id="4779">
+                <FirstName>Sung Hwan</FirstName>
+                <LastName>Kim</LastName>
+                <Position>CDM</Position>
+                <Pace>71</Pace>
+                <Shooting>60</Shooting>
+                <Passing>61</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>81</Stamina>
+                <Club>Ulsan Hyundai Horang-i</Club>
+                <DateOfBirth>15-12-1986</DateOfBirth>
+            </Player>
+            <Player id="4980">
+                <FirstName>Dong Hyen</FirstName>
+                <LastName>Yang</LastName>
+                <Position>ST</Position>
+                <Pace>60</Pace>
+                <Shooting>64</Shooting>
+                <Passing>46</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>27</Defensive>
+                <Stamina>63</Stamina>
+                <Club>Ulsan Hyundai Horang-i</Club>
+                <DateOfBirth>28-03-1986</DateOfBirth>
+            </Player>
+            <Player id="6475">
+                <FirstName>Min Kyun</FirstName>
+                <LastName>Kim</LastName>
+                <Position>CAM</Position>
+                <Pace>66</Pace>
+                <Shooting>58</Shooting>
+                <Passing>58</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>35</Defensive>
+                <Stamina>67</Stamina>
+                <Club>Ulsan Hyundai Horang-i</Club>
+                <DateOfBirth>30-11-1988</DateOfBirth>
+            </Player>
+            <Player id="6911">
+                <FirstName>Chi Gon</FirstName>
+                <LastName>Kim</LastName>
+                <Position>CB</Position>
+                <Pace>35</Pace>
+                <Shooting>46</Shooting>
+                <Passing>49</Passing>
+                <Offensive>47</Offensive>
+                <Defensive>61</Defensive>
+                <Stamina>75</Stamina>
+                <Club>Ulsan Hyundai Horang-i</Club>
+                <DateOfBirth>29-07-1983</DateOfBirth>
+            </Player>
+            <Player id="7440">
+                <FirstName>Jae Woong</FirstName>
+                <LastName>Han</LastName>
+                <Position>RW</Position>
+                <Pace>75</Pace>
+                <Shooting>57</Shooting>
+                <Passing>55</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>50</Defensive>
+                <Stamina>92</Stamina>
+                <Club>Ulsan Hyundai Horang-i</Club>
+                <DateOfBirth>28-09-1984</DateOfBirth>
+            </Player>
+            <Player id="7446">
+                <FirstName>Dong Hyuk</FirstName>
+                <LastName>Park</LastName>
+                <Position>CB</Position>
+                <Pace>55</Pace>
+                <Shooting>53</Shooting>
+                <Passing>51</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>61</Stamina>
+                <Club>Ulsan Hyundai Horang-i</Club>
+                <DateOfBirth>18-04-1979</DateOfBirth>
+            </Player>
+            <Player id="7624">
+                <FirstName>Filip</FirstName>
+                <LastName>Kasalica</LastName>
+                <Position>ST</Position>
+                <Pace>64</Pace>
+                <Shooting>59</Shooting>
+                <Passing>38</Passing>
+                <Offensive>48</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>68</Stamina>
+                <Club>Ulsan Hyundai Horang-i</Club>
+                <DateOfBirth>17-12-1988</DateOfBirth>
+            </Player>
+            <Player id="7674">
+                <FirstName>Ji Hoon</FirstName>
+                <LastName>Baek</LastName>
+                <Position>CAM</Position>
+                <Pace>70</Pace>
+                <Shooting>63</Shooting>
+                <Passing>60</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>54</Defensive>
+                <Stamina>61</Stamina>
+                <Club>Ulsan Hyundai Horang-i</Club>
+                <DateOfBirth>28-02-1985</DateOfBirth>
+            </Player>
+            <Player id="8308">
+                <FirstName>Sun Min</FirstName>
+                <LastName>Kim</LastName>
+                <Position>RM</Position>
+                <Pace>69</Pace>
+                <Shooting>57</Shooting>
+                <Passing>58</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>46</Defensive>
+                <Stamina>58</Stamina>
+                <Club>Ulsan Hyundai Horang-i</Club>
+                <DateOfBirth>12-12-1991</DateOfBirth>
+            </Player>
+            <Player id="9406">
+                <FirstName>Dong Ho</FirstName>
+                <LastName>Jeong</LastName>
+                <Position>RB</Position>
+                <Pace>71</Pace>
+                <Shooting>26</Shooting>
+                <Passing>52</Passing>
+                <Offensive>39</Offensive>
+                <Defensive>57</Defensive>
+                <Stamina>57</Stamina>
+                <Club>Ulsan Hyundai Horang-i</Club>
+                <DateOfBirth>07-03-1990</DateOfBirth>
+            </Player>
+            <Player id="9583">
+                <FirstName>Jin Bum</FirstName>
+                <LastName>Ahn</LastName>
+                <Position>CAM</Position>
+                <Pace>66</Pace>
+                <Shooting>51</Shooting>
+                <Passing>60</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>41</Defensive>
+                <Stamina>58</Stamina>
+                <Club>Ulsan Hyundai Horang-i</Club>
+                <DateOfBirth>10-03-1992</DateOfBirth>
+            </Player>
+            <Player id="10783">
+                <FirstName>Hak Chan</FirstName>
+                <LastName>Kim</LastName>
+                <Position>CM</Position>
+                <Pace>44</Pace>
+                <Shooting>46</Shooting>
+                <Passing>60</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>37</Defensive>
+                <Stamina>47</Stamina>
+                <Club>Ulsan Hyundai Horang-i</Club>
+                <DateOfBirth>05-03-1992</DateOfBirth>
+            </Player>
+            <Player id="10865">
+                <FirstName>Hun Sung</FirstName>
+                <LastName>Kim</LastName>
+                <Position>RM</Position>
+                <Pace>62</Pace>
+                <Shooting>50</Shooting>
+                <Passing>51</Passing>
+                <Offensive>50</Offensive>
+                <Defensive>34</Defensive>
+                <Stamina>61</Stamina>
+                <Club>Ulsan Hyundai Horang-i</Club>
+                <DateOfBirth>20-05-1991</DateOfBirth>
+            </Player>
+            <Player id="10925">
+                <FirstName>Hui Sung</FirstName>
+                <LastName>Lee</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>23</Stamina>
+                <Club>Ulsan Hyundai Horang-i</Club>
+                <DateOfBirth>27-05-1990</DateOfBirth>
+            </Player>
+            <Player id="11266">
+                <FirstName>Joon Soo</FirstName>
+                <LastName>Yoo</LastName>
+                <Position>CB</Position>
+                <Pace>67</Pace>
+                <Shooting>58</Shooting>
+                <Passing>50</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>47</Defensive>
+                <Stamina>65</Stamina>
+                <Club>Ulsan Hyundai Horang-i</Club>
+                <DateOfBirth>08-05-1988</DateOfBirth>
+            </Player>
+            <Player id="11577">
+                <FirstName>In Hyung</FirstName>
+                <LastName>Cho</LastName>
+                <Position>LW</Position>
+                <Pace>70</Pace>
+                <Shooting>52</Shooting>
+                <Passing>39</Passing>
+                <Offensive>45</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>32</Stamina>
+                <Club>Ulsan Hyundai Horang-i</Club>
+                <DateOfBirth>01-02-1990</DateOfBirth>
+            </Player>
+            <Player id="12478">
+                <FirstName>Shin Wook</FirstName>
+                <LastName>Kim</LastName>
+                <Position>ST</Position>
+                <Pace>75</Pace>
+                <Shooting>72</Shooting>
+                <Passing>60</Passing>
+                <Offensive>66</Offensive>
+                <Defensive>43</Defensive>
+                <Stamina>83</Stamina>
+                <Club>Ulsan Hyundai Horang-i</Club>
+                <DateOfBirth>14-04-1988</DateOfBirth>
+            </Player>
+        </Team>
+    </League>
+</Players>

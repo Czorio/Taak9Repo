@@ -1,0 +1,4184 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Players>
+    <League Name="Belgium Pro League">
+        <Team Name="Club Brugge KV">
+            <Player id="57">
+                <FirstName>Thomas</FirstName>
+                <LastName>Meunier</LastName>
+                <Position>RB</Position>
+                <Pace>74</Pace>
+                <Shooting>69</Shooting>
+                <Passing>68</Passing>
+                <Offensive>68</Offensive>
+                <Defensive>72</Defensive>
+                <Stamina>85</Stamina>
+                <Club>Club Brugge KV</Club>
+                <DateOfBirth>12-09-1991</DateOfBirth>
+            </Player>
+            <Player id="110">
+                <FirstName>Fernando</FirstName>
+                <LastName>Menegazzo</LastName>
+                <Position>CDM</Position>
+                <Pace>35</Pace>
+                <Shooting>64</Shooting>
+                <Passing>71</Passing>
+                <Offensive>67</Offensive>
+                <Defensive>69</Defensive>
+                <Stamina>75</Stamina>
+                <Club>Club Brugge KV</Club>
+                <DateOfBirth>03-05-1981</DateOfBirth>
+            </Player>
+            <Player id="498">
+                <FirstName>Waldemar</FirstName>
+                <LastName>Sobota</LastName>
+                <Position>RW</Position>
+                <Pace>90</Pace>
+                <Shooting>64</Shooting>
+                <Passing>62</Passing>
+                <Offensive>63</Offensive>
+                <Defensive>36</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Club Brugge KV</Club>
+                <DateOfBirth>19-05-1987</DateOfBirth>
+            </Player>
+            <Player id="525">
+                <FirstName>Óscar</FirstName>
+                <LastName>Duarte</LastName>
+                <Position>CB</Position>
+                <Pace>69</Pace>
+                <Shooting>28</Shooting>
+                <Passing>46</Passing>
+                <Offensive>37</Offensive>
+                <Defensive>71</Defensive>
+                <Stamina>66</Stamina>
+                <Club>Club Brugge KV</Club>
+                <DateOfBirth>03-06-1989</DateOfBirth>
+            </Player>
+            <Player id="545">
+                <FirstName>Francisco</FirstName>
+                <LastName>Silva</LastName>
+                <Position>CDM</Position>
+                <Pace>62</Pace>
+                <Shooting>61</Shooting>
+                <Passing>71</Passing>
+                <Offensive>66</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>77</Stamina>
+                <Club>Club Brugge KV</Club>
+                <DateOfBirth>11-02-1986</DateOfBirth>
+            </Player>
+            <Player id="597">
+                <FirstName>Davy</FirstName>
+                <LastName>De fauw</LastName>
+                <Position>RB</Position>
+                <Pace>64</Pace>
+                <Shooting>52</Shooting>
+                <Passing>68</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>70</Defensive>
+                <Stamina>82</Stamina>
+                <Club>Club Brugge KV</Club>
+                <DateOfBirth>08-07-1981</DateOfBirth>
+            </Player>
+            <Player id="702">
+                <FirstName>Björn</FirstName>
+                <LastName>Engels</LastName>
+                <Position>CB</Position>
+                <Pace>66</Pace>
+                <Shooting>30</Shooting>
+                <Passing>58</Passing>
+                <Offensive>44</Offensive>
+                <Defensive>72</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Club Brugge KV</Club>
+                <DateOfBirth>15-09-1994</DateOfBirth>
+            </Player>
+            <Player id="1231">
+                <FirstName>Brandon</FirstName>
+                <LastName>Mechele</LastName>
+                <Position>CB</Position>
+                <Pace>71</Pace>
+                <Shooting>35</Shooting>
+                <Passing>51</Passing>
+                <Offensive>43</Offensive>
+                <Defensive>71</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Club Brugge KV</Club>
+                <DateOfBirth>28-01-1993</DateOfBirth>
+            </Player>
+            <Player id="1232">
+                <FirstName>Nicolás</FirstName>
+                <LastName>Castillo</LastName>
+                <Position>ST</Position>
+                <Pace>66</Pace>
+                <Shooting>70</Shooting>
+                <Passing>57</Passing>
+                <Offensive>63</Offensive>
+                <Defensive>33</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Club Brugge KV</Club>
+                <DateOfBirth>14-02-1993</DateOfBirth>
+            </Player>
+            <Player id="1839">
+                <FirstName>Jonathan</FirstName>
+                <LastName>Blondel</LastName>
+                <Position>CM</Position>
+                <Pace>74</Pace>
+                <Shooting>64</Shooting>
+                <Passing>68</Passing>
+                <Offensive>66</Offensive>
+                <Defensive>67</Defensive>
+                <Stamina>76</Stamina>
+                <Club>Club Brugge KV</Club>
+                <DateOfBirth>03-04-1984</DateOfBirth>
+            </Player>
+            <Player id="2096">
+                <FirstName>Sokratis</FirstName>
+                <LastName>Dioudis</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>33</Stamina>
+                <Club>Club Brugge KV</Club>
+                <DateOfBirth>03-02-1993</DateOfBirth>
+            </Player>
+            <Player id="2853">
+                <FirstName>Vladan</FirstName>
+                <LastName>Kujovic</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>25</Stamina>
+                <Club>Club Brugge KV</Club>
+                <DateOfBirth>23-08-1978</DateOfBirth>
+            </Player>
+            <Player id="4350">
+                <FirstName>Nikola</FirstName>
+                <LastName>Storm</LastName>
+                <Position>LW</Position>
+                <Pace>78</Pace>
+                <Shooting>61</Shooting>
+                <Passing>58</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>82</Stamina>
+                <Club>Club Brugge KV</Club>
+                <DateOfBirth>30-09-1994</DateOfBirth>
+            </Player>
+            <Player id="4633">
+                <FirstName>Shangyuan</FirstName>
+                <LastName>Wang</LastName>
+                <Position>CAM</Position>
+                <Pace>70</Pace>
+                <Shooting>61</Shooting>
+                <Passing>66</Passing>
+                <Offensive>63</Offensive>
+                <Defensive>36</Defensive>
+                <Stamina>80</Stamina>
+                <Club>Club Brugge KV</Club>
+                <DateOfBirth>02-06-1993</DateOfBirth>
+            </Player>
+            <Player id="6028">
+                <FirstName>Boli</FirstName>
+                <LastName>Bolingoli Mbombo</LastName>
+                <Position>LB</Position>
+                <Pace>83</Pace>
+                <Shooting>56</Shooting>
+                <Passing>54</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>80</Stamina>
+                <Club>Club Brugge KV</Club>
+                <DateOfBirth>01-07-1995</DateOfBirth>
+            </Player>
+            <Player id="9862">
+                <FirstName>Sander</FirstName>
+                <LastName>Coopman</LastName>
+                <Position>CAM</Position>
+                <Pace>57</Pace>
+                <Shooting>49</Shooting>
+                <Passing>56</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>38</Defensive>
+                <Stamina>39</Stamina>
+                <Club>Club Brugge KV</Club>
+                <DateOfBirth>12-03-1995</DateOfBirth>
+            </Player>
+            <Player id="12264">
+                <FirstName>Tom</FirstName>
+                <LastName>De Sutter</LastName>
+                <Position>ST</Position>
+                <Pace>72</Pace>
+                <Shooting>72</Shooting>
+                <Passing>63</Passing>
+                <Offensive>67</Offensive>
+                <Defensive>42</Defensive>
+                <Stamina>76</Stamina>
+                <Club>Club Brugge KV</Club>
+                <DateOfBirth>03-07-1985</DateOfBirth>
+            </Player>
+            <Player id="12619">
+                <FirstName>Victor</FirstName>
+                <LastName>Vázquez Solsona</LastName>
+                <Position>CM</Position>
+                <Pace>48</Pace>
+                <Shooting>67</Shooting>
+                <Passing>82</Passing>
+                <Offensive>74</Offensive>
+                <Defensive>32</Defensive>
+                <Stamina>69</Stamina>
+                <Club>Club Brugge KV</Club>
+                <DateOfBirth>20-01-1987</DateOfBirth>
+            </Player>
+            <Player id="12629">
+                <FirstName>Timmy</FirstName>
+                <LastName>Simons</LastName>
+                <Position>CDM</Position>
+                <Pace>45</Pace>
+                <Shooting>58</Shooting>
+                <Passing>64</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>74</Defensive>
+                <Stamina>75</Stamina>
+                <Club>Club Brugge KV</Club>
+                <DateOfBirth>11-12-1976</DateOfBirth>
+            </Player>
+            <Player id="12744">
+                <FirstName>Mathew</FirstName>
+                <LastName>Ryan</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>36</Stamina>
+                <Club>Club Brugge KV</Club>
+                <DateOfBirth>08-04-1992</DateOfBirth>
+            </Player>
+            <Player id="12776">
+                <FirstName>Ruud</FirstName>
+                <LastName>Vormer</LastName>
+                <Position>CM</Position>
+                <Pace>59</Pace>
+                <Shooting>67</Shooting>
+                <Passing>77</Passing>
+                <Offensive>72</Offensive>
+                <Defensive>69</Defensive>
+                <Stamina>82</Stamina>
+                <Club>Club Brugge KV</Club>
+                <DateOfBirth>11-05-1988</DateOfBirth>
+            </Player>
+            <Player id="12832">
+                <FirstName>Lior</FirstName>
+                <LastName>Refaelov</LastName>
+                <Position>RW</Position>
+                <Pace>70</Pace>
+                <Shooting>69</Shooting>
+                <Passing>70</Passing>
+                <Offensive>69</Offensive>
+                <Defensive>27</Defensive>
+                <Stamina>63</Stamina>
+                <Club>Club Brugge KV</Club>
+                <DateOfBirth>26-04-1986</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="RSC Anderlecht">
+            <Player id="71">
+                <FirstName>Chancel</FirstName>
+                <LastName>Mbemba</LastName>
+                <Position>CB</Position>
+                <Pace>80</Pace>
+                <Shooting>55</Shooting>
+                <Passing>52</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>71</Defensive>
+                <Stamina>73</Stamina>
+                <Club>RSC Anderlecht</Club>
+                <DateOfBirth>08-08-1994</DateOfBirth>
+            </Player>
+            <Player id="123">
+                <FirstName>Anthony</FirstName>
+                <LastName>Vanden Borre</LastName>
+                <Position>RB</Position>
+                <Pace>76</Pace>
+                <Shooting>59</Shooting>
+                <Passing>69</Passing>
+                <Offensive>64</Offensive>
+                <Defensive>69</Defensive>
+                <Stamina>81</Stamina>
+                <Club>RSC Anderlecht</Club>
+                <DateOfBirth>24-10-1987</DateOfBirth>
+            </Player>
+            <Player id="191">
+                <FirstName>Dennis</FirstName>
+                <LastName>Praet</LastName>
+                <Position>LM</Position>
+                <Pace>70</Pace>
+                <Shooting>62</Shooting>
+                <Passing>73</Passing>
+                <Offensive>67</Offensive>
+                <Defensive>44</Defensive>
+                <Stamina>70</Stamina>
+                <Club>RSC Anderlecht</Club>
+                <DateOfBirth>14-05-1994</DateOfBirth>
+            </Player>
+            <Player id="345">
+                <FirstName>Andy</FirstName>
+                <LastName>Najar</LastName>
+                <Position>RM</Position>
+                <Pace>79</Pace>
+                <Shooting>60</Shooting>
+                <Passing>67</Passing>
+                <Offensive>63</Offensive>
+                <Defensive>68</Defensive>
+                <Stamina>82</Stamina>
+                <Club>RSC Anderlecht</Club>
+                <DateOfBirth>16-03-1993</DateOfBirth>
+            </Player>
+            <Player id="378">
+                <FirstName>Ibrahima</FirstName>
+                <LastName>Conté</LastName>
+                <Position>RM</Position>
+                <Pace>78</Pace>
+                <Shooting>49</Shooting>
+                <Passing>64</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>41</Defensive>
+                <Stamina>77</Stamina>
+                <Club>RSC Anderlecht</Club>
+                <DateOfBirth>03-04-1991</DateOfBirth>
+            </Player>
+            <Player id="625">
+                <FirstName>Sacha</FirstName>
+                <LastName>Kljestan</LastName>
+                <Position>CM</Position>
+                <Pace>66</Pace>
+                <Shooting>69</Shooting>
+                <Passing>69</Passing>
+                <Offensive>69</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>84</Stamina>
+                <Club>RSC Anderlecht</Club>
+                <DateOfBirth>09-09-1985</DateOfBirth>
+            </Player>
+            <Player id="739">
+                <FirstName>Olivier</FirstName>
+                <LastName>Deschacht</LastName>
+                <Position>LB</Position>
+                <Pace>65</Pace>
+                <Shooting>40</Shooting>
+                <Passing>58</Passing>
+                <Offensive>49</Offensive>
+                <Defensive>72</Defensive>
+                <Stamina>75</Stamina>
+                <Club>RSC Anderlecht</Club>
+                <DateOfBirth>16-02-1981</DateOfBirth>
+            </Player>
+            <Player id="1177">
+                <FirstName>Fabrice</FirstName>
+                <LastName>N'Sakala</LastName>
+                <Position>LB</Position>
+                <Pace>84</Pace>
+                <Shooting>40</Shooting>
+                <Passing>64</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>68</Defensive>
+                <Stamina>81</Stamina>
+                <Club>RSC Anderlecht</Club>
+                <DateOfBirth>21-07-1990</DateOfBirth>
+            </Player>
+            <Player id="1810">
+                <FirstName>Frank</FirstName>
+                <LastName>Acheampong</LastName>
+                <Position>LW</Position>
+                <Pace>92</Pace>
+                <Shooting>66</Shooting>
+                <Passing>58</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>27</Defensive>
+                <Stamina>63</Stamina>
+                <Club>RSC Anderlecht</Club>
+                <DateOfBirth>16-10-1993</DateOfBirth>
+            </Player>
+            <Player id="2068">
+                <FirstName>Maxime</FirstName>
+                <LastName>Colin</LastName>
+                <Position>RB</Position>
+                <Pace>73</Pace>
+                <Shooting>34</Shooting>
+                <Passing>62</Passing>
+                <Offensive>48</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>82</Stamina>
+                <Club>RSC Anderlecht</Club>
+                <DateOfBirth>15-11-1991</DateOfBirth>
+            </Player>
+            <Player id="3544">
+                <FirstName>Michael</FirstName>
+                <LastName>Heylen</LastName>
+                <Position>CB</Position>
+                <Pace>64</Pace>
+                <Shooting>34</Shooting>
+                <Passing>52</Passing>
+                <Offensive>43</Offensive>
+                <Defensive>65</Defensive>
+                <Stamina>64</Stamina>
+                <Club>RSC Anderlecht</Club>
+                <DateOfBirth>03-01-1994</DateOfBirth>
+            </Player>
+            <Player id="5775">
+                <FirstName>Nathan</FirstName>
+                <LastName>Kabasele</LastName>
+                <Position>ST</Position>
+                <Pace>75</Pace>
+                <Shooting>62</Shooting>
+                <Passing>45</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>36</Stamina>
+                <Club>RSC Anderlecht</Club>
+                <DateOfBirth>14-01-1994</DateOfBirth>
+            </Player>
+            <Player id="6314">
+                <FirstName>Oswal</FirstName>
+                <LastName>Álvarez</LastName>
+                <Position>ST</Position>
+                <Pace>86</Pace>
+                <Shooting>59</Shooting>
+                <Passing>50</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>47</Stamina>
+                <Club>RSC Anderlecht</Club>
+                <DateOfBirth>11-06-1995</DateOfBirth>
+            </Player>
+            <Player id="8769">
+                <FirstName>Aaron</FirstName>
+                <LastName>Leya Iseka</LastName>
+                <Position>ST</Position>
+                <Pace>75</Pace>
+                <Shooting>60</Shooting>
+                <Passing>47</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>27</Defensive>
+                <Stamina>42</Stamina>
+                <Club>RSC Anderlecht</Club>
+                <DateOfBirth>15-11-1996</DateOfBirth>
+            </Player>
+            <Player id="9338">
+                <FirstName>Steven</FirstName>
+                <LastName>Defour</LastName>
+                <Position>CM</Position>
+                <Pace>65</Pace>
+                <Shooting>68</Shooting>
+                <Passing>74</Passing>
+                <Offensive>71</Offensive>
+                <Defensive>71</Defensive>
+                <Stamina>83</Stamina>
+                <Club>RSC Anderlecht</Club>
+                <DateOfBirth>15-04-1988</DateOfBirth>
+            </Player>
+            <Player id="9354">
+                <FirstName>Matías</FirstName>
+                <LastName>Suárez</LastName>
+                <Position>ST</Position>
+                <Pace>79</Pace>
+                <Shooting>76</Shooting>
+                <Passing>73</Passing>
+                <Offensive>74</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>60</Stamina>
+                <Club>RSC Anderlecht</Club>
+                <DateOfBirth>09-05-1988</DateOfBirth>
+            </Player>
+            <Player id="9784">
+                <FirstName>Hervé</FirstName>
+                <LastName>Matthys</LastName>
+                <Position>CB</Position>
+                <Pace>67</Pace>
+                <Shooting>31</Shooting>
+                <Passing>45</Passing>
+                <Offensive>38</Offensive>
+                <Defensive>57</Defensive>
+                <Stamina>54</Stamina>
+                <Club>RSC Anderlecht</Club>
+                <DateOfBirth>19-01-1996</DateOfBirth>
+            </Player>
+            <Player id="11911">
+                <FirstName>Aleksandar</FirstName>
+                <LastName>Mitrović</LastName>
+                <Position>ST</Position>
+                <Pace>70</Pace>
+                <Shooting>76</Shooting>
+                <Passing>51</Passing>
+                <Offensive>63</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>61</Stamina>
+                <Club>RSC Anderlecht</Club>
+                <DateOfBirth>16-09-1994</DateOfBirth>
+            </Player>
+            <Player id="12058">
+                <FirstName>Silvio</FirstName>
+                <LastName>Proto</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>31</Stamina>
+                <Club>RSC Anderlecht</Club>
+                <DateOfBirth>23-05-1983</DateOfBirth>
+            </Player>
+            <Player id="12615">
+                <FirstName>Youri</FirstName>
+                <LastName>Tielemans</LastName>
+                <Position>CM</Position>
+                <Pace>72</Pace>
+                <Shooting>64</Shooting>
+                <Passing>75</Passing>
+                <Offensive>69</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>74</Stamina>
+                <Club>RSC Anderlecht</Club>
+                <DateOfBirth>07-05-1997</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="KRC Genk">
+            <Player id="124">
+                <FirstName>Thomas</FirstName>
+                <LastName>Buffel</LastName>
+                <Position>RM</Position>
+                <Pace>69</Pace>
+                <Shooting>71</Shooting>
+                <Passing>72</Passing>
+                <Offensive>71</Offensive>
+                <Defensive>49</Defensive>
+                <Stamina>75</Stamina>
+                <Club>KRC Genk</Club>
+                <DateOfBirth>19-02-1981</DateOfBirth>
+            </Player>
+            <Player id="281">
+                <FirstName>László</FirstName>
+                <LastName>Köteles</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>26</Stamina>
+                <Club>KRC Genk</Club>
+                <DateOfBirth>01-09-1984</DateOfBirth>
+            </Player>
+            <Player id="355">
+                <FirstName>Marco</FirstName>
+                <LastName>Bizot</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>36</Stamina>
+                <Club>KRC Genk</Club>
+                <DateOfBirth>10-03-1991</DateOfBirth>
+            </Player>
+            <Player id="718">
+                <FirstName>Christian</FirstName>
+                <LastName>Kabasele</LastName>
+                <Position>CB</Position>
+                <Pace>74</Pace>
+                <Shooting>44</Shooting>
+                <Passing>52</Passing>
+                <Offensive>48</Offensive>
+                <Defensive>73</Defensive>
+                <Stamina>64</Stamina>
+                <Club>KRC Genk</Club>
+                <DateOfBirth>24-02-1991</DateOfBirth>
+            </Player>
+            <Player id="965">
+                <FirstName>Hervé</FirstName>
+                <LastName>Kage</LastName>
+                <Position>RM</Position>
+                <Pace>81</Pace>
+                <Shooting>61</Shooting>
+                <Passing>63</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>56</Defensive>
+                <Stamina>68</Stamina>
+                <Club>KRC Genk</Club>
+                <DateOfBirth>10-04-1989</DateOfBirth>
+            </Player>
+            <Player id="990">
+                <FirstName>Khaleem</FirstName>
+                <LastName>Hyland</LastName>
+                <Position>CM</Position>
+                <Pace>66</Pace>
+                <Shooting>60</Shooting>
+                <Passing>64</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>69</Defensive>
+                <Stamina>78</Stamina>
+                <Club>KRC Genk</Club>
+                <DateOfBirth>05-06-1989</DateOfBirth>
+            </Player>
+            <Player id="1340">
+                <FirstName>Bennard</FirstName>
+                <LastName>Kumordzi</LastName>
+                <Position>CM</Position>
+                <Pace>65</Pace>
+                <Shooting>66</Shooting>
+                <Passing>63</Passing>
+                <Offensive>64</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>88</Stamina>
+                <Club>KRC Genk</Club>
+                <DateOfBirth>21-03-1985</DateOfBirth>
+            </Player>
+            <Player id="1409">
+                <FirstName>Tornike</FirstName>
+                <LastName>Okriashvili</LastName>
+                <Position>LM</Position>
+                <Pace>75</Pace>
+                <Shooting>62</Shooting>
+                <Passing>67</Passing>
+                <Offensive>64</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>59</Stamina>
+                <Club>KRC Genk</Club>
+                <DateOfBirth>12-02-1992</DateOfBirth>
+            </Player>
+            <Player id="1912">
+                <FirstName>Sekou</FirstName>
+                <LastName>Cissé</LastName>
+                <Position>LM</Position>
+                <Pace>78</Pace>
+                <Shooting>67</Shooting>
+                <Passing>62</Passing>
+                <Offensive>64</Offensive>
+                <Defensive>36</Defensive>
+                <Stamina>68</Stamina>
+                <Club>KRC Genk</Club>
+                <DateOfBirth>23-05-1985</DateOfBirth>
+            </Player>
+            <Player id="2371">
+                <FirstName>Brian</FirstName>
+                <LastName>Hamalainen</LastName>
+                <Position>LB</Position>
+                <Pace>80</Pace>
+                <Shooting>44</Shooting>
+                <Passing>67</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>71</Stamina>
+                <Club>KRC Genk</Club>
+                <DateOfBirth>29-05-1989</DateOfBirth>
+            </Player>
+            <Player id="4341">
+                <FirstName>Siebe</FirstName>
+                <LastName>Schrijvers</LastName>
+                <Position>ST</Position>
+                <Pace>77</Pace>
+                <Shooting>63</Shooting>
+                <Passing>62</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>26</Defensive>
+                <Stamina>48</Stamina>
+                <Club>KRC Genk</Club>
+                <DateOfBirth>18-07-1996</DateOfBirth>
+            </Player>
+            <Player id="7295">
+                <FirstName>Sandy</FirstName>
+                <LastName>Walsh</LastName>
+                <Position>CB</Position>
+                <Pace>69</Pace>
+                <Shooting>29</Shooting>
+                <Passing>56</Passing>
+                <Offensive>42</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>55</Stamina>
+                <Club>KRC Genk</Club>
+                <DateOfBirth>14-03-1995</DateOfBirth>
+            </Player>
+            <Player id="9848">
+                <FirstName>Lucas</FirstName>
+                <LastName>Walbrecq</LastName>
+                <Position>LM</Position>
+                <Pace>69</Pace>
+                <Shooting>50</Shooting>
+                <Passing>53</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>41</Stamina>
+                <Club>KRC Genk</Club>
+                <DateOfBirth>12-07-1996</DateOfBirth>
+            </Player>
+            <Player id="10041">
+                <FirstName>Sergej</FirstName>
+                <LastName>Milinković-Savić</LastName>
+                <Position>CDM</Position>
+                <Pace>57</Pace>
+                <Shooting>33</Shooting>
+                <Passing>50</Passing>
+                <Offensive>41</Offensive>
+                <Defensive>54</Defensive>
+                <Stamina>60</Stamina>
+                <Club>KRC Genk</Club>
+                <DateOfBirth>27-02-1995</DateOfBirth>
+            </Player>
+            <Player id="11086">
+                <FirstName>Luka</FirstName>
+                <LastName>Zarandia</LastName>
+                <Position>RW</Position>
+                <Pace>74</Pace>
+                <Shooting>52</Shooting>
+                <Passing>41</Passing>
+                <Offensive>46</Offensive>
+                <Defensive>26</Defensive>
+                <Stamina>35</Stamina>
+                <Club>KRC Genk</Club>
+                <DateOfBirth>17-02-1996</DateOfBirth>
+            </Player>
+            <Player id="12571">
+                <FirstName>Ilombe</FirstName>
+                <LastName>Mboyo</LastName>
+                <Position>ST</Position>
+                <Pace>75</Pace>
+                <Shooting>71</Shooting>
+                <Passing>65</Passing>
+                <Offensive>68</Offensive>
+                <Defensive>39</Defensive>
+                <Stamina>77</Stamina>
+                <Club>KRC Genk</Club>
+                <DateOfBirth>27-04-1987</DateOfBirth>
+            </Player>
+            <Player id="12581">
+                <FirstName>Kara</FirstName>
+                <LastName>Mbodji</LastName>
+                <Position>CB</Position>
+                <Pace>74</Pace>
+                <Shooting>57</Shooting>
+                <Passing>59</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>70</Defensive>
+                <Stamina>83</Stamina>
+                <Club>KRC Genk</Club>
+                <DateOfBirth>11-11-1989</DateOfBirth>
+            </Player>
+            <Player id="12677">
+                <FirstName>Julien</FirstName>
+                <LastName>Gorius</LastName>
+                <Position>CM</Position>
+                <Pace>60</Pace>
+                <Shooting>72</Shooting>
+                <Passing>72</Passing>
+                <Offensive>72</Offensive>
+                <Defensive>54</Defensive>
+                <Stamina>80</Stamina>
+                <Club>KRC Genk</Club>
+                <DateOfBirth>17-03-1985</DateOfBirth>
+            </Player>
+            <Player id="12718">
+                <FirstName>Anele</FirstName>
+                <LastName>Ngcongca</LastName>
+                <Position>RB</Position>
+                <Pace>81</Pace>
+                <Shooting>49</Shooting>
+                <Passing>65</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>72</Defensive>
+                <Stamina>82</Stamina>
+                <Club>KRC Genk</Club>
+                <DateOfBirth>21-10-1987</DateOfBirth>
+            </Player>
+            <Player id="12721">
+                <FirstName>Katuku</FirstName>
+                <LastName>Tshimanga</LastName>
+                <Position>LB</Position>
+                <Pace>92</Pace>
+                <Shooting>55</Shooting>
+                <Passing>61</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>69</Defensive>
+                <Stamina>85</Stamina>
+                <Club>KRC Genk</Club>
+                <DateOfBirth>06-11-1988</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Sporting Lokeren OV">
+            <Player id="332">
+                <FirstName>Sergio</FirstName>
+                <LastName>Dutra Júnior</LastName>
+                <Position>ST</Position>
+                <Pace>82</Pace>
+                <Shooting>69</Shooting>
+                <Passing>64</Passing>
+                <Offensive>66</Offensive>
+                <Defensive>45</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Sporting Lokeren OV</Club>
+                <DateOfBirth>25-04-1988</DateOfBirth>
+            </Player>
+            <Player id="401">
+                <FirstName>Killian</FirstName>
+                <LastName>Overmeire</LastName>
+                <Position>CM</Position>
+                <Pace>75</Pace>
+                <Shooting>52</Shooting>
+                <Passing>67</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>68</Defensive>
+                <Stamina>89</Stamina>
+                <Club>Sporting Lokeren OV</Club>
+                <DateOfBirth>06-12-1985</DateOfBirth>
+            </Player>
+            <Player id="522">
+                <FirstName>Alexander</FirstName>
+                <LastName>Scholz</LastName>
+                <Position>CB</Position>
+                <Pace>68</Pace>
+                <Shooting>50</Shooting>
+                <Passing>56</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>73</Defensive>
+                <Stamina>69</Stamina>
+                <Club>Sporting Lokeren OV</Club>
+                <DateOfBirth>24-10-1992</DateOfBirth>
+            </Player>
+            <Player id="626">
+                <FirstName>Mbaye</FirstName>
+                <LastName>Leye</LastName>
+                <Position>ST</Position>
+                <Pace>73</Pace>
+                <Shooting>71</Shooting>
+                <Passing>68</Passing>
+                <Offensive>69</Offensive>
+                <Defensive>39</Defensive>
+                <Stamina>78</Stamina>
+                <Club>Sporting Lokeren OV</Club>
+                <DateOfBirth>01-12-1982</DateOfBirth>
+            </Player>
+            <Player id="811">
+                <FirstName>Georgios</FirstName>
+                <LastName>Galitsios</LastName>
+                <Position>RB</Position>
+                <Pace>76</Pace>
+                <Shooting>34</Shooting>
+                <Passing>68</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>68</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Sporting Lokeren OV</Club>
+                <DateOfBirth>06-07-1986</DateOfBirth>
+            </Player>
+            <Player id="1109">
+                <FirstName>Mijat</FirstName>
+                <LastName>Marić</LastName>
+                <Position>CB</Position>
+                <Pace>51</Pace>
+                <Shooting>54</Shooting>
+                <Passing>59</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>72</Defensive>
+                <Stamina>73</Stamina>
+                <Club>Sporting Lokeren OV</Club>
+                <DateOfBirth>30-04-1984</DateOfBirth>
+            </Player>
+            <Player id="1120">
+                <FirstName>Koen</FirstName>
+                <LastName>Persoons</LastName>
+                <Position>CM</Position>
+                <Pace>70</Pace>
+                <Shooting>61</Shooting>
+                <Passing>65</Passing>
+                <Offensive>63</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>77</Stamina>
+                <Club>Sporting Lokeren OV</Club>
+                <DateOfBirth>12-07-1983</DateOfBirth>
+            </Player>
+            <Player id="1133">
+                <FirstName>Jordan</FirstName>
+                <LastName>Remacle</LastName>
+                <Position>LM</Position>
+                <Pace>74</Pace>
+                <Shooting>65</Shooting>
+                <Passing>69</Passing>
+                <Offensive>67</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>67</Stamina>
+                <Club>Sporting Lokeren OV</Club>
+                <DateOfBirth>14-02-1987</DateOfBirth>
+            </Player>
+            <Player id="1169">
+                <FirstName>Nill</FirstName>
+                <LastName>De Pauw</LastName>
+                <Position>RM</Position>
+                <Pace>75</Pace>
+                <Shooting>66</Shooting>
+                <Passing>65</Passing>
+                <Offensive>65</Offensive>
+                <Defensive>36</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Sporting Lokeren OV</Club>
+                <DateOfBirth>06-01-1990</DateOfBirth>
+            </Player>
+            <Player id="1310">
+                <FirstName>Denis</FirstName>
+                <LastName>Odoi</LastName>
+                <Position>LB</Position>
+                <Pace>84</Pace>
+                <Shooting>47</Shooting>
+                <Passing>63</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>65</Defensive>
+                <Stamina>78</Stamina>
+                <Club>Sporting Lokeren OV</Club>
+                <DateOfBirth>27-05-1988</DateOfBirth>
+            </Player>
+            <Player id="1451">
+                <FirstName>Barry</FirstName>
+                <LastName>Copa</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>23</Stamina>
+                <Club>Sporting Lokeren OV</Club>
+                <DateOfBirth>30-12-1979</DateOfBirth>
+            </Player>
+            <Player id="1847">
+                <FirstName>Davino</FirstName>
+                <LastName>Verhulst</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>37</Stamina>
+                <Club>Sporting Lokeren OV</Club>
+                <DateOfBirth>25-11-1987</DateOfBirth>
+            </Player>
+            <Player id="2004">
+                <FirstName>Grégory</FirstName>
+                <LastName>Mertens</LastName>
+                <Position>CB</Position>
+                <Pace>70</Pace>
+                <Shooting>42</Shooting>
+                <Passing>62</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>70</Defensive>
+                <Stamina>68</Stamina>
+                <Club>Sporting Lokeren OV</Club>
+                <DateOfBirth>02-02-1991</DateOfBirth>
+            </Player>
+            <Player id="4231">
+                <FirstName>Arthur Henrique</FirstName>
+                <LastName>Ricciardi Oyama</LastName>
+                <Position>LB</Position>
+                <Pace>69</Pace>
+                <Shooting>63</Shooting>
+                <Passing>66</Passing>
+                <Offensive>64</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>68</Stamina>
+                <Club>Sporting Lokeren OV</Club>
+                <DateOfBirth>14-01-1987</DateOfBirth>
+            </Player>
+            <Player id="5138">
+                <FirstName>Jore</FirstName>
+                <LastName>Trompet</LastName>
+                <Position>CM</Position>
+                <Pace>69</Pace>
+                <Shooting>55</Shooting>
+                <Passing>61</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>57</Defensive>
+                <Stamina>68</Stamina>
+                <Club>Sporting Lokeren OV</Club>
+                <DateOfBirth>30-07-1992</DateOfBirth>
+            </Player>
+            <Player id="6664">
+                <FirstName>Alexander</FirstName>
+                <LastName>Corryn</LastName>
+                <Position>LB</Position>
+                <Pace>70</Pace>
+                <Shooting>31</Shooting>
+                <Passing>54</Passing>
+                <Offensive>42</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>66</Stamina>
+                <Club>Sporting Lokeren OV</Club>
+                <DateOfBirth>03-01-1994</DateOfBirth>
+            </Player>
+            <Player id="7361">
+                <FirstName>Eugene</FirstName>
+                <LastName>Ansah</LastName>
+                <Position>ST</Position>
+                <Pace>78</Pace>
+                <Shooting>58</Shooting>
+                <Passing>51</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>27</Defensive>
+                <Stamina>61</Stamina>
+                <Club>Sporting Lokeren OV</Club>
+                <DateOfBirth>16-12-1994</DateOfBirth>
+            </Player>
+            <Player id="7456">
+                <FirstName>Jugoslav</FirstName>
+                <LastName>Lazic</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>25</Stamina>
+                <Club>Sporting Lokeren OV</Club>
+                <DateOfBirth>12-12-1979</DateOfBirth>
+            </Player>
+            <Player id="10002">
+                <FirstName>Preben</FirstName>
+                <LastName>De Man</LastName>
+                <Position>LW</Position>
+                <Pace>76</Pace>
+                <Shooting>48</Shooting>
+                <Passing>52</Passing>
+                <Offensive>50</Offensive>
+                <Defensive>27</Defensive>
+                <Stamina>37</Stamina>
+                <Club>Sporting Lokeren OV</Club>
+                <DateOfBirth>27-09-1996</DateOfBirth>
+            </Player>
+            <Player id="12017">
+                <FirstName>Hans</FirstName>
+                <LastName>Vanaken</LastName>
+                <Position>CAM</Position>
+                <Pace>67</Pace>
+                <Shooting>67</Shooting>
+                <Passing>74</Passing>
+                <Offensive>70</Offensive>
+                <Defensive>32</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Sporting Lokeren OV</Club>
+                <DateOfBirth>24-08-1992</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="SV Zulte-Waregem">
+            <Player id="350">
+                <FirstName>Glynor</FirstName>
+                <LastName>Plet</LastName>
+                <Position>ST</Position>
+                <Pace>52</Pace>
+                <Shooting>72</Shooting>
+                <Passing>53</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>66</Stamina>
+                <Club>SV Zulte-Waregem</Club>
+                <DateOfBirth>30-07-1987</DateOfBirth>
+            </Player>
+            <Player id="407">
+                <FirstName>Sammy</FirstName>
+                <LastName>Bossut</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>29</Stamina>
+                <Club>SV Zulte-Waregem</Club>
+                <DateOfBirth>11-08-1985</DateOfBirth>
+            </Player>
+            <Player id="903">
+                <FirstName>Jesper</FirstName>
+                <LastName>Jørgensen</LastName>
+                <Position>CM</Position>
+                <Pace>68</Pace>
+                <Shooting>68</Shooting>
+                <Passing>66</Passing>
+                <Offensive>67</Offensive>
+                <Defensive>57</Defensive>
+                <Stamina>86</Stamina>
+                <Club>SV Zulte-Waregem</Club>
+                <DateOfBirth>09-05-1984</DateOfBirth>
+            </Player>
+            <Player id="947">
+                <FirstName>Steve</FirstName>
+                <LastName>Colpaert</LastName>
+                <Position>CB</Position>
+                <Pace>72</Pace>
+                <Shooting>32</Shooting>
+                <Passing>51</Passing>
+                <Offensive>41</Offensive>
+                <Defensive>71</Defensive>
+                <Stamina>78</Stamina>
+                <Club>SV Zulte-Waregem</Club>
+                <DateOfBirth>13-09-1986</DateOfBirth>
+            </Player>
+            <Player id="1066">
+                <FirstName>Willie</FirstName>
+                <LastName>Overtoom</LastName>
+                <Position>CAM</Position>
+                <Pace>78</Pace>
+                <Shooting>68</Shooting>
+                <Passing>69</Passing>
+                <Offensive>68</Offensive>
+                <Defensive>41</Defensive>
+                <Stamina>42</Stamina>
+                <Club>SV Zulte-Waregem</Club>
+                <DateOfBirth>02-09-1986</DateOfBirth>
+            </Player>
+            <Player id="1987">
+                <FirstName>Idrissa</FirstName>
+                <LastName>Sylla</LastName>
+                <Position>ST</Position>
+                <Pace>77</Pace>
+                <Shooting>68</Shooting>
+                <Passing>57</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>27</Defensive>
+                <Stamina>67</Stamina>
+                <Club>SV Zulte-Waregem</Club>
+                <DateOfBirth>03-12-1990</DateOfBirth>
+            </Player>
+            <Player id="2181">
+                <FirstName>Karel</FirstName>
+                <LastName>D'Haene</LastName>
+                <Position>CB</Position>
+                <Pace>44</Pace>
+                <Shooting>36</Shooting>
+                <Passing>56</Passing>
+                <Offensive>46</Offensive>
+                <Defensive>70</Defensive>
+                <Stamina>77</Stamina>
+                <Club>SV Zulte-Waregem</Club>
+                <DateOfBirth>05-09-1980</DateOfBirth>
+            </Player>
+            <Player id="2855">
+                <FirstName>Mohamed</FirstName>
+                <LastName>Messoudi</LastName>
+                <Position>CAM</Position>
+                <Pace>67</Pace>
+                <Shooting>64</Shooting>
+                <Passing>66</Passing>
+                <Offensive>65</Offensive>
+                <Defensive>46</Defensive>
+                <Stamina>81</Stamina>
+                <Club>SV Zulte-Waregem</Club>
+                <DateOfBirth>07-01-1984</DateOfBirth>
+            </Player>
+            <Player id="2874">
+                <FirstName>Bryan</FirstName>
+                <LastName>Verboom</LastName>
+                <Position>LB</Position>
+                <Pace>81</Pace>
+                <Shooting>53</Shooting>
+                <Passing>59</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>65</Defensive>
+                <Stamina>76</Stamina>
+                <Club>SV Zulte-Waregem</Club>
+                <DateOfBirth>30-01-1992</DateOfBirth>
+            </Player>
+            <Player id="2901">
+                <FirstName>Theo</FirstName>
+                <LastName>Bongonda</LastName>
+                <Position>LM</Position>
+                <Pace>82</Pace>
+                <Shooting>55</Shooting>
+                <Passing>61</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>56</Stamina>
+                <Club>SV Zulte-Waregem</Club>
+                <DateOfBirth>20-11-1995</DateOfBirth>
+            </Player>
+            <Player id="3242">
+                <FirstName>Ólafur</FirstName>
+                <LastName>Skúlason</LastName>
+                <Position>CDM</Position>
+                <Pace>61</Pace>
+                <Shooting>56</Shooting>
+                <Passing>62</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>85</Stamina>
+                <Club>SV Zulte-Waregem</Club>
+                <DateOfBirth>01-04-1983</DateOfBirth>
+            </Player>
+            <Player id="3648">
+                <FirstName>Mamoutou</FirstName>
+                <LastName>N'Diaye</LastName>
+                <Position>CDM</Position>
+                <Pace>71</Pace>
+                <Shooting>49</Shooting>
+                <Passing>60</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>65</Defensive>
+                <Stamina>70</Stamina>
+                <Club>SV Zulte-Waregem</Club>
+                <DateOfBirth>15-03-1990</DateOfBirth>
+            </Player>
+            <Player id="3939">
+                <FirstName>Sébastien</FirstName>
+                <LastName>Bruzzese</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>26</Stamina>
+                <Club>SV Zulte-Waregem</Club>
+                <DateOfBirth>01-03-1989</DateOfBirth>
+            </Player>
+            <Player id="5500">
+                <FirstName>Aleksandar</FirstName>
+                <LastName>Trajkovski</LastName>
+                <Position>CAM</Position>
+                <Pace>73</Pace>
+                <Shooting>63</Shooting>
+                <Passing>62</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>51</Stamina>
+                <Club>SV Zulte-Waregem</Club>
+                <DateOfBirth>05-09-1992</DateOfBirth>
+            </Player>
+            <Player id="5796">
+                <FirstName>Tiago Emanuel</FirstName>
+                <LastName>C. A. Ferreira</LastName>
+                <Position>CB</Position>
+                <Pace>60</Pace>
+                <Shooting>34</Shooting>
+                <Passing>47</Passing>
+                <Offensive>40</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>59</Stamina>
+                <Club>SV Zulte-Waregem</Club>
+                <DateOfBirth>10-07-1993</DateOfBirth>
+            </Player>
+            <Player id="5852">
+                <FirstName>Yarouba</FirstName>
+                <LastName>Cissako</LastName>
+                <Position>RB</Position>
+                <Pace>83</Pace>
+                <Shooting>32</Shooting>
+                <Passing>57</Passing>
+                <Offensive>44</Offensive>
+                <Defensive>61</Defensive>
+                <Stamina>68</Stamina>
+                <Club>SV Zulte-Waregem</Club>
+                <DateOfBirth>08-01-1995</DateOfBirth>
+            </Player>
+            <Player id="6640">
+                <FirstName>Chuks</FirstName>
+                <LastName>Aneke</LastName>
+                <Position>CAM</Position>
+                <Pace>35</Pace>
+                <Shooting>62</Shooting>
+                <Passing>63</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>47</Defensive>
+                <Stamina>66</Stamina>
+                <Club>SV Zulte-Waregem</Club>
+                <DateOfBirth>03-07-1993</DateOfBirth>
+            </Player>
+            <Player id="7644">
+                <FirstName>Djibril</FirstName>
+                <LastName>Paye</LastName>
+                <Position>LB</Position>
+                <Pace>74</Pace>
+                <Shooting>42</Shooting>
+                <Passing>52</Passing>
+                <Offensive>47</Offensive>
+                <Defensive>59</Defensive>
+                <Stamina>65</Stamina>
+                <Club>SV Zulte-Waregem</Club>
+                <DateOfBirth>26-02-1990</DateOfBirth>
+            </Player>
+            <Player id="7885">
+                <FirstName>Formose</FirstName>
+                <LastName>Mendy</LastName>
+                <Position>CB</Position>
+                <Pace>70</Pace>
+                <Shooting>30</Shooting>
+                <Passing>38</Passing>
+                <Offensive>34</Offensive>
+                <Defensive>61</Defensive>
+                <Stamina>56</Stamina>
+                <Club>SV Zulte-Waregem</Club>
+                <DateOfBirth>08-10-1993</DateOfBirth>
+            </Player>
+            <Player id="8208">
+                <FirstName>Charni</FirstName>
+                <LastName>Ekangamene</LastName>
+                <Position>CM</Position>
+                <Pace>71</Pace>
+                <Shooting>45</Shooting>
+                <Passing>59</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>56</Defensive>
+                <Stamina>65</Stamina>
+                <Club>SV Zulte-Waregem</Club>
+                <DateOfBirth>16-02-1994</DateOfBirth>
+            </Player>
+            <Player id="9899">
+                <FirstName>Jonathan</FirstName>
+                <LastName>Benteke</LastName>
+                <Position>ST</Position>
+                <Pace>70</Pace>
+                <Shooting>57</Shooting>
+                <Passing>45</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>50</Stamina>
+                <Club>SV Zulte-Waregem</Club>
+                <DateOfBirth>28-04-1995</DateOfBirth>
+            </Player>
+            <Player id="10191">
+                <FirstName>Kylian</FirstName>
+                <LastName>Hazard</LastName>
+                <Position>CAM</Position>
+                <Pace>68</Pace>
+                <Shooting>49</Shooting>
+                <Passing>54</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>40</Stamina>
+                <Club>SV Zulte-Waregem</Club>
+                <DateOfBirth>05-08-1995</DateOfBirth>
+            </Player>
+            <Player id="10218">
+                <FirstName>Louis</FirstName>
+                <LastName>Bostyn</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>30</Stamina>
+                <Club>SV Zulte-Waregem</Club>
+                <DateOfBirth>04-10-1993</DateOfBirth>
+            </Player>
+            <Player id="11045">
+                <FirstName>Sefa</FirstName>
+                <LastName>Isci</LastName>
+                <Position>RB</Position>
+                <Pace>62</Pace>
+                <Shooting>34</Shooting>
+                <Passing>49</Passing>
+                <Offensive>41</Offensive>
+                <Defensive>54</Defensive>
+                <Stamina>51</Stamina>
+                <Club>SV Zulte-Waregem</Club>
+                <DateOfBirth>26-03-1996</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Standard de Liège">
+            <Player id="587">
+                <FirstName>Ronnie</FirstName>
+                <LastName>Stam</LastName>
+                <Position>RB</Position>
+                <Pace>68</Pace>
+                <Shooting>62</Shooting>
+                <Passing>70</Passing>
+                <Offensive>66</Offensive>
+                <Defensive>70</Defensive>
+                <Stamina>80</Stamina>
+                <Club>Standard de Liège</Club>
+                <DateOfBirth>18-06-1984</DateOfBirth>
+            </Player>
+            <Player id="693">
+                <FirstName>Jeff</FirstName>
+                <LastName>Louis</LastName>
+                <Position>CAM</Position>
+                <Pace>91</Pace>
+                <Shooting>67</Shooting>
+                <Passing>69</Passing>
+                <Offensive>68</Offensive>
+                <Defensive>57</Defensive>
+                <Stamina>81</Stamina>
+                <Club>Standard de Liège</Club>
+                <DateOfBirth>08-08-1992</DateOfBirth>
+            </Player>
+            <Player id="1219">
+                <FirstName>Dino</FirstName>
+                <LastName>Arslanagic</LastName>
+                <Position>CB</Position>
+                <Pace>68</Pace>
+                <Shooting>32</Shooting>
+                <Passing>47</Passing>
+                <Offensive>39</Offensive>
+                <Defensive>69</Defensive>
+                <Stamina>68</Stamina>
+                <Club>Standard de Liège</Club>
+                <DateOfBirth>24-04-1993</DateOfBirth>
+            </Player>
+            <Player id="1744">
+                <FirstName>Adrien</FirstName>
+                <LastName>Trebel</LastName>
+                <Position>CM</Position>
+                <Pace>78</Pace>
+                <Shooting>56</Shooting>
+                <Passing>69</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>47</Defensive>
+                <Stamina>73</Stamina>
+                <Club>Standard de Liège</Club>
+                <DateOfBirth>03-03-1991</DateOfBirth>
+            </Player>
+            <Player id="2386">
+                <FirstName>Ricardo</FirstName>
+                <LastName>Faty</LastName>
+                <Position>CDM</Position>
+                <Pace>57</Pace>
+                <Shooting>48</Shooting>
+                <Passing>60</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>70</Defensive>
+                <Stamina>77</Stamina>
+                <Club>Standard de Liège</Club>
+                <DateOfBirth>04-08-1986</DateOfBirth>
+            </Player>
+            <Player id="2459">
+                <FirstName>Astrit</FirstName>
+                <LastName>Ajdarević</LastName>
+                <Position>CAM</Position>
+                <Pace>70</Pace>
+                <Shooting>63</Shooting>
+                <Passing>71</Passing>
+                <Offensive>67</Offensive>
+                <Defensive>51</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Standard de Liège</Club>
+                <DateOfBirth>17-04-1990</DateOfBirth>
+            </Player>
+            <Player id="2507">
+                <FirstName>Tony</FirstName>
+                <LastName>Watt</LastName>
+                <Position>ST</Position>
+                <Pace>82</Pace>
+                <Shooting>69</Shooting>
+                <Passing>44</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>61</Stamina>
+                <Club>Standard de Liège</Club>
+                <DateOfBirth>29-12-1993</DateOfBirth>
+            </Player>
+            <Player id="2885">
+                <FirstName>Yuji</FirstName>
+                <LastName>Ono</LastName>
+                <Position>LM</Position>
+                <Pace>80</Pace>
+                <Shooting>59</Shooting>
+                <Passing>63</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>27</Defensive>
+                <Stamina>62</Stamina>
+                <Club>Standard de Liège</Club>
+                <DateOfBirth>22-12-1992</DateOfBirth>
+            </Player>
+            <Player id="3321">
+                <FirstName>Darwin</FirstName>
+                <LastName>Andrade</LastName>
+                <Position>LB</Position>
+                <Pace>82</Pace>
+                <Shooting>40</Shooting>
+                <Passing>47</Passing>
+                <Offensive>43</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>91</Stamina>
+                <Club>Standard de Liège</Club>
+                <DateOfBirth>11-02-1991</DateOfBirth>
+            </Player>
+            <Player id="4826">
+                <FirstName>Jorge Filipe</FirstName>
+                <LastName>Avelino Teixeira</LastName>
+                <Position>CB</Position>
+                <Pace>67</Pace>
+                <Shooting>38</Shooting>
+                <Passing>62</Passing>
+                <Offensive>50</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>77</Stamina>
+                <Club>Standard de Liège</Club>
+                <DateOfBirth>27-08-1986</DateOfBirth>
+            </Player>
+            <Player id="4900">
+                <FirstName>Martin</FirstName>
+                <LastName>Milec</LastName>
+                <Position>RB</Position>
+                <Pace>76</Pace>
+                <Shooting>52</Shooting>
+                <Passing>61</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>66</Stamina>
+                <Club>Standard de Liège</Club>
+                <DateOfBirth>20-09-1991</DateOfBirth>
+            </Player>
+            <Player id="7138">
+                <FirstName>Tortol</FirstName>
+                <LastName>Lumanza</LastName>
+                <Position>CDM</Position>
+                <Pace>62</Pace>
+                <Shooting>46</Shooting>
+                <Passing>59</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>62</Stamina>
+                <Club>Standard de Liège</Club>
+                <DateOfBirth>13-04-1994</DateOfBirth>
+            </Player>
+            <Player id="7622">
+                <FirstName>François</FirstName>
+                <LastName>Marquet</LastName>
+                <Position>CDM</Position>
+                <Pace>67</Pace>
+                <Shooting>45</Shooting>
+                <Passing>56</Passing>
+                <Offensive>50</Offensive>
+                <Defensive>57</Defensive>
+                <Stamina>65</Stamina>
+                <Club>Standard de Liège</Club>
+                <DateOfBirth>17-04-1995</DateOfBirth>
+            </Player>
+            <Player id="10689">
+                <FirstName>Jonathan</FirstName>
+                <LastName>Viera Ramos</LastName>
+                <Position>CAM</Position>
+                <Pace>77</Pace>
+                <Shooting>65</Shooting>
+                <Passing>74</Passing>
+                <Offensive>69</Offensive>
+                <Defensive>25</Defensive>
+                <Stamina>64</Stamina>
+                <Club>Standard de Liège</Club>
+                <DateOfBirth>01-10-1989</DateOfBirth>
+            </Player>
+            <Player id="11984">
+                <FirstName>Eiji</FirstName>
+                <LastName>Kawashima</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>30</Stamina>
+                <Club>Standard de Liège</Club>
+                <DateOfBirth>20-03-1983</DateOfBirth>
+            </Player>
+            <Player id="12217">
+                <FirstName>Igor</FirstName>
+                <LastName>de Camargo</LastName>
+                <Position>ST</Position>
+                <Pace>66</Pace>
+                <Shooting>70</Shooting>
+                <Passing>68</Passing>
+                <Offensive>69</Offensive>
+                <Defensive>50</Defensive>
+                <Stamina>75</Stamina>
+                <Club>Standard de Liège</Club>
+                <DateOfBirth>12-05-1983</DateOfBirth>
+            </Player>
+            <Player id="12220">
+                <FirstName>Jelle</FirstName>
+                <LastName>Van Damme</LastName>
+                <Position>LB</Position>
+                <Pace>71</Pace>
+                <Shooting>69</Shooting>
+                <Passing>71</Passing>
+                <Offensive>70</Offensive>
+                <Defensive>67</Defensive>
+                <Stamina>94</Stamina>
+                <Club>Standard de Liège</Club>
+                <DateOfBirth>10-10-1983</DateOfBirth>
+            </Player>
+            <Player id="12282">
+                <FirstName>Yohann</FirstName>
+                <LastName>Thuram</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>34</Stamina>
+                <Club>Standard de Liège</Club>
+                <DateOfBirth>31-10-1988</DateOfBirth>
+            </Player>
+            <Player id="12288">
+                <FirstName>Paul-José</FirstName>
+                <LastName>Mpoku</LastName>
+                <Position>LM</Position>
+                <Pace>75</Pace>
+                <Shooting>77</Shooting>
+                <Passing>72</Passing>
+                <Offensive>74</Offensive>
+                <Defensive>48</Defensive>
+                <Stamina>76</Stamina>
+                <Club>Standard de Liège</Club>
+                <DateOfBirth>19-04-1992</DateOfBirth>
+            </Player>
+            <Player id="12444">
+                <FirstName>Laurent</FirstName>
+                <LastName>Ciman</LastName>
+                <Position>CB</Position>
+                <Pace>72</Pace>
+                <Shooting>48</Shooting>
+                <Passing>61</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>75</Defensive>
+                <Stamina>77</Stamina>
+                <Club>Standard de Liège</Club>
+                <DateOfBirth>05-08-1985</DateOfBirth>
+            </Player>
+            <Player id="12466">
+                <FirstName>Mehdi</FirstName>
+                <LastName>Carcela-Gonzalez</LastName>
+                <Position>RM</Position>
+                <Pace>78</Pace>
+                <Shooting>69</Shooting>
+                <Passing>70</Passing>
+                <Offensive>69</Offensive>
+                <Defensive>26</Defensive>
+                <Stamina>64</Stamina>
+                <Club>Standard de Liège</Club>
+                <DateOfBirth>01-07-1989</DateOfBirth>
+            </Player>
+            <Player id="12879">
+                <FirstName>Geoffrey</FirstName>
+                <LastName>Mujangi Bia</LastName>
+                <Position>LM</Position>
+                <Pace>84</Pace>
+                <Shooting>75</Shooting>
+                <Passing>71</Passing>
+                <Offensive>73</Offensive>
+                <Defensive>26</Defensive>
+                <Stamina>48</Stamina>
+                <Club>Standard de Liège</Club>
+                <DateOfBirth>12-08-1989</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="KV Mechelen">
+            <Player id="716">
+                <FirstName>Seth</FirstName>
+                <LastName>De Witte</LastName>
+                <Position>CB</Position>
+                <Pace>74</Pace>
+                <Shooting>62</Shooting>
+                <Passing>65</Passing>
+                <Offensive>63</Offensive>
+                <Defensive>68</Defensive>
+                <Stamina>83</Stamina>
+                <Club>KV Mechelen</Club>
+                <DateOfBirth>18-10-1987</DateOfBirth>
+            </Player>
+            <Player id="1825">
+                <FirstName>Jens</FirstName>
+                <LastName>Naessens</LastName>
+                <Position>LM</Position>
+                <Pace>75</Pace>
+                <Shooting>66</Shooting>
+                <Passing>63</Passing>
+                <Offensive>64</Offensive>
+                <Defensive>37</Defensive>
+                <Stamina>82</Stamina>
+                <Club>KV Mechelen</Club>
+                <DateOfBirth>01-04-1991</DateOfBirth>
+            </Player>
+            <Player id="2177">
+                <FirstName>Alessandro</FirstName>
+                <LastName>Cordaro</LastName>
+                <Position>RM</Position>
+                <Pace>75</Pace>
+                <Shooting>63</Shooting>
+                <Passing>62</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>35</Defensive>
+                <Stamina>81</Stamina>
+                <Club>KV Mechelen</Club>
+                <DateOfBirth>02-05-1986</DateOfBirth>
+            </Player>
+            <Player id="2354">
+                <FirstName>Tim</FirstName>
+                <LastName>Matthys</LastName>
+                <Position>RM</Position>
+                <Pace>68</Pace>
+                <Shooting>67</Shooting>
+                <Passing>69</Passing>
+                <Offensive>68</Offensive>
+                <Defensive>38</Defensive>
+                <Stamina>75</Stamina>
+                <Club>KV Mechelen</Club>
+                <DateOfBirth>23-12-1983</DateOfBirth>
+            </Player>
+            <Player id="2452">
+                <FirstName>Ivan</FirstName>
+                <LastName>Obradović</LastName>
+                <Position>LB</Position>
+                <Pace>78</Pace>
+                <Shooting>53</Shooting>
+                <Passing>69</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>75</Stamina>
+                <Club>KV Mechelen</Club>
+                <DateOfBirth>25-07-1988</DateOfBirth>
+            </Player>
+            <Player id="2763">
+                <FirstName>Wouter</FirstName>
+                <LastName>Biebauw</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>28</Stamina>
+                <Club>KV Mechelen</Club>
+                <DateOfBirth>21-05-1984</DateOfBirth>
+            </Player>
+            <Player id="2952">
+                <FirstName>Steven</FirstName>
+                <LastName>De Petter</LastName>
+                <Position>CDM</Position>
+                <Pace>63</Pace>
+                <Shooting>59</Shooting>
+                <Passing>61</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>68</Defensive>
+                <Stamina>73</Stamina>
+                <Club>KV Mechelen</Club>
+                <DateOfBirth>22-11-1985</DateOfBirth>
+            </Player>
+            <Player id="3259">
+                <FirstName>Maxime</FirstName>
+                <LastName>Biset</LastName>
+                <Position>CB</Position>
+                <Pace>45</Pace>
+                <Shooting>48</Shooting>
+                <Passing>52</Passing>
+                <Offensive>50</Offensive>
+                <Defensive>69</Defensive>
+                <Stamina>75</Stamina>
+                <Club>KV Mechelen</Club>
+                <DateOfBirth>26-03-1986</DateOfBirth>
+            </Player>
+            <Player id="3609">
+                <FirstName>Tomislav</FirstName>
+                <LastName>Pačovski</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>25</Stamina>
+                <Club>KV Mechelen</Club>
+                <DateOfBirth>28-06-1982</DateOfBirth>
+            </Player>
+            <Player id="3630">
+                <FirstName>Jerry</FirstName>
+                <LastName>Vandam</LastName>
+                <Position>RB</Position>
+                <Pace>66</Pace>
+                <Shooting>41</Shooting>
+                <Passing>58</Passing>
+                <Offensive>49</Offensive>
+                <Defensive>65</Defensive>
+                <Stamina>74</Stamina>
+                <Club>KV Mechelen</Club>
+                <DateOfBirth>08-12-1988</DateOfBirth>
+            </Player>
+            <Player id="4185">
+                <FirstName>Antonio</FirstName>
+                <LastName>Ghomsi</LastName>
+                <Position>LB</Position>
+                <Pace>77</Pace>
+                <Shooting>42</Shooting>
+                <Passing>59</Passing>
+                <Offensive>50</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>74</Stamina>
+                <Club>KV Mechelen</Club>
+                <DateOfBirth>22-04-1986</DateOfBirth>
+            </Player>
+            <Player id="4501">
+                <FirstName>Mats</FirstName>
+                <LastName>Rits</LastName>
+                <Position>CAM</Position>
+                <Pace>58</Pace>
+                <Shooting>57</Shooting>
+                <Passing>68</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>34</Defensive>
+                <Stamina>63</Stamina>
+                <Club>KV Mechelen</Club>
+                <DateOfBirth>18-07-1993</DateOfBirth>
+            </Player>
+            <Player id="4859">
+                <FirstName>Glenn</FirstName>
+                <LastName>Claes</LastName>
+                <Position>LM</Position>
+                <Pace>67</Pace>
+                <Shooting>51</Shooting>
+                <Passing>65</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>48</Defensive>
+                <Stamina>49</Stamina>
+                <Club>KV Mechelen</Club>
+                <DateOfBirth>08-03-1994</DateOfBirth>
+            </Player>
+            <Player id="6209">
+                <FirstName>Laurens</FirstName>
+                <LastName>Paulussen</LastName>
+                <Position>RB</Position>
+                <Pace>73</Pace>
+                <Shooting>54</Shooting>
+                <Passing>59</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>59</Defensive>
+                <Stamina>78</Stamina>
+                <Club>KV Mechelen</Club>
+                <DateOfBirth>19-07-1990</DateOfBirth>
+            </Player>
+            <Player id="6630">
+                <FirstName>Joachim</FirstName>
+                <LastName>Van Damme</LastName>
+                <Position>CDM</Position>
+                <Pace>42</Pace>
+                <Shooting>54</Shooting>
+                <Passing>58</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>59</Defensive>
+                <Stamina>67</Stamina>
+                <Club>KV Mechelen</Club>
+                <DateOfBirth>23-07-1991</DateOfBirth>
+            </Player>
+            <Player id="6631">
+                <FirstName>Miloš</FirstName>
+                <LastName>Kosanović</LastName>
+                <Position>CB</Position>
+                <Pace>48</Pace>
+                <Shooting>39</Shooting>
+                <Passing>57</Passing>
+                <Offensive>48</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>48</Stamina>
+                <Club>KV Mechelen</Club>
+                <DateOfBirth>28-05-1990</DateOfBirth>
+            </Player>
+            <Player id="7096">
+                <FirstName>Jason</FirstName>
+                <LastName>Adesanya</LastName>
+                <Position>ST</Position>
+                <Pace>67</Pace>
+                <Shooting>61</Shooting>
+                <Passing>52</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>58</Stamina>
+                <Club>KV Mechelen</Club>
+                <DateOfBirth>26-05-1993</DateOfBirth>
+            </Player>
+            <Player id="8318">
+                <FirstName>Mauro</FirstName>
+                <LastName>Minnaard</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>21</Stamina>
+                <Club>KV Mechelen</Club>
+                <DateOfBirth>05-05-1995</DateOfBirth>
+            </Player>
+            <Player id="9331">
+                <FirstName>Lionel</FirstName>
+                <LastName>Nshole Makondi</LastName>
+                <Position>ST</Position>
+                <Pace>68</Pace>
+                <Shooting>57</Shooting>
+                <Passing>44</Passing>
+                <Offensive>50</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>62</Stamina>
+                <Club>KV Mechelen</Club>
+                <DateOfBirth>25-02-1995</DateOfBirth>
+            </Player>
+            <Player id="9464">
+                <FirstName>Jordi</FirstName>
+                <LastName>Vanlerberghe</LastName>
+                <Position>RM</Position>
+                <Pace>74</Pace>
+                <Shooting>54</Shooting>
+                <Passing>57</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>38</Defensive>
+                <Stamina>44</Stamina>
+                <Club>KV Mechelen</Club>
+                <DateOfBirth>27-06-1996</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="KAA Gent">
+            <Player id="966">
+                <FirstName>Sven</FirstName>
+                <LastName>Kums</LastName>
+                <Position>CDM</Position>
+                <Pace>70</Pace>
+                <Shooting>63</Shooting>
+                <Passing>70</Passing>
+                <Offensive>66</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>77</Stamina>
+                <Club>KAA Gent</Club>
+                <DateOfBirth>26-02-1988</DateOfBirth>
+            </Player>
+            <Player id="1165">
+                <FirstName>David</FirstName>
+                <LastName>Pollet</LastName>
+                <Position>ST</Position>
+                <Pace>70</Pace>
+                <Shooting>72</Shooting>
+                <Passing>48</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>71</Stamina>
+                <Club>KAA Gent</Club>
+                <DateOfBirth>12-08-1988</DateOfBirth>
+            </Player>
+            <Player id="1335">
+                <FirstName>Rami</FirstName>
+                <LastName>Gershon</LastName>
+                <Position>CB</Position>
+                <Pace>67</Pace>
+                <Shooting>36</Shooting>
+                <Passing>59</Passing>
+                <Offensive>47</Offensive>
+                <Defensive>69</Defensive>
+                <Stamina>70</Stamina>
+                <Club>KAA Gent</Club>
+                <DateOfBirth>12-08-1988</DateOfBirth>
+            </Player>
+            <Player id="1481">
+                <FirstName>Danijel</FirstName>
+                <LastName>Milicevic</LastName>
+                <Position>RM</Position>
+                <Pace>70</Pace>
+                <Shooting>64</Shooting>
+                <Passing>71</Passing>
+                <Offensive>67</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>67</Stamina>
+                <Club>KAA Gent</Club>
+                <DateOfBirth>05-01-1986</DateOfBirth>
+            </Player>
+            <Player id="1534">
+                <FirstName>Matz</FirstName>
+                <LastName>Sels</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>30</Stamina>
+                <Club>KAA Gent</Club>
+                <DateOfBirth>26-02-1992</DateOfBirth>
+            </Player>
+            <Player id="1733">
+                <FirstName>Renato</FirstName>
+                <LastName>Neto Cardoso Porto</LastName>
+                <Position>CM</Position>
+                <Pace>62</Pace>
+                <Shooting>63</Shooting>
+                <Passing>67</Passing>
+                <Offensive>65</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>73</Stamina>
+                <Club>KAA Gent</Club>
+                <DateOfBirth>27-09-1991</DateOfBirth>
+            </Player>
+            <Player id="1837">
+                <FirstName>Mustapha</FirstName>
+                <LastName>Oussalah</LastName>
+                <Position>LM</Position>
+                <Pace>68</Pace>
+                <Shooting>62</Shooting>
+                <Passing>67</Passing>
+                <Offensive>64</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>78</Stamina>
+                <Club>KAA Gent</Club>
+                <DateOfBirth>19-02-1982</DateOfBirth>
+            </Player>
+            <Player id="2350">
+                <FirstName>Nana</FirstName>
+                <LastName>Asare</LastName>
+                <Position>LB</Position>
+                <Pace>76</Pace>
+                <Shooting>64</Shooting>
+                <Passing>68</Passing>
+                <Offensive>66</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>87</Stamina>
+                <Club>KAA Gent</Club>
+                <DateOfBirth>11-07-1986</DateOfBirth>
+            </Player>
+            <Player id="2485">
+                <FirstName>Yaya</FirstName>
+                <LastName>Soumahoro</LastName>
+                <Position>LW</Position>
+                <Pace>87</Pace>
+                <Shooting>61</Shooting>
+                <Passing>59</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>52</Stamina>
+                <Club>KAA Gent</Club>
+                <DateOfBirth>28-09-1989</DateOfBirth>
+            </Player>
+            <Player id="2580">
+                <FirstName>Brecht</FirstName>
+                <LastName>Dejaegere</LastName>
+                <Position>CM</Position>
+                <Pace>72</Pace>
+                <Shooting>59</Shooting>
+                <Passing>66</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>76</Stamina>
+                <Club>KAA Gent</Club>
+                <DateOfBirth>29-05-1991</DateOfBirth>
+            </Player>
+            <Player id="2631">
+                <FirstName>Laurent</FirstName>
+                <LastName>Depoitre</LastName>
+                <Position>ST</Position>
+                <Pace>67</Pace>
+                <Shooting>66</Shooting>
+                <Passing>50</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>75</Stamina>
+                <Club>KAA Gent</Club>
+                <DateOfBirth>07-12-1988</DateOfBirth>
+            </Player>
+            <Player id="2652">
+                <FirstName>Ante</FirstName>
+                <LastName>Puljić</LastName>
+                <Position>CB</Position>
+                <Pace>71</Pace>
+                <Shooting>41</Shooting>
+                <Passing>47</Passing>
+                <Offensive>44</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>66</Stamina>
+                <Club>KAA Gent</Club>
+                <DateOfBirth>05-11-1987</DateOfBirth>
+            </Player>
+            <Player id="3203">
+                <FirstName>Christophe</FirstName>
+                <LastName>Lepoint</LastName>
+                <Position>CM</Position>
+                <Pace>63</Pace>
+                <Shooting>65</Shooting>
+                <Passing>62</Passing>
+                <Offensive>63</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>86</Stamina>
+                <Club>KAA Gent</Club>
+                <DateOfBirth>24-10-1984</DateOfBirth>
+            </Player>
+            <Player id="3557">
+                <FirstName>Rafael</FirstName>
+                <LastName>Scapini de Almeida</LastName>
+                <Position>RB</Position>
+                <Pace>72</Pace>
+                <Shooting>59</Shooting>
+                <Passing>64</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>72</Stamina>
+                <Club>KAA Gent</Club>
+                <DateOfBirth>29-06-1982</DateOfBirth>
+            </Player>
+            <Player id="3840">
+                <FirstName>Uroš</FirstName>
+                <LastName>Vitas</LastName>
+                <Position>CB</Position>
+                <Pace>59</Pace>
+                <Shooting>31</Shooting>
+                <Passing>49</Passing>
+                <Offensive>40</Offensive>
+                <Defensive>65</Defensive>
+                <Stamina>57</Stamina>
+                <Club>KAA Gent</Club>
+                <DateOfBirth>06-07-1992</DateOfBirth>
+            </Player>
+            <Player id="4008">
+                <FirstName>Benito</FirstName>
+                <LastName>Raman</LastName>
+                <Position>ST</Position>
+                <Pace>92</Pace>
+                <Shooting>64</Shooting>
+                <Passing>54</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>57</Stamina>
+                <Club>KAA Gent</Club>
+                <DateOfBirth>07-11-1994</DateOfBirth>
+            </Player>
+            <Player id="4566">
+                <FirstName>Hannes</FirstName>
+                <LastName>Van Der Bruggen</LastName>
+                <Position>CDM</Position>
+                <Pace>57</Pace>
+                <Shooting>58</Shooting>
+                <Passing>67</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>73</Stamina>
+                <Club>KAA Gent</Club>
+                <DateOfBirth>01-04-1993</DateOfBirth>
+            </Player>
+            <Player id="5996">
+                <FirstName>Sébastien</FirstName>
+                <LastName>Locigno</LastName>
+                <Position>RB</Position>
+                <Pace>77</Pace>
+                <Shooting>40</Shooting>
+                <Passing>57</Passing>
+                <Offensive>48</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>77</Stamina>
+                <Club>KAA Gent</Club>
+                <DateOfBirth>02-09-1995</DateOfBirth>
+            </Player>
+            <Player id="6530">
+                <FirstName>Karim</FirstName>
+                <LastName>Belhocine</LastName>
+                <Position>CB</Position>
+                <Pace>49</Pace>
+                <Shooting>44</Shooting>
+                <Passing>58</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>60</Stamina>
+                <Club>KAA Gent</Club>
+                <DateOfBirth>02-04-1978</DateOfBirth>
+            </Player>
+            <Player id="7645">
+                <FirstName>Enis</FirstName>
+                <LastName>Gavazaj</LastName>
+                <Position>LM</Position>
+                <Pace>73</Pace>
+                <Shooting>53</Shooting>
+                <Passing>57</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>27</Defensive>
+                <Stamina>65</Stamina>
+                <Club>KAA Gent</Club>
+                <DateOfBirth>21-03-1995</DateOfBirth>
+            </Player>
+            <Player id="7863">
+                <FirstName>Nermin</FirstName>
+                <LastName>Zolotić</LastName>
+                <Position>CDM</Position>
+                <Pace>47</Pace>
+                <Shooting>44</Shooting>
+                <Passing>57</Passing>
+                <Offensive>50</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>65</Stamina>
+                <Club>KAA Gent</Club>
+                <DateOfBirth>07-07-1993</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Royal Mouscron Péruwelz">
+            <Player id="1523">
+                <FirstName>Pierrick</FirstName>
+                <LastName>Cros</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>25</Stamina>
+                <Club>Royal Mouscron Péruwelz</Club>
+                <DateOfBirth>23-06-1991</DateOfBirth>
+            </Player>
+            <Player id="4110">
+                <FirstName>Pieterjan</FirstName>
+                <LastName>Monteyne</LastName>
+                <Position>LB</Position>
+                <Pace>65</Pace>
+                <Shooting>57</Shooting>
+                <Passing>64</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>76</Stamina>
+                <Club>Royal Mouscron Péruwelz</Club>
+                <DateOfBirth>01-01-1983</DateOfBirth>
+            </Player>
+            <Player id="4256">
+                <FirstName>Teddy</FirstName>
+                <LastName>Mézague</LastName>
+                <Position>CB</Position>
+                <Pace>64</Pace>
+                <Shooting>32</Shooting>
+                <Passing>41</Passing>
+                <Offensive>36</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>56</Stamina>
+                <Club>Royal Mouscron Péruwelz</Club>
+                <DateOfBirth>27-05-1990</DateOfBirth>
+            </Player>
+            <Player id="4574">
+                <FirstName>Abdoulay</FirstName>
+                <LastName>Diaby</LastName>
+                <Position>ST</Position>
+                <Pace>79</Pace>
+                <Shooting>62</Shooting>
+                <Passing>64</Passing>
+                <Offensive>63</Offensive>
+                <Defensive>45</Defensive>
+                <Stamina>85</Stamina>
+                <Club>Royal Mouscron Péruwelz</Club>
+                <DateOfBirth>21-05-1991</DateOfBirth>
+            </Player>
+            <Player id="5660">
+                <FirstName>Kévin</FirstName>
+                <LastName>Vandendriessche</LastName>
+                <Position>CM</Position>
+                <Pace>60</Pace>
+                <Shooting>66</Shooting>
+                <Passing>62</Passing>
+                <Offensive>64</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>92</Stamina>
+                <Club>Royal Mouscron Péruwelz</Club>
+                <DateOfBirth>07-08-1989</DateOfBirth>
+            </Player>
+            <Player id="5986">
+                <FirstName>Tristan</FirstName>
+                <LastName>Dingomé</LastName>
+                <Position>CM</Position>
+                <Pace>78</Pace>
+                <Shooting>57</Shooting>
+                <Passing>61</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>59</Defensive>
+                <Stamina>81</Stamina>
+                <Club>Royal Mouscron Péruwelz</Club>
+                <DateOfBirth>17-02-1991</DateOfBirth>
+            </Player>
+            <Player id="6013">
+                <FirstName>Julian</FirstName>
+                <LastName>Michel</LastName>
+                <Position>CM</Position>
+                <Pace>58</Pace>
+                <Shooting>55</Shooting>
+                <Passing>66</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>54</Defensive>
+                <Stamina>68</Stamina>
+                <Club>Royal Mouscron Péruwelz</Club>
+                <DateOfBirth>19-02-1992</DateOfBirth>
+            </Player>
+            <Player id="6670">
+                <FirstName>Birger</FirstName>
+                <LastName>Verstraete</LastName>
+                <Position>CM</Position>
+                <Pace>72</Pace>
+                <Shooting>46</Shooting>
+                <Passing>61</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Royal Mouscron Péruwelz</Club>
+                <DateOfBirth>16-04-1994</DateOfBirth>
+            </Player>
+            <Player id="7170">
+                <FirstName>Benjamin</FirstName>
+                <LastName>Delacourt</LastName>
+                <Position>CB</Position>
+                <Pace>65</Pace>
+                <Shooting>35</Shooting>
+                <Passing>47</Passing>
+                <Offensive>41</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>62</Stamina>
+                <Club>Royal Mouscron Péruwelz</Club>
+                <DateOfBirth>10-09-1985</DateOfBirth>
+            </Player>
+            <Player id="7566">
+                <FirstName>Kévin</FirstName>
+                <LastName>Boli</LastName>
+                <Position>CB</Position>
+                <Pace>65</Pace>
+                <Shooting>34</Shooting>
+                <Passing>42</Passing>
+                <Offensive>38</Offensive>
+                <Defensive>61</Defensive>
+                <Stamina>68</Stamina>
+                <Club>Royal Mouscron Péruwelz</Club>
+                <DateOfBirth>21-06-1991</DateOfBirth>
+            </Player>
+            <Player id="8317">
+                <FirstName>Nicolas</FirstName>
+                <LastName>Perez</LastName>
+                <Position>ST</Position>
+                <Pace>67</Pace>
+                <Shooting>63</Shooting>
+                <Passing>46</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>53</Stamina>
+                <Club>Royal Mouscron Péruwelz</Club>
+                <DateOfBirth>26-10-1990</DateOfBirth>
+            </Player>
+            <Player id="8527">
+                <FirstName>Anice</FirstName>
+                <LastName>Badri</LastName>
+                <Position>ST</Position>
+                <Pace>67</Pace>
+                <Shooting>62</Shooting>
+                <Passing>55</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>26</Defensive>
+                <Stamina>55</Stamina>
+                <Club>Royal Mouscron Péruwelz</Club>
+                <DateOfBirth>18-09-1990</DateOfBirth>
+            </Player>
+            <Player id="8684">
+                <FirstName>Zinho</FirstName>
+                <LastName>Gano</LastName>
+                <Position>ST</Position>
+                <Pace>60</Pace>
+                <Shooting>59</Shooting>
+                <Passing>45</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>55</Stamina>
+                <Club>Royal Mouscron Péruwelz</Club>
+                <DateOfBirth>13-10-1993</DateOfBirth>
+            </Player>
+            <Player id="8974">
+                <FirstName>Thibault</FirstName>
+                <LastName>Peyre</LastName>
+                <Position>RB</Position>
+                <Pace>65</Pace>
+                <Shooting>30</Shooting>
+                <Passing>42</Passing>
+                <Offensive>36</Offensive>
+                <Defensive>61</Defensive>
+                <Stamina>63</Stamina>
+                <Club>Royal Mouscron Péruwelz</Club>
+                <DateOfBirth>03-10-1992</DateOfBirth>
+            </Player>
+            <Player id="9282">
+                <FirstName>Sébastien</FirstName>
+                <LastName>Pennacchio</LastName>
+                <Position>CDM</Position>
+                <Pace>59</Pace>
+                <Shooting>43</Shooting>
+                <Passing>57</Passing>
+                <Offensive>50</Offensive>
+                <Defensive>56</Defensive>
+                <Stamina>68</Stamina>
+                <Club>Royal Mouscron Péruwelz</Club>
+                <DateOfBirth>01-02-1983</DateOfBirth>
+            </Player>
+            <Player id="10336">
+                <FirstName>Dimitri</FirstName>
+                <LastName>Mohamed</LastName>
+                <Position>ST</Position>
+                <Pace>81</Pace>
+                <Shooting>52</Shooting>
+                <Passing>50</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>61</Stamina>
+                <Club>Royal Mouscron Péruwelz</Club>
+                <DateOfBirth>10-06-1989</DateOfBirth>
+            </Player>
+            <Player id="10791">
+                <FirstName>Nolan</FirstName>
+                <LastName>Mbemba</LastName>
+                <Position>RM</Position>
+                <Pace>74</Pace>
+                <Shooting>53</Shooting>
+                <Passing>51</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>53</Stamina>
+                <Club>Royal Mouscron Péruwelz</Club>
+                <DateOfBirth>19-02-1995</DateOfBirth>
+            </Player>
+            <Player id="10931">
+                <FirstName>Patrick</FirstName>
+                <LastName>De Vlamynck</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>23</Stamina>
+                <Club>Royal Mouscron Péruwelz</Club>
+                <DateOfBirth>01-10-1977</DateOfBirth>
+            </Player>
+            <Player id="11568">
+                <FirstName>Marin</FirstName>
+                <LastName>Jakoliš</LastName>
+                <Position>ST</Position>
+                <Pace>63</Pace>
+                <Shooting>52</Shooting>
+                <Passing>40</Passing>
+                <Offensive>46</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>44</Stamina>
+                <Club>Royal Mouscron Péruwelz</Club>
+                <DateOfBirth>26-12-1996</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="KV Kortrijk">
+            <Player id="1584">
+                <FirstName>Ivan</FirstName>
+                <LastName>Santini</LastName>
+                <Position>ST</Position>
+                <Pace>64</Pace>
+                <Shooting>71</Shooting>
+                <Passing>48</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>33</Defensive>
+                <Stamina>74</Stamina>
+                <Club>KV Kortrijk</Club>
+                <DateOfBirth>21-05-1989</DateOfBirth>
+            </Player>
+            <Player id="1920">
+                <FirstName>Gertjan</FirstName>
+                <LastName>De Mets</LastName>
+                <Position>CDM</Position>
+                <Pace>66</Pace>
+                <Shooting>45</Shooting>
+                <Passing>66</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>69</Defensive>
+                <Stamina>72</Stamina>
+                <Club>KV Kortrijk</Club>
+                <DateOfBirth>02-04-1987</DateOfBirth>
+            </Player>
+            <Player id="1944">
+                <FirstName>Teddy</FirstName>
+                <LastName>Chevalier</LastName>
+                <Position>ST</Position>
+                <Pace>81</Pace>
+                <Shooting>68</Shooting>
+                <Passing>62</Passing>
+                <Offensive>65</Offensive>
+                <Defensive>32</Defensive>
+                <Stamina>72</Stamina>
+                <Club>KV Kortrijk</Club>
+                <DateOfBirth>28-06-1987</DateOfBirth>
+            </Player>
+            <Player id="2073">
+                <FirstName>Darren</FirstName>
+                <LastName>Keet</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>27</Stamina>
+                <Club>KV Kortrijk</Club>
+                <DateOfBirth>05-08-1989</DateOfBirth>
+            </Player>
+            <Player id="2990">
+                <FirstName>Stijn</FirstName>
+                <LastName>De Smet</LastName>
+                <Position>CAM</Position>
+                <Pace>60</Pace>
+                <Shooting>65</Shooting>
+                <Passing>66</Passing>
+                <Offensive>65</Offensive>
+                <Defensive>36</Defensive>
+                <Stamina>71</Stamina>
+                <Club>KV Kortrijk</Club>
+                <DateOfBirth>27-03-1985</DateOfBirth>
+            </Player>
+            <Player id="3309">
+                <FirstName>Lukas</FirstName>
+                <LastName>Van Eenoo</LastName>
+                <Position>CM</Position>
+                <Pace>62</Pace>
+                <Shooting>62</Shooting>
+                <Passing>67</Passing>
+                <Offensive>64</Offensive>
+                <Defensive>53</Defensive>
+                <Stamina>67</Stamina>
+                <Club>KV Kortrijk</Club>
+                <DateOfBirth>06-02-1991</DateOfBirth>
+            </Player>
+            <Player id="4620">
+                <FirstName>Maxime</FirstName>
+                <LastName>Chanot</LastName>
+                <Position>CB</Position>
+                <Pace>59</Pace>
+                <Shooting>40</Shooting>
+                <Passing>44</Passing>
+                <Offensive>42</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>61</Stamina>
+                <Club>KV Kortrijk</Club>
+                <DateOfBirth>21-01-1990</DateOfBirth>
+            </Player>
+            <Player id="4997">
+                <FirstName>Anthony</FirstName>
+                <LastName>Van Loo</LastName>
+                <Position>RB</Position>
+                <Pace>73</Pace>
+                <Shooting>36</Shooting>
+                <Passing>57</Passing>
+                <Offensive>46</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>68</Stamina>
+                <Club>KV Kortrijk</Club>
+                <DateOfBirth>05-10-1988</DateOfBirth>
+            </Player>
+            <Player id="5095">
+                <FirstName>Alassane</FirstName>
+                <LastName>També</LastName>
+                <Position>RB</Position>
+                <Pace>75</Pace>
+                <Shooting>38</Shooting>
+                <Passing>54</Passing>
+                <Offensive>46</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>68</Stamina>
+                <Club>KV Kortrijk</Club>
+                <DateOfBirth>26-01-1992</DateOfBirth>
+            </Player>
+            <Player id="5647">
+                <FirstName>Adam</FirstName>
+                <LastName>Marušić</LastName>
+                <Position>RM</Position>
+                <Pace>76</Pace>
+                <Shooting>61</Shooting>
+                <Passing>59</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>63</Stamina>
+                <Club>KV Kortrijk</Club>
+                <DateOfBirth>17-10-1992</DateOfBirth>
+            </Player>
+            <Player id="6971">
+                <FirstName>Tuur</FirstName>
+                <LastName>Dierckx</LastName>
+                <Position>RW</Position>
+                <Pace>74</Pace>
+                <Shooting>57</Shooting>
+                <Passing>55</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>27</Defensive>
+                <Stamina>67</Stamina>
+                <Club>KV Kortrijk</Club>
+                <DateOfBirth>09-05-1995</DateOfBirth>
+            </Player>
+            <Player id="7114">
+                <FirstName>Robert</FirstName>
+                <LastName>Klaasen</LastName>
+                <Position>CM</Position>
+                <Pace>59</Pace>
+                <Shooting>57</Shooting>
+                <Passing>64</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>55</Defensive>
+                <Stamina>67</Stamina>
+                <Club>KV Kortrijk</Club>
+                <DateOfBirth>06-09-1993</DateOfBirth>
+            </Player>
+            <Player id="7527">
+                <FirstName>Rémi</FirstName>
+                <LastName>Pillot</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>30</Stamina>
+                <Club>KV Kortrijk</Club>
+                <DateOfBirth>27-07-1990</DateOfBirth>
+            </Player>
+            <Player id="7907">
+                <FirstName>Baptiste</FirstName>
+                <LastName>Ulens</LastName>
+                <Position>LB</Position>
+                <Pace>75</Pace>
+                <Shooting>45</Shooting>
+                <Passing>60</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>71</Stamina>
+                <Club>KV Kortrijk</Club>
+                <DateOfBirth>24-07-1987</DateOfBirth>
+            </Player>
+            <Player id="8412">
+                <FirstName>Laurent</FirstName>
+                <LastName>Henkinet</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>28</Stamina>
+                <Club>KV Kortrijk</Club>
+                <DateOfBirth>14-09-1992</DateOfBirth>
+            </Player>
+            <Player id="8857">
+                <FirstName>Arno</FirstName>
+                <LastName>Claeys</LastName>
+                <Position>CB</Position>
+                <Pace>55</Pace>
+                <Shooting>28</Shooting>
+                <Passing>41</Passing>
+                <Offensive>34</Offensive>
+                <Defensive>56</Defensive>
+                <Stamina>49</Stamina>
+                <Club>KV Kortrijk</Club>
+                <DateOfBirth>05-04-1994</DateOfBirth>
+            </Player>
+            <Player id="10343">
+                <FirstName>Dylan</FirstName>
+                <LastName>Ragolle</LastName>
+                <Position>CDM</Position>
+                <Pace>52</Pace>
+                <Shooting>39</Shooting>
+                <Passing>53</Passing>
+                <Offensive>46</Offensive>
+                <Defensive>54</Defensive>
+                <Stamina>58</Stamina>
+                <Club>KV Kortrijk</Club>
+                <DateOfBirth>11-05-1994</DateOfBirth>
+            </Player>
+            <Player id="10363">
+                <FirstName>Gregory</FirstName>
+                <LastName>Mahau</LastName>
+                <Position>RM</Position>
+                <Pace>56</Pace>
+                <Shooting>33</Shooting>
+                <Passing>50</Passing>
+                <Offensive>41</Offensive>
+                <Defensive>49</Defensive>
+                <Stamina>65</Stamina>
+                <Club>KV Kortrijk</Club>
+                <DateOfBirth>09-05-1994</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Lierse SK">
+            <Player id="1680">
+                <FirstName>Hernán</FirstName>
+                <LastName>Losada</LastName>
+                <Position>LW</Position>
+                <Pace>65</Pace>
+                <Shooting>66</Shooting>
+                <Passing>68</Passing>
+                <Offensive>67</Offensive>
+                <Defensive>37</Defensive>
+                <Stamina>65</Stamina>
+                <Club>Lierse SK</Club>
+                <DateOfBirth>09-05-1982</DateOfBirth>
+            </Player>
+            <Player id="3464">
+                <FirstName>Thomas</FirstName>
+                <LastName>Wils</LastName>
+                <Position>CDM</Position>
+                <Pace>62</Pace>
+                <Shooting>36</Shooting>
+                <Passing>57</Passing>
+                <Offensive>46</Offensive>
+                <Defensive>65</Defensive>
+                <Stamina>75</Stamina>
+                <Club>Lierse SK</Club>
+                <DateOfBirth>24-04-1990</DateOfBirth>
+            </Player>
+            <Player id="4728">
+                <FirstName>Arjan</FirstName>
+                <LastName>Swinkels</LastName>
+                <Position>CB</Position>
+                <Pace>59</Pace>
+                <Shooting>33</Shooting>
+                <Passing>50</Passing>
+                <Offensive>41</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>68</Stamina>
+                <Club>Lierse SK</Club>
+                <DateOfBirth>15-10-1984</DateOfBirth>
+            </Player>
+            <Player id="4896">
+                <FirstName>Igor</FirstName>
+                <LastName>Berezovskyi</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>37</Stamina>
+                <Club>Lierse SK</Club>
+                <DateOfBirth>24-08-1990</DateOfBirth>
+            </Player>
+            <Player id="5248">
+                <FirstName>Ayub Timbe</FirstName>
+                <LastName>Masika</LastName>
+                <Position>RM</Position>
+                <Pace>80</Pace>
+                <Shooting>53</Shooting>
+                <Passing>56</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>26</Defensive>
+                <Stamina>52</Stamina>
+                <Club>Lierse SK</Club>
+                <DateOfBirth>10-09-1992</DateOfBirth>
+            </Player>
+            <Player id="6116">
+                <FirstName>Ludovic</FirstName>
+                <LastName>Buysens</LastName>
+                <Position>CB</Position>
+                <Pace>47</Pace>
+                <Shooting>41</Shooting>
+                <Passing>50</Passing>
+                <Offensive>45</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>74</Stamina>
+                <Club>Lierse SK</Club>
+                <DateOfBirth>13-03-1986</DateOfBirth>
+            </Player>
+            <Player id="6323">
+                <FirstName>Ahmed</FirstName>
+                <LastName>El Messaoudi</LastName>
+                <Position>CB</Position>
+                <Pace>61</Pace>
+                <Shooting>28</Shooting>
+                <Passing>53</Passing>
+                <Offensive>40</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>62</Stamina>
+                <Club>Lierse SK</Club>
+                <DateOfBirth>03-08-1995</DateOfBirth>
+            </Player>
+            <Player id="6926">
+                <FirstName>Faysel</FirstName>
+                <LastName>Kasmi</LastName>
+                <Position>CM</Position>
+                <Pace>62</Pace>
+                <Shooting>33</Shooting>
+                <Passing>56</Passing>
+                <Offensive>44</Offensive>
+                <Defensive>59</Defensive>
+                <Stamina>65</Stamina>
+                <Club>Lierse SK</Club>
+                <DateOfBirth>31-10-1995</DateOfBirth>
+            </Player>
+            <Player id="6964">
+                <FirstName>Ahmed</FirstName>
+                <LastName>Sayed</LastName>
+                <Position>CM</Position>
+                <Pace>63</Pace>
+                <Shooting>47</Shooting>
+                <Passing>58</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>50</Defensive>
+                <Stamina>57</Stamina>
+                <Club>Lierse SK</Club>
+                <DateOfBirth>10-01-1996</DateOfBirth>
+            </Player>
+            <Player id="7137">
+                <FirstName>Alhassane</FirstName>
+                <LastName>Keita</LastName>
+                <Position>ST</Position>
+                <Pace>65</Pace>
+                <Shooting>63</Shooting>
+                <Passing>41</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>59</Stamina>
+                <Club>Lierse SK</Club>
+                <DateOfBirth>16-04-1992</DateOfBirth>
+            </Player>
+            <Player id="7247">
+                <FirstName>Florent</FirstName>
+                <LastName>Hanin</LastName>
+                <Position>LB</Position>
+                <Pace>71</Pace>
+                <Shooting>28</Shooting>
+                <Passing>47</Passing>
+                <Offensive>37</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>68</Stamina>
+                <Club>Lierse SK</Club>
+                <DateOfBirth>04-02-1990</DateOfBirth>
+            </Player>
+            <Player id="7294">
+                <FirstName>Pierre-Yves</FirstName>
+                <LastName>Ngawa</LastName>
+                <Position>RB</Position>
+                <Pace>77</Pace>
+                <Shooting>40</Shooting>
+                <Passing>50</Passing>
+                <Offensive>45</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>65</Stamina>
+                <Club>Lierse SK</Club>
+                <DateOfBirth>09-02-1992</DateOfBirth>
+            </Player>
+            <Player id="7864">
+                <FirstName>Rami</FirstName>
+                <LastName>Bensebaini</LastName>
+                <Position>CB</Position>
+                <Pace>56</Pace>
+                <Shooting>25</Shooting>
+                <Passing>51</Passing>
+                <Offensive>38</Offensive>
+                <Defensive>61</Defensive>
+                <Stamina>61</Stamina>
+                <Club>Lierse SK</Club>
+                <DateOfBirth>16-04-1995</DateOfBirth>
+            </Player>
+            <Player id="8365">
+                <FirstName>Nathan</FirstName>
+                <LastName>Goris</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>29</Stamina>
+                <Club>Lierse SK</Club>
+                <DateOfBirth>30-03-1990</DateOfBirth>
+            </Player>
+            <Player id="9335">
+                <FirstName>Karim</FirstName>
+                <LastName>Hafez</LastName>
+                <Position>LB</Position>
+                <Pace>68</Pace>
+                <Shooting>26</Shooting>
+                <Passing>48</Passing>
+                <Offensive>37</Offensive>
+                <Defensive>59</Defensive>
+                <Stamina>55</Stamina>
+                <Club>Lierse SK</Club>
+                <DateOfBirth>12-03-1996</DateOfBirth>
+            </Player>
+            <Player id="9594">
+                <FirstName>Mohamed</FirstName>
+                <LastName>Helal</LastName>
+                <Position>CAM</Position>
+                <Pace>62</Pace>
+                <Shooting>40</Shooting>
+                <Passing>55</Passing>
+                <Offensive>47</Offensive>
+                <Defensive>32</Defensive>
+                <Stamina>34</Stamina>
+                <Club>Lierse SK</Club>
+                <DateOfBirth>28-02-1995</DateOfBirth>
+            </Player>
+            <Player id="10021">
+                <FirstName>Anas</FirstName>
+                <LastName>Tahiri</LastName>
+                <Position>RW</Position>
+                <Pace>69</Pace>
+                <Shooting>37</Shooting>
+                <Passing>51</Passing>
+                <Offensive>44</Offensive>
+                <Defensive>24</Defensive>
+                <Stamina>38</Stamina>
+                <Club>Lierse SK</Club>
+                <DateOfBirth>15-05-1995</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Sporting Charleroi">
+            <Player id="1963">
+                <FirstName>Lynel</FirstName>
+                <LastName>Kitambala</LastName>
+                <Position>ST</Position>
+                <Pace>81</Pace>
+                <Shooting>67</Shooting>
+                <Passing>61</Passing>
+                <Offensive>64</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Sporting Charleroi</Club>
+                <DateOfBirth>26-10-1988</DateOfBirth>
+            </Player>
+            <Player id="2165">
+                <FirstName>Karel</FirstName>
+                <LastName>Geraerts</LastName>
+                <Position>CM</Position>
+                <Pace>60</Pace>
+                <Shooting>68</Shooting>
+                <Passing>65</Passing>
+                <Offensive>66</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>82</Stamina>
+                <Club>Sporting Charleroi</Club>
+                <DateOfBirth>05-01-1982</DateOfBirth>
+            </Player>
+            <Player id="2450">
+                <FirstName>Parfait</FirstName>
+                <LastName>Mandanda</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>25</Stamina>
+                <Club>Sporting Charleroi</Club>
+                <DateOfBirth>10-10-1989</DateOfBirth>
+            </Player>
+            <Player id="3109">
+                <FirstName>Neeskens</FirstName>
+                <LastName>Kebano</LastName>
+                <Position>CAM</Position>
+                <Pace>74</Pace>
+                <Shooting>64</Shooting>
+                <Passing>66</Passing>
+                <Offensive>65</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>66</Stamina>
+                <Club>Sporting Charleroi</Club>
+                <DateOfBirth>10-03-1992</DateOfBirth>
+            </Player>
+            <Player id="3390">
+                <FirstName>Stergos</FirstName>
+                <LastName>Marinos</LastName>
+                <Position>RB</Position>
+                <Pace>85</Pace>
+                <Shooting>46</Shooting>
+                <Passing>62</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>67</Defensive>
+                <Stamina>74</Stamina>
+                <Club>Sporting Charleroi</Club>
+                <DateOfBirth>17-09-1987</DateOfBirth>
+            </Player>
+            <Player id="4248">
+                <FirstName>Christophe</FirstName>
+                <LastName>Diandy</LastName>
+                <Position>CDM</Position>
+                <Pace>69</Pace>
+                <Shooting>50</Shooting>
+                <Passing>60</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>81</Stamina>
+                <Club>Sporting Charleroi</Club>
+                <DateOfBirth>25-11-1990</DateOfBirth>
+            </Player>
+            <Player id="4669">
+                <FirstName>Cédric</FirstName>
+                <LastName>Fauré</LastName>
+                <Position>ST</Position>
+                <Pace>28</Pace>
+                <Shooting>71</Shooting>
+                <Passing>56</Passing>
+                <Offensive>63</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>31</Stamina>
+                <Club>Sporting Charleroi</Club>
+                <DateOfBirth>14-02-1979</DateOfBirth>
+            </Player>
+            <Player id="4847">
+                <FirstName>Clément</FirstName>
+                <LastName>Tainmont</LastName>
+                <Position>LM</Position>
+                <Pace>68</Pace>
+                <Shooting>52</Shooting>
+                <Passing>65</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>44</Defensive>
+                <Stamina>75</Stamina>
+                <Club>Sporting Charleroi</Club>
+                <DateOfBirth>13-02-1986</DateOfBirth>
+            </Player>
+            <Player id="5052">
+                <FirstName>Dieumerci</FirstName>
+                <LastName>Ndongala</LastName>
+                <Position>RM</Position>
+                <Pace>72</Pace>
+                <Shooting>49</Shooting>
+                <Passing>60</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>57</Stamina>
+                <Club>Sporting Charleroi</Club>
+                <DateOfBirth>14-06-1991</DateOfBirth>
+            </Player>
+            <Player id="5400">
+                <FirstName>Damien</FirstName>
+                <LastName>Marcq</LastName>
+                <Position>CDM</Position>
+                <Pace>63</Pace>
+                <Shooting>33</Shooting>
+                <Passing>58</Passing>
+                <Offensive>45</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>74</Stamina>
+                <Club>Sporting Charleroi</Club>
+                <DateOfBirth>08-12-1988</DateOfBirth>
+            </Player>
+            <Player id="5610">
+                <FirstName>Giuseppe</FirstName>
+                <LastName>Rossini</LastName>
+                <Position>ST</Position>
+                <Pace>41</Pace>
+                <Shooting>68</Shooting>
+                <Passing>46</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>32</Stamina>
+                <Club>Sporting Charleroi</Club>
+                <DateOfBirth>23-08-1986</DateOfBirth>
+            </Player>
+            <Player id="5684">
+                <FirstName>Sebastien</FirstName>
+                <LastName>Dewaest</LastName>
+                <Position>CB</Position>
+                <Pace>54</Pace>
+                <Shooting>32</Shooting>
+                <Passing>44</Passing>
+                <Offensive>38</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>65</Stamina>
+                <Club>Sporting Charleroi</Club>
+                <DateOfBirth>27-05-1991</DateOfBirth>
+            </Player>
+            <Player id="5763">
+                <FirstName>Enes</FirstName>
+                <LastName>Sağlik</LastName>
+                <Position>LM</Position>
+                <Pace>72</Pace>
+                <Shooting>62</Shooting>
+                <Passing>62</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>39</Defensive>
+                <Stamina>57</Stamina>
+                <Club>Sporting Charleroi</Club>
+                <DateOfBirth>08-07-1991</DateOfBirth>
+            </Player>
+            <Player id="6930">
+                <FirstName>Jessy</FirstName>
+                <LastName>Gálvez-López</LastName>
+                <Position>LM</Position>
+                <Pace>66</Pace>
+                <Shooting>40</Shooting>
+                <Passing>60</Passing>
+                <Offensive>50</Offensive>
+                <Defensive>56</Defensive>
+                <Stamina>60</Stamina>
+                <Club>Sporting Charleroi</Club>
+                <DateOfBirth>17-07-1995</DateOfBirth>
+            </Player>
+            <Player id="7320">
+                <FirstName>Jonathan</FirstName>
+                <LastName>Vervoort</LastName>
+                <Position>CB</Position>
+                <Pace>72</Pace>
+                <Shooting>34</Shooting>
+                <Passing>47</Passing>
+                <Offensive>40</Offensive>
+                <Defensive>61</Defensive>
+                <Stamina>68</Stamina>
+                <Club>Sporting Charleroi</Club>
+                <DateOfBirth>13-08-1993</DateOfBirth>
+            </Player>
+            <Player id="7690">
+                <FirstName>Mohamed</FirstName>
+                <LastName>Daf</LastName>
+                <Position>CM</Position>
+                <Pace>64</Pace>
+                <Shooting>55</Shooting>
+                <Passing>58</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>56</Defensive>
+                <Stamina>57</Stamina>
+                <Club>Sporting Charleroi</Club>
+                <DateOfBirth>10-03-1994</DateOfBirth>
+            </Player>
+            <Player id="8785">
+                <FirstName>Kenneth</FirstName>
+                <LastName>Houdret</LastName>
+                <Position>CM</Position>
+                <Pace>64</Pace>
+                <Shooting>45</Shooting>
+                <Passing>56</Passing>
+                <Offensive>50</Offensive>
+                <Defensive>52</Defensive>
+                <Stamina>68</Stamina>
+                <Club>Sporting Charleroi</Club>
+                <DateOfBirth>09-08-1993</DateOfBirth>
+            </Player>
+            <Player id="8903">
+                <FirstName>Steeven</FirstName>
+                <LastName>Willems</LastName>
+                <Position>LB</Position>
+                <Pace>73</Pace>
+                <Shooting>35</Shooting>
+                <Passing>58</Passing>
+                <Offensive>46</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>61</Stamina>
+                <Club>Sporting Charleroi</Club>
+                <DateOfBirth>31-08-1990</DateOfBirth>
+            </Player>
+            <Player id="9900">
+                <FirstName>Maxime</FirstName>
+                <LastName>Vandermeulen</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>22</Stamina>
+                <Club>Sporting Charleroi</Club>
+                <DateOfBirth>11-04-1996</DateOfBirth>
+            </Player>
+            <Player id="10046">
+                <FirstName>Robin</FirstName>
+                <LastName>Leemans</LastName>
+                <Position>CB</Position>
+                <Pace>58</Pace>
+                <Shooting>25</Shooting>
+                <Passing>38</Passing>
+                <Offensive>31</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>61</Stamina>
+                <Club>Sporting Charleroi</Club>
+                <DateOfBirth>25-06-1993</DateOfBirth>
+            </Player>
+            <Player id="10103">
+                <FirstName>Clinton Mukoni</FirstName>
+                <LastName>Mata Pedro Lourenço</LastName>
+                <Position>RW</Position>
+                <Pace>73</Pace>
+                <Shooting>52</Shooting>
+                <Passing>53</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>24</Defensive>
+                <Stamina>57</Stamina>
+                <Club>Sporting Charleroi</Club>
+                <DateOfBirth>07-11-1992</DateOfBirth>
+            </Player>
+            <Player id="10390">
+                <FirstName>Valentin</FirstName>
+                <LastName>Baume</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>22</Stamina>
+                <Club>Sporting Charleroi</Club>
+                <DateOfBirth>25-01-1997</DateOfBirth>
+            </Player>
+            <Player id="11925">
+                <FirstName>Nicolas</FirstName>
+                <LastName>Penneteau</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>30</Stamina>
+                <Club>Sporting Charleroi</Club>
+                <DateOfBirth>28-02-1981</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Waasland-Beveren">
+            <Player id="2016">
+                <FirstName>Colin</FirstName>
+                <LastName>Coosemans</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>31</Stamina>
+                <Club>Waasland-Beveren</Club>
+                <DateOfBirth>03-08-1992</DateOfBirth>
+            </Player>
+            <Player id="2356">
+                <FirstName>Ebrahima</FirstName>
+                <LastName>Sawaneh</LastName>
+                <Position>LM</Position>
+                <Pace>82</Pace>
+                <Shooting>68</Shooting>
+                <Passing>64</Passing>
+                <Offensive>66</Offensive>
+                <Defensive>32</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Waasland-Beveren</Club>
+                <DateOfBirth>07-09-1986</DateOfBirth>
+            </Player>
+            <Player id="2400">
+                <FirstName>David</FirstName>
+                <LastName>Hubert</LastName>
+                <Position>CDM</Position>
+                <Pace>58</Pace>
+                <Shooting>53</Shooting>
+                <Passing>63</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>69</Defensive>
+                <Stamina>73</Stamina>
+                <Club>Waasland-Beveren</Club>
+                <DateOfBirth>12-02-1988</DateOfBirth>
+            </Player>
+            <Player id="3033">
+                <FirstName>Ante</FirstName>
+                <LastName>Vukušić</LastName>
+                <Position>ST</Position>
+                <Pace>81</Pace>
+                <Shooting>64</Shooting>
+                <Passing>54</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Waasland-Beveren</Club>
+                <DateOfBirth>04-01-1991</DateOfBirth>
+            </Player>
+            <Player id="3158">
+                <FirstName>Aboubakar</FirstName>
+                <LastName>Oumarou</LastName>
+                <Position>ST</Position>
+                <Pace>84</Pace>
+                <Shooting>63</Shooting>
+                <Passing>53</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>31</Defensive>
+                <Stamina>73</Stamina>
+                <Club>Waasland-Beveren</Club>
+                <DateOfBirth>01-04-1987</DateOfBirth>
+            </Player>
+            <Player id="3852">
+                <FirstName>Amido</FirstName>
+                <LastName>Baldé</LastName>
+                <Position>ST</Position>
+                <Pace>61</Pace>
+                <Shooting>64</Shooting>
+                <Passing>49</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>80</Stamina>
+                <Club>Waasland-Beveren</Club>
+                <DateOfBirth>16-05-1991</DateOfBirth>
+            </Player>
+            <Player id="3909">
+                <FirstName>Milos</FirstName>
+                <LastName>Maric</LastName>
+                <Position>CM</Position>
+                <Pace>58</Pace>
+                <Shooting>69</Shooting>
+                <Passing>67</Passing>
+                <Offensive>68</Offensive>
+                <Defensive>61</Defensive>
+                <Stamina>74</Stamina>
+                <Club>Waasland-Beveren</Club>
+                <DateOfBirth>05-03-1982</DateOfBirth>
+            </Player>
+            <Player id="3982">
+                <FirstName>Cédric</FirstName>
+                <LastName>D'Ulivo</LastName>
+                <Position>RB</Position>
+                <Pace>74</Pace>
+                <Shooting>40</Shooting>
+                <Passing>60</Passing>
+                <Offensive>50</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Waasland-Beveren</Club>
+                <DateOfBirth>29-08-1989</DateOfBirth>
+            </Player>
+            <Player id="4172">
+                <FirstName>Siebe</FirstName>
+                <LastName>Blondelle</LastName>
+                <Position>CDM</Position>
+                <Pace>59</Pace>
+                <Shooting>49</Shooting>
+                <Passing>60</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Waasland-Beveren</Club>
+                <DateOfBirth>20-04-1986</DateOfBirth>
+            </Player>
+            <Player id="4188">
+                <FirstName>David</FirstName>
+                <LastName>Destorme</LastName>
+                <Position>CAM</Position>
+                <Pace>50</Pace>
+                <Shooting>66</Shooting>
+                <Passing>63</Passing>
+                <Offensive>64</Offensive>
+                <Defensive>46</Defensive>
+                <Stamina>74</Stamina>
+                <Club>Waasland-Beveren</Club>
+                <DateOfBirth>30-08-1979</DateOfBirth>
+            </Player>
+            <Player id="4752">
+                <FirstName>Robin</FirstName>
+                <LastName>Henkens</LastName>
+                <Position>RM</Position>
+                <Pace>69</Pace>
+                <Shooting>62</Shooting>
+                <Passing>64</Passing>
+                <Offensive>63</Offensive>
+                <Defensive>57</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Waasland-Beveren</Club>
+                <DateOfBirth>12-09-1988</DateOfBirth>
+            </Player>
+            <Player id="4839">
+                <FirstName>Mijuško</FirstName>
+                <LastName>Bojović</LastName>
+                <Position>CB</Position>
+                <Pace>42</Pace>
+                <Shooting>34</Shooting>
+                <Passing>40</Passing>
+                <Offensive>37</Offensive>
+                <Defensive>67</Defensive>
+                <Stamina>64</Stamina>
+                <Club>Waasland-Beveren</Club>
+                <DateOfBirth>09-08-1988</DateOfBirth>
+            </Player>
+            <Player id="4931">
+                <FirstName>Hrvoje</FirstName>
+                <LastName>Čale</LastName>
+                <Position>LB</Position>
+                <Pace>54</Pace>
+                <Shooting>49</Shooting>
+                <Passing>57</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>62</Stamina>
+                <Club>Waasland-Beveren</Club>
+                <DateOfBirth>04-03-1985</DateOfBirth>
+            </Player>
+            <Player id="6466">
+                <FirstName>Jonathan</FirstName>
+                <LastName>Rowell</LastName>
+                <Position>CDM</Position>
+                <Pace>60</Pace>
+                <Shooting>60</Shooting>
+                <Passing>65</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>57</Defensive>
+                <Stamina>69</Stamina>
+                <Club>Waasland-Beveren</Club>
+                <DateOfBirth>10-09-1989</DateOfBirth>
+            </Player>
+            <Player id="6528">
+                <FirstName>Jorn</FirstName>
+                <LastName>Vermeulen</LastName>
+                <Position>RB</Position>
+                <Pace>62</Pace>
+                <Shooting>55</Shooting>
+                <Passing>63</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>68</Stamina>
+                <Club>Waasland-Beveren</Club>
+                <DateOfBirth>16-04-1987</DateOfBirth>
+            </Player>
+            <Player id="6531">
+                <FirstName>Kenny</FirstName>
+                <LastName>Steppe</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>38</Stamina>
+                <Club>Waasland-Beveren</Club>
+                <DateOfBirth>14-11-1988</DateOfBirth>
+            </Player>
+            <Player id="8416">
+                <FirstName>Zakaria</FirstName>
+                <LastName>M'Sila</LastName>
+                <Position>CAM</Position>
+                <Pace>72</Pace>
+                <Shooting>54</Shooting>
+                <Passing>58</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>32</Defensive>
+                <Stamina>51</Stamina>
+                <Club>Waasland-Beveren</Club>
+                <DateOfBirth>06-04-1992</DateOfBirth>
+            </Player>
+            <Player id="10193">
+                <FirstName>Daimy</FirstName>
+                <LastName>Deflem</LastName>
+                <Position>LM</Position>
+                <Pace>76</Pace>
+                <Shooting>52</Shooting>
+                <Passing>52</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>49</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Waasland-Beveren</Club>
+                <DateOfBirth>04-05-1994</DateOfBirth>
+            </Player>
+            <Player id="10898">
+                <FirstName>Arne</FirstName>
+                <LastName>Van den Eynde</LastName>
+                <Position>CAM</Position>
+                <Pace>59</Pace>
+                <Shooting>42</Shooting>
+                <Passing>58</Passing>
+                <Offensive>50</Offensive>
+                <Defensive>39</Defensive>
+                <Stamina>34</Stamina>
+                <Club>Waasland-Beveren</Club>
+                <DateOfBirth>25-07-1995</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="KV Oostende">
+            <Player id="2303">
+                <FirstName>Fernando</FirstName>
+                <LastName>Canesín Matos</LastName>
+                <Position>CAM</Position>
+                <Pace>81</Pace>
+                <Shooting>60</Shooting>
+                <Passing>64</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>44</Stamina>
+                <Club>KV Oostende</Club>
+                <DateOfBirth>27-02-1992</DateOfBirth>
+            </Player>
+            <Player id="2663">
+                <FirstName>Carl</FirstName>
+                <LastName>Hoefkens</LastName>
+                <Position>CB</Position>
+                <Pace>47</Pace>
+                <Shooting>46</Shooting>
+                <Passing>60</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>68</Defensive>
+                <Stamina>63</Stamina>
+                <Club>KV Oostende</Club>
+                <DateOfBirth>06-10-1978</DateOfBirth>
+            </Player>
+            <Player id="3593">
+                <FirstName>Elimane</FirstName>
+                <LastName>Coulibaly</LastName>
+                <Position>ST</Position>
+                <Pace>50</Pace>
+                <Shooting>68</Shooting>
+                <Passing>55</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>40</Defensive>
+                <Stamina>49</Stamina>
+                <Club>KV Oostende</Club>
+                <DateOfBirth>15-03-1980</DateOfBirth>
+            </Player>
+            <Player id="4326">
+                <FirstName>Jordan</FirstName>
+                <LastName>Lukaku</LastName>
+                <Position>LB</Position>
+                <Pace>82</Pace>
+                <Shooting>53</Shooting>
+                <Passing>60</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>62</Stamina>
+                <Club>KV Oostende</Club>
+                <DateOfBirth>25-07-1994</DateOfBirth>
+            </Player>
+            <Player id="4872">
+                <FirstName>Frédéric</FirstName>
+                <LastName>Brillant</LastName>
+                <Position>CB</Position>
+                <Pace>52</Pace>
+                <Shooting>32</Shooting>
+                <Passing>45</Passing>
+                <Offensive>38</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>65</Stamina>
+                <Club>KV Oostende</Club>
+                <DateOfBirth>26-06-1985</DateOfBirth>
+            </Player>
+            <Player id="4992">
+                <FirstName>Bjorn</FirstName>
+                <LastName>Ruytinx</LastName>
+                <Position>ST</Position>
+                <Pace>54</Pace>
+                <Shooting>67</Shooting>
+                <Passing>55</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>39</Defensive>
+                <Stamina>78</Stamina>
+                <Club>KV Oostende</Club>
+                <DateOfBirth>18-08-1980</DateOfBirth>
+            </Player>
+            <Player id="5182">
+                <FirstName>John Jaïro</FirstName>
+                <LastName>Ruiz</LastName>
+                <Position>ST</Position>
+                <Pace>79</Pace>
+                <Shooting>62</Shooting>
+                <Passing>57</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>27</Defensive>
+                <Stamina>65</Stamina>
+                <Club>KV Oostende</Club>
+                <DateOfBirth>10-01-1994</DateOfBirth>
+            </Player>
+            <Player id="5558">
+                <FirstName>Sébastien</FirstName>
+                <LastName>Siani</LastName>
+                <Position>CDM</Position>
+                <Pace>71</Pace>
+                <Shooting>62</Shooting>
+                <Passing>63</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>69</Stamina>
+                <Club>KV Oostende</Club>
+                <DateOfBirth>21-12-1986</DateOfBirth>
+            </Player>
+            <Player id="6019">
+                <FirstName>Niels</FirstName>
+                <LastName>De Schutter</LastName>
+                <Position>CDM</Position>
+                <Pace>56</Pace>
+                <Shooting>28</Shooting>
+                <Passing>57</Passing>
+                <Offensive>42</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>72</Stamina>
+                <Club>KV Oostende</Club>
+                <DateOfBirth>08-08-1988</DateOfBirth>
+            </Player>
+            <Player id="6983">
+                <FirstName>Tom</FirstName>
+                <LastName>Van Imschoot</LastName>
+                <Position>CDM</Position>
+                <Pace>41</Pace>
+                <Shooting>61</Shooting>
+                <Passing>64</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>56</Defensive>
+                <Stamina>64</Stamina>
+                <Club>KV Oostende</Club>
+                <DateOfBirth>04-09-1981</DateOfBirth>
+            </Player>
+            <Player id="8413">
+                <FirstName>Jérémy</FirstName>
+                <LastName>Dumesnil</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>42</Stamina>
+                <Club>KV Oostende</Club>
+                <DateOfBirth>22-06-1986</DateOfBirth>
+            </Player>
+            <Player id="9210">
+                <FirstName>Niels</FirstName>
+                <LastName>Coussement</LastName>
+                <Position>LM</Position>
+                <Pace>71</Pace>
+                <Shooting>45</Shooting>
+                <Passing>54</Passing>
+                <Offensive>49</Offensive>
+                <Defensive>39</Defensive>
+                <Stamina>65</Stamina>
+                <Club>KV Oostende</Club>
+                <DateOfBirth>02-02-1991</DateOfBirth>
+            </Player>
+            <Player id="10771">
+                <FirstName>Nils</FirstName>
+                <LastName>Pierre</LastName>
+                <Position>CM</Position>
+                <Pace>64</Pace>
+                <Shooting>34</Shooting>
+                <Passing>53</Passing>
+                <Offensive>43</Offensive>
+                <Defensive>43</Defensive>
+                <Stamina>60</Stamina>
+                <Club>KV Oostende</Club>
+                <DateOfBirth>04-02-1995</DateOfBirth>
+            </Player>
+            <Player id="10870">
+                <FirstName>Jean</FirstName>
+                <LastName>Chopin</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>27</Stamina>
+                <Club>KV Oostende</Club>
+                <DateOfBirth>09-10-1994</DateOfBirth>
+            </Player>
+            <Player id="11352">
+                <FirstName>Ante</FirstName>
+                <LastName>Blažević</LastName>
+                <Position>ST</Position>
+                <Pace>70</Pace>
+                <Shooting>53</Shooting>
+                <Passing>39</Passing>
+                <Offensive>46</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>51</Stamina>
+                <Club>KV Oostende</Club>
+                <DateOfBirth>05-05-1996</DateOfBirth>
+            </Player>
+            <Player id="11360">
+                <FirstName>Yoshi</FirstName>
+                <LastName>Verbrugge</LastName>
+                <Position>CB</Position>
+                <Pace>56</Pace>
+                <Shooting>25</Shooting>
+                <Passing>31</Passing>
+                <Offensive>28</Offensive>
+                <Defensive>54</Defensive>
+                <Stamina>63</Stamina>
+                <Club>KV Oostende</Club>
+                <DateOfBirth>07-06-1995</DateOfBirth>
+            </Player>
+            <Player id="11518">
+                <FirstName>Bryan</FirstName>
+                <LastName>Willems</LastName>
+                <Position>RB</Position>
+                <Pace>69</Pace>
+                <Shooting>28</Shooting>
+                <Passing>31</Passing>
+                <Offensive>29</Offensive>
+                <Defensive>49</Defensive>
+                <Stamina>61</Stamina>
+                <Club>KV Oostende</Club>
+                <DateOfBirth>16-07-1995</DateOfBirth>
+            </Player>
+            <Player id="11570">
+                <FirstName>Muhamed</FirstName>
+                <LastName>Tahiri</LastName>
+                <Position>CM</Position>
+                <Pace>58</Pace>
+                <Shooting>38</Shooting>
+                <Passing>52</Passing>
+                <Offensive>45</Offensive>
+                <Defensive>41</Defensive>
+                <Stamina>59</Stamina>
+                <Club>KV Oostende</Club>
+                <DateOfBirth>26-12-1996</DateOfBirth>
+            </Player>
+            <Player id="12482">
+                <FirstName>Andile</FirstName>
+                <LastName>Jali</LastName>
+                <Position>CDM</Position>
+                <Pace>74</Pace>
+                <Shooting>60</Shooting>
+                <Passing>73</Passing>
+                <Offensive>66</Offensive>
+                <Defensive>67</Defensive>
+                <Stamina>72</Stamina>
+                <Club>KV Oostende</Club>
+                <DateOfBirth>10-04-1990</DateOfBirth>
+            </Player>
+            <Player id="12683">
+                <FirstName>Franck</FirstName>
+                <LastName>Berrier</LastName>
+                <Position>CAM</Position>
+                <Pace>64</Pace>
+                <Shooting>68</Shooting>
+                <Passing>76</Passing>
+                <Offensive>72</Offensive>
+                <Defensive>41</Defensive>
+                <Stamina>66</Stamina>
+                <Club>KV Oostende</Club>
+                <DateOfBirth>02-02-1984</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="KVC Westerlo">
+            <Player id="3354">
+                <FirstName>Birger</FirstName>
+                <LastName>Maertens</LastName>
+                <Position>CB</Position>
+                <Pace>31</Pace>
+                <Shooting>34</Shooting>
+                <Passing>49</Passing>
+                <Offensive>41</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>62</Stamina>
+                <Club>KVC Westerlo</Club>
+                <DateOfBirth>28-06-1980</DateOfBirth>
+            </Player>
+            <Player id="3724">
+                <FirstName>Bruno</FirstName>
+                <LastName>Godeau</LastName>
+                <Position>LB</Position>
+                <Pace>62</Pace>
+                <Shooting>34</Shooting>
+                <Passing>56</Passing>
+                <Offensive>45</Offensive>
+                <Defensive>68</Defensive>
+                <Stamina>67</Stamina>
+                <Club>KVC Westerlo</Club>
+                <DateOfBirth>10-05-1992</DateOfBirth>
+            </Player>
+            <Player id="3803">
+                <FirstName>Sherjill</FirstName>
+                <LastName>MacDonald</LastName>
+                <Position>ST</Position>
+                <Pace>83</Pace>
+                <Shooting>65</Shooting>
+                <Passing>51</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>27</Defensive>
+                <Stamina>64</Stamina>
+                <Club>KVC Westerlo</Club>
+                <DateOfBirth>20-11-1984</DateOfBirth>
+            </Player>
+            <Player id="4452">
+                <FirstName>Nils</FirstName>
+                <LastName>Schouterden</LastName>
+                <Position>LM</Position>
+                <Pace>81</Pace>
+                <Shooting>54</Shooting>
+                <Passing>62</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>40</Defensive>
+                <Stamina>62</Stamina>
+                <Club>KVC Westerlo</Club>
+                <DateOfBirth>14-12-1988</DateOfBirth>
+            </Player>
+            <Player id="4697">
+                <FirstName>Maxime</FirstName>
+                <LastName>Annys</LastName>
+                <Position>CDM</Position>
+                <Pace>62</Pace>
+                <Shooting>45</Shooting>
+                <Passing>62</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>78</Stamina>
+                <Club>KVC Westerlo</Club>
+                <DateOfBirth>24-07-1986</DateOfBirth>
+            </Player>
+            <Player id="4959">
+                <FirstName>Raphaël</FirstName>
+                <LastName>Lecomte</LastName>
+                <Position>LM</Position>
+                <Pace>73</Pace>
+                <Shooting>55</Shooting>
+                <Passing>62</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>61</Stamina>
+                <Club>KVC Westerlo</Club>
+                <DateOfBirth>22-05-1988</DateOfBirth>
+            </Player>
+            <Player id="4963">
+                <FirstName>Kevin</FirstName>
+                <LastName>Koffi</LastName>
+                <Position>ST</Position>
+                <Pace>79</Pace>
+                <Shooting>62</Shooting>
+                <Passing>48</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>54</Stamina>
+                <Club>KVC Westerlo</Club>
+                <DateOfBirth>25-06-1986</DateOfBirth>
+            </Player>
+            <Player id="5816">
+                <FirstName>Koen</FirstName>
+                <LastName>Van Langendonck</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>23</Stamina>
+                <Club>KVC Westerlo</Club>
+                <DateOfBirth>09-06-1989</DateOfBirth>
+            </Player>
+            <Player id="5851">
+                <FirstName>Mitch</FirstName>
+                <LastName>Apau</LastName>
+                <Position>RB</Position>
+                <Pace>80</Pace>
+                <Shooting>37</Shooting>
+                <Passing>51</Passing>
+                <Offensive>44</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>70</Stamina>
+                <Club>KVC Westerlo</Club>
+                <DateOfBirth>27-04-1990</DateOfBirth>
+            </Player>
+            <Player id="6173">
+                <FirstName>Jarno</FirstName>
+                <LastName>Molenberghs</LastName>
+                <Position>RM</Position>
+                <Pace>69</Pace>
+                <Shooting>56</Shooting>
+                <Passing>61</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>36</Defensive>
+                <Stamina>65</Stamina>
+                <Club>KVC Westerlo</Club>
+                <DateOfBirth>11-12-1989</DateOfBirth>
+            </Player>
+            <Player id="6375">
+                <FirstName>Michaël</FirstName>
+                <LastName>Cordier</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>32</Stamina>
+                <Club>KVC Westerlo</Club>
+                <DateOfBirth>27-03-1984</DateOfBirth>
+            </Player>
+            <Player id="7584">
+                <FirstName>Frédéric</FirstName>
+                <LastName>Gounongbe</LastName>
+                <Position>ST</Position>
+                <Pace>67</Pace>
+                <Shooting>62</Shooting>
+                <Passing>46</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>59</Stamina>
+                <Club>KVC Westerlo</Club>
+                <DateOfBirth>01-05-1988</DateOfBirth>
+            </Player>
+            <Player id="9895">
+                <FirstName>Nicolas</FirstName>
+                <LastName>Rommens</LastName>
+                <Position>RM</Position>
+                <Pace>58</Pace>
+                <Shooting>36</Shooting>
+                <Passing>54</Passing>
+                <Offensive>45</Offensive>
+                <Defensive>46</Defensive>
+                <Stamina>56</Stamina>
+                <Club>KVC Westerlo</Club>
+                <DateOfBirth>17-12-1994</DateOfBirth>
+            </Player>
+            <Player id="10195">
+                <FirstName>Arno</FirstName>
+                <LastName>Verschueren</LastName>
+                <Position>LB</Position>
+                <Pace>60</Pace>
+                <Shooting>26</Shooting>
+                <Passing>56</Passing>
+                <Offensive>41</Offensive>
+                <Defensive>59</Defensive>
+                <Stamina>56</Stamina>
+                <Club>KVC Westerlo</Club>
+                <DateOfBirth>08-04-1997</DateOfBirth>
+            </Player>
+            <Player id="11175">
+                <FirstName>Brian</FirstName>
+                <LastName>Gielen</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>24</Stamina>
+                <Club>KVC Westerlo</Club>
+                <DateOfBirth>23-09-1996</DateOfBirth>
+            </Player>
+            <Player id="12268">
+                <FirstName>Evander</FirstName>
+                <LastName>Sno</LastName>
+                <Position>CM</Position>
+                <Pace>52</Pace>
+                <Shooting>66</Shooting>
+                <Passing>68</Passing>
+                <Offensive>67</Offensive>
+                <Defensive>68</Defensive>
+                <Stamina>80</Stamina>
+                <Club>KVC Westerlo</Club>
+                <DateOfBirth>09-04-1987</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="KSV Cercle Brugge">
+            <Player id="3855">
+                <FirstName>Hans</FirstName>
+                <LastName>Cornelis</LastName>
+                <Position>RB</Position>
+                <Pace>54</Pace>
+                <Shooting>58</Shooting>
+                <Passing>65</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>65</Defensive>
+                <Stamina>75</Stamina>
+                <Club>KSV Cercle Brugge</Club>
+                <DateOfBirth>13-10-1982</DateOfBirth>
+            </Player>
+            <Player id="3922">
+                <FirstName>Bart</FirstName>
+                <LastName>Buysse</LastName>
+                <Position>LB</Position>
+                <Pace>72</Pace>
+                <Shooting>43</Shooting>
+                <Passing>65</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>72</Stamina>
+                <Club>KSV Cercle Brugge</Club>
+                <DateOfBirth>16-10-1986</DateOfBirth>
+            </Player>
+            <Player id="4113">
+                <FirstName>Stef</FirstName>
+                <LastName>Wils</LastName>
+                <Position>CB</Position>
+                <Pace>48</Pace>
+                <Shooting>42</Shooting>
+                <Passing>53</Passing>
+                <Offensive>47</Offensive>
+                <Defensive>65</Defensive>
+                <Stamina>65</Stamina>
+                <Club>KSV Cercle Brugge</Club>
+                <DateOfBirth>02-08-1982</DateOfBirth>
+            </Player>
+            <Player id="4297">
+                <FirstName>Kristof</FirstName>
+                <LastName>D'Haene</LastName>
+                <Position>LW</Position>
+                <Pace>74</Pace>
+                <Shooting>56</Shooting>
+                <Passing>58</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>49</Defensive>
+                <Stamina>66</Stamina>
+                <Club>KSV Cercle Brugge</Club>
+                <DateOfBirth>06-06-1990</DateOfBirth>
+            </Player>
+            <Player id="4902">
+                <FirstName>Stipe</FirstName>
+                <LastName>Bačelić-Grgić</LastName>
+                <Position>CAM</Position>
+                <Pace>73</Pace>
+                <Shooting>52</Shooting>
+                <Passing>67</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>41</Defensive>
+                <Stamina>70</Stamina>
+                <Club>KSV Cercle Brugge</Club>
+                <DateOfBirth>16-02-1988</DateOfBirth>
+            </Player>
+            <Player id="5324">
+                <FirstName>Pierre</FirstName>
+                <LastName>Bourdin</LastName>
+                <Position>CB</Position>
+                <Pace>66</Pace>
+                <Shooting>26</Shooting>
+                <Passing>48</Passing>
+                <Offensive>37</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>59</Stamina>
+                <Club>KSV Cercle Brugge</Club>
+                <DateOfBirth>06-01-1994</DateOfBirth>
+            </Player>
+            <Player id="5767">
+                <FirstName>Junior</FirstName>
+                <LastName>Kabananga</LastName>
+                <Position>ST</Position>
+                <Pace>75</Pace>
+                <Shooting>63</Shooting>
+                <Passing>52</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>64</Stamina>
+                <Club>KSV Cercle Brugge</Club>
+                <DateOfBirth>04-04-1989</DateOfBirth>
+            </Player>
+            <Player id="5771">
+                <FirstName>Karel</FirstName>
+                <LastName>Van Roose</LastName>
+                <Position>CDM</Position>
+                <Pace>63</Pace>
+                <Shooting>41</Shooting>
+                <Passing>57</Passing>
+                <Offensive>49</Offensive>
+                <Defensive>65</Defensive>
+                <Stamina>69</Stamina>
+                <Club>KSV Cercle Brugge</Club>
+                <DateOfBirth>01-04-1990</DateOfBirth>
+            </Player>
+            <Player id="6053">
+                <FirstName>Frederik</FirstName>
+                <LastName>Boi</LastName>
+                <Position>RW</Position>
+                <Pace>62</Pace>
+                <Shooting>66</Shooting>
+                <Passing>65</Passing>
+                <Offensive>65</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>86</Stamina>
+                <Club>KSV Cercle Brugge</Club>
+                <DateOfBirth>25-10-1981</DateOfBirth>
+            </Player>
+            <Player id="6180">
+                <FirstName>Joey</FirstName>
+                <LastName>Godée</LastName>
+                <Position>RW</Position>
+                <Pace>74</Pace>
+                <Shooting>61</Shooting>
+                <Passing>57</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>39</Defensive>
+                <Stamina>65</Stamina>
+                <Club>KSV Cercle Brugge</Club>
+                <DateOfBirth>02-03-1989</DateOfBirth>
+            </Player>
+            <Player id="6636">
+                <FirstName>Noë</FirstName>
+                <LastName>Dussenne</LastName>
+                <Position>CB</Position>
+                <Pace>62</Pace>
+                <Shooting>29</Shooting>
+                <Passing>44</Passing>
+                <Offensive>36</Offensive>
+                <Defensive>65</Defensive>
+                <Stamina>64</Stamina>
+                <Club>KSV Cercle Brugge</Club>
+                <DateOfBirth>07-04-1992</DateOfBirth>
+            </Player>
+            <Player id="10290">
+                <FirstName>Dennes</FirstName>
+                <LastName>De Kegel</LastName>
+                <Position>RB</Position>
+                <Pace>69</Pace>
+                <Shooting>30</Shooting>
+                <Passing>48</Passing>
+                <Offensive>39</Offensive>
+                <Defensive>57</Defensive>
+                <Stamina>53</Stamina>
+                <Club>KSV Cercle Brugge</Club>
+                <DateOfBirth>07-01-1994</DateOfBirth>
+            </Player>
+            <Player id="10885">
+                <FirstName>Jasper</FirstName>
+                <LastName>Ameye</LastName>
+                <Position>CB</Position>
+                <Pace>47</Pace>
+                <Shooting>32</Shooting>
+                <Passing>37</Passing>
+                <Offensive>34</Offensive>
+                <Defensive>53</Defensive>
+                <Stamina>43</Stamina>
+                <Club>KSV Cercle Brugge</Club>
+                <DateOfBirth>20-04-1994</DateOfBirth>
+            </Player>
+            <Player id="11014">
+                <FirstName>Miguel</FirstName>
+                <LastName>Van Damme</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>38</Stamina>
+                <Club>KSV Cercle Brugge</Club>
+                <DateOfBirth>25-09-1993</DateOfBirth>
+            </Player>
+            <Player id="11302">
+                <FirstName>Mathieu</FirstName>
+                <LastName>Maertens</LastName>
+                <Position>CM</Position>
+                <Pace>61</Pace>
+                <Shooting>38</Shooting>
+                <Passing>53</Passing>
+                <Offensive>45</Offensive>
+                <Defensive>46</Defensive>
+                <Stamina>50</Stamina>
+                <Club>KSV Cercle Brugge</Club>
+                <DateOfBirth>27-03-1995</DateOfBirth>
+            </Player>
+            <Player id="11330">
+                <FirstName>Jilke</FirstName>
+                <LastName>De Coninck</LastName>
+                <Position>CM</Position>
+                <Pace>66</Pace>
+                <Shooting>39</Shooting>
+                <Passing>51</Passing>
+                <Offensive>45</Offensive>
+                <Defensive>43</Defensive>
+                <Stamina>59</Stamina>
+                <Club>KSV Cercle Brugge</Club>
+                <DateOfBirth>09-01-1995</DateOfBirth>
+            </Player>
+            <Player id="11501">
+                <FirstName>Gilles</FirstName>
+                <LastName>Dewaele</LastName>
+                <Position>CM</Position>
+                <Pace>66</Pace>
+                <Shooting>38</Shooting>
+                <Passing>50</Passing>
+                <Offensive>44</Offensive>
+                <Defensive>39</Defensive>
+                <Stamina>62</Stamina>
+                <Club>KSV Cercle Brugge</Club>
+                <DateOfBirth>13-02-1996</DateOfBirth>
+            </Player>
+            <Player id="11514">
+                <FirstName>Thomas</FirstName>
+                <LastName>De Bie</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>20</Stamina>
+                <Club>KSV Cercle Brugge</Club>
+                <DateOfBirth>29-01-1997</DateOfBirth>
+            </Player>
+        </Team>
+    </League>
+</Players>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import javafx.scene.effect.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.collections.*?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.cell.*?>
+<?import fxmltableview.*?>
+<?import nl.tudelft.footballmanager.model.*?>
+
+<BorderPane prefHeight="720.0" prefWidth="1280.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="nl.tudelft.footballmanager.ui.controller.RootViewController">
+    <top>
+        <ToolBar prefHeight="40.0" prefWidth="200.0" BorderPane.alignment="CENTER">
+            <items>
+                <Button fx:id="saveGameButton" mnemonicParsing="false" text="Save Game..." />
+                <Button fx:id="loadGameButton" mnemonicParsing="false" text="Load Game..." />
+                <MenuButton mnemonicParsing="false" text="Options">
+                    <items>
+                        <MenuItem fx:id="saveAndQuitMenuItem" mnemonicParsing="false" text="Save and Return to Menu" />
+                  <MenuItem fx:id="saveAndQuitDesktopMenuItem" mnemonicParsing="false" text="Save and Quit to Desktop" />
+                  <MenuItem fx:id="quitMenuMenuItem" mnemonicParsing="false" text="Quit to Menu" />
+                        <MenuItem fx:id="quitDesktopMenuItem" mnemonicParsing="false" text="Quit to Desktop" />
+                    </items>
+                </MenuButton>
+            <Label fx:id="yourTeamNameLabel" contentDisplay="RIGHT" prefHeight="17.0" prefWidth="315.0" text="#YourTeamName" />
+            <Label fx:id="leagueNameLabel" prefHeight="17.0" prefWidth="306.0" text="#LeagueName" />
+            </items>
+        </ToolBar>
+    </top>
+    <right>
+        <SplitPane dividerPositions="0.7509" maxWidth="324.0" minWidth="324.0" orientation="VERTICAL" prefHeight="680.0" prefWidth="324.0" BorderPane.alignment="CENTER">
+            <items>
+                <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="506.0" prefWidth="272.0">
+               <children>
+                  <TableView fx:id="leagueScoreboardTableView" layoutX="26.0" layoutY="60.0" prefHeight="432.0" prefWidth="279.0" AnchorPane.bottomAnchor="14.0" AnchorPane.leftAnchor="14.0" AnchorPane.rightAnchor="14.0" AnchorPane.topAnchor="60.0">
+                     <columnResizePolicy>
+                        <TableView fx:constant="CONSTRAINED_RESIZE_POLICY" />
+                     </columnResizePolicy>
+                     <columns>
+                        <TableColumn fx:id="leagueTeamTableColumn" minWidth="120.0" prefWidth="200.0" text="Team">
+                           <cellValueFactory>
+                              <PropertyValueFactory property="name" />
+                           </cellValueFactory>
+                        </TableColumn>
+                        <TableColumn fx:id="leagueScoreTableColumn" minWidth="20.0" prefWidth="20.0" text="Score" />
+                     </columns>
+                  </TableView>
+                  <GridPane layoutX="20.0" layoutY="14.0" prefHeight="35.0" prefWidth="291.0" AnchorPane.leftAnchor="20.0" AnchorPane.rightAnchor="20.0" AnchorPane.topAnchor="14.0">
+                     <children>
+                        <Label text="Balance:" />
+                        <Label fx:id="teamBalanceLabel" text="#Balance" GridPane.columnIndex="1" />
+                     </children>
+                     <columnConstraints>
+                        <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                        <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                     </columnConstraints>
+                     <rowConstraints>
+                        <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                     </rowConstraints>
+                  </GridPane>
+               </children>
+                </AnchorPane>
+                <AnchorPane maxHeight="160.0" minHeight="160.0" minWidth="0.0" prefHeight="100.0" prefWidth="160.0">
+                    <children>
+                        <Button fx:id="nextRoundButton" layoutX="22.0" layoutY="75.0" mnemonicParsing="false" prefHeight="47.0" prefWidth="148.0" text="To next gameday" AnchorPane.bottomAnchor="10.0" AnchorPane.leftAnchor="20.0" AnchorPane.rightAnchor="20.0" />
+                        <HBox alignment="CENTER" layoutX="15.0" layoutY="31.0" AnchorPane.leftAnchor="15.0" AnchorPane.rightAnchor="15.0" AnchorPane.topAnchor="30.0">
+                            <children>
+                                <Label layoutX="44.0" layoutY="31.0" text="Gameday: ">
+                           <font>
+                              <Font size="24.0" />
+                           </font></Label>
+                                <Label fx:id="gamesPlayed" alignment="CENTER_RIGHT" contentDisplay="RIGHT" text="#gamesPlayed">
+                           <font>
+                              <Font size="24.0" />
+                           </font></Label>
+                            </children>
+                        </HBox>
+                    </children>
+                </AnchorPane>
+            </items>
+        </SplitPane>
+    </right>
+</BorderPane>

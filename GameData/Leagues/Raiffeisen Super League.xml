@@ -1,0 +1,2616 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Players>
+    <League Name="Raiffeisen Super League">
+        <Team Name="FC Basel 1893">
+            <Player id="105">
+                <FirstName>Marco</FirstName>
+                <LastName>Streller</LastName>
+                <Position>ST</Position>
+                <Pace>49</Pace>
+                <Shooting>72</Shooting>
+                <Passing>67</Passing>
+                <Offensive>69</Offensive>
+                <Defensive>47</Defensive>
+                <Stamina>49</Stamina>
+                <Club>FC Basel 1893</Club>
+                <DateOfBirth>18-06-1981</DateOfBirth>
+            </Player>
+            <Player id="155">
+                <FirstName>Marcelo</FirstName>
+                <LastName>Díaz</LastName>
+                <Position>CM</Position>
+                <Pace>71</Pace>
+                <Shooting>63</Shooting>
+                <Passing>75</Passing>
+                <Offensive>69</Offensive>
+                <Defensive>71</Defensive>
+                <Stamina>85</Stamina>
+                <Club>FC Basel 1893</Club>
+                <DateOfBirth>30-12-1986</DateOfBirth>
+            </Player>
+            <Player id="212">
+                <FirstName>Tomáš</FirstName>
+                <LastName>Vaclík</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>35</Stamina>
+                <Club>FC Basel 1893</Club>
+                <DateOfBirth>29-03-1989</DateOfBirth>
+            </Player>
+            <Player id="901">
+                <FirstName>Yoichiro</FirstName>
+                <LastName>Kakitani</LastName>
+                <Position>ST</Position>
+                <Pace>83</Pace>
+                <Shooting>69</Shooting>
+                <Passing>44</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>60</Stamina>
+                <Club>FC Basel 1893</Club>
+                <DateOfBirth>03-01-1990</DateOfBirth>
+            </Player>
+            <Player id="2210">
+                <FirstName>Behrang</FirstName>
+                <LastName>Safari</LastName>
+                <Position>LB</Position>
+                <Pace>84</Pace>
+                <Shooting>43</Shooting>
+                <Passing>66</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>80</Stamina>
+                <Club>FC Basel 1893</Club>
+                <DateOfBirth>09-02-1985</DateOfBirth>
+            </Player>
+            <Player id="2288">
+                <FirstName>Ivan</FirstName>
+                <LastName>Ivanov</LastName>
+                <Position>CB</Position>
+                <Pace>68</Pace>
+                <Shooting>31</Shooting>
+                <Passing>43</Passing>
+                <Offensive>37</Offensive>
+                <Defensive>68</Defensive>
+                <Stamina>73</Stamina>
+                <Club>FC Basel 1893</Club>
+                <DateOfBirth>25-02-1988</DateOfBirth>
+            </Player>
+            <Player id="2382">
+                <FirstName>Shkëlzen</FirstName>
+                <LastName>Gashi</LastName>
+                <Position>LM</Position>
+                <Pace>77</Pace>
+                <Shooting>76</Shooting>
+                <Passing>66</Passing>
+                <Offensive>71</Offensive>
+                <Defensive>53</Defensive>
+                <Stamina>75</Stamina>
+                <Club>FC Basel 1893</Club>
+                <DateOfBirth>15-07-1988</DateOfBirth>
+            </Player>
+            <Player id="4069">
+                <FirstName>Arlind</FirstName>
+                <LastName>Ajeti</LastName>
+                <Position>CB</Position>
+                <Pace>74</Pace>
+                <Shooting>35</Shooting>
+                <Passing>55</Passing>
+                <Offensive>45</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>73</Stamina>
+                <Club>FC Basel 1893</Club>
+                <DateOfBirth>25-09-1993</DateOfBirth>
+            </Player>
+            <Player id="4898">
+                <FirstName>Naser</FirstName>
+                <LastName>Aliji</LastName>
+                <Position>LB</Position>
+                <Pace>85</Pace>
+                <Shooting>35</Shooting>
+                <Passing>45</Passing>
+                <Offensive>40</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>82</Stamina>
+                <Club>FC Basel 1893</Club>
+                <DateOfBirth>27-12-1993</DateOfBirth>
+            </Player>
+            <Player id="6348">
+                <FirstName>Philipp</FirstName>
+                <LastName>Degen</LastName>
+                <Position>RB</Position>
+                <Pace>81</Pace>
+                <Shooting>47</Shooting>
+                <Passing>60</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>59</Defensive>
+                <Stamina>64</Stamina>
+                <Club>FC Basel 1893</Club>
+                <DateOfBirth>15-02-1983</DateOfBirth>
+            </Player>
+            <Player id="6358">
+                <FirstName>Davide</FirstName>
+                <LastName>Callà</LastName>
+                <Position>LM</Position>
+                <Pace>72</Pace>
+                <Shooting>64</Shooting>
+                <Passing>59</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>32</Defensive>
+                <Stamina>72</Stamina>
+                <Club>FC Basel 1893</Club>
+                <DateOfBirth>06-10-1984</DateOfBirth>
+            </Player>
+            <Player id="7117">
+                <FirstName>Luca</FirstName>
+                <LastName>Zuffi</LastName>
+                <Position>CM</Position>
+                <Pace>63</Pace>
+                <Shooting>60</Shooting>
+                <Passing>68</Passing>
+                <Offensive>64</Offensive>
+                <Defensive>43</Defensive>
+                <Stamina>82</Stamina>
+                <Club>FC Basel 1893</Club>
+                <DateOfBirth>27-03-1990</DateOfBirth>
+            </Player>
+            <Player id="7651">
+                <FirstName>Albian</FirstName>
+                <LastName>Ajeti</LastName>
+                <Position>ST</Position>
+                <Pace>74</Pace>
+                <Shooting>59</Shooting>
+                <Passing>45</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>70</Stamina>
+                <Club>FC Basel 1893</Club>
+                <DateOfBirth>26-02-1997</DateOfBirth>
+            </Player>
+            <Player id="7923">
+                <FirstName>Germano</FirstName>
+                <LastName>Vailati</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>27</Stamina>
+                <Club>FC Basel 1893</Club>
+                <DateOfBirth>30-08-1980</DateOfBirth>
+            </Player>
+            <Player id="9077">
+                <FirstName>Walter</FirstName>
+                <LastName>Samuel</LastName>
+                <Position>CB</Position>
+                <Pace>38</Pace>
+                <Shooting>40</Shooting>
+                <Passing>49</Passing>
+                <Offensive>44</Offensive>
+                <Defensive>80</Defensive>
+                <Stamina>28</Stamina>
+                <Club>FC Basel 1893</Club>
+                <DateOfBirth>23-03-1978</DateOfBirth>
+            </Player>
+            <Player id="10415">
+                <FirstName>Fabian</FirstName>
+                <LastName>Schär</LastName>
+                <Position>CB</Position>
+                <Pace>78</Pace>
+                <Shooting>67</Shooting>
+                <Passing>70</Passing>
+                <Offensive>68</Offensive>
+                <Defensive>75</Defensive>
+                <Stamina>81</Stamina>
+                <Club>FC Basel 1893</Club>
+                <DateOfBirth>20-12-1991</DateOfBirth>
+            </Player>
+            <Player id="12274">
+                <FirstName>Marek</FirstName>
+                <LastName>Suchý</LastName>
+                <Position>CB</Position>
+                <Pace>76</Pace>
+                <Shooting>54</Shooting>
+                <Passing>54</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>72</Defensive>
+                <Stamina>78</Stamina>
+                <Club>FC Basel 1893</Club>
+                <DateOfBirth>29-03-1988</DateOfBirth>
+            </Player>
+            <Player id="12434">
+                <FirstName>Matías Emilio</FirstName>
+                <LastName>Delgado</LastName>
+                <Position>CAM</Position>
+                <Pace>66</Pace>
+                <Shooting>67</Shooting>
+                <Passing>76</Passing>
+                <Offensive>71</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>63</Stamina>
+                <Club>FC Basel 1893</Club>
+                <DateOfBirth>15-12-1982</DateOfBirth>
+            </Player>
+            <Player id="12705">
+                <FirstName>Giovanni</FirstName>
+                <LastName>Sio</LastName>
+                <Position>ST</Position>
+                <Pace>91</Pace>
+                <Shooting>69</Shooting>
+                <Passing>70</Passing>
+                <Offensive>69</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>80</Stamina>
+                <Club>FC Basel 1893</Club>
+                <DateOfBirth>31-03-1989</DateOfBirth>
+            </Player>
+            <Player id="12871">
+                <FirstName>Fabian</FirstName>
+                <LastName>Frei</LastName>
+                <Position>CM</Position>
+                <Pace>75</Pace>
+                <Shooting>72</Shooting>
+                <Passing>73</Passing>
+                <Offensive>72</Offensive>
+                <Defensive>67</Defensive>
+                <Stamina>91</Stamina>
+                <Club>FC Basel 1893</Club>
+                <DateOfBirth>08-01-1989</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="FC Zürich">
+            <Player id="163">
+                <FirstName>Mario</FirstName>
+                <LastName>Gavranović</LastName>
+                <Position>ST</Position>
+                <Pace>78</Pace>
+                <Shooting>67</Shooting>
+                <Passing>59</Passing>
+                <Offensive>63</Offensive>
+                <Defensive>38</Defensive>
+                <Stamina>65</Stamina>
+                <Club>FC Zürich</Club>
+                <DateOfBirth>24-11-1989</DateOfBirth>
+            </Player>
+            <Player id="816">
+                <FirstName>Amine</FirstName>
+                <LastName>Chermiti</LastName>
+                <Position>ST</Position>
+                <Pace>78</Pace>
+                <Shooting>69</Shooting>
+                <Passing>61</Passing>
+                <Offensive>65</Offensive>
+                <Defensive>34</Defensive>
+                <Stamina>70</Stamina>
+                <Club>FC Zürich</Club>
+                <DateOfBirth>26-12-1987</DateOfBirth>
+            </Player>
+            <Player id="1824">
+                <FirstName>Franck</FirstName>
+                <LastName>Etoundi</LastName>
+                <Position>ST</Position>
+                <Pace>78</Pace>
+                <Shooting>65</Shooting>
+                <Passing>59</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>39</Defensive>
+                <Stamina>75</Stamina>
+                <Club>FC Zürich</Club>
+                <DateOfBirth>30-08-1990</DateOfBirth>
+            </Player>
+            <Player id="5419">
+                <FirstName>Burim</FirstName>
+                <LastName>Kukeli</LastName>
+                <Position>CDM</Position>
+                <Pace>65</Pace>
+                <Shooting>48</Shooting>
+                <Passing>60</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>79</Stamina>
+                <Club>FC Zürich</Club>
+                <DateOfBirth>16-01-1984</DateOfBirth>
+            </Player>
+            <Player id="6891">
+                <FirstName>Ivan</FirstName>
+                <LastName>Kecojević</LastName>
+                <Position>CB</Position>
+                <Pace>63</Pace>
+                <Shooting>29</Shooting>
+                <Passing>43</Passing>
+                <Offensive>36</Offensive>
+                <Defensive>59</Defensive>
+                <Stamina>62</Stamina>
+                <Club>FC Zürich</Club>
+                <DateOfBirth>10-04-1988</DateOfBirth>
+            </Player>
+            <Player id="7880">
+                <FirstName>Avi</FirstName>
+                <LastName>Rikan</LastName>
+                <Position>CM</Position>
+                <Pace>69</Pace>
+                <Shooting>56</Shooting>
+                <Passing>63</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>49</Defensive>
+                <Stamina>67</Stamina>
+                <Club>FC Zürich</Club>
+                <DateOfBirth>10-09-1988</DateOfBirth>
+            </Player>
+            <Player id="8877">
+                <FirstName>Anthony</FirstName>
+                <LastName>Favre</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>38</Stamina>
+                <Club>FC Zürich</Club>
+                <DateOfBirth>01-02-1984</DateOfBirth>
+            </Player>
+            <Player id="9966">
+                <FirstName>Asmir</FirstName>
+                <LastName>Kajević</LastName>
+                <Position>CM</Position>
+                <Pace>70</Pace>
+                <Shooting>38</Shooting>
+                <Passing>58</Passing>
+                <Offensive>48</Offensive>
+                <Defensive>56</Defensive>
+                <Stamina>79</Stamina>
+                <Club>FC Zürich</Club>
+                <DateOfBirth>15-02-1990</DateOfBirth>
+            </Player>
+            <Player id="10346">
+                <FirstName>Berat</FirstName>
+                <LastName>Djimsiti</LastName>
+                <Position>CB</Position>
+                <Pace>45</Pace>
+                <Shooting>29</Shooting>
+                <Passing>43</Passing>
+                <Offensive>36</Offensive>
+                <Defensive>55</Defensive>
+                <Stamina>55</Stamina>
+                <Club>FC Zürich</Club>
+                <DateOfBirth>19-02-1993</DateOfBirth>
+            </Player>
+            <Player id="10748">
+                <FirstName>Maurice</FirstName>
+                <LastName>Brunner</LastName>
+                <Position>LM</Position>
+                <Pace>63</Pace>
+                <Shooting>47</Shooting>
+                <Passing>48</Passing>
+                <Offensive>47</Offensive>
+                <Defensive>38</Defensive>
+                <Stamina>83</Stamina>
+                <Club>FC Zürich</Club>
+                <DateOfBirth>29-01-1991</DateOfBirth>
+            </Player>
+            <Player id="10961">
+                <FirstName>Yassine</FirstName>
+                <LastName>Chikhaoui</LastName>
+                <Position>ST</Position>
+                <Pace>84</Pace>
+                <Shooting>73</Shooting>
+                <Passing>80</Passing>
+                <Offensive>76</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>77</Stamina>
+                <Club>FC Zürich</Club>
+                <DateOfBirth>22-09-1986</DateOfBirth>
+            </Player>
+            <Player id="11384">
+                <FirstName>Andres</FirstName>
+                <LastName>Malloth</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>25</Stamina>
+                <Club>FC Zürich</Club>
+                <DateOfBirth>27-11-1992</DateOfBirth>
+            </Player>
+            <Player id="11385">
+                <FirstName>Cédric</FirstName>
+                <LastName>Brunner</LastName>
+                <Position>CDM</Position>
+                <Pace>61</Pace>
+                <Shooting>57</Shooting>
+                <Passing>41</Passing>
+                <Offensive>49</Offensive>
+                <Defensive>52</Defensive>
+                <Stamina>70</Stamina>
+                <Club>FC Zürich</Club>
+                <DateOfBirth>17-02-1994</DateOfBirth>
+            </Player>
+            <Player id="11421">
+                <FirstName>Mike</FirstName>
+                <LastName>Kleiber</LastName>
+                <Position>RM</Position>
+                <Pace>71</Pace>
+                <Shooting>46</Shooting>
+                <Passing>48</Passing>
+                <Offensive>47</Offensive>
+                <Defensive>26</Defensive>
+                <Stamina>45</Stamina>
+                <Club>FC Zürich</Club>
+                <DateOfBirth>04-02-1993</DateOfBirth>
+            </Player>
+            <Player id="11530">
+                <FirstName>Patrick</FirstName>
+                <LastName>Rossini</LastName>
+                <Position>ST</Position>
+                <Pace>54</Pace>
+                <Shooting>54</Shooting>
+                <Passing>39</Passing>
+                <Offensive>46</Offensive>
+                <Defensive>39</Defensive>
+                <Stamina>60</Stamina>
+                <Club>FC Zürich</Club>
+                <DateOfBirth>02-04-1988</DateOfBirth>
+            </Player>
+            <Player id="11581">
+                <FirstName>Armin</FirstName>
+                <LastName>Alesevic</LastName>
+                <Position>CB</Position>
+                <Pace>61</Pace>
+                <Shooting>27</Shooting>
+                <Passing>28</Passing>
+                <Offensive>27</Offensive>
+                <Defensive>53</Defensive>
+                <Stamina>56</Stamina>
+                <Club>FC Zürich</Club>
+                <DateOfBirth>06-03-1994</DateOfBirth>
+            </Player>
+            <Player id="12822">
+                <FirstName>Davide</FirstName>
+                <LastName>Chiumiento</LastName>
+                <Position>CAM</Position>
+                <Pace>73</Pace>
+                <Shooting>64</Shooting>
+                <Passing>74</Passing>
+                <Offensive>69</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>68</Stamina>
+                <Club>FC Zürich</Club>
+                <DateOfBirth>22-11-1984</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Grasshopper-Club">
+            <Player id="225">
+                <FirstName>Veroljub</FirstName>
+                <LastName>Salatić</LastName>
+                <Position>CDM</Position>
+                <Pace>58</Pace>
+                <Shooting>55</Shooting>
+                <Passing>64</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>71</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Grasshopper-Club</Club>
+                <DateOfBirth>14-11-1985</DateOfBirth>
+            </Player>
+            <Player id="1561">
+                <FirstName>Alexander</FirstName>
+                <LastName>Merkel</LastName>
+                <Position>CM</Position>
+                <Pace>72</Pace>
+                <Shooting>61</Shooting>
+                <Passing>72</Passing>
+                <Offensive>66</Offensive>
+                <Defensive>46</Defensive>
+                <Stamina>73</Stamina>
+                <Club>Grasshopper-Club</Club>
+                <DateOfBirth>22-02-1992</DateOfBirth>
+            </Player>
+            <Player id="1692">
+                <FirstName>Caio César</FirstName>
+                <LastName>Alves dos Santos</LastName>
+                <Position>LM</Position>
+                <Pace>62</Pace>
+                <Shooting>71</Shooting>
+                <Passing>72</Passing>
+                <Offensive>71</Offensive>
+                <Defensive>36</Defensive>
+                <Stamina>29</Stamina>
+                <Club>Grasshopper-Club</Club>
+                <DateOfBirth>29-05-1986</DateOfBirth>
+            </Player>
+            <Player id="1867">
+                <FirstName>Sanel</FirstName>
+                <LastName>Jahic</LastName>
+                <Position>CB</Position>
+                <Pace>73</Pace>
+                <Shooting>49</Shooting>
+                <Passing>59</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>68</Defensive>
+                <Stamina>76</Stamina>
+                <Club>Grasshopper-Club</Club>
+                <DateOfBirth>10-12-1981</DateOfBirth>
+            </Player>
+            <Player id="2071">
+                <FirstName>Daniel</FirstName>
+                <LastName>Davari</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>38</Stamina>
+                <Club>Grasshopper-Club</Club>
+                <DateOfBirth>06-01-1988</DateOfBirth>
+            </Player>
+            <Player id="3188">
+                <FirstName>Michael</FirstName>
+                <LastName>Dingsdag</LastName>
+                <Position>CB</Position>
+                <Pace>61</Pace>
+                <Shooting>59</Shooting>
+                <Passing>59</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>67</Defensive>
+                <Stamina>73</Stamina>
+                <Club>Grasshopper-Club</Club>
+                <DateOfBirth>18-10-1982</DateOfBirth>
+            </Player>
+            <Player id="3540">
+                <FirstName>Anatole</FirstName>
+                <LastName>Ngamukol</LastName>
+                <Position>ST</Position>
+                <Pace>92</Pace>
+                <Shooting>62</Shooting>
+                <Passing>48</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>63</Stamina>
+                <Club>Grasshopper-Club</Club>
+                <DateOfBirth>15-01-1988</DateOfBirth>
+            </Player>
+            <Player id="4489">
+                <FirstName>Yoric</FirstName>
+                <LastName>Ravet</LastName>
+                <Position>RM</Position>
+                <Pace>74</Pace>
+                <Shooting>56</Shooting>
+                <Passing>61</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>36</Defensive>
+                <Stamina>61</Stamina>
+                <Club>Grasshopper-Club</Club>
+                <DateOfBirth>12-09-1989</DateOfBirth>
+            </Player>
+            <Player id="5315">
+                <FirstName>Mahmoud</FirstName>
+                <LastName>Kahraba</LastName>
+                <Position>CAM</Position>
+                <Pace>82</Pace>
+                <Shooting>61</Shooting>
+                <Passing>54</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>68</Stamina>
+                <Club>Grasshopper-Club</Club>
+                <DateOfBirth>13-04-1994</DateOfBirth>
+            </Player>
+            <Player id="6275">
+                <FirstName>Nathan</FirstName>
+                <LastName>Sinkala</LastName>
+                <Position>CDM</Position>
+                <Pace>71</Pace>
+                <Shooting>32</Shooting>
+                <Passing>56</Passing>
+                <Offensive>44</Offensive>
+                <Defensive>65</Defensive>
+                <Stamina>73</Stamina>
+                <Club>Grasshopper-Club</Club>
+                <DateOfBirth>22-11-1990</DateOfBirth>
+            </Player>
+            <Player id="7410">
+                <FirstName>Daniel</FirstName>
+                <LastName>Pavlovic</LastName>
+                <Position>LB</Position>
+                <Pace>63</Pace>
+                <Shooting>40</Shooting>
+                <Passing>58</Passing>
+                <Offensive>49</Offensive>
+                <Defensive>61</Defensive>
+                <Stamina>73</Stamina>
+                <Club>Grasshopper-Club</Club>
+                <DateOfBirth>22-04-1988</DateOfBirth>
+            </Player>
+            <Player id="8050">
+                <FirstName>Munas</FirstName>
+                <LastName>Dabbur</LastName>
+                <Position>ST</Position>
+                <Pace>60</Pace>
+                <Shooting>64</Shooting>
+                <Passing>42</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>27</Defensive>
+                <Stamina>58</Stamina>
+                <Club>Grasshopper-Club</Club>
+                <DateOfBirth>14-05-1992</DateOfBirth>
+            </Player>
+            <Player id="10192">
+                <FirstName>Vaso</FirstName>
+                <LastName>Vasic</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>25</Stamina>
+                <Club>Grasshopper-Club</Club>
+                <DateOfBirth>26-04-1990</DateOfBirth>
+            </Player>
+            <Player id="10330">
+                <FirstName>Gianluca</FirstName>
+                <LastName>Hossmann</LastName>
+                <Position>LB</Position>
+                <Pace>69</Pace>
+                <Shooting>47</Shooting>
+                <Passing>54</Passing>
+                <Offensive>50</Offensive>
+                <Defensive>54</Defensive>
+                <Stamina>65</Stamina>
+                <Club>Grasshopper-Club</Club>
+                <DateOfBirth>25-03-1991</DateOfBirth>
+            </Player>
+            <Player id="10749">
+                <FirstName>Imran</FirstName>
+                <LastName>Bunjaku</LastName>
+                <Position>CM</Position>
+                <Pace>65</Pace>
+                <Shooting>48</Shooting>
+                <Passing>52</Passing>
+                <Offensive>50</Offensive>
+                <Defensive>51</Defensive>
+                <Stamina>61</Stamina>
+                <Club>Grasshopper-Club</Club>
+                <DateOfBirth>18-10-1992</DateOfBirth>
+            </Player>
+            <Player id="11044">
+                <FirstName>Levent</FirstName>
+                <LastName>Gülen</LastName>
+                <Position>CB</Position>
+                <Pace>63</Pace>
+                <Shooting>28</Shooting>
+                <Passing>39</Passing>
+                <Offensive>33</Offensive>
+                <Defensive>53</Defensive>
+                <Stamina>62</Stamina>
+                <Club>Grasshopper-Club</Club>
+                <DateOfBirth>24-02-1994</DateOfBirth>
+            </Player>
+            <Player id="11383">
+                <FirstName>Shani</FirstName>
+                <LastName>Tarashaj</LastName>
+                <Position>ST</Position>
+                <Pace>56</Pace>
+                <Shooting>52</Shooting>
+                <Passing>38</Passing>
+                <Offensive>45</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>55</Stamina>
+                <Club>Grasshopper-Club</Club>
+                <DateOfBirth>07-02-1995</DateOfBirth>
+            </Player>
+            <Player id="11389">
+                <FirstName>Timothy</FirstName>
+                <LastName>Dieng</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>24</Stamina>
+                <Club>Grasshopper-Club</Club>
+                <DateOfBirth>23-11-1994</DateOfBirth>
+            </Player>
+            <Player id="11443">
+                <FirstName>Ulisses</FirstName>
+                <LastName>Garcia</LastName>
+                <Position>LB</Position>
+                <Pace>57</Pace>
+                <Shooting>26</Shooting>
+                <Passing>34</Passing>
+                <Offensive>30</Offensive>
+                <Defensive>51</Defensive>
+                <Stamina>64</Stamina>
+                <Club>Grasshopper-Club</Club>
+                <DateOfBirth>11-01-1996</DateOfBirth>
+            </Player>
+            <Player id="11685">
+                <FirstName>Abdulgabar</FirstName>
+                <LastName>Al Abbadie</LastName>
+                <Position>CM</Position>
+                <Pace>65</Pace>
+                <Shooting>37</Shooting>
+                <Passing>47</Passing>
+                <Offensive>42</Offensive>
+                <Defensive>39</Defensive>
+                <Stamina>57</Stamina>
+                <Club>Grasshopper-Club</Club>
+                <DateOfBirth>21-07-1994</DateOfBirth>
+            </Player>
+            <Player id="12626">
+                <FirstName>Stéphane</FirstName>
+                <LastName>Grichting</LastName>
+                <Position>CB</Position>
+                <Pace>43</Pace>
+                <Shooting>39</Shooting>
+                <Passing>50</Passing>
+                <Offensive>44</Offensive>
+                <Defensive>75</Defensive>
+                <Stamina>32</Stamina>
+                <Club>Grasshopper-Club</Club>
+                <DateOfBirth>30-03-1979</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="FC Luzern">
+            <Player id="268">
+                <FirstName>Jahmir</FirstName>
+                <LastName>Hyka</LastName>
+                <Position>LM</Position>
+                <Pace>82</Pace>
+                <Shooting>62</Shooting>
+                <Passing>60</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>34</Defensive>
+                <Stamina>81</Stamina>
+                <Club>FC Luzern</Club>
+                <DateOfBirth>08-03-1988</DateOfBirth>
+            </Player>
+            <Player id="464">
+                <FirstName>Jakob</FirstName>
+                <LastName>Jantscher</LastName>
+                <Position>LW</Position>
+                <Pace>76</Pace>
+                <Shooting>67</Shooting>
+                <Passing>68</Passing>
+                <Offensive>67</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>76</Stamina>
+                <Club>FC Luzern</Club>
+                <DateOfBirth>08-01-1989</DateOfBirth>
+            </Player>
+            <Player id="1460">
+                <FirstName>Marco</FirstName>
+                <LastName>Schneuwly</LastName>
+                <Position>ST</Position>
+                <Pace>74</Pace>
+                <Shooting>69</Shooting>
+                <Passing>58</Passing>
+                <Offensive>63</Offensive>
+                <Defensive>40</Defensive>
+                <Stamina>69</Stamina>
+                <Club>FC Luzern</Club>
+                <DateOfBirth>27-03-1985</DateOfBirth>
+            </Player>
+            <Player id="3406">
+                <FirstName>Oliver</FirstName>
+                <LastName>Bozanic</LastName>
+                <Position>CM</Position>
+                <Pace>77</Pace>
+                <Shooting>63</Shooting>
+                <Passing>66</Passing>
+                <Offensive>64</Offensive>
+                <Defensive>57</Defensive>
+                <Stamina>71</Stamina>
+                <Club>FC Luzern</Club>
+                <DateOfBirth>08-01-1989</DateOfBirth>
+            </Player>
+            <Player id="3980">
+                <FirstName>François</FirstName>
+                <LastName>Affolter</LastName>
+                <Position>CB</Position>
+                <Pace>77</Pace>
+                <Shooting>37</Shooting>
+                <Passing>59</Passing>
+                <Offensive>48</Offensive>
+                <Defensive>65</Defensive>
+                <Stamina>66</Stamina>
+                <Club>FC Luzern</Club>
+                <DateOfBirth>13-03-1991</DateOfBirth>
+            </Player>
+            <Player id="4215">
+                <FirstName>Adrian</FirstName>
+                <LastName>Winter</LastName>
+                <Position>RM</Position>
+                <Pace>83</Pace>
+                <Shooting>63</Shooting>
+                <Passing>59</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>50</Defensive>
+                <Stamina>78</Stamina>
+                <Club>FC Luzern</Club>
+                <DateOfBirth>08-07-1986</DateOfBirth>
+            </Player>
+            <Player id="5045">
+                <FirstName>Kaja</FirstName>
+                <LastName>Rogulj</LastName>
+                <Position>CB</Position>
+                <Pace>34</Pace>
+                <Shooting>26</Shooting>
+                <Passing>42</Passing>
+                <Offensive>34</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>51</Stamina>
+                <Club>FC Luzern</Club>
+                <DateOfBirth>15-06-1986</DateOfBirth>
+            </Player>
+            <Player id="5048">
+                <FirstName>Sally</FirstName>
+                <LastName>Sarr</LastName>
+                <Position>RB</Position>
+                <Pace>73</Pace>
+                <Shooting>44</Shooting>
+                <Passing>52</Passing>
+                <Offensive>48</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>80</Stamina>
+                <Club>FC Luzern</Club>
+                <DateOfBirth>06-05-1986</DateOfBirth>
+            </Player>
+            <Player id="5499">
+                <FirstName>Dario</FirstName>
+                <LastName>Lezcano</LastName>
+                <Position>ST</Position>
+                <Pace>77</Pace>
+                <Shooting>60</Shooting>
+                <Passing>62</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>41</Defensive>
+                <Stamina>66</Stamina>
+                <Club>FC Luzern</Club>
+                <DateOfBirth>30-06-1990</DateOfBirth>
+            </Player>
+            <Player id="6457">
+                <FirstName>Andrés</FirstName>
+                <LastName>Lamas</LastName>
+                <Position>CB</Position>
+                <Pace>49</Pace>
+                <Shooting>36</Shooting>
+                <Passing>42</Passing>
+                <Offensive>39</Offensive>
+                <Defensive>65</Defensive>
+                <Stamina>42</Stamina>
+                <Club>FC Luzern</Club>
+                <DateOfBirth>16-01-1984</DateOfBirth>
+            </Player>
+            <Player id="6488">
+                <FirstName>David</FirstName>
+                <LastName>Zibung</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>28</Stamina>
+                <Club>FC Luzern</Club>
+                <DateOfBirth>10-01-1984</DateOfBirth>
+            </Player>
+            <Player id="7409">
+                <FirstName>Claudio</FirstName>
+                <LastName>Lustenberger</LastName>
+                <Position>LB</Position>
+                <Pace>74</Pace>
+                <Shooting>46</Shooting>
+                <Passing>58</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>59</Defensive>
+                <Stamina>82</Stamina>
+                <Club>FC Luzern</Club>
+                <DateOfBirth>06-01-1987</DateOfBirth>
+            </Player>
+            <Player id="7500">
+                <FirstName>Jérôme</FirstName>
+                <LastName>Thiesson</LastName>
+                <Position>RB</Position>
+                <Pace>64</Pace>
+                <Shooting>54</Shooting>
+                <Passing>58</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>59</Defensive>
+                <Stamina>63</Stamina>
+                <Club>FC Luzern</Club>
+                <DateOfBirth>06-08-1987</DateOfBirth>
+            </Player>
+            <Player id="8766">
+                <FirstName>Claudio</FirstName>
+                <LastName>Holenstein</LastName>
+                <Position>RM</Position>
+                <Pace>75</Pace>
+                <Shooting>57</Shooting>
+                <Passing>58</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>55</Stamina>
+                <Club>FC Luzern</Club>
+                <DateOfBirth>10-09-1990</DateOfBirth>
+            </Player>
+            <Player id="9792">
+                <FirstName>Lorenzo</FirstName>
+                <LastName>Bucchi</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>28</Stamina>
+                <Club>FC Luzern</Club>
+                <DateOfBirth>21-11-1983</DateOfBirth>
+            </Player>
+            <Player id="9824">
+                <FirstName>Sava</FirstName>
+                <LastName>Miladinovic Bento</LastName>
+                <Position>CAM</Position>
+                <Pace>66</Pace>
+                <Shooting>47</Shooting>
+                <Passing>54</Passing>
+                <Offensive>50</Offensive>
+                <Defensive>45</Defensive>
+                <Stamina>66</Stamina>
+                <Club>FC Luzern</Club>
+                <DateOfBirth>02-01-1991</DateOfBirth>
+            </Player>
+            <Player id="10272">
+                <FirstName>Ferid</FirstName>
+                <LastName>Matri</LastName>
+                <Position>CB</Position>
+                <Pace>33</Pace>
+                <Shooting>31</Shooting>
+                <Passing>39</Passing>
+                <Offensive>35</Offensive>
+                <Defensive>57</Defensive>
+                <Stamina>51</Stamina>
+                <Club>FC Luzern</Club>
+                <DateOfBirth>16-01-1994</DateOfBirth>
+            </Player>
+            <Player id="11199">
+                <FirstName>Nedim</FirstName>
+                <LastName>Sacirovic</LastName>
+                <Position>RB</Position>
+                <Pace>55</Pace>
+                <Shooting>34</Shooting>
+                <Passing>48</Passing>
+                <Offensive>41</Offensive>
+                <Defensive>46</Defensive>
+                <Stamina>72</Stamina>
+                <Club>FC Luzern</Club>
+                <DateOfBirth>04-04-1994</DateOfBirth>
+            </Player>
+            <Player id="11317">
+                <FirstName>Ridge Mickael</FirstName>
+                <LastName>Mobulu</LastName>
+                <Position>LM</Position>
+                <Pace>80</Pace>
+                <Shooting>52</Shooting>
+                <Passing>41</Passing>
+                <Offensive>46</Offensive>
+                <Defensive>31</Defensive>
+                <Stamina>55</Stamina>
+                <Club>FC Luzern</Club>
+                <DateOfBirth>29-06-1991</DateOfBirth>
+            </Player>
+            <Player id="11362">
+                <FirstName>Luka</FirstName>
+                <LastName>Sliskovic</LastName>
+                <Position>ST</Position>
+                <Pace>71</Pace>
+                <Shooting>54</Shooting>
+                <Passing>40</Passing>
+                <Offensive>47</Offensive>
+                <Defensive>27</Defensive>
+                <Stamina>57</Stamina>
+                <Club>FC Luzern</Club>
+                <DateOfBirth>04-04-1995</DateOfBirth>
+            </Player>
+            <Player id="11562">
+                <FirstName>Fidan</FirstName>
+                <LastName>Aliti</LastName>
+                <Position>CB</Position>
+                <Pace>63</Pace>
+                <Shooting>27</Shooting>
+                <Passing>30</Passing>
+                <Offensive>28</Offensive>
+                <Defensive>52</Defensive>
+                <Stamina>64</Stamina>
+                <Club>FC Luzern</Club>
+                <DateOfBirth>03-10-1993</DateOfBirth>
+            </Player>
+            <Player id="12712">
+                <FirstName>Thierry</FirstName>
+                <LastName>Doubaï</LastName>
+                <Position>CDM</Position>
+                <Pace>70</Pace>
+                <Shooting>55</Shooting>
+                <Passing>70</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>69</Defensive>
+                <Stamina>80</Stamina>
+                <Club>FC Luzern</Club>
+                <DateOfBirth>01-07-1988</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="BSC Young Boys">
+            <Player id="552">
+                <FirstName>Steve</FirstName>
+                <LastName>von Bergen</LastName>
+                <Position>CB</Position>
+                <Pace>68</Pace>
+                <Shooting>32</Shooting>
+                <Passing>54</Passing>
+                <Offensive>43</Offensive>
+                <Defensive>70</Defensive>
+                <Stamina>69</Stamina>
+                <Club>BSC Young Boys</Club>
+                <DateOfBirth>10-06-1983</DateOfBirth>
+            </Player>
+            <Player id="794">
+                <FirstName>Alexander</FirstName>
+                <LastName>Gerndt</LastName>
+                <Position>ST</Position>
+                <Pace>80</Pace>
+                <Shooting>73</Shooting>
+                <Passing>63</Passing>
+                <Offensive>68</Offensive>
+                <Defensive>34</Defensive>
+                <Stamina>79</Stamina>
+                <Club>BSC Young Boys</Club>
+                <DateOfBirth>14-07-1986</DateOfBirth>
+            </Player>
+            <Player id="1034">
+                <FirstName>Milan</FirstName>
+                <LastName>Vilotić</LastName>
+                <Position>CB</Position>
+                <Pace>64</Pace>
+                <Shooting>47</Shooting>
+                <Passing>48</Passing>
+                <Offensive>47</Offensive>
+                <Defensive>71</Defensive>
+                <Stamina>65</Stamina>
+                <Club>BSC Young Boys</Club>
+                <DateOfBirth>21-10-1986</DateOfBirth>
+            </Player>
+            <Player id="1817">
+                <FirstName>Yuya</FirstName>
+                <LastName>Kubo</LastName>
+                <Position>CAM</Position>
+                <Pace>83</Pace>
+                <Shooting>59</Shooting>
+                <Passing>66</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>41</Defensive>
+                <Stamina>60</Stamina>
+                <Club>BSC Young Boys</Club>
+                <DateOfBirth>24-12-1993</DateOfBirth>
+            </Player>
+            <Player id="1832">
+                <FirstName>Raphaël</FirstName>
+                <LastName>Nuzzolo</LastName>
+                <Position>LM</Position>
+                <Pace>75</Pace>
+                <Shooting>63</Shooting>
+                <Passing>66</Passing>
+                <Offensive>64</Offensive>
+                <Defensive>52</Defensive>
+                <Stamina>71</Stamina>
+                <Club>BSC Young Boys</Club>
+                <DateOfBirth>05-07-1983</DateOfBirth>
+            </Player>
+            <Player id="2809">
+                <FirstName>Adrian</FirstName>
+                <LastName>Nikci</LastName>
+                <Position>LM</Position>
+                <Pace>79</Pace>
+                <Shooting>61</Shooting>
+                <Passing>61</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>31</Defensive>
+                <Stamina>62</Stamina>
+                <Club>BSC Young Boys</Club>
+                <DateOfBirth>10-11-1989</DateOfBirth>
+            </Player>
+            <Player id="3195">
+                <FirstName>Alain</FirstName>
+                <LastName>Rochat</LastName>
+                <Position>LB</Position>
+                <Pace>70</Pace>
+                <Shooting>60</Shooting>
+                <Passing>64</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>69</Stamina>
+                <Club>BSC Young Boys</Club>
+                <DateOfBirth>01-02-1983</DateOfBirth>
+            </Player>
+            <Player id="3775">
+                <FirstName>Sekou Junior</FirstName>
+                <LastName>Sanogo</LastName>
+                <Position>CDM</Position>
+                <Pace>76</Pace>
+                <Shooting>53</Shooting>
+                <Passing>63</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>54</Defensive>
+                <Stamina>82</Stamina>
+                <Club>BSC Young Boys</Club>
+                <DateOfBirth>05-05-1989</DateOfBirth>
+            </Player>
+            <Player id="4180">
+                <FirstName>Scott</FirstName>
+                <LastName>Sutter</LastName>
+                <Position>RB</Position>
+                <Pace>71</Pace>
+                <Shooting>51</Shooting>
+                <Passing>62</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>90</Stamina>
+                <Club>BSC Young Boys</Club>
+                <DateOfBirth>13-05-1986</DateOfBirth>
+            </Player>
+            <Player id="4419">
+                <FirstName>Matías</FirstName>
+                <LastName>Vitkieviez</LastName>
+                <Position>RM</Position>
+                <Pace>81</Pace>
+                <Shooting>61</Shooting>
+                <Passing>60</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>31</Defensive>
+                <Stamina>72</Stamina>
+                <Club>BSC Young Boys</Club>
+                <DateOfBirth>16-05-1985</DateOfBirth>
+            </Player>
+            <Player id="6141">
+                <FirstName>Jan</FirstName>
+                <LastName>Lecjaks</LastName>
+                <Position>LB</Position>
+                <Pace>70</Pace>
+                <Shooting>53</Shooting>
+                <Passing>67</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>59</Defensive>
+                <Stamina>74</Stamina>
+                <Club>BSC Young Boys</Club>
+                <DateOfBirth>09-08-1990</DateOfBirth>
+            </Player>
+            <Player id="7019">
+                <FirstName>Moreno</FirstName>
+                <LastName>Costanzo</LastName>
+                <Position>CDM</Position>
+                <Pace>63</Pace>
+                <Shooting>68</Shooting>
+                <Passing>64</Passing>
+                <Offensive>66</Offensive>
+                <Defensive>52</Defensive>
+                <Stamina>74</Stamina>
+                <Club>BSC Young Boys</Club>
+                <DateOfBirth>20-02-1988</DateOfBirth>
+            </Player>
+            <Player id="7609">
+                <FirstName>Samuel</FirstName>
+                <LastName>Afum</LastName>
+                <Position>ST</Position>
+                <Pace>81</Pace>
+                <Shooting>59</Shooting>
+                <Passing>42</Passing>
+                <Offensive>50</Offensive>
+                <Defensive>27</Defensive>
+                <Stamina>62</Stamina>
+                <Club>BSC Young Boys</Club>
+                <DateOfBirth>24-12-1990</DateOfBirth>
+            </Player>
+            <Player id="8777">
+                <FirstName>Yvon</FirstName>
+                <LastName>Mvogo</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>24</Stamina>
+                <Club>BSC Young Boys</Club>
+                <DateOfBirth>06-06-1994</DateOfBirth>
+            </Player>
+            <Player id="10478">
+                <FirstName>Renato</FirstName>
+                <LastName>Steffen</LastName>
+                <Position>RM</Position>
+                <Pace>69</Pace>
+                <Shooting>40</Shooting>
+                <Passing>47</Passing>
+                <Offensive>43</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>74</Stamina>
+                <Club>BSC Young Boys</Club>
+                <DateOfBirth>03-11-1991</DateOfBirth>
+            </Player>
+            <Player id="10626">
+                <FirstName>Marco</FirstName>
+                <LastName>Bürki</LastName>
+                <Position>CB</Position>
+                <Pace>52</Pace>
+                <Shooting>28</Shooting>
+                <Passing>34</Passing>
+                <Offensive>31</Offensive>
+                <Defensive>53</Defensive>
+                <Stamina>73</Stamina>
+                <Club>BSC Young Boys</Club>
+                <DateOfBirth>10-07-1993</DateOfBirth>
+            </Player>
+            <Player id="11280">
+                <FirstName>Hélios</FirstName>
+                <LastName>Sessolo</LastName>
+                <Position>CAM</Position>
+                <Pace>61</Pace>
+                <Shooting>42</Shooting>
+                <Passing>49</Passing>
+                <Offensive>45</Offensive>
+                <Defensive>44</Defensive>
+                <Stamina>47</Stamina>
+                <Club>BSC Young Boys</Club>
+                <DateOfBirth>26-05-1993</DateOfBirth>
+            </Player>
+            <Player id="11301">
+                <FirstName>Gregory</FirstName>
+                <LastName>Wüthrich</LastName>
+                <Position>CB</Position>
+                <Pace>55</Pace>
+                <Shooting>26</Shooting>
+                <Passing>28</Passing>
+                <Offensive>27</Offensive>
+                <Defensive>51</Defensive>
+                <Stamina>57</Stamina>
+                <Club>BSC Young Boys</Club>
+                <DateOfBirth>04-12-1994</DateOfBirth>
+            </Player>
+            <Player id="11377">
+                <FirstName>Haris</FirstName>
+                <LastName>Tabakovic</LastName>
+                <Position>ST</Position>
+                <Pace>49</Pace>
+                <Shooting>51</Shooting>
+                <Passing>39</Passing>
+                <Offensive>45</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>54</Stamina>
+                <Club>BSC Young Boys</Club>
+                <DateOfBirth>20-06-1994</DateOfBirth>
+            </Player>
+            <Player id="11437">
+                <FirstName>Florent</FirstName>
+                <LastName>Hadergjonaj</LastName>
+                <Position>RB</Position>
+                <Pace>68</Pace>
+                <Shooting>38</Shooting>
+                <Passing>49</Passing>
+                <Offensive>43</Offensive>
+                <Defensive>47</Defensive>
+                <Stamina>59</Stamina>
+                <Club>BSC Young Boys</Club>
+                <DateOfBirth>31-07-1994</DateOfBirth>
+            </Player>
+            <Player id="11644">
+                <FirstName>Leonardo</FirstName>
+                <LastName>Bertone</LastName>
+                <Position>CDM</Position>
+                <Pace>63</Pace>
+                <Shooting>36</Shooting>
+                <Passing>49</Passing>
+                <Offensive>42</Offensive>
+                <Defensive>41</Defensive>
+                <Stamina>62</Stamina>
+                <Club>BSC Young Boys</Club>
+                <DateOfBirth>14-03-1994</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="FC St. Gallen">
+            <Player id="594">
+                <FirstName>Albert</FirstName>
+                <LastName>Bunjaku</LastName>
+                <Position>ST</Position>
+                <Pace>70</Pace>
+                <Shooting>70</Shooting>
+                <Passing>56</Passing>
+                <Offensive>63</Offensive>
+                <Defensive>31</Defensive>
+                <Stamina>54</Stamina>
+                <Club>FC St. Gallen</Club>
+                <DateOfBirth>29-11-1983</DateOfBirth>
+            </Player>
+            <Player id="3329">
+                <FirstName>Roberto</FirstName>
+                <LastName>Rodriguez</LastName>
+                <Position>LM</Position>
+                <Pace>82</Pace>
+                <Shooting>55</Shooting>
+                <Passing>64</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>42</Defensive>
+                <Stamina>70</Stamina>
+                <Club>FC St. Gallen</Club>
+                <DateOfBirth>28-07-1990</DateOfBirth>
+            </Player>
+            <Player id="4320">
+                <FirstName>Dejan</FirstName>
+                <LastName>Janjatović</LastName>
+                <Position>CDM</Position>
+                <Pace>68</Pace>
+                <Shooting>52</Shooting>
+                <Passing>65</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>59</Stamina>
+                <Club>FC St. Gallen</Club>
+                <DateOfBirth>25-02-1992</DateOfBirth>
+            </Player>
+            <Player id="4986">
+                <FirstName>Goran</FirstName>
+                <LastName>Karanović</LastName>
+                <Position>ST</Position>
+                <Pace>80</Pace>
+                <Shooting>57</Shooting>
+                <Passing>50</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>36</Defensive>
+                <Stamina>61</Stamina>
+                <Club>FC St. Gallen</Club>
+                <DateOfBirth>13-10-1987</DateOfBirth>
+            </Player>
+            <Player id="6175">
+                <FirstName>Yannis</FirstName>
+                <LastName>Tafer</LastName>
+                <Position>CAM</Position>
+                <Pace>78</Pace>
+                <Shooting>61</Shooting>
+                <Passing>55</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>34</Defensive>
+                <Stamina>64</Stamina>
+                <Club>FC St. Gallen</Club>
+                <DateOfBirth>11-02-1991</DateOfBirth>
+            </Player>
+            <Player id="6573">
+                <FirstName>Marco</FirstName>
+                <LastName>Mathys</LastName>
+                <Position>CAM</Position>
+                <Pace>66</Pace>
+                <Shooting>60</Shooting>
+                <Passing>64</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>56</Defensive>
+                <Stamina>66</Stamina>
+                <Club>FC St. Gallen</Club>
+                <DateOfBirth>05-07-1987</DateOfBirth>
+            </Player>
+            <Player id="6663">
+                <FirstName>Džengis</FirstName>
+                <LastName>Čavušević</LastName>
+                <Position>ST</Position>
+                <Pace>66</Pace>
+                <Shooting>64</Shooting>
+                <Passing>55</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>40</Defensive>
+                <Stamina>72</Stamina>
+                <Club>FC St. Gallen</Club>
+                <DateOfBirth>26-11-1987</DateOfBirth>
+            </Player>
+            <Player id="6781">
+                <FirstName>Mickaël</FirstName>
+                <LastName>Facchinetti</LastName>
+                <Position>LB</Position>
+                <Pace>73</Pace>
+                <Shooting>43</Shooting>
+                <Passing>53</Passing>
+                <Offensive>48</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>68</Stamina>
+                <Club>FC St. Gallen</Club>
+                <DateOfBirth>15-02-1991</DateOfBirth>
+            </Player>
+            <Player id="7389">
+                <FirstName>Daniel</FirstName>
+                <LastName>Lopar</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>31</Stamina>
+                <Club>FC St. Gallen</Club>
+                <DateOfBirth>19-04-1985</DateOfBirth>
+            </Player>
+            <Player id="7449">
+                <FirstName>Marcel</FirstName>
+                <LastName>Herzog</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>30</Stamina>
+                <Club>FC St. Gallen</Club>
+                <DateOfBirth>28-06-1980</DateOfBirth>
+            </Player>
+            <Player id="7509">
+                <FirstName>Geoffrey</FirstName>
+                <LastName>Treand</LastName>
+                <Position>RM</Position>
+                <Pace>65</Pace>
+                <Shooting>48</Shooting>
+                <Passing>59</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>37</Defensive>
+                <Stamina>63</Stamina>
+                <Club>FC St. Gallen</Club>
+                <DateOfBirth>16-01-1986</DateOfBirth>
+            </Player>
+            <Player id="7606">
+                <FirstName>Éverton Luiz</FirstName>
+                <LastName>Guimarães Bilher</LastName>
+                <Position>CDM</Position>
+                <Pace>60</Pace>
+                <Shooting>55</Shooting>
+                <Passing>60</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>57</Stamina>
+                <Club>FC St. Gallen</Club>
+                <DateOfBirth>24-05-1988</DateOfBirth>
+            </Player>
+            <Player id="7719">
+                <FirstName>Marco</FirstName>
+                <LastName>Aratore</LastName>
+                <Position>RM</Position>
+                <Pace>68</Pace>
+                <Shooting>48</Shooting>
+                <Passing>57</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>52</Defensive>
+                <Stamina>65</Stamina>
+                <Club>FC St. Gallen</Club>
+                <DateOfBirth>04-06-1991</DateOfBirth>
+            </Player>
+            <Player id="7781">
+                <FirstName>Daniel</FirstName>
+                <LastName>Sikorski</LastName>
+                <Position>ST</Position>
+                <Pace>83</Pace>
+                <Shooting>55</Shooting>
+                <Passing>53</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>38</Defensive>
+                <Stamina>77</Stamina>
+                <Club>FC St. Gallen</Club>
+                <DateOfBirth>02-11-1987</DateOfBirth>
+            </Player>
+            <Player id="8540">
+                <FirstName>Philippe</FirstName>
+                <LastName>Montandon</LastName>
+                <Position>CB</Position>
+                <Pace>33</Pace>
+                <Shooting>44</Shooting>
+                <Passing>54</Passing>
+                <Offensive>49</Offensive>
+                <Defensive>61</Defensive>
+                <Stamina>55</Stamina>
+                <Club>FC St. Gallen</Club>
+                <DateOfBirth>15-07-1982</DateOfBirth>
+            </Player>
+            <Player id="9139">
+                <FirstName>Mario</FirstName>
+                <LastName>Mutsch</LastName>
+                <Position>RB</Position>
+                <Pace>54</Pace>
+                <Shooting>55</Shooting>
+                <Passing>57</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>59</Defensive>
+                <Stamina>80</Stamina>
+                <Club>FC St. Gallen</Club>
+                <DateOfBirth>03-09-1984</DateOfBirth>
+            </Player>
+            <Player id="9174">
+                <FirstName>Ermir</FirstName>
+                <LastName>Lenjani</LastName>
+                <Position>LB</Position>
+                <Pace>74</Pace>
+                <Shooting>55</Shooting>
+                <Passing>60</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>53</Defensive>
+                <Stamina>80</Stamina>
+                <Club>FC St. Gallen</Club>
+                <DateOfBirth>05-08-1989</DateOfBirth>
+            </Player>
+            <Player id="9301">
+                <FirstName>Stephane</FirstName>
+                <LastName>Besle</LastName>
+                <Position>CB</Position>
+                <Pace>53</Pace>
+                <Shooting>46</Shooting>
+                <Passing>45</Passing>
+                <Offensive>45</Offensive>
+                <Defensive>56</Defensive>
+                <Stamina>51</Stamina>
+                <Club>FC St. Gallen</Club>
+                <DateOfBirth>23-01-1984</DateOfBirth>
+            </Player>
+            <Player id="9453">
+                <FirstName>Muhamed</FirstName>
+                <LastName>Demiri</LastName>
+                <Position>CDM</Position>
+                <Pace>63</Pace>
+                <Shooting>52</Shooting>
+                <Passing>58</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>52</Defensive>
+                <Stamina>49</Stamina>
+                <Club>FC St. Gallen</Club>
+                <DateOfBirth>20-11-1985</DateOfBirth>
+            </Player>
+            <Player id="10727">
+                <FirstName>Daniele</FirstName>
+                <LastName>Russo</LastName>
+                <Position>CB</Position>
+                <Pace>47</Pace>
+                <Shooting>36</Shooting>
+                <Passing>40</Passing>
+                <Offensive>38</Offensive>
+                <Defensive>53</Defensive>
+                <Stamina>54</Stamina>
+                <Club>FC St. Gallen</Club>
+                <DateOfBirth>03-11-1985</DateOfBirth>
+            </Player>
+            <Player id="10874">
+                <FirstName>Nisso</FirstName>
+                <LastName>Kapiloto</LastName>
+                <Position>CB</Position>
+                <Pace>59</Pace>
+                <Shooting>28</Shooting>
+                <Passing>28</Passing>
+                <Offensive>28</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>57</Stamina>
+                <Club>FC St. Gallen</Club>
+                <DateOfBirth>01-10-1989</DateOfBirth>
+            </Player>
+            <Player id="10936">
+                <FirstName>Pascal</FirstName>
+                <LastName>Thrier</LastName>
+                <Position>CB</Position>
+                <Pace>63</Pace>
+                <Shooting>27</Shooting>
+                <Passing>34</Passing>
+                <Offensive>30</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>63</Stamina>
+                <Club>FC St. Gallen</Club>
+                <DateOfBirth>04-11-1984</DateOfBirth>
+            </Player>
+            <Player id="11047">
+                <FirstName>Ilija</FirstName>
+                <LastName>Kovacic</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>32</Stamina>
+                <Club>FC St. Gallen</Club>
+                <DateOfBirth>02-06-1992</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="FC Sion">
+            <Player id="766">
+                <FirstName>Carlos Alberto</FirstName>
+                <LastName>Alves Garcia</LastName>
+                <Position>LW</Position>
+                <Pace>74</Pace>
+                <Shooting>62</Shooting>
+                <Passing>67</Passing>
+                <Offensive>64</Offensive>
+                <Defensive>38</Defensive>
+                <Stamina>62</Stamina>
+                <Club>FC Sion</Club>
+                <DateOfBirth>06-09-1982</DateOfBirth>
+            </Player>
+            <Player id="1038">
+                <FirstName>Leonardo</FirstName>
+                <LastName>Oliveira Clemente</LastName>
+                <Position>ST</Position>
+                <Pace>82</Pace>
+                <Shooting>67</Shooting>
+                <Passing>50</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>35</Defensive>
+                <Stamina>77</Stamina>
+                <Club>FC Sion</Club>
+                <DateOfBirth>12-04-1989</DateOfBirth>
+            </Player>
+            <Player id="1178">
+                <FirstName>Demetris</FirstName>
+                <LastName>Christofi</LastName>
+                <Position>RM</Position>
+                <Pace>90</Pace>
+                <Shooting>71</Shooting>
+                <Passing>63</Passing>
+                <Offensive>67</Offensive>
+                <Defensive>39</Defensive>
+                <Stamina>72</Stamina>
+                <Club>FC Sion</Club>
+                <DateOfBirth>28-09-1988</DateOfBirth>
+            </Player>
+            <Player id="1455">
+                <FirstName>Ovidiu</FirstName>
+                <LastName>Herea</LastName>
+                <Position>CAM</Position>
+                <Pace>76</Pace>
+                <Shooting>69</Shooting>
+                <Passing>67</Passing>
+                <Offensive>68</Offensive>
+                <Defensive>43</Defensive>
+                <Stamina>74</Stamina>
+                <Club>FC Sion</Club>
+                <DateOfBirth>26-03-1985</DateOfBirth>
+            </Player>
+            <Player id="1537">
+                <FirstName>Vincent</FirstName>
+                <LastName>Rüfli</LastName>
+                <Position>RB</Position>
+                <Pace>82</Pace>
+                <Shooting>56</Shooting>
+                <Passing>66</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>90</Stamina>
+                <Club>FC Sion</Club>
+                <DateOfBirth>22-01-1988</DateOfBirth>
+            </Player>
+            <Player id="2394">
+                <FirstName>Dario</FirstName>
+                <LastName>Vidosic</LastName>
+                <Position>CAM</Position>
+                <Pace>78</Pace>
+                <Shooting>67</Shooting>
+                <Passing>72</Passing>
+                <Offensive>69</Offensive>
+                <Defensive>51</Defensive>
+                <Stamina>65</Stamina>
+                <Club>FC Sion</Club>
+                <DateOfBirth>08-04-1987</DateOfBirth>
+            </Player>
+            <Player id="2532">
+                <FirstName>Ebenezer</FirstName>
+                <LastName>Assifuah</LastName>
+                <Position>ST</Position>
+                <Pace>87</Pace>
+                <Shooting>68</Shooting>
+                <Passing>54</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>25</Defensive>
+                <Stamina>75</Stamina>
+                <Club>FC Sion</Club>
+                <DateOfBirth>03-07-1993</DateOfBirth>
+            </Player>
+            <Player id="3952">
+                <FirstName>Beg</FirstName>
+                <LastName>Ferati</LastName>
+                <Position>CB</Position>
+                <Pace>43</Pace>
+                <Shooting>37</Shooting>
+                <Passing>55</Passing>
+                <Offensive>46</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>50</Stamina>
+                <Club>FC Sion</Club>
+                <DateOfBirth>10-11-1986</DateOfBirth>
+            </Player>
+            <Player id="4237">
+                <FirstName>Ishmael</FirstName>
+                <LastName>Yartey</LastName>
+                <Position>LM</Position>
+                <Pace>72</Pace>
+                <Shooting>66</Shooting>
+                <Passing>61</Passing>
+                <Offensive>63</Offensive>
+                <Defensive>27</Defensive>
+                <Stamina>68</Stamina>
+                <Club>FC Sion</Club>
+                <DateOfBirth>11-01-1990</DateOfBirth>
+            </Player>
+            <Player id="4827">
+                <FirstName>Léo</FirstName>
+                <LastName>Lacroix</LastName>
+                <Position>CB</Position>
+                <Pace>56</Pace>
+                <Shooting>44</Shooting>
+                <Passing>57</Passing>
+                <Offensive>50</Offensive>
+                <Defensive>61</Defensive>
+                <Stamina>74</Stamina>
+                <Club>FC Sion</Club>
+                <DateOfBirth>27-02-1992</DateOfBirth>
+            </Player>
+            <Player id="6803">
+                <FirstName>Xavier</FirstName>
+                <LastName>Kouassi</LastName>
+                <Position>CDM</Position>
+                <Pace>72</Pace>
+                <Shooting>50</Shooting>
+                <Passing>60</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>51</Defensive>
+                <Stamina>82</Stamina>
+                <Club>FC Sion</Club>
+                <DateOfBirth>28-12-1989</DateOfBirth>
+            </Player>
+            <Player id="6890">
+                <FirstName>Gaëtan</FirstName>
+                <LastName>Karlen</LastName>
+                <Position>ST</Position>
+                <Pace>65</Pace>
+                <Shooting>62</Shooting>
+                <Passing>48</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>34</Defensive>
+                <Stamina>52</Stamina>
+                <Club>FC Sion</Club>
+                <DateOfBirth>07-06-1993</DateOfBirth>
+            </Player>
+            <Player id="7052">
+                <FirstName>Pa Modou</FirstName>
+                <LastName>Jagne</LastName>
+                <Position>LB</Position>
+                <Pace>74</Pace>
+                <Shooting>51</Shooting>
+                <Passing>61</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>71</Stamina>
+                <Club>FC Sion</Club>
+                <DateOfBirth>26-12-1989</DateOfBirth>
+            </Player>
+            <Player id="7496">
+                <FirstName>Sébastien</FirstName>
+                <LastName>Wüthrich</LastName>
+                <Position>RM</Position>
+                <Pace>69</Pace>
+                <Shooting>45</Shooting>
+                <Passing>56</Passing>
+                <Offensive>50</Offensive>
+                <Defensive>47</Defensive>
+                <Stamina>63</Stamina>
+                <Club>FC Sion</Club>
+                <DateOfBirth>29-05-1990</DateOfBirth>
+            </Player>
+            <Player id="7685">
+                <FirstName>Matteo</FirstName>
+                <LastName>Fedele</LastName>
+                <Position>CAM</Position>
+                <Pace>67</Pace>
+                <Shooting>56</Shooting>
+                <Passing>66</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>51</Defensive>
+                <Stamina>68</Stamina>
+                <Club>FC Sion</Club>
+                <DateOfBirth>13-05-1992</DateOfBirth>
+            </Player>
+            <Player id="8356">
+                <FirstName>Michael</FirstName>
+                <LastName>Perrier</LastName>
+                <Position>LM</Position>
+                <Pace>66</Pace>
+                <Shooting>48</Shooting>
+                <Passing>56</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>48</Defensive>
+                <Stamina>78</Stamina>
+                <Club>FC Sion</Club>
+                <DateOfBirth>01-03-1989</DateOfBirth>
+            </Player>
+            <Player id="10436">
+                <FirstName>Mathieu</FirstName>
+                <LastName>Débonnaire</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>33</Stamina>
+                <Club>FC Sion</Club>
+                <DateOfBirth>26-04-1987</DateOfBirth>
+            </Player>
+            <Player id="10707">
+                <FirstName>Daniel</FirstName>
+                <LastName>Follonier</LastName>
+                <Position>RW</Position>
+                <Pace>65</Pace>
+                <Shooting>58</Shooting>
+                <Passing>50</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>26</Defensive>
+                <Stamina>58</Stamina>
+                <Club>FC Sion</Club>
+                <DateOfBirth>18-01-1994</DateOfBirth>
+            </Player>
+            <Player id="11088">
+                <FirstName>Dany Roger</FirstName>
+                <LastName>Bornand Da Silva</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>32</Stamina>
+                <Club>FC Sion</Club>
+                <DateOfBirth>02-03-1993</DateOfBirth>
+            </Player>
+            <Player id="11253">
+                <FirstName>Steve</FirstName>
+                <LastName>Rouiller</LastName>
+                <Position>CB</Position>
+                <Pace>55</Pace>
+                <Shooting>27</Shooting>
+                <Passing>29</Passing>
+                <Offensive>28</Offensive>
+                <Defensive>56</Defensive>
+                <Stamina>58</Stamina>
+                <Club>FC Sion</Club>
+                <DateOfBirth>10-07-1990</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="FC Aarau">
+            <Player id="2743">
+                <FirstName>Dušan</FirstName>
+                <LastName>Djurić</LastName>
+                <Position>LM</Position>
+                <Pace>66</Pace>
+                <Shooting>66</Shooting>
+                <Passing>68</Passing>
+                <Offensive>67</Offensive>
+                <Defensive>50</Defensive>
+                <Stamina>58</Stamina>
+                <Club>FC Aarau</Club>
+                <DateOfBirth>16-09-1984</DateOfBirth>
+            </Player>
+            <Player id="4965">
+                <FirstName>Stephan</FirstName>
+                <LastName>Andrist</LastName>
+                <Position>RM</Position>
+                <Pace>83</Pace>
+                <Shooting>61</Shooting>
+                <Passing>57</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>44</Defensive>
+                <Stamina>64</Stamina>
+                <Club>FC Aarau</Club>
+                <DateOfBirth>12-12-1987</DateOfBirth>
+            </Player>
+            <Player id="5253">
+                <FirstName>Daniel</FirstName>
+                <LastName>Gygax</LastName>
+                <Position>RM</Position>
+                <Pace>65</Pace>
+                <Shooting>63</Shooting>
+                <Passing>61</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>36</Defensive>
+                <Stamina>50</Stamina>
+                <Club>FC Aarau</Club>
+                <DateOfBirth>28-08-1981</DateOfBirth>
+            </Player>
+            <Player id="5269">
+                <FirstName>Alain</FirstName>
+                <LastName>Schultz</LastName>
+                <Position>CAM</Position>
+                <Pace>70</Pace>
+                <Shooting>62</Shooting>
+                <Passing>64</Passing>
+                <Offensive>63</Offensive>
+                <Defensive>46</Defensive>
+                <Stamina>74</Stamina>
+                <Club>FC Aarau</Club>
+                <DateOfBirth>17-02-1983</DateOfBirth>
+            </Player>
+            <Player id="6064">
+                <FirstName>Sven</FirstName>
+                <LastName>Lüscher</LastName>
+                <Position>CAM</Position>
+                <Pace>66</Pace>
+                <Shooting>57</Shooting>
+                <Passing>63</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>57</Defensive>
+                <Stamina>74</Stamina>
+                <Club>FC Aarau</Club>
+                <DateOfBirth>05-03-1984</DateOfBirth>
+            </Player>
+            <Player id="6216">
+                <FirstName>Bruno</FirstName>
+                <LastName>Martignoni</LastName>
+                <Position>LB</Position>
+                <Pace>72</Pace>
+                <Shooting>43</Shooting>
+                <Passing>56</Passing>
+                <Offensive>49</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>75</Stamina>
+                <Club>FC Aarau</Club>
+                <DateOfBirth>12-12-1992</DateOfBirth>
+            </Player>
+            <Player id="7188">
+                <FirstName>Frank</FirstName>
+                <LastName>Feltscher</LastName>
+                <Position>RM</Position>
+                <Pace>76</Pace>
+                <Shooting>55</Shooting>
+                <Passing>58</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>36</Defensive>
+                <Stamina>64</Stamina>
+                <Club>FC Aarau</Club>
+                <DateOfBirth>17-05-1988</DateOfBirth>
+            </Player>
+            <Player id="7228">
+                <FirstName>Joël</FirstName>
+                <LastName>Mall</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>33</Stamina>
+                <Club>FC Aarau</Club>
+                <DateOfBirth>05-04-1991</DateOfBirth>
+            </Player>
+            <Player id="7435">
+                <FirstName>Kim</FirstName>
+                <LastName>Jaggy</LastName>
+                <Position>LB</Position>
+                <Pace>70</Pace>
+                <Shooting>40</Shooting>
+                <Passing>46</Passing>
+                <Offensive>43</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>71</Stamina>
+                <Club>FC Aarau</Club>
+                <DateOfBirth>14-11-1982</DateOfBirth>
+            </Player>
+            <Player id="7462">
+                <FirstName>Dante</FirstName>
+                <LastName>Senger</LastName>
+                <Position>ST</Position>
+                <Pace>53</Pace>
+                <Shooting>63</Shooting>
+                <Passing>50</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>34</Defensive>
+                <Stamina>71</Stamina>
+                <Club>FC Aarau</Club>
+                <DateOfBirth>04-03-1983</DateOfBirth>
+            </Player>
+            <Player id="8946">
+                <FirstName>Sandro</FirstName>
+                <LastName>Burki</LastName>
+                <Position>CDM</Position>
+                <Pace>68</Pace>
+                <Shooting>62</Shooting>
+                <Passing>63</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>52</Defensive>
+                <Stamina>62</Stamina>
+                <Club>FC Aarau</Club>
+                <DateOfBirth>16-09-1985</DateOfBirth>
+            </Player>
+            <Player id="9309">
+                <FirstName>Igor</FirstName>
+                <LastName>Nganga</LastName>
+                <Position>RB</Position>
+                <Pace>65</Pace>
+                <Shooting>43</Shooting>
+                <Passing>56</Passing>
+                <Offensive>49</Offensive>
+                <Defensive>56</Defensive>
+                <Stamina>58</Stamina>
+                <Club>FC Aarau</Club>
+                <DateOfBirth>14-04-1987</DateOfBirth>
+            </Player>
+            <Player id="9491">
+                <FirstName>Olivier</FirstName>
+                <LastName>Jäckle</LastName>
+                <Position>CB</Position>
+                <Pace>68</Pace>
+                <Shooting>46</Shooting>
+                <Passing>39</Passing>
+                <Offensive>42</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>65</Stamina>
+                <Club>FC Aarau</Club>
+                <DateOfBirth>07-01-1993</DateOfBirth>
+            </Player>
+            <Player id="9580">
+                <FirstName>Luca</FirstName>
+                <LastName>Radice</LastName>
+                <Position>LM</Position>
+                <Pace>64</Pace>
+                <Shooting>48</Shooting>
+                <Passing>63</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>40</Defensive>
+                <Stamina>44</Stamina>
+                <Club>FC Aarau</Club>
+                <DateOfBirth>09-04-1987</DateOfBirth>
+            </Player>
+            <Player id="10014">
+                <FirstName>Nauris</FirstName>
+                <LastName>Bulvitis</LastName>
+                <Position>CB</Position>
+                <Pace>66</Pace>
+                <Shooting>40</Shooting>
+                <Passing>55</Passing>
+                <Offensive>47</Offensive>
+                <Defensive>56</Defensive>
+                <Stamina>56</Stamina>
+                <Club>FC Aarau</Club>
+                <DateOfBirth>15-03-1987</DateOfBirth>
+            </Player>
+            <Player id="11134">
+                <FirstName>Ulisse</FirstName>
+                <LastName>Pelloni</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>31</Stamina>
+                <Club>FC Aarau</Club>
+                <DateOfBirth>07-02-1994</DateOfBirth>
+            </Player>
+            <Player id="11312">
+                <FirstName>Marco</FirstName>
+                <LastName>Thaler</LastName>
+                <Position>CB</Position>
+                <Pace>64</Pace>
+                <Shooting>28</Shooting>
+                <Passing>34</Passing>
+                <Offensive>31</Offensive>
+                <Defensive>55</Defensive>
+                <Stamina>61</Stamina>
+                <Club>FC Aarau</Club>
+                <DateOfBirth>28-06-1994</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="FC Krasnodar">
+            <Player id="3734">
+                <FirstName>Moussa</FirstName>
+                <LastName>Konaté</LastName>
+                <Position>RW</Position>
+                <Pace>80</Pace>
+                <Shooting>59</Shooting>
+                <Passing>53</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>68</Stamina>
+                <Club>FC Krasnodar</Club>
+                <DateOfBirth>03-04-1993</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="FC Thun">
+            <Player id="4399">
+                <FirstName>Nelson</FirstName>
+                <LastName>Ferreira</LastName>
+                <Position>LM</Position>
+                <Pace>76</Pace>
+                <Shooting>67</Shooting>
+                <Passing>63</Passing>
+                <Offensive>65</Offensive>
+                <Defensive>47</Defensive>
+                <Stamina>67</Stamina>
+                <Club>FC Thun</Club>
+                <DateOfBirth>26-05-1982</DateOfBirth>
+            </Player>
+            <Player id="5552">
+                <FirstName>Berat</FirstName>
+                <LastName>Sadik</LastName>
+                <Position>ST</Position>
+                <Pace>59</Pace>
+                <Shooting>62</Shooting>
+                <Passing>51</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>55</Stamina>
+                <Club>FC Thun</Club>
+                <DateOfBirth>14-09-1986</DateOfBirth>
+            </Player>
+            <Player id="5761">
+                <FirstName>Dennis</FirstName>
+                <LastName>Hediger</LastName>
+                <Position>CDM</Position>
+                <Pace>71</Pace>
+                <Shooting>54</Shooting>
+                <Passing>62</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>50</Defensive>
+                <Stamina>80</Stamina>
+                <Club>FC Thun</Club>
+                <DateOfBirth>22-09-1986</DateOfBirth>
+            </Player>
+            <Player id="5806">
+                <FirstName>Alexander</FirstName>
+                <LastName>González</LastName>
+                <Position>RM</Position>
+                <Pace>77</Pace>
+                <Shooting>56</Shooting>
+                <Passing>60</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>59</Defensive>
+                <Stamina>78</Stamina>
+                <Club>FC Thun</Club>
+                <DateOfBirth>13-09-1992</DateOfBirth>
+            </Player>
+            <Player id="6623">
+                <FirstName>Nicolas</FirstName>
+                <LastName>Schindelholz</LastName>
+                <Position>CB</Position>
+                <Pace>51</Pace>
+                <Shooting>38</Shooting>
+                <Passing>47</Passing>
+                <Offensive>42</Offensive>
+                <Defensive>65</Defensive>
+                <Stamina>74</Stamina>
+                <Club>FC Thun</Club>
+                <DateOfBirth>12-02-1988</DateOfBirth>
+            </Player>
+            <Player id="6997">
+                <FirstName>Thomas</FirstName>
+                <LastName>Reinmann</LastName>
+                <Position>CB</Position>
+                <Pace>68</Pace>
+                <Shooting>48</Shooting>
+                <Passing>60</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>54</Stamina>
+                <Club>FC Thun</Club>
+                <DateOfBirth>09-04-1983</DateOfBirth>
+            </Player>
+            <Player id="7260">
+                <FirstName>Andreas</FirstName>
+                <LastName>Wittwer</LastName>
+                <Position>LM</Position>
+                <Pace>73</Pace>
+                <Shooting>44</Shooting>
+                <Passing>58</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>59</Defensive>
+                <Stamina>80</Stamina>
+                <Club>FC Thun</Club>
+                <DateOfBirth>05-10-1990</DateOfBirth>
+            </Player>
+            <Player id="7678">
+                <FirstName>Guillaume</FirstName>
+                <LastName>Faivre</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>32</Stamina>
+                <Club>FC Thun</Club>
+                <DateOfBirth>20-02-1987</DateOfBirth>
+            </Player>
+            <Player id="8621">
+                <FirstName>Gianluca</FirstName>
+                <LastName>Frontino</LastName>
+                <Position>CAM</Position>
+                <Pace>65</Pace>
+                <Shooting>57</Shooting>
+                <Passing>57</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>40</Defensive>
+                <Stamina>60</Stamina>
+                <Club>FC Thun</Club>
+                <DateOfBirth>29-11-1989</DateOfBirth>
+            </Player>
+            <Player id="9161">
+                <FirstName>Michael</FirstName>
+                <LastName>Siegfried</LastName>
+                <Position>CDM</Position>
+                <Pace>53</Pace>
+                <Shooting>39</Shooting>
+                <Passing>51</Passing>
+                <Offensive>45</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>57</Stamina>
+                <Club>FC Thun</Club>
+                <DateOfBirth>18-02-1988</DateOfBirth>
+            </Player>
+            <Player id="9284">
+                <FirstName>Christian</FirstName>
+                <LastName>Leite</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>29</Stamina>
+                <Club>FC Thun</Club>
+                <DateOfBirth>09-11-1985</DateOfBirth>
+            </Player>
+            <Player id="9293">
+                <FirstName>Lukas</FirstName>
+                <LastName>Schenkel</LastName>
+                <Position>CB</Position>
+                <Pace>52</Pace>
+                <Shooting>33</Shooting>
+                <Passing>29</Passing>
+                <Offensive>31</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>59</Stamina>
+                <Club>FC Thun</Club>
+                <DateOfBirth>01-04-1984</DateOfBirth>
+            </Player>
+            <Player id="9305">
+                <FirstName>Enrico</FirstName>
+                <LastName>Schirinzi</LastName>
+                <Position>LB</Position>
+                <Pace>69</Pace>
+                <Shooting>60</Shooting>
+                <Passing>60</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>53</Defensive>
+                <Stamina>80</Stamina>
+                <Club>FC Thun</Club>
+                <DateOfBirth>14-11-1984</DateOfBirth>
+            </Player>
+            <Player id="9662">
+                <FirstName>Stefan</FirstName>
+                <LastName>Glarner</LastName>
+                <Position>LB</Position>
+                <Pace>66</Pace>
+                <Shooting>51</Shooting>
+                <Passing>56</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>56</Defensive>
+                <Stamina>64</Stamina>
+                <Club>FC Thun</Club>
+                <DateOfBirth>21-11-1987</DateOfBirth>
+            </Player>
+            <Player id="10567">
+                <FirstName>Francesco</FirstName>
+                <LastName>Ruberto</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>21</Stamina>
+                <Club>FC Thun</Club>
+                <DateOfBirth>19-03-1993</DateOfBirth>
+            </Player>
+            <Player id="10830">
+                <FirstName>Kevin</FirstName>
+                <LastName>Bigler</LastName>
+                <Position>RB</Position>
+                <Pace>63</Pace>
+                <Shooting>38</Shooting>
+                <Passing>50</Passing>
+                <Offensive>44</Offensive>
+                <Defensive>48</Defensive>
+                <Stamina>62</Stamina>
+                <Club>FC Thun</Club>
+                <DateOfBirth>05-10-1992</DateOfBirth>
+            </Player>
+            <Player id="11617">
+                <FirstName>Marco</FirstName>
+                <LastName>Mangold</LastName>
+                <Position>CDM</Position>
+                <Pace>55</Pace>
+                <Shooting>31</Shooting>
+                <Passing>42</Passing>
+                <Offensive>36</Offensive>
+                <Defensive>48</Defensive>
+                <Stamina>59</Stamina>
+                <Club>FC Thun</Club>
+                <DateOfBirth>07-04-1987</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="FC Vaduz">
+            <Player id="6344">
+                <FirstName>Peter</FirstName>
+                <LastName>Jehle</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>31</Stamina>
+                <Club>FC Vaduz</Club>
+                <DateOfBirth>22-01-1982</DateOfBirth>
+            </Player>
+            <Player id="6746">
+                <FirstName>Philipp</FirstName>
+                <LastName>Muntwiler</LastName>
+                <Position>CM</Position>
+                <Pace>62</Pace>
+                <Shooting>59</Shooting>
+                <Passing>58</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>72</Stamina>
+                <Club>FC Vaduz</Club>
+                <DateOfBirth>25-02-1987</DateOfBirth>
+            </Player>
+            <Player id="6764">
+                <FirstName>Steven</FirstName>
+                <LastName>Lang</LastName>
+                <Position>RM</Position>
+                <Pace>76</Pace>
+                <Shooting>58</Shooting>
+                <Passing>55</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>42</Defensive>
+                <Stamina>78</Stamina>
+                <Club>FC Vaduz</Club>
+                <DateOfBirth>03-09-1987</DateOfBirth>
+            </Player>
+            <Player id="7667">
+                <FirstName>Florian</FirstName>
+                <LastName>Stahel</LastName>
+                <Position>CB</Position>
+                <Pace>65</Pace>
+                <Shooting>48</Shooting>
+                <Passing>50</Passing>
+                <Offensive>49</Offensive>
+                <Defensive>59</Defensive>
+                <Stamina>71</Stamina>
+                <Club>FC Vaduz</Club>
+                <DateOfBirth>10-03-1985</DateOfBirth>
+            </Player>
+            <Player id="7721">
+                <FirstName>Nico</FirstName>
+                <LastName>Abegglen</LastName>
+                <Position>ST</Position>
+                <Pace>71</Pace>
+                <Shooting>62</Shooting>
+                <Passing>49</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>31</Defensive>
+                <Stamina>65</Stamina>
+                <Club>FC Vaduz</Club>
+                <DateOfBirth>16-02-1990</DateOfBirth>
+            </Player>
+            <Player id="8612">
+                <FirstName>Simone</FirstName>
+                <LastName>Grippo</LastName>
+                <Position>CM</Position>
+                <Pace>57</Pace>
+                <Shooting>53</Shooting>
+                <Passing>59</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>47</Defensive>
+                <Stamina>76</Stamina>
+                <Club>FC Vaduz</Club>
+                <DateOfBirth>12-12-1988</DateOfBirth>
+            </Player>
+            <Player id="9303">
+                <FirstName>Markus</FirstName>
+                <LastName>Neumayr</LastName>
+                <Position>CM</Position>
+                <Pace>71</Pace>
+                <Shooting>51</Shooting>
+                <Passing>61</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>36</Defensive>
+                <Stamina>61</Stamina>
+                <Club>FC Vaduz</Club>
+                <DateOfBirth>26-03-1986</DateOfBirth>
+            </Player>
+            <Player id="9515">
+                <FirstName>Hekuran</FirstName>
+                <LastName>Kryeziu</LastName>
+                <Position>CDM</Position>
+                <Pace>73</Pace>
+                <Shooting>43</Shooting>
+                <Passing>58</Passing>
+                <Offensive>50</Offensive>
+                <Defensive>50</Defensive>
+                <Stamina>66</Stamina>
+                <Club>FC Vaduz</Club>
+                <DateOfBirth>12-02-1993</DateOfBirth>
+            </Player>
+            <Player id="9638">
+                <FirstName>Michele</FirstName>
+                <LastName>Polverino</LastName>
+                <Position>CDM</Position>
+                <Pace>54</Pace>
+                <Shooting>47</Shooting>
+                <Passing>50</Passing>
+                <Offensive>48</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>73</Stamina>
+                <Club>FC Vaduz</Club>
+                <DateOfBirth>26-09-1984</DateOfBirth>
+            </Player>
+            <Player id="9729">
+                <FirstName>Joel</FirstName>
+                <LastName>Untersee</LastName>
+                <Position>RB</Position>
+                <Pace>65</Pace>
+                <Shooting>40</Shooting>
+                <Passing>48</Passing>
+                <Offensive>44</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>66</Stamina>
+                <Club>FC Vaduz</Club>
+                <DateOfBirth>11-02-1994</DateOfBirth>
+            </Player>
+            <Player id="9946">
+                <FirstName>Nick</FirstName>
+                <LastName>Von Niederhäusern</LastName>
+                <Position>RB</Position>
+                <Pace>66</Pace>
+                <Shooting>36</Shooting>
+                <Passing>47</Passing>
+                <Offensive>41</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>65</Stamina>
+                <Club>FC Vaduz</Club>
+                <DateOfBirth>28-09-1989</DateOfBirth>
+            </Player>
+            <Player id="9982">
+                <FirstName>Andreas</FirstName>
+                <LastName>Hirzel</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>30</Stamina>
+                <Club>FC Vaduz</Club>
+                <DateOfBirth>25-03-1993</DateOfBirth>
+            </Player>
+            <Player id="10509">
+                <FirstName>Ramon</FirstName>
+                <LastName>Cecchini</LastName>
+                <Position>CAM</Position>
+                <Pace>70</Pace>
+                <Shooting>45</Shooting>
+                <Passing>53</Passing>
+                <Offensive>49</Offensive>
+                <Defensive>36</Defensive>
+                <Stamina>60</Stamina>
+                <Club>FC Vaduz</Club>
+                <DateOfBirth>30-08-1990</DateOfBirth>
+            </Player>
+            <Player id="10601">
+                <FirstName>Franz</FirstName>
+                <LastName>Burgmeier</LastName>
+                <Position>LB</Position>
+                <Pace>53</Pace>
+                <Shooting>58</Shooting>
+                <Passing>58</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>54</Defensive>
+                <Stamina>60</Stamina>
+                <Club>FC Vaduz</Club>
+                <DateOfBirth>07-04-1982</DateOfBirth>
+            </Player>
+            <Player id="10604">
+                <FirstName>Mario</FirstName>
+                <LastName>Sara</LastName>
+                <Position>LM</Position>
+                <Pace>65</Pace>
+                <Shooting>42</Shooting>
+                <Passing>52</Passing>
+                <Offensive>47</Offensive>
+                <Defensive>50</Defensive>
+                <Stamina>60</Stamina>
+                <Club>FC Vaduz</Club>
+                <DateOfBirth>17-03-1977</DateOfBirth>
+            </Player>
+            <Player id="10831">
+                <FirstName>Daniel</FirstName>
+                <LastName>Kaufmann</LastName>
+                <Position>CB</Position>
+                <Pace>56</Pace>
+                <Shooting>28</Shooting>
+                <Passing>38</Passing>
+                <Offensive>33</Offensive>
+                <Defensive>55</Defensive>
+                <Stamina>62</Stamina>
+                <Club>FC Vaduz</Club>
+                <DateOfBirth>22-12-1990</DateOfBirth>
+            </Player>
+            <Player id="11153">
+                <FirstName>Oliver</FirstName>
+                <LastName>Klaus</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>40</Stamina>
+                <Club>FC Vaduz</Club>
+                <DateOfBirth>04-05-1990</DateOfBirth>
+            </Player>
+            <Player id="11262">
+                <FirstName>Diego</FirstName>
+                <LastName>Ciccone</LastName>
+                <Position>CAM</Position>
+                <Pace>63</Pace>
+                <Shooting>48</Shooting>
+                <Passing>49</Passing>
+                <Offensive>48</Offensive>
+                <Defensive>43</Defensive>
+                <Stamina>63</Stamina>
+                <Club>FC Vaduz</Club>
+                <DateOfBirth>21-07-1987</DateOfBirth>
+            </Player>
+            <Player id="11627">
+                <FirstName>Vinzenz</FirstName>
+                <LastName>Flatz</LastName>
+                <Position>CM</Position>
+                <Pace>64</Pace>
+                <Shooting>36</Shooting>
+                <Passing>50</Passing>
+                <Offensive>43</Offensive>
+                <Defensive>50</Defensive>
+                <Stamina>58</Stamina>
+                <Club>FC Vaduz</Club>
+                <DateOfBirth>05-07-1994</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Sevilla Fútbol Club">
+            <Player id="12031">
+                <FirstName>Bryan</FirstName>
+                <LastName>Rabello</LastName>
+                <Position>CAM</Position>
+                <Pace>82</Pace>
+                <Shooting>65</Shooting>
+                <Passing>73</Passing>
+                <Offensive>69</Offensive>
+                <Defensive>32</Defensive>
+                <Stamina>43</Stamina>
+                <Club>Sevilla Fútbol Club</Club>
+                <DateOfBirth>16-05-1994</DateOfBirth>
+            </Player>
+        </Team>
+    </League>
+</Players>

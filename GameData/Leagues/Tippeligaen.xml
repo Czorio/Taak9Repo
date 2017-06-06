@@ -1,0 +1,3703 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Players>
+    <League Name="Tippeligaen">
+        <Team Name="Vålerenga Fotball">
+            <Player id="83">
+                <FirstName>Vidar Örn</FirstName>
+                <LastName>Kjartansson</LastName>
+                <Position>ST</Position>
+                <Pace>74</Pace>
+                <Shooting>72</Shooting>
+                <Passing>48</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>32</Defensive>
+                <Stamina>67</Stamina>
+                <Club>Vålerenga Fotball</Club>
+                <DateOfBirth>11-03-1990</DateOfBirth>
+            </Player>
+            <Player id="2733">
+                <FirstName>Christian</FirstName>
+                <LastName>Grindheim</LastName>
+                <Position>CM</Position>
+                <Pace>56</Pace>
+                <Shooting>60</Shooting>
+                <Passing>69</Passing>
+                <Offensive>64</Offensive>
+                <Defensive>55</Defensive>
+                <Stamina>74</Stamina>
+                <Club>Vålerenga Fotball</Club>
+                <DateOfBirth>17-07-1983</DateOfBirth>
+            </Player>
+            <Player id="3860">
+                <FirstName>Michael</FirstName>
+                <LastName>Langer</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>32</Stamina>
+                <Club>Vålerenga Fotball</Club>
+                <DateOfBirth>06-01-1985</DateOfBirth>
+            </Player>
+            <Player id="3874">
+                <FirstName>Daniel</FirstName>
+                <LastName>Fredheim Holm</LastName>
+                <Position>RW</Position>
+                <Pace>70</Pace>
+                <Shooting>62</Shooting>
+                <Passing>62</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>43</Defensive>
+                <Stamina>48</Stamina>
+                <Club>Vålerenga Fotball</Club>
+                <DateOfBirth>30-07-1985</DateOfBirth>
+            </Player>
+            <Player id="4114">
+                <FirstName>Nicolaj</FirstName>
+                <LastName>Høgh</LastName>
+                <Position>CB</Position>
+                <Pace>61</Pace>
+                <Shooting>38</Shooting>
+                <Passing>41</Passing>
+                <Offensive>39</Offensive>
+                <Defensive>67</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Vålerenga Fotball</Club>
+                <DateOfBirth>09-11-1983</DateOfBirth>
+            </Player>
+            <Player id="4316">
+                <FirstName>Ghayas</FirstName>
+                <LastName>Zahid</LastName>
+                <Position>CAM</Position>
+                <Pace>81</Pace>
+                <Shooting>54</Shooting>
+                <Passing>62</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>34</Defensive>
+                <Stamina>59</Stamina>
+                <Club>Vålerenga Fotball</Club>
+                <DateOfBirth>18-11-1994</DateOfBirth>
+            </Player>
+            <Player id="5794">
+                <FirstName>Herman</FirstName>
+                <LastName>Stengel</LastName>
+                <Position>CM</Position>
+                <Pace>67</Pace>
+                <Shooting>59</Shooting>
+                <Passing>63</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>45</Defensive>
+                <Stamina>68</Stamina>
+                <Club>Vålerenga Fotball</Club>
+                <DateOfBirth>25-08-1995</DateOfBirth>
+            </Player>
+            <Player id="5995">
+                <FirstName>Simon Andreas</FirstName>
+                <LastName>Larsen</LastName>
+                <Position>CB</Position>
+                <Pace>63</Pace>
+                <Shooting>30</Shooting>
+                <Passing>47</Passing>
+                <Offensive>38</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>66</Stamina>
+                <Club>Vålerenga Fotball</Club>
+                <DateOfBirth>01-06-1988</DateOfBirth>
+            </Player>
+            <Player id="6033">
+                <FirstName>Rasmus</FirstName>
+                <LastName>Lindkvist</LastName>
+                <Position>LW</Position>
+                <Pace>83</Pace>
+                <Shooting>52</Shooting>
+                <Passing>56</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>52</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Vålerenga Fotball</Club>
+                <DateOfBirth>16-05-1990</DateOfBirth>
+            </Player>
+            <Player id="6367">
+                <FirstName>Alexander</FirstName>
+                <LastName>Mathisen</LastName>
+                <Position>RM</Position>
+                <Pace>75</Pace>
+                <Shooting>58</Shooting>
+                <Passing>55</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>42</Defensive>
+                <Stamina>81</Stamina>
+                <Club>Vålerenga Fotball</Club>
+                <DateOfBirth>24-11-1986</DateOfBirth>
+            </Player>
+            <Player id="6652">
+                <FirstName>Ruben</FirstName>
+                <LastName>Kristiansen</LastName>
+                <Position>LB</Position>
+                <Pace>85</Pace>
+                <Shooting>44</Shooting>
+                <Passing>53</Passing>
+                <Offensive>48</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>75</Stamina>
+                <Club>Vålerenga Fotball</Club>
+                <DateOfBirth>20-02-1988</DateOfBirth>
+            </Player>
+            <Player id="8175">
+                <FirstName>Niklas</FirstName>
+                <LastName>Gunnarsson</LastName>
+                <Position>RB</Position>
+                <Pace>70</Pace>
+                <Shooting>50</Shooting>
+                <Passing>53</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>65</Stamina>
+                <Club>Vålerenga Fotball</Club>
+                <DateOfBirth>27-04-1991</DateOfBirth>
+            </Player>
+            <Player id="8750">
+                <FirstName>Sivert</FirstName>
+                <LastName>Heltne Nilsen</LastName>
+                <Position>CM</Position>
+                <Pace>67</Pace>
+                <Shooting>48</Shooting>
+                <Passing>57</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>56</Defensive>
+                <Stamina>78</Stamina>
+                <Club>Vålerenga Fotball</Club>
+                <DateOfBirth>02-10-1991</DateOfBirth>
+            </Player>
+            <Player id="10859">
+                <FirstName>Moussa</FirstName>
+                <LastName>Nije</LastName>
+                <Position>ST</Position>
+                <Pace>66</Pace>
+                <Shooting>52</Shooting>
+                <Passing>38</Passing>
+                <Offensive>45</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>56</Stamina>
+                <Club>Vålerenga Fotball</Club>
+                <DateOfBirth>02-10-1995</DateOfBirth>
+            </Player>
+            <Player id="11196">
+                <FirstName>Marcus</FirstName>
+                <LastName>Engebretsen</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>24</Stamina>
+                <Club>Vålerenga Fotball</Club>
+                <DateOfBirth>19-09-1995</DateOfBirth>
+            </Player>
+            <Player id="11233">
+                <FirstName>Ali</FirstName>
+                <LastName>Iqbal</LastName>
+                <Position>RB</Position>
+                <Pace>66</Pace>
+                <Shooting>42</Shooting>
+                <Passing>44</Passing>
+                <Offensive>43</Offensive>
+                <Defensive>53</Defensive>
+                <Stamina>55</Stamina>
+                <Club>Vålerenga Fotball</Club>
+                <DateOfBirth>20-02-1995</DateOfBirth>
+            </Player>
+            <Player id="11391">
+                <FirstName>Fitim</FirstName>
+                <LastName>Kastrati</LastName>
+                <Position>CM</Position>
+                <Pace>70</Pace>
+                <Shooting>35</Shooting>
+                <Passing>53</Passing>
+                <Offensive>44</Offensive>
+                <Defensive>48</Defensive>
+                <Stamina>58</Stamina>
+                <Club>Vålerenga Fotball</Club>
+                <DateOfBirth>08-10-1994</DateOfBirth>
+            </Player>
+            <Player id="11419">
+                <FirstName>Mathias</FirstName>
+                <LastName>Blårud</LastName>
+                <Position>CM</Position>
+                <Pace>65</Pace>
+                <Shooting>36</Shooting>
+                <Passing>50</Passing>
+                <Offensive>43</Offensive>
+                <Defensive>42</Defensive>
+                <Stamina>60</Stamina>
+                <Club>Vålerenga Fotball</Club>
+                <DateOfBirth>06-06-1995</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Strømsgodset IF">
+            <Player id="185">
+                <FirstName>Lars</FirstName>
+                <LastName>Vilsvik</LastName>
+                <Position>RB</Position>
+                <Pace>81</Pace>
+                <Shooting>65</Shooting>
+                <Passing>69</Passing>
+                <Offensive>67</Offensive>
+                <Defensive>68</Defensive>
+                <Stamina>83</Stamina>
+                <Club>Strømsgodset IF</Club>
+                <DateOfBirth>18-10-1988</DateOfBirth>
+            </Player>
+            <Player id="681">
+                <FirstName>Mohammed</FirstName>
+                <LastName>Abu</LastName>
+                <Position>CDM</Position>
+                <Pace>73</Pace>
+                <Shooting>57</Shooting>
+                <Passing>66</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>83</Stamina>
+                <Club>Strømsgodset IF</Club>
+                <DateOfBirth>14-11-1991</DateOfBirth>
+            </Player>
+            <Player id="741">
+                <FirstName>Øyvind</FirstName>
+                <LastName>Storflor</LastName>
+                <Position>RW</Position>
+                <Pace>81</Pace>
+                <Shooting>61</Shooting>
+                <Passing>73</Passing>
+                <Offensive>67</Offensive>
+                <Defensive>41</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Strømsgodset IF</Club>
+                <DateOfBirth>18-12-1979</DateOfBirth>
+            </Player>
+            <Player id="1478">
+                <FirstName>Adam Larsen</FirstName>
+                <LastName>Kwarasey</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>36</Stamina>
+                <Club>Strømsgodset IF</Club>
+                <DateOfBirth>12-12-1987</DateOfBirth>
+            </Player>
+            <Player id="2387">
+                <FirstName>Kim André</FirstName>
+                <LastName>Madsen</LastName>
+                <Position>CB</Position>
+                <Pace>72</Pace>
+                <Shooting>34</Shooting>
+                <Passing>52</Passing>
+                <Offensive>43</Offensive>
+                <Defensive>68</Defensive>
+                <Stamina>76</Stamina>
+                <Club>Strømsgodset IF</Club>
+                <DateOfBirth>12-03-1989</DateOfBirth>
+            </Player>
+            <Player id="2796">
+                <FirstName>Jørgen</FirstName>
+                <LastName>Horn</LastName>
+                <Position>CB</Position>
+                <Pace>68</Pace>
+                <Shooting>32</Shooting>
+                <Passing>51</Passing>
+                <Offensive>41</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>80</Stamina>
+                <Club>Strømsgodset IF</Club>
+                <DateOfBirth>07-06-1987</DateOfBirth>
+            </Player>
+            <Player id="3689">
+                <FirstName>Gustav</FirstName>
+                <LastName>Wikheim</LastName>
+                <Position>LW</Position>
+                <Pace>78</Pace>
+                <Shooting>60</Shooting>
+                <Passing>48</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>44</Defensive>
+                <Stamina>56</Stamina>
+                <Club>Strømsgodset IF</Club>
+                <DateOfBirth>18-03-1993</DateOfBirth>
+            </Player>
+            <Player id="3696">
+                <FirstName>Gustav</FirstName>
+                <LastName>Valsvik</LastName>
+                <Position>CB</Position>
+                <Pace>65</Pace>
+                <Shooting>51</Shooting>
+                <Passing>45</Passing>
+                <Offensive>48</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>76</Stamina>
+                <Club>Strømsgodset IF</Club>
+                <DateOfBirth>26-05-1993</DateOfBirth>
+            </Player>
+            <Player id="3875">
+                <FirstName>Mounir</FirstName>
+                <LastName>Hamoud</LastName>
+                <Position>LB</Position>
+                <Pace>87</Pace>
+                <Shooting>51</Shooting>
+                <Passing>59</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>73</Stamina>
+                <Club>Strømsgodset IF</Club>
+                <DateOfBirth>01-02-1985</DateOfBirth>
+            </Player>
+            <Player id="4117">
+                <FirstName>Jarl André</FirstName>
+                <LastName>Storbæk</LastName>
+                <Position>CB</Position>
+                <Pace>66</Pace>
+                <Shooting>61</Shooting>
+                <Passing>58</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>80</Stamina>
+                <Club>Strømsgodset IF</Club>
+                <DateOfBirth>21-09-1978</DateOfBirth>
+            </Player>
+            <Player id="4390">
+                <FirstName>Thomas</FirstName>
+                <LastName>Sørum</LastName>
+                <Position>ST</Position>
+                <Pace>68</Pace>
+                <Shooting>63</Shooting>
+                <Passing>51</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>76</Stamina>
+                <Club>Strømsgodset IF</Club>
+                <DateOfBirth>17-11-1982</DateOfBirth>
+            </Player>
+            <Player id="4715">
+                <FirstName>Marvin</FirstName>
+                <LastName>Ogunjimi</LastName>
+                <Position>ST</Position>
+                <Pace>74</Pace>
+                <Shooting>63</Shooting>
+                <Passing>56</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>27</Defensive>
+                <Stamina>62</Stamina>
+                <Club>Strømsgodset IF</Club>
+                <DateOfBirth>12-10-1987</DateOfBirth>
+            </Player>
+            <Player id="6650">
+                <FirstName>Marius</FirstName>
+                <LastName>Høibråten</LastName>
+                <Position>CB</Position>
+                <Pace>65</Pace>
+                <Shooting>35</Shooting>
+                <Passing>44</Passing>
+                <Offensive>39</Offensive>
+                <Defensive>61</Defensive>
+                <Stamina>69</Stamina>
+                <Club>Strømsgodset IF</Club>
+                <DateOfBirth>23-01-1995</DateOfBirth>
+            </Player>
+            <Player id="6867">
+                <FirstName>Martin Rønning</FirstName>
+                <LastName>Ovenstad</LastName>
+                <Position>CM</Position>
+                <Pace>73</Pace>
+                <Shooting>65</Shooting>
+                <Passing>62</Passing>
+                <Offensive>63</Offensive>
+                <Defensive>37</Defensive>
+                <Stamina>75</Stamina>
+                <Club>Strømsgodset IF</Club>
+                <DateOfBirth>18-04-1994</DateOfBirth>
+            </Player>
+            <Player id="7642">
+                <FirstName>Patrick</FirstName>
+                <LastName>Olsen</LastName>
+                <Position>CM</Position>
+                <Pace>65</Pace>
+                <Shooting>42</Shooting>
+                <Passing>61</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>32</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Strømsgodset IF</Club>
+                <DateOfBirth>23-04-1994</DateOfBirth>
+            </Player>
+            <Player id="7831">
+                <FirstName>Iver</FirstName>
+                <LastName>Fossum</LastName>
+                <Position>CM</Position>
+                <Pace>63</Pace>
+                <Shooting>53</Shooting>
+                <Passing>56</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>50</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Strømsgodset IF</Club>
+                <DateOfBirth>15-07-1996</DateOfBirth>
+            </Player>
+            <Player id="11016">
+                <FirstName>Bassel</FirstName>
+                <LastName>Jradi</LastName>
+                <Position>CAM</Position>
+                <Pace>71</Pace>
+                <Shooting>51</Shooting>
+                <Passing>44</Passing>
+                <Offensive>47</Offensive>
+                <Defensive>26</Defensive>
+                <Stamina>62</Stamina>
+                <Club>Strømsgodset IF</Club>
+                <DateOfBirth>06-07-1993</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Viking FK">
+            <Player id="342">
+                <FirstName>Yann-Erik</FirstName>
+                <LastName>de Lanlay</LastName>
+                <Position>RW</Position>
+                <Pace>86</Pace>
+                <Shooting>58</Shooting>
+                <Passing>59</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>35</Defensive>
+                <Stamina>77</Stamina>
+                <Club>Viking FK</Club>
+                <DateOfBirth>14-05-1992</DateOfBirth>
+            </Player>
+            <Player id="2569">
+                <FirstName>Steinþór Freyr</FirstName>
+                <LastName>Þorsteinsson</LastName>
+                <Position>LM</Position>
+                <Pace>76</Pace>
+                <Shooting>64</Shooting>
+                <Passing>61</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>39</Defensive>
+                <Stamina>74</Stamina>
+                <Club>Viking FK</Club>
+                <DateOfBirth>29-07-1985</DateOfBirth>
+            </Player>
+            <Player id="2726">
+                <FirstName>Indridi</FirstName>
+                <LastName>Sigurdsson</LastName>
+                <Position>CB</Position>
+                <Pace>62</Pace>
+                <Shooting>54</Shooting>
+                <Passing>54</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>77</Stamina>
+                <Club>Viking FK</Club>
+                <DateOfBirth>12-10-1981</DateOfBirth>
+            </Player>
+            <Player id="2757">
+                <FirstName>André</FirstName>
+                <LastName>Danielsen</LastName>
+                <Position>RB</Position>
+                <Pace>72</Pace>
+                <Shooting>58</Shooting>
+                <Passing>64</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>90</Stamina>
+                <Club>Viking FK</Club>
+                <DateOfBirth>20-01-1985</DateOfBirth>
+            </Player>
+            <Player id="2765">
+                <FirstName>Vidar</FirstName>
+                <LastName>Nisja</LastName>
+                <Position>CAM</Position>
+                <Pace>73</Pace>
+                <Shooting>62</Shooting>
+                <Passing>60</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>51</Defensive>
+                <Stamina>80</Stamina>
+                <Club>Viking FK</Club>
+                <DateOfBirth>21-08-1986</DateOfBirth>
+            </Player>
+            <Player id="2859">
+                <FirstName>Joackim</FirstName>
+                <LastName>Jørgensen</LastName>
+                <Position>CDM</Position>
+                <Pace>71</Pace>
+                <Shooting>58</Shooting>
+                <Passing>61</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>61</Defensive>
+                <Stamina>82</Stamina>
+                <Club>Viking FK</Club>
+                <DateOfBirth>20-09-1988</DateOfBirth>
+            </Player>
+            <Player id="3688">
+                <FirstName>Veton</FirstName>
+                <LastName>Berisha</LastName>
+                <Position>ST</Position>
+                <Pace>69</Pace>
+                <Shooting>65</Shooting>
+                <Passing>47</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>34</Defensive>
+                <Stamina>77</Stamina>
+                <Club>Viking FK</Club>
+                <DateOfBirth>13-04-1994</DateOfBirth>
+            </Player>
+            <Player id="4966">
+                <FirstName>Arild</FirstName>
+                <LastName>Østbø</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>20</Stamina>
+                <Club>Viking FK</Club>
+                <DateOfBirth>19-04-1991</DateOfBirth>
+            </Player>
+            <Player id="6455">
+                <FirstName>Christian</FirstName>
+                <LastName>Landu Landu</LastName>
+                <Position>CM</Position>
+                <Pace>71</Pace>
+                <Shooting>42</Shooting>
+                <Passing>58</Passing>
+                <Offensive>50</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>77</Stamina>
+                <Club>Viking FK</Club>
+                <DateOfBirth>25-01-1992</DateOfBirth>
+            </Player>
+            <Player id="6716">
+                <FirstName>Sverrir Ingi</FirstName>
+                <LastName>Ingason</LastName>
+                <Position>CB</Position>
+                <Pace>72</Pace>
+                <Shooting>47</Shooting>
+                <Passing>49</Passing>
+                <Offensive>48</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>73</Stamina>
+                <Club>Viking FK</Club>
+                <DateOfBirth>05-08-1993</DateOfBirth>
+            </Player>
+            <Player id="7001">
+                <FirstName>Håkon</FirstName>
+                <LastName>Skogseid</LastName>
+                <Position>RB</Position>
+                <Pace>74</Pace>
+                <Shooting>47</Shooting>
+                <Passing>52</Passing>
+                <Offensive>49</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>76</Stamina>
+                <Club>Viking FK</Club>
+                <DateOfBirth>14-01-1988</DateOfBirth>
+            </Player>
+            <Player id="7381">
+                <FirstName>Trond Erik</FirstName>
+                <LastName>Bertelsen</LastName>
+                <Position>LB</Position>
+                <Pace>78</Pace>
+                <Shooting>51</Shooting>
+                <Passing>60</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>75</Stamina>
+                <Club>Viking FK</Club>
+                <DateOfBirth>05-06-1984</DateOfBirth>
+            </Player>
+            <Player id="8055">
+                <FirstName>Kristoffer</FirstName>
+                <LastName>Haugen</LastName>
+                <Position>LB</Position>
+                <Pace>76</Pace>
+                <Shooting>55</Shooting>
+                <Passing>62</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>69</Stamina>
+                <Club>Viking FK</Club>
+                <DateOfBirth>21-02-1994</DateOfBirth>
+            </Player>
+            <Player id="9251">
+                <FirstName>Osita Henry</FirstName>
+                <LastName>Chikere</LastName>
+                <Position>ST</Position>
+                <Pace>52</Pace>
+                <Shooting>57</Shooting>
+                <Passing>41</Passing>
+                <Offensive>49</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Viking FK</Club>
+                <DateOfBirth>03-02-1991</DateOfBirth>
+            </Player>
+            <Player id="11078">
+                <FirstName>Julian Veen</FirstName>
+                <LastName>Uldal</LastName>
+                <Position>ST</Position>
+                <Pace>54</Pace>
+                <Shooting>55</Shooting>
+                <Passing>36</Passing>
+                <Offensive>45</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>55</Stamina>
+                <Club>Viking FK</Club>
+                <DateOfBirth>11-06-1997</DateOfBirth>
+            </Player>
+            <Player id="11341">
+                <FirstName>Pål</FirstName>
+                <LastName>Fjelde</LastName>
+                <Position>CB</Position>
+                <Pace>64</Pace>
+                <Shooting>29</Shooting>
+                <Passing>28</Passing>
+                <Offensive>28</Offensive>
+                <Defensive>52</Defensive>
+                <Stamina>56</Stamina>
+                <Club>Viking FK</Club>
+                <DateOfBirth>26-07-1994</DateOfBirth>
+            </Player>
+            <Player id="11465">
+                <FirstName>Rasmus</FirstName>
+                <LastName>Martinsen</LastName>
+                <Position>CB</Position>
+                <Pace>54</Pace>
+                <Shooting>26</Shooting>
+                <Passing>27</Passing>
+                <Offensive>26</Offensive>
+                <Defensive>53</Defensive>
+                <Stamina>63</Stamina>
+                <Club>Viking FK</Club>
+                <DateOfBirth>14-04-1996</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Rosenborg BK">
+            <Player id="435">
+                <FirstName>Tore</FirstName>
+                <LastName>Reginiussen</LastName>
+                <Position>CB</Position>
+                <Pace>69</Pace>
+                <Shooting>41</Shooting>
+                <Passing>52</Passing>
+                <Offensive>46</Offensive>
+                <Defensive>72</Defensive>
+                <Stamina>61</Stamina>
+                <Club>Rosenborg BK</Club>
+                <DateOfBirth>10-04-1986</DateOfBirth>
+            </Player>
+            <Player id="786">
+                <FirstName>Mike</FirstName>
+                <LastName>Jensen</LastName>
+                <Position>CM</Position>
+                <Pace>80</Pace>
+                <Shooting>62</Shooting>
+                <Passing>70</Passing>
+                <Offensive>66</Offensive>
+                <Defensive>67</Defensive>
+                <Stamina>77</Stamina>
+                <Club>Rosenborg BK</Club>
+                <DateOfBirth>19-02-1988</DateOfBirth>
+            </Player>
+            <Player id="1380">
+                <FirstName>Riku</FirstName>
+                <LastName>Riski</LastName>
+                <Position>RW</Position>
+                <Pace>82</Pace>
+                <Shooting>66</Shooting>
+                <Passing>63</Passing>
+                <Offensive>64</Offensive>
+                <Defensive>45</Defensive>
+                <Stamina>68</Stamina>
+                <Club>Rosenborg BK</Club>
+                <DateOfBirth>16-08-1989</DateOfBirth>
+            </Player>
+            <Player id="1846">
+                <FirstName>Daniel</FirstName>
+                <LastName>Örlund</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>30</Stamina>
+                <Club>Rosenborg BK</Club>
+                <DateOfBirth>23-06-1980</DateOfBirth>
+            </Player>
+            <Player id="3508">
+                <FirstName>Stefan</FirstName>
+                <LastName>Strandberg</LastName>
+                <Position>CB</Position>
+                <Pace>67</Pace>
+                <Shooting>42</Shooting>
+                <Passing>51</Passing>
+                <Offensive>46</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>63</Stamina>
+                <Club>Rosenborg BK</Club>
+                <DateOfBirth>25-07-1990</DateOfBirth>
+            </Player>
+            <Player id="3865">
+                <FirstName>Mikael</FirstName>
+                <LastName>Dorsin</LastName>
+                <Position>LB</Position>
+                <Pace>65</Pace>
+                <Shooting>56</Shooting>
+                <Passing>66</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Rosenborg BK</Club>
+                <DateOfBirth>06-10-1981</DateOfBirth>
+            </Player>
+            <Player id="4718">
+                <FirstName>Tobias</FirstName>
+                <LastName>Mikkelsen</LastName>
+                <Position>RW</Position>
+                <Pace>83</Pace>
+                <Shooting>50</Shooting>
+                <Passing>61</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>45</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Rosenborg BK</Club>
+                <DateOfBirth>18-09-1986</DateOfBirth>
+            </Player>
+            <Player id="5049">
+                <FirstName>Ole Kristian</FirstName>
+                <LastName>Selnæs</LastName>
+                <Position>CM</Position>
+                <Pace>67</Pace>
+                <Shooting>59</Shooting>
+                <Passing>62</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>55</Defensive>
+                <Stamina>80</Stamina>
+                <Club>Rosenborg BK</Club>
+                <DateOfBirth>07-07-1994</DateOfBirth>
+            </Player>
+            <Player id="5665">
+                <FirstName>Per Verner</FirstName>
+                <LastName>Rønning</LastName>
+                <Position>CB</Position>
+                <Pace>65</Pace>
+                <Shooting>38</Shooting>
+                <Passing>48</Passing>
+                <Offensive>43</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>73</Stamina>
+                <Club>Rosenborg BK</Club>
+                <DateOfBirth>09-01-1983</DateOfBirth>
+            </Player>
+            <Player id="5756">
+                <FirstName>Jonas</FirstName>
+                <LastName>Svensson</LastName>
+                <Position>RB</Position>
+                <Pace>70</Pace>
+                <Shooting>63</Shooting>
+                <Passing>64</Passing>
+                <Offensive>63</Offensive>
+                <Defensive>61</Defensive>
+                <Stamina>82</Stamina>
+                <Club>Rosenborg BK</Club>
+                <DateOfBirth>06-03-1993</DateOfBirth>
+            </Player>
+            <Player id="6548">
+                <FirstName>Pål André</FirstName>
+                <LastName>Helland</LastName>
+                <Position>LW</Position>
+                <Pace>74</Pace>
+                <Shooting>64</Shooting>
+                <Passing>60</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>64</Stamina>
+                <Club>Rosenborg BK</Club>
+                <DateOfBirth>04-01-1990</DateOfBirth>
+            </Player>
+            <Player id="9763">
+                <FirstName>Alexander</FirstName>
+                <LastName>Sørloth</LastName>
+                <Position>ST</Position>
+                <Pace>72</Pace>
+                <Shooting>56</Shooting>
+                <Passing>49</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>26</Defensive>
+                <Stamina>61</Stamina>
+                <Club>Rosenborg BK</Club>
+                <DateOfBirth>05-12-1995</DateOfBirth>
+            </Player>
+            <Player id="11089">
+                <FirstName>Lars</FirstName>
+                <LastName>Stubhaug</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>27</Stamina>
+                <Club>Rosenborg BK</Club>
+                <DateOfBirth>18-04-1990</DateOfBirth>
+            </Player>
+            <Player id="12214">
+                <FirstName>Morten Gamst</FirstName>
+                <LastName>Pedersen</LastName>
+                <Position>CM</Position>
+                <Pace>54</Pace>
+                <Shooting>73</Shooting>
+                <Passing>78</Passing>
+                <Offensive>75</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Rosenborg BK</Club>
+                <DateOfBirth>08-09-1981</DateOfBirth>
+            </Player>
+            <Player id="12876">
+                <FirstName>Mikkel</FirstName>
+                <LastName>Diskerud</LastName>
+                <Position>CM</Position>
+                <Pace>68</Pace>
+                <Shooting>66</Shooting>
+                <Passing>72</Passing>
+                <Offensive>69</Offensive>
+                <Defensive>56</Defensive>
+                <Stamina>84</Stamina>
+                <Club>Rosenborg BK</Club>
+                <DateOfBirth>02-10-1990</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Molde FK">
+            <Player id="452">
+                <FirstName>Ørjan</FirstName>
+                <LastName>Nyland</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>33</Stamina>
+                <Club>Molde FK</Club>
+                <DateOfBirth>10-09-1990</DateOfBirth>
+            </Player>
+            <Player id="785">
+                <FirstName>Joona</FirstName>
+                <LastName>Toivio</LastName>
+                <Position>CB</Position>
+                <Pace>68</Pace>
+                <Shooting>55</Shooting>
+                <Passing>54</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>70</Defensive>
+                <Stamina>69</Stamina>
+                <Club>Molde FK</Club>
+                <DateOfBirth>10-03-1988</DateOfBirth>
+            </Player>
+            <Player id="1976">
+                <FirstName>Björn</FirstName>
+                <LastName>Sigurðarson</LastName>
+                <Position>ST</Position>
+                <Pace>78</Pace>
+                <Shooting>65</Shooting>
+                <Passing>57</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>36</Defensive>
+                <Stamina>83</Stamina>
+                <Club>Molde FK</Club>
+                <DateOfBirth>26-12-1991</DateOfBirth>
+            </Player>
+            <Player id="2136">
+                <FirstName>Harmeet</FirstName>
+                <LastName>Singh</LastName>
+                <Position>CM</Position>
+                <Pace>71</Pace>
+                <Shooting>63</Shooting>
+                <Passing>66</Passing>
+                <Offensive>64</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>81</Stamina>
+                <Club>Molde FK</Club>
+                <DateOfBirth>12-11-1990</DateOfBirth>
+            </Player>
+            <Player id="3103">
+                <FirstName>Joshua</FirstName>
+                <LastName>Gatt</LastName>
+                <Position>RM</Position>
+                <Pace>93</Pace>
+                <Shooting>61</Shooting>
+                <Passing>55</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>52</Defensive>
+                <Stamina>81</Stamina>
+                <Club>Molde FK</Club>
+                <DateOfBirth>29-08-1991</DateOfBirth>
+            </Player>
+            <Player id="3342">
+                <FirstName>Daniel</FirstName>
+                <LastName>Berg Hestad</LastName>
+                <Position>CM</Position>
+                <Pace>43</Pace>
+                <Shooting>61</Shooting>
+                <Passing>63</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>57</Stamina>
+                <Club>Molde FK</Club>
+                <DateOfBirth>30-07-1975</DateOfBirth>
+            </Player>
+            <Player id="3429">
+                <FirstName>Fredrik</FirstName>
+                <LastName>Gulbrandsen</LastName>
+                <Position>ST</Position>
+                <Pace>84</Pace>
+                <Shooting>66</Shooting>
+                <Passing>53</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>36</Defensive>
+                <Stamina>77</Stamina>
+                <Club>Molde FK</Club>
+                <DateOfBirth>10-09-1992</DateOfBirth>
+            </Player>
+            <Player id="3644">
+                <FirstName>Ruben</FirstName>
+                <LastName>Gabrielsen</LastName>
+                <Position>CB</Position>
+                <Pace>70</Pace>
+                <Shooting>53</Shooting>
+                <Passing>54</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>81</Stamina>
+                <Club>Molde FK</Club>
+                <DateOfBirth>10-03-1992</DateOfBirth>
+            </Player>
+            <Player id="3685">
+                <FirstName>Daniel</FirstName>
+                <LastName>Chima Chukwu</LastName>
+                <Position>ST</Position>
+                <Pace>74</Pace>
+                <Shooting>62</Shooting>
+                <Passing>47</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>32</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Molde FK</Club>
+                <DateOfBirth>04-04-1991</DateOfBirth>
+            </Player>
+            <Player id="4216">
+                <FirstName>Tommy</FirstName>
+                <LastName>Høiland</LastName>
+                <Position>ST</Position>
+                <Pace>82</Pace>
+                <Shooting>65</Shooting>
+                <Passing>48</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>35</Defensive>
+                <Stamina>80</Stamina>
+                <Club>Molde FK</Club>
+                <DateOfBirth>11-04-1989</DateOfBirth>
+            </Player>
+            <Player id="4422">
+                <FirstName>Knut Olav</FirstName>
+                <LastName>Rindarøy</LastName>
+                <Position>LB</Position>
+                <Pace>82</Pace>
+                <Shooting>51</Shooting>
+                <Passing>59</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>81</Stamina>
+                <Club>Molde FK</Club>
+                <DateOfBirth>17-07-1985</DateOfBirth>
+            </Player>
+            <Player id="4723">
+                <FirstName>Per Egil</FirstName>
+                <LastName>Flo</LastName>
+                <Position>LB</Position>
+                <Pace>69</Pace>
+                <Shooting>52</Shooting>
+                <Passing>63</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Molde FK</Club>
+                <DateOfBirth>18-01-1989</DateOfBirth>
+            </Player>
+            <Player id="6365">
+                <FirstName>Mattias</FirstName>
+                <LastName>Moström</LastName>
+                <Position>RM</Position>
+                <Pace>81</Pace>
+                <Shooting>59</Shooting>
+                <Passing>55</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>48</Defensive>
+                <Stamina>85</Stamina>
+                <Club>Molde FK</Club>
+                <DateOfBirth>25-02-1983</DateOfBirth>
+            </Player>
+            <Player id="6525">
+                <FirstName>Magne</FirstName>
+                <LastName>Simonsen</LastName>
+                <Position>RB</Position>
+                <Pace>74</Pace>
+                <Shooting>58</Shooting>
+                <Passing>63</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>80</Stamina>
+                <Club>Molde FK</Club>
+                <DateOfBirth>13-07-1988</DateOfBirth>
+            </Player>
+            <Player id="6536">
+                <FirstName>Pape Paté</FirstName>
+                <LastName>Diouf</LastName>
+                <Position>ST</Position>
+                <Pace>77</Pace>
+                <Shooting>60</Shooting>
+                <Passing>54</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>33</Defensive>
+                <Stamina>68</Stamina>
+                <Club>Molde FK</Club>
+                <DateOfBirth>04-04-1986</DateOfBirth>
+            </Player>
+            <Player id="7830">
+                <FirstName>Agnaldo</FirstName>
+                <LastName>Moraes</LastName>
+                <Position>RM</Position>
+                <Pace>74</Pace>
+                <Shooting>62</Shooting>
+                <Passing>58</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>32</Defensive>
+                <Stamina>63</Stamina>
+                <Club>Molde FK</Club>
+                <DateOfBirth>11-03-1994</DateOfBirth>
+            </Player>
+            <Player id="9399">
+                <FirstName>Eirik</FirstName>
+                <LastName>Hestad</LastName>
+                <Position>CM</Position>
+                <Pace>72</Pace>
+                <Shooting>55</Shooting>
+                <Passing>61</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>44</Defensive>
+                <Stamina>60</Stamina>
+                <Club>Molde FK</Club>
+                <DateOfBirth>26-06-1995</DateOfBirth>
+            </Player>
+            <Player id="10490">
+                <FirstName>Sander</FirstName>
+                <LastName>Svendsen</LastName>
+                <Position>ST</Position>
+                <Pace>71</Pace>
+                <Shooting>54</Shooting>
+                <Passing>53</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>27</Defensive>
+                <Stamina>60</Stamina>
+                <Club>Molde FK</Club>
+                <DateOfBirth>06-08-1997</DateOfBirth>
+            </Player>
+            <Player id="12077">
+                <FirstName>Vegard</FirstName>
+                <LastName>Forren</LastName>
+                <Position>CB</Position>
+                <Pace>58</Pace>
+                <Shooting>50</Shooting>
+                <Passing>59</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>75</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Molde FK</Club>
+                <DateOfBirth>16-02-1988</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Sandnes Ulf">
+            <Player id="1388">
+                <FirstName>Diego</FirstName>
+                <LastName>Rubio</LastName>
+                <Position>ST</Position>
+                <Pace>72</Pace>
+                <Shooting>69</Shooting>
+                <Passing>50</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>65</Stamina>
+                <Club>Sandnes Ulf</Club>
+                <DateOfBirth>15-05-1993</DateOfBirth>
+            </Player>
+            <Player id="4949">
+                <FirstName>Emil</FirstName>
+                <LastName>Johansson</LastName>
+                <Position>LB</Position>
+                <Pace>80</Pace>
+                <Shooting>52</Shooting>
+                <Passing>62</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>59</Defensive>
+                <Stamina>77</Stamina>
+                <Club>Sandnes Ulf</Club>
+                <DateOfBirth>11-08-1986</DateOfBirth>
+            </Player>
+            <Player id="6094">
+                <FirstName>Aksel Berget</FirstName>
+                <LastName>Skjølsvik</LastName>
+                <Position>CM</Position>
+                <Pace>70</Pace>
+                <Shooting>63</Shooting>
+                <Passing>56</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>48</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Sandnes Ulf</Club>
+                <DateOfBirth>15-05-1987</DateOfBirth>
+            </Player>
+            <Player id="8659">
+                <FirstName>Marius</FirstName>
+                <LastName>Helle</LastName>
+                <Position>ST</Position>
+                <Pace>70</Pace>
+                <Shooting>59</Shooting>
+                <Passing>45</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>36</Defensive>
+                <Stamina>57</Stamina>
+                <Club>Sandnes Ulf</Club>
+                <DateOfBirth>11-08-1983</DateOfBirth>
+            </Player>
+            <Player id="9002">
+                <FirstName>Erik</FirstName>
+                <LastName>Tønne</LastName>
+                <Position>LB</Position>
+                <Pace>68</Pace>
+                <Shooting>56</Shooting>
+                <Passing>59</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>56</Defensive>
+                <Stamina>74</Stamina>
+                <Club>Sandnes Ulf</Club>
+                <DateOfBirth>07-05-1991</DateOfBirth>
+            </Player>
+            <Player id="9168">
+                <FirstName>Derek</FirstName>
+                <LastName>Decamps</LastName>
+                <Position>CB</Position>
+                <Pace>32</Pace>
+                <Shooting>30</Shooting>
+                <Passing>38</Passing>
+                <Offensive>34</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>57</Stamina>
+                <Club>Sandnes Ulf</Club>
+                <DateOfBirth>02-05-1985</DateOfBirth>
+            </Player>
+            <Player id="9307">
+                <FirstName>Henrik Luggenes</FirstName>
+                <LastName>Furebotn</LastName>
+                <Position>RM</Position>
+                <Pace>69</Pace>
+                <Shooting>56</Shooting>
+                <Passing>52</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>42</Defensive>
+                <Stamina>75</Stamina>
+                <Club>Sandnes Ulf</Club>
+                <DateOfBirth>11-02-1986</DateOfBirth>
+            </Player>
+            <Player id="9635">
+                <FirstName>Hannes</FirstName>
+                <LastName>Sigurðsson</LastName>
+                <Position>ST</Position>
+                <Pace>66</Pace>
+                <Shooting>55</Shooting>
+                <Passing>48</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>27</Defensive>
+                <Stamina>73</Stamina>
+                <Club>Sandnes Ulf</Club>
+                <DateOfBirth>10-04-1983</DateOfBirth>
+            </Player>
+            <Player id="9951">
+                <FirstName>Sean</FirstName>
+                <LastName>McDermott</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>25</Stamina>
+                <Club>Sandnes Ulf</Club>
+                <DateOfBirth>30-05-1993</DateOfBirth>
+            </Player>
+            <Player id="9963">
+                <FirstName>Hannes Þhór</FirstName>
+                <LastName>Halldórsson</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>31</Stamina>
+                <Club>Sandnes Ulf</Club>
+                <DateOfBirth>27-04-1984</DateOfBirth>
+            </Player>
+            <Player id="9969">
+                <FirstName>Zymer</FirstName>
+                <LastName>Bytyqi</LastName>
+                <Position>ST</Position>
+                <Pace>75</Pace>
+                <Shooting>53</Shooting>
+                <Passing>37</Passing>
+                <Offensive>45</Offensive>
+                <Defensive>27</Defensive>
+                <Stamina>54</Stamina>
+                <Club>Sandnes Ulf</Club>
+                <DateOfBirth>11-09-1996</DateOfBirth>
+            </Player>
+            <Player id="10076">
+                <FirstName>Vegard</FirstName>
+                <LastName>Aanestad</LastName>
+                <Position>RB</Position>
+                <Pace>65</Pace>
+                <Shooting>41</Shooting>
+                <Passing>48</Passing>
+                <Offensive>44</Offensive>
+                <Defensive>54</Defensive>
+                <Stamina>66</Stamina>
+                <Club>Sandnes Ulf</Club>
+                <DateOfBirth>12-06-1987</DateOfBirth>
+            </Player>
+            <Player id="10313">
+                <FirstName>Kenneth</FirstName>
+                <LastName>Sola</LastName>
+                <Position>LB</Position>
+                <Pace>66</Pace>
+                <Shooting>52</Shooting>
+                <Passing>59</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>52</Defensive>
+                <Stamina>68</Stamina>
+                <Club>Sandnes Ulf</Club>
+                <DateOfBirth>25-08-1985</DateOfBirth>
+            </Player>
+            <Player id="10318">
+                <FirstName>Tijan</FirstName>
+                <LastName>Jaiteh</LastName>
+                <Position>CM</Position>
+                <Pace>64</Pace>
+                <Shooting>48</Shooting>
+                <Passing>53</Passing>
+                <Offensive>50</Offensive>
+                <Defensive>51</Defensive>
+                <Stamina>68</Stamina>
+                <Club>Sandnes Ulf</Club>
+                <DateOfBirth>31-12-1988</DateOfBirth>
+            </Player>
+            <Player id="10319">
+                <FirstName>Avni</FirstName>
+                <LastName>Pepa</LastName>
+                <Position>RB</Position>
+                <Pace>61</Pace>
+                <Shooting>32</Shooting>
+                <Passing>42</Passing>
+                <Offensive>37</Offensive>
+                <Defensive>54</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Sandnes Ulf</Club>
+                <DateOfBirth>14-11-1988</DateOfBirth>
+            </Player>
+            <Player id="10331">
+                <FirstName>Ole Kristian</FirstName>
+                <LastName>Langås</LastName>
+                <Position>ST</Position>
+                <Pace>68</Pace>
+                <Shooting>53</Shooting>
+                <Passing>39</Passing>
+                <Offensive>46</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>47</Stamina>
+                <Club>Sandnes Ulf</Club>
+                <DateOfBirth>07-05-1993</DateOfBirth>
+            </Player>
+            <Player id="10380">
+                <FirstName>Kent Håvard</FirstName>
+                <LastName>Eriksen</LastName>
+                <Position>ST</Position>
+                <Pace>52</Pace>
+                <Shooting>58</Shooting>
+                <Passing>37</Passing>
+                <Offensive>47</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>51</Stamina>
+                <Club>Sandnes Ulf</Club>
+                <DateOfBirth>29-05-1991</DateOfBirth>
+            </Player>
+            <Player id="11342">
+                <FirstName>Niklas</FirstName>
+                <LastName>Sandberg</LastName>
+                <Position>CM</Position>
+                <Pace>72</Pace>
+                <Shooting>46</Shooting>
+                <Passing>54</Passing>
+                <Offensive>50</Offensive>
+                <Defensive>47</Defensive>
+                <Stamina>48</Stamina>
+                <Club>Sandnes Ulf</Club>
+                <DateOfBirth>18-05-1995</DateOfBirth>
+            </Player>
+            <Player id="11348">
+                <FirstName>Vegard</FirstName>
+                <LastName>Skjørestad</LastName>
+                <Position>CM</Position>
+                <Pace>66</Pace>
+                <Shooting>51</Shooting>
+                <Passing>53</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>51</Defensive>
+                <Stamina>63</Stamina>
+                <Club>Sandnes Ulf</Club>
+                <DateOfBirth>30-08-1995</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="SK Brann">
+            <Player id="2209">
+                <FirstName>Piotr</FirstName>
+                <LastName>Leciejewski</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>30</Stamina>
+                <Club>SK Brann</Club>
+                <DateOfBirth>23-03-1985</DateOfBirth>
+            </Player>
+            <Player id="2370">
+                <FirstName>Erik</FirstName>
+                <LastName>Huseklepp</LastName>
+                <Position>ST</Position>
+                <Pace>81</Pace>
+                <Shooting>66</Shooting>
+                <Passing>64</Passing>
+                <Offensive>65</Offensive>
+                <Defensive>35</Defensive>
+                <Stamina>71</Stamina>
+                <Club>SK Brann</Club>
+                <DateOfBirth>05-09-1984</DateOfBirth>
+            </Player>
+            <Player id="2378">
+                <FirstName>Marcus</FirstName>
+                <LastName>Pedersen</LastName>
+                <Position>ST</Position>
+                <Pace>73</Pace>
+                <Shooting>70</Shooting>
+                <Passing>54</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>37</Defensive>
+                <Stamina>66</Stamina>
+                <Club>SK Brann</Club>
+                <DateOfBirth>08-06-1990</DateOfBirth>
+            </Player>
+            <Player id="4523">
+                <FirstName>Jakob</FirstName>
+                <LastName>Orlov</LastName>
+                <Position>ST</Position>
+                <Pace>68</Pace>
+                <Shooting>63</Shooting>
+                <Passing>53</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>71</Stamina>
+                <Club>SK Brann</Club>
+                <DateOfBirth>15-03-1986</DateOfBirth>
+            </Player>
+            <Player id="5677">
+                <FirstName>Birkir</FirstName>
+                <LastName>Sævarsson</LastName>
+                <Position>RB</Position>
+                <Pace>80</Pace>
+                <Shooting>44</Shooting>
+                <Passing>56</Passing>
+                <Offensive>50</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>74</Stamina>
+                <Club>SK Brann</Club>
+                <DateOfBirth>11-11-1984</DateOfBirth>
+            </Player>
+            <Player id="5959">
+                <FirstName>Erdin</FirstName>
+                <LastName>Demir</LastName>
+                <Position>LB</Position>
+                <Pace>82</Pace>
+                <Shooting>48</Shooting>
+                <Passing>61</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>56</Defensive>
+                <Stamina>78</Stamina>
+                <Club>SK Brann</Club>
+                <DateOfBirth>27-03-1990</DateOfBirth>
+            </Player>
+            <Player id="6205">
+                <FirstName>Kristoffer</FirstName>
+                <LastName>Barmen</LastName>
+                <Position>ST</Position>
+                <Pace>66</Pace>
+                <Shooting>63</Shooting>
+                <Passing>54</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>52</Defensive>
+                <Stamina>75</Stamina>
+                <Club>SK Brann</Club>
+                <DateOfBirth>19-08-1993</DateOfBirth>
+            </Player>
+            <Player id="6479">
+                <FirstName>Erlend</FirstName>
+                <LastName>Hanstveit</LastName>
+                <Position>CB</Position>
+                <Pace>47</Pace>
+                <Shooting>50</Shooting>
+                <Passing>62</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>74</Stamina>
+                <Club>SK Brann</Club>
+                <DateOfBirth>28-01-1981</DateOfBirth>
+            </Player>
+            <Player id="7266">
+                <FirstName>Fredrik</FirstName>
+                <LastName>Haugen</LastName>
+                <Position>CM</Position>
+                <Pace>68</Pace>
+                <Shooting>65</Shooting>
+                <Passing>60</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>41</Defensive>
+                <Stamina>63</Stamina>
+                <Club>SK Brann</Club>
+                <DateOfBirth>13-06-1992</DateOfBirth>
+            </Player>
+            <Player id="7383">
+                <FirstName>Markus</FirstName>
+                <LastName>Jonsson</LastName>
+                <Position>CB</Position>
+                <Pace>59</Pace>
+                <Shooting>55</Shooting>
+                <Passing>60</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>75</Stamina>
+                <Club>SK Brann</Club>
+                <DateOfBirth>09-03-1981</DateOfBirth>
+            </Player>
+            <Player id="7579">
+                <FirstName>Stéphane</FirstName>
+                <LastName>Badji</LastName>
+                <Position>CM</Position>
+                <Pace>68</Pace>
+                <Shooting>55</Shooting>
+                <Passing>57</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>54</Stamina>
+                <Club>SK Brann</Club>
+                <DateOfBirth>18-01-1990</DateOfBirth>
+            </Player>
+            <Player id="7928">
+                <FirstName>Azar</FirstName>
+                <LastName>Karadas</LastName>
+                <Position>CB</Position>
+                <Pace>60</Pace>
+                <Shooting>53</Shooting>
+                <Passing>56</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>52</Defensive>
+                <Stamina>60</Stamina>
+                <Club>SK Brann</Club>
+                <DateOfBirth>09-08-1981</DateOfBirth>
+            </Player>
+            <Player id="9422">
+                <FirstName>Håkon</FirstName>
+                <LastName>Lorentzen</LastName>
+                <Position>ST</Position>
+                <Pace>71</Pace>
+                <Shooting>57</Shooting>
+                <Passing>41</Passing>
+                <Offensive>49</Offensive>
+                <Defensive>27</Defensive>
+                <Stamina>58</Stamina>
+                <Club>SK Brann</Club>
+                <DateOfBirth>02-08-1997</DateOfBirth>
+            </Player>
+            <Player id="9681">
+                <FirstName>Jonas</FirstName>
+                <LastName>Grønner</LastName>
+                <Position>CB</Position>
+                <Pace>50</Pace>
+                <Shooting>36</Shooting>
+                <Passing>54</Passing>
+                <Offensive>45</Offensive>
+                <Defensive>56</Defensive>
+                <Stamina>60</Stamina>
+                <Club>SK Brann</Club>
+                <DateOfBirth>11-04-1994</DateOfBirth>
+            </Player>
+            <Player id="9949">
+                <FirstName>Eirik</FirstName>
+                <LastName>Birkelund</LastName>
+                <Position>CAM</Position>
+                <Pace>60</Pace>
+                <Shooting>48</Shooting>
+                <Passing>49</Passing>
+                <Offensive>48</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>56</Stamina>
+                <Club>SK Brann</Club>
+                <DateOfBirth>13-01-1994</DateOfBirth>
+            </Player>
+            <Player id="9990">
+                <FirstName>Andreas</FirstName>
+                <LastName>Vindheim</LastName>
+                <Position>RB</Position>
+                <Pace>71</Pace>
+                <Shooting>42</Shooting>
+                <Passing>53</Passing>
+                <Offensive>47</Offensive>
+                <Defensive>55</Defensive>
+                <Stamina>63</Stamina>
+                <Club>SK Brann</Club>
+                <DateOfBirth>04-08-1995</DateOfBirth>
+            </Player>
+            <Player id="11062">
+                <FirstName>Ibrahima</FirstName>
+                <LastName>Dramé</LastName>
+                <Position>ST</Position>
+                <Pace>69</Pace>
+                <Shooting>51</Shooting>
+                <Passing>39</Passing>
+                <Offensive>45</Offensive>
+                <Defensive>26</Defensive>
+                <Stamina>53</Stamina>
+                <Club>SK Brann</Club>
+                <DateOfBirth>23-09-1995</DateOfBirth>
+            </Player>
+            <Player id="11128">
+                <FirstName>Simen</FirstName>
+                <LastName>Lassen</LastName>
+                <Position>CM</Position>
+                <Pace>62</Pace>
+                <Shooting>47</Shooting>
+                <Passing>57</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>40</Defensive>
+                <Stamina>45</Stamina>
+                <Club>SK Brann</Club>
+                <DateOfBirth>11-04-1994</DateOfBirth>
+            </Player>
+            <Player id="11189">
+                <FirstName>Øystein</FirstName>
+                <LastName>Øvretveit</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>26</Stamina>
+                <Club>SK Brann</Club>
+                <DateOfBirth>25-06-1994</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="FK Haugesund">
+            <Player id="2240">
+                <FirstName>Christian</FirstName>
+                <LastName>Gytkjær</LastName>
+                <Position>ST</Position>
+                <Pace>72</Pace>
+                <Shooting>70</Shooting>
+                <Passing>56</Passing>
+                <Offensive>63</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>66</Stamina>
+                <Club>FK Haugesund</Club>
+                <DateOfBirth>06-05-1990</DateOfBirth>
+            </Player>
+            <Player id="3957">
+                <FirstName>Emmanuel</FirstName>
+                <LastName>Ekpo</LastName>
+                <Position>CM</Position>
+                <Pace>81</Pace>
+                <Shooting>53</Shooting>
+                <Passing>61</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>74</Stamina>
+                <Club>FK Haugesund</Club>
+                <DateOfBirth>20-12-1987</DateOfBirth>
+            </Player>
+            <Player id="3960">
+                <FirstName>Daniel Josè</FirstName>
+                <LastName>Bamberg</LastName>
+                <Position>RM</Position>
+                <Pace>75</Pace>
+                <Shooting>67</Shooting>
+                <Passing>64</Passing>
+                <Offensive>65</Offensive>
+                <Defensive>44</Defensive>
+                <Stamina>63</Stamina>
+                <Club>FK Haugesund</Club>
+                <DateOfBirth>23-04-1984</DateOfBirth>
+            </Player>
+            <Player id="5765">
+                <FirstName>Dusan</FirstName>
+                <LastName>Cvetinovic</LastName>
+                <Position>CB</Position>
+                <Pace>64</Pace>
+                <Shooting>45</Shooting>
+                <Passing>52</Passing>
+                <Offensive>48</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>65</Stamina>
+                <Club>FK Haugesund</Club>
+                <DateOfBirth>24-12-1988</DateOfBirth>
+            </Player>
+            <Player id="5945">
+                <FirstName>Ugonna</FirstName>
+                <LastName>Anyora</LastName>
+                <Position>CM</Position>
+                <Pace>69</Pace>
+                <Shooting>64</Shooting>
+                <Passing>62</Passing>
+                <Offensive>63</Offensive>
+                <Defensive>57</Defensive>
+                <Stamina>77</Stamina>
+                <Club>FK Haugesund</Club>
+                <DateOfBirth>29-04-1991</DateOfBirth>
+            </Player>
+            <Player id="6203">
+                <FirstName>Tor Arne</FirstName>
+                <LastName>Andreassen</LastName>
+                <Position>LM</Position>
+                <Pace>64</Pace>
+                <Shooting>61</Shooting>
+                <Passing>61</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>62</Stamina>
+                <Club>FK Haugesund</Club>
+                <DateOfBirth>16-03-1983</DateOfBirth>
+            </Player>
+            <Player id="6204">
+                <FirstName>Eirik Vespestad</FirstName>
+                <LastName>Mæland</LastName>
+                <Position>CM</Position>
+                <Pace>64</Pace>
+                <Shooting>58</Shooting>
+                <Passing>68</Passing>
+                <Offensive>63</Offensive>
+                <Defensive>43</Defensive>
+                <Stamina>71</Stamina>
+                <Club>FK Haugesund</Club>
+                <DateOfBirth>15-02-1989</DateOfBirth>
+            </Player>
+            <Player id="6868">
+                <FirstName>Michael Enge</FirstName>
+                <LastName>Haukås</LastName>
+                <Position>LM</Position>
+                <Pace>69</Pace>
+                <Shooting>64</Shooting>
+                <Passing>61</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>65</Stamina>
+                <Club>FK Haugesund</Club>
+                <DateOfBirth>21-11-1986</DateOfBirth>
+            </Player>
+            <Player id="6871">
+                <FirstName>Martin</FirstName>
+                <LastName>Bjørnbak</LastName>
+                <Position>CB</Position>
+                <Pace>55</Pace>
+                <Shooting>49</Shooting>
+                <Passing>55</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>66</Stamina>
+                <Club>FK Haugesund</Club>
+                <DateOfBirth>22-03-1992</DateOfBirth>
+            </Player>
+            <Player id="7230">
+                <FirstName>Maic</FirstName>
+                <LastName>Sema</LastName>
+                <Position>CAM</Position>
+                <Pace>80</Pace>
+                <Shooting>59</Shooting>
+                <Passing>48</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>32</Defensive>
+                <Stamina>72</Stamina>
+                <Club>FK Haugesund</Club>
+                <DateOfBirth>02-12-1988</DateOfBirth>
+            </Player>
+            <Player id="7650">
+                <FirstName>Nikola</FirstName>
+                <LastName>Komazec</LastName>
+                <Position>ST</Position>
+                <Pace>49</Pace>
+                <Shooting>60</Shooting>
+                <Passing>35</Passing>
+                <Offensive>47</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>64</Stamina>
+                <Club>FK Haugesund</Club>
+                <DateOfBirth>15-11-1987</DateOfBirth>
+            </Player>
+            <Player id="8916">
+                <FirstName>David</FirstName>
+                <LastName>Myrestam</LastName>
+                <Position>LB</Position>
+                <Pace>75</Pace>
+                <Shooting>38</Shooting>
+                <Passing>55</Passing>
+                <Offensive>46</Offensive>
+                <Defensive>54</Defensive>
+                <Stamina>77</Stamina>
+                <Club>FK Haugesund</Club>
+                <DateOfBirth>04-04-1987</DateOfBirth>
+            </Player>
+            <Player id="9153">
+                <FirstName>Vegard</FirstName>
+                <LastName>Skjerve</LastName>
+                <Position>RB</Position>
+                <Pace>70</Pace>
+                <Shooting>54</Shooting>
+                <Passing>48</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>56</Defensive>
+                <Stamina>76</Stamina>
+                <Club>FK Haugesund</Club>
+                <DateOfBirth>22-05-1988</DateOfBirth>
+            </Player>
+            <Player id="9179">
+                <FirstName>Torbjørn</FirstName>
+                <LastName>Agdestein</LastName>
+                <Position>ST</Position>
+                <Pace>69</Pace>
+                <Shooting>59</Shooting>
+                <Passing>38</Passing>
+                <Offensive>48</Offensive>
+                <Defensive>33</Defensive>
+                <Stamina>72</Stamina>
+                <Club>FK Haugesund</Club>
+                <DateOfBirth>18-09-1991</DateOfBirth>
+            </Player>
+            <Player id="9364">
+                <FirstName>Kristoffer</FirstName>
+                <LastName>Haraldseid</LastName>
+                <Position>RM</Position>
+                <Pace>68</Pace>
+                <Shooting>50</Shooting>
+                <Passing>51</Passing>
+                <Offensive>50</Offensive>
+                <Defensive>41</Defensive>
+                <Stamina>59</Stamina>
+                <Club>FK Haugesund</Club>
+                <DateOfBirth>17-01-1994</DateOfBirth>
+            </Player>
+            <Player id="9904">
+                <FirstName>Geir Ludvig</FirstName>
+                <LastName>Fevang</LastName>
+                <Position>CDM</Position>
+                <Pace>60</Pace>
+                <Shooting>63</Shooting>
+                <Passing>62</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>46</Defensive>
+                <Stamina>71</Stamina>
+                <Club>FK Haugesund</Club>
+                <DateOfBirth>17-11-1980</DateOfBirth>
+            </Player>
+            <Player id="10590">
+                <FirstName>Alexander</FirstName>
+                <LastName>Stølås</LastName>
+                <Position>LW</Position>
+                <Pace>69</Pace>
+                <Shooting>58</Shooting>
+                <Passing>44</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>32</Defensive>
+                <Stamina>48</Stamina>
+                <Club>FK Haugesund</Club>
+                <DateOfBirth>30-04-1989</DateOfBirth>
+            </Player>
+            <Player id="11203">
+                <FirstName>Tor Andre</FirstName>
+                <LastName>Aasheim</LastName>
+                <Position>CM</Position>
+                <Pace>59</Pace>
+                <Shooting>38</Shooting>
+                <Passing>51</Passing>
+                <Offensive>44</Offensive>
+                <Defensive>43</Defensive>
+                <Stamina>59</Stamina>
+                <Club>FK Haugesund</Club>
+                <DateOfBirth>06-03-1996</DateOfBirth>
+            </Player>
+            <Player id="11265">
+                <FirstName>Olav Baggerud</FirstName>
+                <LastName>Dalen</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>35</Stamina>
+                <Club>FK Haugesund</Club>
+                <DateOfBirth>06-03-1985</DateOfBirth>
+            </Player>
+            <Player id="11414">
+                <FirstName>Per Kristian</FirstName>
+                <LastName>Bråtveit</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>38</Stamina>
+                <Club>FK Haugesund</Club>
+                <DateOfBirth>15-02-1996</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="IK Start">
+            <Player id="2542">
+                <FirstName>Solomon James</FirstName>
+                <LastName>Owello</LastName>
+                <Position>CM</Position>
+                <Pace>75</Pace>
+                <Shooting>55</Shooting>
+                <Passing>65</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>57</Defensive>
+                <Stamina>82</Stamina>
+                <Club>IK Start</Club>
+                <DateOfBirth>25-12-1988</DateOfBirth>
+            </Player>
+            <Player id="3378">
+                <FirstName>Seyi</FirstName>
+                <LastName>Olofinjana</LastName>
+                <Position>CDM</Position>
+                <Pace>55</Pace>
+                <Shooting>55</Shooting>
+                <Passing>59</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>69</Defensive>
+                <Stamina>61</Stamina>
+                <Club>IK Start</Club>
+                <DateOfBirth>30-06-1980</DateOfBirth>
+            </Player>
+            <Player id="3480">
+                <FirstName>Matthías</FirstName>
+                <LastName>Vilhjálmsson</LastName>
+                <Position>ST</Position>
+                <Pace>75</Pace>
+                <Shooting>66</Shooting>
+                <Passing>59</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>59</Stamina>
+                <Club>IK Start</Club>
+                <DateOfBirth>30-01-1987</DateOfBirth>
+            </Player>
+            <Player id="5055">
+                <FirstName>Zlatko</FirstName>
+                <LastName>Tripić</LastName>
+                <Position>RM</Position>
+                <Pace>74</Pace>
+                <Shooting>63</Shooting>
+                <Passing>61</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>69</Stamina>
+                <Club>IK Start</Club>
+                <DateOfBirth>02-12-1992</DateOfBirth>
+            </Player>
+            <Player id="5251">
+                <FirstName>Espen</FirstName>
+                <LastName>Hoff</LastName>
+                <Position>ST</Position>
+                <Pace>73</Pace>
+                <Shooting>66</Shooting>
+                <Passing>58</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>39</Defensive>
+                <Stamina>75</Stamina>
+                <Club>IK Start</Club>
+                <DateOfBirth>20-11-1981</DateOfBirth>
+            </Player>
+            <Player id="5780">
+                <FirstName>Ernest</FirstName>
+                <LastName>Asante</LastName>
+                <Position>RM</Position>
+                <Pace>93</Pace>
+                <Shooting>58</Shooting>
+                <Passing>53</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>49</Defensive>
+                <Stamina>68</Stamina>
+                <Club>IK Start</Club>
+                <DateOfBirth>06-11-1988</DateOfBirth>
+            </Player>
+            <Player id="5916">
+                <FirstName>Espen</FirstName>
+                <LastName>Børufsen</LastName>
+                <Position>LM</Position>
+                <Pace>68</Pace>
+                <Shooting>60</Shooting>
+                <Passing>62</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>51</Defensive>
+                <Stamina>82</Stamina>
+                <Club>IK Start</Club>
+                <DateOfBirth>04-03-1988</DateOfBirth>
+            </Player>
+            <Player id="7002">
+                <FirstName>Jesper</FirstName>
+                <LastName>Mathisen</LastName>
+                <Position>CB</Position>
+                <Pace>59</Pace>
+                <Shooting>54</Shooting>
+                <Passing>56</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>50</Stamina>
+                <Club>IK Start</Club>
+                <DateOfBirth>17-03-1987</DateOfBirth>
+            </Player>
+            <Player id="7550">
+                <FirstName>Guðmundur</FirstName>
+                <LastName>Kristjánsson</LastName>
+                <Position>RM</Position>
+                <Pace>70</Pace>
+                <Shooting>56</Shooting>
+                <Passing>58</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>50</Defensive>
+                <Stamina>65</Stamina>
+                <Club>IK Start</Club>
+                <DateOfBirth>01-03-1989</DateOfBirth>
+            </Player>
+            <Player id="8122">
+                <FirstName>Glenn</FirstName>
+                <LastName>Andersen</LastName>
+                <Position>RB</Position>
+                <Pace>60</Pace>
+                <Shooting>41</Shooting>
+                <Passing>51</Passing>
+                <Offensive>46</Offensive>
+                <Defensive>61</Defensive>
+                <Stamina>71</Stamina>
+                <Club>IK Start</Club>
+                <DateOfBirth>05-04-1980</DateOfBirth>
+            </Player>
+            <Player id="8616">
+                <FirstName>Amin</FirstName>
+                <LastName>Nouri</LastName>
+                <Position>RB</Position>
+                <Pace>74</Pace>
+                <Shooting>49</Shooting>
+                <Passing>55</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>56</Defensive>
+                <Stamina>82</Stamina>
+                <Club>IK Start</Club>
+                <DateOfBirth>10-01-1990</DateOfBirth>
+            </Player>
+            <Player id="10214">
+                <FirstName>Robert</FirstName>
+                <LastName>Sandnes</LastName>
+                <Position>LB</Position>
+                <Pace>67</Pace>
+                <Shooting>55</Shooting>
+                <Passing>47</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>56</Defensive>
+                <Stamina>57</Stamina>
+                <Club>IK Start</Club>
+                <DateOfBirth>29-12-1991</DateOfBirth>
+            </Player>
+            <Player id="10381">
+                <FirstName>Alexander</FirstName>
+                <LastName>Lind</LastName>
+                <Position>ST</Position>
+                <Pace>70</Pace>
+                <Shooting>56</Shooting>
+                <Passing>41</Passing>
+                <Offensive>48</Offensive>
+                <Defensive>27</Defensive>
+                <Stamina>52</Stamina>
+                <Club>IK Start</Club>
+                <DateOfBirth>23-03-1989</DateOfBirth>
+            </Player>
+            <Player id="10584">
+                <FirstName>Lars-Jørgen</FirstName>
+                <LastName>Salvesen</LastName>
+                <Position>ST</Position>
+                <Pace>68</Pace>
+                <Shooting>55</Shooting>
+                <Passing>42</Passing>
+                <Offensive>48</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>55</Stamina>
+                <Club>IK Start</Club>
+                <DateOfBirth>12-03-1996</DateOfBirth>
+            </Player>
+            <Player id="10867">
+                <FirstName>Helge</FirstName>
+                <LastName>Rosenvold</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>30</Stamina>
+                <Club>IK Start</Club>
+                <DateOfBirth>29-07-1993</DateOfBirth>
+            </Player>
+            <Player id="10926">
+                <FirstName>Jon</FirstName>
+                <LastName>Hodnemyr</LastName>
+                <Position>RB</Position>
+                <Pace>80</Pace>
+                <Shooting>36</Shooting>
+                <Passing>45</Passing>
+                <Offensive>40</Offensive>
+                <Defensive>52</Defensive>
+                <Stamina>68</Stamina>
+                <Club>IK Start</Club>
+                <DateOfBirth>04-12-1995</DateOfBirth>
+            </Player>
+            <Player id="11255">
+                <FirstName>Terje</FirstName>
+                <LastName>Reinertsen</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>25</Stamina>
+                <Club>IK Start</Club>
+                <DateOfBirth>14-09-1987</DateOfBirth>
+            </Player>
+            <Player id="11345">
+                <FirstName>John Olav</FirstName>
+                <LastName>Norheim</LastName>
+                <Position>CB</Position>
+                <Pace>56</Pace>
+                <Shooting>28</Shooting>
+                <Passing>41</Passing>
+                <Offensive>34</Offensive>
+                <Defensive>52</Defensive>
+                <Stamina>61</Stamina>
+                <Club>IK Start</Club>
+                <DateOfBirth>05-04-1995</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Aalesunds FK">
+            <Player id="2564">
+                <FirstName>Fredrik</FirstName>
+                <LastName>Ulvestad</LastName>
+                <Position>CM</Position>
+                <Pace>71</Pace>
+                <Shooting>66</Shooting>
+                <Passing>67</Passing>
+                <Offensive>66</Offensive>
+                <Defensive>49</Defensive>
+                <Stamina>76</Stamina>
+                <Club>Aalesunds FK</Club>
+                <DateOfBirth>17-06-1992</DateOfBirth>
+            </Player>
+            <Player id="3139">
+                <FirstName>Leke Samson</FirstName>
+                <LastName>James</LastName>
+                <Position>ST</Position>
+                <Pace>73</Pace>
+                <Shooting>65</Shooting>
+                <Passing>50</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Aalesunds FK</Club>
+                <DateOfBirth>01-11-1992</DateOfBirth>
+            </Player>
+            <Player id="3616">
+                <FirstName>Demar</FirstName>
+                <LastName>Phillips</LastName>
+                <Position>LM</Position>
+                <Pace>83</Pace>
+                <Shooting>64</Shooting>
+                <Passing>58</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>49</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Aalesunds FK</Club>
+                <DateOfBirth>23-09-1983</DateOfBirth>
+            </Player>
+            <Player id="3942">
+                <FirstName>Sten Michael</FirstName>
+                <LastName>Grytebust</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>21</Stamina>
+                <Club>Aalesunds FK</Club>
+                <DateOfBirth>25-10-1989</DateOfBirth>
+            </Player>
+            <Player id="4444">
+                <FirstName>Daniel</FirstName>
+                <LastName>Arnefjord</LastName>
+                <Position>CB</Position>
+                <Pace>61</Pace>
+                <Shooting>30</Shooting>
+                <Passing>45</Passing>
+                <Offensive>37</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>68</Stamina>
+                <Club>Aalesunds FK</Club>
+                <DateOfBirth>21-03-1979</DateOfBirth>
+            </Player>
+            <Player id="4495">
+                <FirstName>Mostafa</FirstName>
+                <LastName>Abdellaoue</LastName>
+                <Position>ST</Position>
+                <Pace>76</Pace>
+                <Shooting>65</Shooting>
+                <Passing>48</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>31</Defensive>
+                <Stamina>75</Stamina>
+                <Club>Aalesunds FK</Club>
+                <DateOfBirth>01-08-1988</DateOfBirth>
+            </Player>
+            <Player id="4742">
+                <FirstName>Jonatan Tollås</FirstName>
+                <LastName>Nation</LastName>
+                <Position>CB</Position>
+                <Pace>58</Pace>
+                <Shooting>32</Shooting>
+                <Passing>47</Passing>
+                <Offensive>39</Offensive>
+                <Defensive>65</Defensive>
+                <Stamina>62</Stamina>
+                <Club>Aalesunds FK</Club>
+                <DateOfBirth>01-07-1990</DateOfBirth>
+            </Player>
+            <Player id="5676">
+                <FirstName>Fredrik</FirstName>
+                <LastName>Carlsen</LastName>
+                <Position>CM</Position>
+                <Pace>68</Pace>
+                <Shooting>49</Shooting>
+                <Passing>59</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>91</Stamina>
+                <Club>Aalesunds FK</Club>
+                <DateOfBirth>01-12-1989</DateOfBirth>
+            </Player>
+            <Player id="5682">
+                <FirstName>Peter Orry</FirstName>
+                <LastName>Larsen</LastName>
+                <Position>CM</Position>
+                <Pace>69</Pace>
+                <Shooting>45</Shooting>
+                <Passing>62</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>78</Stamina>
+                <Club>Aalesunds FK</Club>
+                <DateOfBirth>25-02-1989</DateOfBirth>
+            </Player>
+            <Player id="6786">
+                <FirstName>Sakari</FirstName>
+                <LastName>Mattila</LastName>
+                <Position>CDM</Position>
+                <Pace>63</Pace>
+                <Shooting>56</Shooting>
+                <Passing>55</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>75</Stamina>
+                <Club>Aalesunds FK</Club>
+                <DateOfBirth>14-07-1989</DateOfBirth>
+            </Player>
+            <Player id="7073">
+                <FirstName>Christian R.</FirstName>
+                <LastName>Myklebust</LastName>
+                <Position>RW</Position>
+                <Pace>76</Pace>
+                <Shooting>57</Shooting>
+                <Passing>49</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>37</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Aalesunds FK</Club>
+                <DateOfBirth>11-03-1992</DateOfBirth>
+            </Player>
+            <Player id="7461">
+                <FirstName>Andreas</FirstName>
+                <LastName>Lie</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>33</Stamina>
+                <Club>Aalesunds FK</Club>
+                <DateOfBirth>31-08-1987</DateOfBirth>
+            </Player>
+            <Player id="7548">
+                <FirstName>Hugues</FirstName>
+                <LastName>Wembangomo</LastName>
+                <Position>RB</Position>
+                <Pace>71</Pace>
+                <Shooting>41</Shooting>
+                <Passing>49</Passing>
+                <Offensive>45</Offensive>
+                <Defensive>59</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Aalesunds FK</Club>
+                <DateOfBirth>10-05-1992</DateOfBirth>
+            </Player>
+            <Player id="7601">
+                <FirstName>Thomas Skog</FirstName>
+                <LastName>Martinussen</LastName>
+                <Position>CM</Position>
+                <Pace>73</Pace>
+                <Shooting>54</Shooting>
+                <Passing>58</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>75</Stamina>
+                <Club>Aalesunds FK</Club>
+                <DateOfBirth>05-02-1995</DateOfBirth>
+            </Player>
+            <Player id="7935">
+                <FirstName>Jo Nymo</FirstName>
+                <LastName>Matland</LastName>
+                <Position>LB</Position>
+                <Pace>62</Pace>
+                <Shooting>60</Shooting>
+                <Passing>68</Passing>
+                <Offensive>64</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>75</Stamina>
+                <Club>Aalesunds FK</Club>
+                <DateOfBirth>21-04-1987</DateOfBirth>
+            </Player>
+            <Player id="8541">
+                <FirstName>Tor Hogne</FirstName>
+                <LastName>Aarøy</LastName>
+                <Position>ST</Position>
+                <Pace>34</Pace>
+                <Shooting>60</Shooting>
+                <Passing>44</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>31</Defensive>
+                <Stamina>51</Stamina>
+                <Club>Aalesunds FK</Club>
+                <DateOfBirth>20-03-1977</DateOfBirth>
+            </Player>
+            <Player id="9298">
+                <FirstName>Oddbjørn</FirstName>
+                <LastName>Lie</LastName>
+                <Position>LB</Position>
+                <Pace>57</Pace>
+                <Shooting>45</Shooting>
+                <Passing>55</Passing>
+                <Offensive>50</Offensive>
+                <Defensive>57</Defensive>
+                <Stamina>62</Stamina>
+                <Club>Aalesunds FK</Club>
+                <DateOfBirth>31-08-1987</DateOfBirth>
+            </Player>
+            <Player id="9540">
+                <FirstName>Torbjørn</FirstName>
+                <LastName>Grytten</LastName>
+                <Position>RW</Position>
+                <Pace>69</Pace>
+                <Shooting>61</Shooting>
+                <Passing>49</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>42</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Aalesunds FK</Club>
+                <DateOfBirth>06-04-1995</DateOfBirth>
+            </Player>
+            <Player id="11434">
+                <FirstName>Vebjørn</FirstName>
+                <LastName>Hoff</LastName>
+                <Position>CM</Position>
+                <Pace>71</Pace>
+                <Shooting>49</Shooting>
+                <Passing>51</Passing>
+                <Offensive>50</Offensive>
+                <Defensive>39</Defensive>
+                <Stamina>54</Stamina>
+                <Club>Aalesunds FK</Club>
+                <DateOfBirth>13-02-1996</DateOfBirth>
+            </Player>
+            <Player id="11556">
+                <FirstName>Henrik</FirstName>
+                <LastName>Bjørdal</LastName>
+                <Position>CM</Position>
+                <Pace>53</Pace>
+                <Shooting>40</Shooting>
+                <Passing>52</Passing>
+                <Offensive>46</Offensive>
+                <Defensive>40</Defensive>
+                <Stamina>54</Stamina>
+                <Club>Aalesunds FK</Club>
+                <DateOfBirth>04-02-1997</DateOfBirth>
+            </Player>
+            <Player id="12573">
+                <FirstName>Michael</FirstName>
+                <LastName>Barrantes</LastName>
+                <Position>CAM</Position>
+                <Pace>67</Pace>
+                <Shooting>73</Shooting>
+                <Passing>74</Passing>
+                <Offensive>73</Offensive>
+                <Defensive>54</Defensive>
+                <Stamina>76</Stamina>
+                <Club>Aalesunds FK</Club>
+                <DateOfBirth>04-10-1983</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="FK Bodø/Glimt ">
+            <Player id="2612">
+                <FirstName>Vieux Yakhya</FirstName>
+                <LastName>Sane</LastName>
+                <Position>CB</Position>
+                <Pace>71</Pace>
+                <Shooting>46</Shooting>
+                <Passing>52</Passing>
+                <Offensive>49</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>71</Stamina>
+                <Club>FK Bodø/Glimt </Club>
+                <DateOfBirth>04-08-1989</DateOfBirth>
+            </Player>
+            <Player id="3053">
+                <FirstName>Papa Alioune</FirstName>
+                <LastName>Ndiaye</LastName>
+                <Position>CAM</Position>
+                <Pace>74</Pace>
+                <Shooting>68</Shooting>
+                <Passing>66</Passing>
+                <Offensive>67</Offensive>
+                <Defensive>56</Defensive>
+                <Stamina>78</Stamina>
+                <Club>FK Bodø/Glimt </Club>
+                <DateOfBirth>27-10-1990</DateOfBirth>
+            </Player>
+            <Player id="3192">
+                <FirstName>Trond</FirstName>
+                <LastName>Olsen</LastName>
+                <Position>LW</Position>
+                <Pace>81</Pace>
+                <Shooting>65</Shooting>
+                <Passing>58</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>31</Defensive>
+                <Stamina>63</Stamina>
+                <Club>FK Bodø/Glimt </Club>
+                <DateOfBirth>05-02-1984</DateOfBirth>
+            </Player>
+            <Player id="3286">
+                <FirstName>Dane</FirstName>
+                <LastName>Richards</LastName>
+                <Position>RW</Position>
+                <Pace>88</Pace>
+                <Shooting>60</Shooting>
+                <Passing>58</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>26</Defensive>
+                <Stamina>80</Stamina>
+                <Club>FK Bodø/Glimt </Club>
+                <DateOfBirth>14-12-1983</DateOfBirth>
+            </Player>
+            <Player id="5180">
+                <FirstName>Abdurahim</FirstName>
+                <LastName>Laajab</LastName>
+                <Position>ST</Position>
+                <Pace>68</Pace>
+                <Shooting>67</Shooting>
+                <Passing>49</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>31</Defensive>
+                <Stamina>32</Stamina>
+                <Club>FK Bodø/Glimt </Club>
+                <DateOfBirth>21-05-1985</DateOfBirth>
+            </Player>
+            <Player id="5672">
+                <FirstName>Pavel</FirstName>
+                <LastName>Londak</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>31</Stamina>
+                <Club>FK Bodø/Glimt </Club>
+                <DateOfBirth>14-05-1980</DateOfBirth>
+            </Player>
+            <Player id="6587">
+                <FirstName>Dominic</FirstName>
+                <LastName>Chatto</LastName>
+                <Position>CDM</Position>
+                <Pace>65</Pace>
+                <Shooting>47</Shooting>
+                <Passing>57</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>54</Defensive>
+                <Stamina>59</Stamina>
+                <Club>FK Bodø/Glimt </Club>
+                <DateOfBirth>12-07-1985</DateOfBirth>
+            </Player>
+            <Player id="6929">
+                <FirstName>Thomas Båtnes</FirstName>
+                <LastName>Braaten</LastName>
+                <Position>CB</Position>
+                <Pace>68</Pace>
+                <Shooting>41</Shooting>
+                <Passing>48</Passing>
+                <Offensive>44</Offensive>
+                <Defensive>61</Defensive>
+                <Stamina>64</Stamina>
+                <Club>FK Bodø/Glimt </Club>
+                <DateOfBirth>30-06-1987</DateOfBirth>
+            </Player>
+            <Player id="7003">
+                <FirstName>Anders</FirstName>
+                <LastName>Karlsen</LastName>
+                <Position>RM</Position>
+                <Pace>72</Pace>
+                <Shooting>63</Shooting>
+                <Passing>61</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>53</Defensive>
+                <Stamina>73</Stamina>
+                <Club>FK Bodø/Glimt </Club>
+                <DateOfBirth>15-02-1990</DateOfBirth>
+            </Player>
+            <Player id="8148">
+                <FirstName>Thomas</FirstName>
+                <LastName>Jacobsen</LastName>
+                <Position>CDM</Position>
+                <Pace>75</Pace>
+                <Shooting>49</Shooting>
+                <Passing>56</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>65</Stamina>
+                <Club>FK Bodø/Glimt </Club>
+                <DateOfBirth>16-09-1983</DateOfBirth>
+            </Player>
+            <Player id="8351">
+                <FirstName>Ruben</FirstName>
+                <LastName>Imingen</LastName>
+                <Position>LB</Position>
+                <Pace>70</Pace>
+                <Shooting>50</Shooting>
+                <Passing>58</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>57</Defensive>
+                <Stamina>72</Stamina>
+                <Club>FK Bodø/Glimt </Club>
+                <DateOfBirth>04-12-1986</DateOfBirth>
+            </Player>
+            <Player id="8572">
+                <FirstName>Lasse</FirstName>
+                <LastName>Staw</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>25</Stamina>
+                <Club>FK Bodø/Glimt </Club>
+                <DateOfBirth>01-01-1988</DateOfBirth>
+            </Player>
+            <Player id="8787">
+                <FirstName>Mouhamadou</FirstName>
+                <LastName>N'Diaye</LastName>
+                <Position>ST</Position>
+                <Pace>69</Pace>
+                <Shooting>58</Shooting>
+                <Passing>54</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>68</Stamina>
+                <Club>FK Bodø/Glimt </Club>
+                <DateOfBirth>05-04-1988</DateOfBirth>
+            </Player>
+            <Player id="8807">
+                <FirstName>Brede</FirstName>
+                <LastName>Moe</LastName>
+                <Position>RB</Position>
+                <Pace>75</Pace>
+                <Shooting>42</Shooting>
+                <Passing>41</Passing>
+                <Offensive>41</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>71</Stamina>
+                <Club>FK Bodø/Glimt </Club>
+                <DateOfBirth>15-12-1991</DateOfBirth>
+            </Player>
+            <Player id="9376">
+                <FirstName>Daniel</FirstName>
+                <LastName>Berntsen</LastName>
+                <Position>CM</Position>
+                <Pace>78</Pace>
+                <Shooting>59</Shooting>
+                <Passing>58</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>42</Defensive>
+                <Stamina>60</Stamina>
+                <Club>FK Bodø/Glimt </Club>
+                <DateOfBirth>04-04-1993</DateOfBirth>
+            </Player>
+            <Player id="10285">
+                <FirstName>Ulrik Reinaldo</FirstName>
+                <LastName>Berglann</LastName>
+                <Position>ST</Position>
+                <Pace>77</Pace>
+                <Shooting>57</Shooting>
+                <Passing>51</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>27</Defensive>
+                <Stamina>54</Stamina>
+                <Club>FK Bodø/Glimt </Club>
+                <DateOfBirth>31-05-1992</DateOfBirth>
+            </Player>
+            <Player id="11392">
+                <FirstName>Martin</FirstName>
+                <LastName>Pedersen</LastName>
+                <Position>CM</Position>
+                <Pace>73</Pace>
+                <Shooting>34</Shooting>
+                <Passing>50</Passing>
+                <Offensive>42</Offensive>
+                <Defensive>48</Defensive>
+                <Stamina>54</Stamina>
+                <Club>FK Bodø/Glimt </Club>
+                <DateOfBirth>14-01-1995</DateOfBirth>
+            </Player>
+            <Player id="11529">
+                <FirstName>Jonas Ueland</FirstName>
+                <LastName>Kolstad</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>31</Stamina>
+                <Club>FK Bodø/Glimt </Club>
+                <DateOfBirth>21-09-1976</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Odd BK">
+            <Player id="2725">
+                <FirstName>Frode</FirstName>
+                <LastName>Johnsen</LastName>
+                <Position>ST</Position>
+                <Pace>60</Pace>
+                <Shooting>69</Shooting>
+                <Passing>51</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>40</Defensive>
+                <Stamina>34</Stamina>
+                <Club>Odd BK</Club>
+                <DateOfBirth>17-03-1974</DateOfBirth>
+            </Player>
+            <Player id="3876">
+                <FirstName>Jone</FirstName>
+                <LastName>Samuelsen</LastName>
+                <Position>CM</Position>
+                <Pace>68</Pace>
+                <Shooting>56</Shooting>
+                <Passing>64</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>56</Defensive>
+                <Stamina>91</Stamina>
+                <Club>Odd BK</Club>
+                <DateOfBirth>06-07-1984</DateOfBirth>
+            </Player>
+            <Player id="4164">
+                <FirstName>Fredrik</FirstName>
+                <LastName>Nordkvelle</LastName>
+                <Position>CM</Position>
+                <Pace>70</Pace>
+                <Shooting>63</Shooting>
+                <Passing>66</Passing>
+                <Offensive>64</Offensive>
+                <Defensive>52</Defensive>
+                <Stamina>81</Stamina>
+                <Club>Odd BK</Club>
+                <DateOfBirth>13-09-1985</DateOfBirth>
+            </Player>
+            <Player id="5918">
+                <FirstName>Steffen</FirstName>
+                <LastName>Hagen</LastName>
+                <Position>CB</Position>
+                <Pace>60</Pace>
+                <Shooting>36</Shooting>
+                <Passing>50</Passing>
+                <Offensive>43</Offensive>
+                <Defensive>65</Defensive>
+                <Stamina>80</Stamina>
+                <Club>Odd BK</Club>
+                <DateOfBirth>08-03-1986</DateOfBirth>
+            </Player>
+            <Player id="5941">
+                <FirstName>Fredrik Oldrup</FirstName>
+                <LastName>Jensen</LastName>
+                <Position>CM</Position>
+                <Pace>64</Pace>
+                <Shooting>43</Shooting>
+                <Passing>62</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>55</Defensive>
+                <Stamina>62</Stamina>
+                <Club>Odd BK</Club>
+                <DateOfBirth>18-05-1993</DateOfBirth>
+            </Player>
+            <Player id="5980">
+                <FirstName>Herolind</FirstName>
+                <LastName>Shala</LastName>
+                <Position>CM</Position>
+                <Pace>73</Pace>
+                <Shooting>62</Shooting>
+                <Passing>60</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>52</Defensive>
+                <Stamina>65</Stamina>
+                <Club>Odd BK</Club>
+                <DateOfBirth>01-02-1992</DateOfBirth>
+            </Player>
+            <Player id="7244">
+                <FirstName>Emil</FirstName>
+                <LastName>Jonassen</LastName>
+                <Position>LB</Position>
+                <Pace>77</Pace>
+                <Shooting>40</Shooting>
+                <Passing>59</Passing>
+                <Offensive>49</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>75</Stamina>
+                <Club>Odd BK</Club>
+                <DateOfBirth>17-02-1993</DateOfBirth>
+            </Player>
+            <Player id="7947">
+                <FirstName>Håvard</FirstName>
+                <LastName>Storbæk</LastName>
+                <Position>RW</Position>
+                <Pace>66</Pace>
+                <Shooting>62</Shooting>
+                <Passing>55</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>45</Defensive>
+                <Stamina>56</Stamina>
+                <Club>Odd BK</Club>
+                <DateOfBirth>25-05-1986</DateOfBirth>
+            </Player>
+            <Player id="8144">
+                <FirstName>Jarkko</FirstName>
+                <LastName>Hurme</LastName>
+                <Position>RB</Position>
+                <Pace>75</Pace>
+                <Shooting>41</Shooting>
+                <Passing>52</Passing>
+                <Offensive>46</Offensive>
+                <Defensive>61</Defensive>
+                <Stamina>52</Stamina>
+                <Club>Odd BK</Club>
+                <DateOfBirth>04-06-1986</DateOfBirth>
+            </Player>
+            <Player id="8444">
+                <FirstName>Thomas</FirstName>
+                <LastName>Grøgaard</LastName>
+                <Position>LB</Position>
+                <Pace>71</Pace>
+                <Shooting>45</Shooting>
+                <Passing>58</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>59</Defensive>
+                <Stamina>73</Stamina>
+                <Club>Odd BK</Club>
+                <DateOfBirth>08-02-1994</DateOfBirth>
+            </Player>
+            <Player id="9644">
+                <FirstName>Christer</FirstName>
+                <LastName>Kleiven</LastName>
+                <Position>CM</Position>
+                <Pace>71</Pace>
+                <Shooting>61</Shooting>
+                <Passing>56</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>46</Defensive>
+                <Stamina>74</Stamina>
+                <Club>Odd BK</Club>
+                <DateOfBirth>09-04-1988</DateOfBirth>
+            </Player>
+            <Player id="9961">
+                <FirstName>Henrik Kjelsrud</FirstName>
+                <LastName>Johansen</LastName>
+                <Position>ST</Position>
+                <Pace>67</Pace>
+                <Shooting>55</Shooting>
+                <Passing>36</Passing>
+                <Offensive>45</Offensive>
+                <Defensive>27</Defensive>
+                <Stamina>64</Stamina>
+                <Club>Odd BK</Club>
+                <DateOfBirth>22-03-1993</DateOfBirth>
+            </Player>
+            <Player id="10430">
+                <FirstName>Lars Kristian</FirstName>
+                <LastName>Eriksen</LastName>
+                <Position>RB</Position>
+                <Pace>68</Pace>
+                <Shooting>42</Shooting>
+                <Passing>53</Passing>
+                <Offensive>47</Offensive>
+                <Defensive>52</Defensive>
+                <Stamina>66</Stamina>
+                <Club>Odd BK</Club>
+                <DateOfBirth>28-06-1983</DateOfBirth>
+            </Player>
+            <Player id="10499">
+                <FirstName>Vegard</FirstName>
+                <LastName>Bergan</LastName>
+                <Position>CB</Position>
+                <Pace>69</Pace>
+                <Shooting>28</Shooting>
+                <Passing>36</Passing>
+                <Offensive>32</Offensive>
+                <Defensive>55</Defensive>
+                <Stamina>56</Stamina>
+                <Club>Odd BK</Club>
+                <DateOfBirth>20-02-1995</DateOfBirth>
+            </Player>
+            <Player id="10573">
+                <FirstName>Viljar</FirstName>
+                <LastName>Myhra</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>33</Stamina>
+                <Club>Odd BK</Club>
+                <DateOfBirth>21-07-1996</DateOfBirth>
+            </Player>
+            <Player id="10923">
+                <FirstName>Jonathan</FirstName>
+                <LastName>Lindseth</LastName>
+                <Position>CM</Position>
+                <Pace>62</Pace>
+                <Shooting>47</Shooting>
+                <Passing>54</Passing>
+                <Offensive>50</Offensive>
+                <Defensive>44</Defensive>
+                <Stamina>60</Stamina>
+                <Club>Odd BK</Club>
+                <DateOfBirth>25-02-1996</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Sarpsborg">
+            <Player id="2761">
+                <FirstName>Jérémy</FirstName>
+                <LastName>Berthod</LastName>
+                <Position>LB</Position>
+                <Pace>61</Pace>
+                <Shooting>40</Shooting>
+                <Passing>61</Passing>
+                <Offensive>50</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>67</Stamina>
+                <Club>Sarpsborg</Club>
+                <DateOfBirth>24-04-1984</DateOfBirth>
+            </Player>
+            <Player id="3613">
+                <FirstName>Bojan</FirstName>
+                <LastName>Zajić</LastName>
+                <Position>CM</Position>
+                <Pace>57</Pace>
+                <Shooting>71</Shooting>
+                <Passing>70</Passing>
+                <Offensive>70</Offensive>
+                <Defensive>46</Defensive>
+                <Stamina>62</Stamina>
+                <Club>Sarpsborg</Club>
+                <DateOfBirth>17-06-1980</DateOfBirth>
+            </Player>
+            <Player id="4443">
+                <FirstName>Jérôme</FirstName>
+                <LastName>Polenz</LastName>
+                <Position>RB</Position>
+                <Pace>72</Pace>
+                <Shooting>54</Shooting>
+                <Passing>62</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>86</Stamina>
+                <Club>Sarpsborg</Club>
+                <DateOfBirth>07-11-1986</DateOfBirth>
+            </Player>
+            <Player id="5094">
+                <FirstName>Gudmund Taksdal</FirstName>
+                <LastName>Kongshavn</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>21</Stamina>
+                <Club>Sarpsborg</Club>
+                <DateOfBirth>23-01-1991</DateOfBirth>
+            </Player>
+            <Player id="5970">
+                <FirstName>Duwayne</FirstName>
+                <LastName>Kerr</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>36</Stamina>
+                <Club>Sarpsborg</Club>
+                <DateOfBirth>16-01-1987</DateOfBirth>
+            </Player>
+            <Player id="6302">
+                <FirstName>Alejandro</FirstName>
+                <LastName>Castro</LastName>
+                <Position>ST</Position>
+                <Pace>75</Pace>
+                <Shooting>63</Shooting>
+                <Passing>55</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>31</Defensive>
+                <Stamina>74</Stamina>
+                <Club>Sarpsborg</Club>
+                <DateOfBirth>11-09-1990</DateOfBirth>
+            </Player>
+            <Player id="7499">
+                <FirstName>Joachim</FirstName>
+                <LastName>Thomassen</LastName>
+                <Position>LB</Position>
+                <Pace>75</Pace>
+                <Shooting>47</Shooting>
+                <Passing>58</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>55</Defensive>
+                <Stamina>78</Stamina>
+                <Club>Sarpsborg</Club>
+                <DateOfBirth>04-05-1988</DateOfBirth>
+            </Player>
+            <Player id="8632">
+                <FirstName>Oliver</FirstName>
+                <LastName>Feldballe</LastName>
+                <Position>LM</Position>
+                <Pace>77</Pace>
+                <Shooting>48</Shooting>
+                <Passing>53</Passing>
+                <Offensive>50</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>61</Stamina>
+                <Club>Sarpsborg</Club>
+                <DateOfBirth>03-04-1990</DateOfBirth>
+            </Player>
+            <Player id="8735">
+                <FirstName>Martin</FirstName>
+                <LastName>Thømt Jensen</LastName>
+                <Position>CB</Position>
+                <Pace>57</Pace>
+                <Shooting>42</Shooting>
+                <Passing>43</Passing>
+                <Offensive>42</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Sarpsborg</Club>
+                <DateOfBirth>08-07-1990</DateOfBirth>
+            </Player>
+            <Player id="9186">
+                <FirstName>Ole Christoffer</FirstName>
+                <LastName>Heieren Hansen</LastName>
+                <Position>CB</Position>
+                <Pace>47</Pace>
+                <Shooting>40</Shooting>
+                <Passing>47</Passing>
+                <Offensive>43</Offensive>
+                <Defensive>56</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Sarpsborg</Club>
+                <DateOfBirth>26-02-1987</DateOfBirth>
+            </Player>
+            <Player id="10121">
+                <FirstName>Gudmundur</FirstName>
+                <LastName>Thórarinsson</LastName>
+                <Position>CM</Position>
+                <Pace>68</Pace>
+                <Shooting>62</Shooting>
+                <Passing>60</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>35</Defensive>
+                <Stamina>59</Stamina>
+                <Club>Sarpsborg</Club>
+                <DateOfBirth>15-04-1992</DateOfBirth>
+            </Player>
+            <Player id="10564">
+                <FirstName>Badr</FirstName>
+                <LastName>Rahhaoui</LastName>
+                <Position>ST</Position>
+                <Pace>69</Pace>
+                <Shooting>54</Shooting>
+                <Passing>48</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>39</Defensive>
+                <Stamina>55</Stamina>
+                <Club>Sarpsborg</Club>
+                <DateOfBirth>07-08-1997</DateOfBirth>
+            </Player>
+            <Player id="10725">
+                <FirstName>Claes</FirstName>
+                <LastName>Kronberg</LastName>
+                <Position>RB</Position>
+                <Pace>71</Pace>
+                <Shooting>52</Shooting>
+                <Passing>52</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>52</Defensive>
+                <Stamina>82</Stamina>
+                <Club>Sarpsborg</Club>
+                <DateOfBirth>19-04-1987</DateOfBirth>
+            </Player>
+            <Player id="11288">
+                <FirstName>Olav</FirstName>
+                <LastName>Øby</LastName>
+                <Position>CM</Position>
+                <Pace>68</Pace>
+                <Shooting>34</Shooting>
+                <Passing>50</Passing>
+                <Offensive>42</Offensive>
+                <Defensive>45</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Sarpsborg</Club>
+                <DateOfBirth>13-10-1994</DateOfBirth>
+            </Player>
+            <Player id="11329">
+                <FirstName>Sindre</FirstName>
+                <LastName>Wormdahl</LastName>
+                <Position>CB</Position>
+                <Pace>52</Pace>
+                <Shooting>26</Shooting>
+                <Passing>28</Passing>
+                <Offensive>27</Offensive>
+                <Defensive>53</Defensive>
+                <Stamina>63</Stamina>
+                <Club>Sarpsborg</Club>
+                <DateOfBirth>15-02-1994</DateOfBirth>
+            </Player>
+            <Player id="11381">
+                <FirstName>Martin Hoel</FirstName>
+                <LastName>Andersen</LastName>
+                <Position>CM</Position>
+                <Pace>66</Pace>
+                <Shooting>37</Shooting>
+                <Passing>50</Passing>
+                <Offensive>43</Offensive>
+                <Defensive>44</Defensive>
+                <Stamina>54</Stamina>
+                <Club>Sarpsborg</Club>
+                <DateOfBirth>04-12-1995</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Lillestrøm SK">
+            <Player id="2829">
+                <FirstName>Bjørn Helge</FirstName>
+                <LastName>Riise</LastName>
+                <Position>RB</Position>
+                <Pace>70</Pace>
+                <Shooting>66</Shooting>
+                <Passing>66</Passing>
+                <Offensive>66</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>77</Stamina>
+                <Club>Lillestrøm SK</Club>
+                <DateOfBirth>21-06-1983</DateOfBirth>
+            </Player>
+            <Player id="3193">
+                <FirstName>Petter Vaagan</FirstName>
+                <LastName>Moen</LastName>
+                <Position>CAM</Position>
+                <Pace>72</Pace>
+                <Shooting>67</Shooting>
+                <Passing>66</Passing>
+                <Offensive>66</Offensive>
+                <Defensive>46</Defensive>
+                <Stamina>68</Stamina>
+                <Club>Lillestrøm SK</Club>
+                <DateOfBirth>05-02-1984</DateOfBirth>
+            </Player>
+            <Player id="3733">
+                <FirstName>Moryke</FirstName>
+                <LastName>Fofana</LastName>
+                <Position>LM</Position>
+                <Pace>89</Pace>
+                <Shooting>63</Shooting>
+                <Passing>55</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>76</Stamina>
+                <Club>Lillestrøm SK</Club>
+                <DateOfBirth>23-11-1991</DateOfBirth>
+            </Player>
+            <Player id="4455">
+                <FirstName>Erling</FirstName>
+                <LastName>Knudtzon</LastName>
+                <Position>ST</Position>
+                <Pace>92</Pace>
+                <Shooting>61</Shooting>
+                <Passing>55</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>33</Defensive>
+                <Stamina>58</Stamina>
+                <Club>Lillestrøm SK</Club>
+                <DateOfBirth>15-12-1988</DateOfBirth>
+            </Player>
+            <Player id="5241">
+                <FirstName>Pálmi Rafn</FirstName>
+                <LastName>Pálmason</LastName>
+                <Position>RM</Position>
+                <Pace>74</Pace>
+                <Shooting>70</Shooting>
+                <Passing>62</Passing>
+                <Offensive>66</Offensive>
+                <Defensive>41</Defensive>
+                <Stamina>85</Stamina>
+                <Club>Lillestrøm SK</Club>
+                <DateOfBirth>09-11-1984</DateOfBirth>
+            </Player>
+            <Player id="5564">
+                <FirstName>Frode</FirstName>
+                <LastName>Kippe</LastName>
+                <Position>CB</Position>
+                <Pace>32</Pace>
+                <Shooting>57</Shooting>
+                <Passing>52</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>61</Defensive>
+                <Stamina>66</Stamina>
+                <Club>Lillestrøm SK</Club>
+                <DateOfBirth>17-01-1978</DateOfBirth>
+            </Player>
+            <Player id="6841">
+                <FirstName>Magnar</FirstName>
+                <LastName>Ødegaard</LastName>
+                <Position>CB</Position>
+                <Pace>68</Pace>
+                <Shooting>30</Shooting>
+                <Passing>46</Passing>
+                <Offensive>38</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>64</Stamina>
+                <Club>Lillestrøm SK</Club>
+                <DateOfBirth>11-05-1993</DateOfBirth>
+            </Player>
+            <Player id="7272">
+                <FirstName>Ohi</FirstName>
+                <LastName>Omoijuanfo</LastName>
+                <Position>CM</Position>
+                <Pace>74</Pace>
+                <Shooting>64</Shooting>
+                <Passing>59</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>44</Defensive>
+                <Stamina>76</Stamina>
+                <Club>Lillestrøm SK</Club>
+                <DateOfBirth>10-01-1994</DateOfBirth>
+            </Player>
+            <Player id="7305">
+                <FirstName>Arnold</FirstName>
+                <LastName>Origi</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>38</Stamina>
+                <Club>Lillestrøm SK</Club>
+                <DateOfBirth>15-11-1983</DateOfBirth>
+            </Player>
+            <Player id="7398">
+                <FirstName>Erik</FirstName>
+                <LastName>Mjelde</LastName>
+                <Position>CM</Position>
+                <Pace>71</Pace>
+                <Shooting>67</Shooting>
+                <Passing>61</Passing>
+                <Offensive>64</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>80</Stamina>
+                <Club>Lillestrøm SK</Club>
+                <DateOfBirth>06-03-1984</DateOfBirth>
+            </Player>
+            <Player id="7450">
+                <FirstName>Johan</FirstName>
+                <LastName>Andersson</LastName>
+                <Position>CM</Position>
+                <Pace>71</Pace>
+                <Shooting>61</Shooting>
+                <Passing>62</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>48</Defensive>
+                <Stamina>68</Stamina>
+                <Club>Lillestrøm SK</Club>
+                <DateOfBirth>22-08-1983</DateOfBirth>
+            </Player>
+            <Player id="8521">
+                <FirstName>Marius</FirstName>
+                <LastName>Lundemo</LastName>
+                <Position>CM</Position>
+                <Pace>68</Pace>
+                <Shooting>53</Shooting>
+                <Passing>59</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>49</Defensive>
+                <Stamina>75</Stamina>
+                <Club>Lillestrøm SK</Club>
+                <DateOfBirth>11-04-1994</DateOfBirth>
+            </Player>
+            <Player id="10382">
+                <FirstName>Simen Kind</FirstName>
+                <LastName>Mikalsen</LastName>
+                <Position>LB</Position>
+                <Pace>74</Pace>
+                <Shooting>30</Shooting>
+                <Passing>45</Passing>
+                <Offensive>37</Offensive>
+                <Defensive>56</Defensive>
+                <Stamina>58</Stamina>
+                <Club>Lillestrøm SK</Club>
+                <DateOfBirth>04-05-1993</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Sogndal">
+            <Player id="3281">
+                <FirstName>Edward</FirstName>
+                <LastName>Ofere</LastName>
+                <Position>ST</Position>
+                <Pace>62</Pace>
+                <Shooting>64</Shooting>
+                <Passing>53</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>40</Defensive>
+                <Stamina>66</Stamina>
+                <Club>Sogndal</Club>
+                <DateOfBirth>28-03-1986</DateOfBirth>
+            </Player>
+            <Player id="5718">
+                <FirstName>Tom</FirstName>
+                <LastName>Söderberg</LastName>
+                <Position>CB</Position>
+                <Pace>34</Pace>
+                <Shooting>29</Shooting>
+                <Passing>39</Passing>
+                <Offensive>34</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Sogndal</Club>
+                <DateOfBirth>25-08-1987</DateOfBirth>
+            </Player>
+            <Player id="7698">
+                <FirstName>Kristian Fardal</FirstName>
+                <LastName>Opseth</LastName>
+                <Position>ST</Position>
+                <Pace>72</Pace>
+                <Shooting>60</Shooting>
+                <Passing>43</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>27</Defensive>
+                <Stamina>55</Stamina>
+                <Club>Sogndal</Club>
+                <DateOfBirth>06-01-1990</DateOfBirth>
+            </Player>
+            <Player id="7882">
+                <FirstName>Mahatma</FirstName>
+                <LastName>Otoo</LastName>
+                <Position>ST</Position>
+                <Pace>73</Pace>
+                <Shooting>62</Shooting>
+                <Passing>50</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>59</Stamina>
+                <Club>Sogndal</Club>
+                <DateOfBirth>06-02-1992</DateOfBirth>
+            </Player>
+            <Player id="7891">
+                <FirstName>Tim</FirstName>
+                <LastName>Nilsen</LastName>
+                <Position>ST</Position>
+                <Pace>73</Pace>
+                <Shooting>62</Shooting>
+                <Passing>43</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>68</Stamina>
+                <Club>Sogndal</Club>
+                <DateOfBirth>20-10-1992</DateOfBirth>
+            </Player>
+            <Player id="7970">
+                <FirstName>Ulrik</FirstName>
+                <LastName>Flo</LastName>
+                <Position>ST</Position>
+                <Pace>58</Pace>
+                <Shooting>63</Shooting>
+                <Passing>52</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>36</Defensive>
+                <Stamina>62</Stamina>
+                <Club>Sogndal</Club>
+                <DateOfBirth>06-10-1988</DateOfBirth>
+            </Player>
+            <Player id="8369">
+                <FirstName>Taijo</FirstName>
+                <LastName>Teniste</LastName>
+                <Position>RM</Position>
+                <Pace>67</Pace>
+                <Shooting>39</Shooting>
+                <Passing>56</Passing>
+                <Offensive>47</Offensive>
+                <Defensive>57</Defensive>
+                <Stamina>65</Stamina>
+                <Club>Sogndal</Club>
+                <DateOfBirth>31-01-1988</DateOfBirth>
+            </Player>
+            <Player id="8509">
+                <FirstName>Babacar</FirstName>
+                <LastName>Sarr</LastName>
+                <Position>CM</Position>
+                <Pace>74</Pace>
+                <Shooting>50</Shooting>
+                <Passing>55</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>67</Stamina>
+                <Club>Sogndal</Club>
+                <DateOfBirth>15-02-1991</DateOfBirth>
+            </Player>
+            <Player id="9365">
+                <FirstName>Hjörtur Logi</FirstName>
+                <LastName>Valgarðsson</LastName>
+                <Position>LM</Position>
+                <Pace>78</Pace>
+                <Shooting>49</Shooting>
+                <Passing>57</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>50</Defensive>
+                <Stamina>76</Stamina>
+                <Club>Sogndal</Club>
+                <DateOfBirth>27-09-1988</DateOfBirth>
+            </Player>
+            <Player id="9814">
+                <FirstName>Tonny</FirstName>
+                <LastName>Brochmann</LastName>
+                <Position>RM</Position>
+                <Pace>67</Pace>
+                <Shooting>51</Shooting>
+                <Passing>52</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>54</Stamina>
+                <Club>Sogndal</Club>
+                <DateOfBirth>11-08-1989</DateOfBirth>
+            </Player>
+            <Player id="9903">
+                <FirstName>Rune</FirstName>
+                <LastName>Bolseth</LastName>
+                <Position>CM</Position>
+                <Pace>71</Pace>
+                <Shooting>54</Shooting>
+                <Passing>56</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>50</Defensive>
+                <Stamina>74</Stamina>
+                <Club>Sogndal</Club>
+                <DateOfBirth>04-07-1980</DateOfBirth>
+            </Player>
+            <Player id="10053">
+                <FirstName>Helge</FirstName>
+                <LastName>Haugen</LastName>
+                <Position>CM</Position>
+                <Pace>64</Pace>
+                <Shooting>49</Shooting>
+                <Passing>59</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>50</Defensive>
+                <Stamina>90</Stamina>
+                <Club>Sogndal</Club>
+                <DateOfBirth>15-02-1982</DateOfBirth>
+            </Player>
+            <Player id="10263">
+                <FirstName>Bjørn Inge</FirstName>
+                <LastName>Utvik</LastName>
+                <Position>CB</Position>
+                <Pace>58</Pace>
+                <Shooting>35</Shooting>
+                <Passing>42</Passing>
+                <Offensive>38</Offensive>
+                <Defensive>55</Defensive>
+                <Stamina>64</Stamina>
+                <Club>Sogndal</Club>
+                <DateOfBirth>28-02-1996</DateOfBirth>
+            </Player>
+            <Player id="10347">
+                <FirstName>Mathias</FirstName>
+                <LastName>Dyngeland</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>36</Stamina>
+                <Club>Sogndal</Club>
+                <DateOfBirth>07-10-1995</DateOfBirth>
+            </Player>
+            <Player id="10829">
+                <FirstName>Ruben Digernes</FirstName>
+                <LastName>Holsæter</LastName>
+                <Position>LM</Position>
+                <Pace>64</Pace>
+                <Shooting>62</Shooting>
+                <Passing>49</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>41</Defensive>
+                <Stamina>61</Stamina>
+                <Club>Sogndal</Club>
+                <DateOfBirth>20-04-1991</DateOfBirth>
+            </Player>
+            <Player id="10890">
+                <FirstName>Leif Kvamme</FirstName>
+                <LastName>Lysne</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>27</Stamina>
+                <Club>Sogndal</Club>
+                <DateOfBirth>09-04-1992</DateOfBirth>
+            </Player>
+            <Player id="11160">
+                <FirstName>Eirik Bergum</FirstName>
+                <LastName>Skaasheim</LastName>
+                <Position>RB</Position>
+                <Pace>69</Pace>
+                <Shooting>50</Shooting>
+                <Passing>56</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>50</Defensive>
+                <Stamina>62</Stamina>
+                <Club>Sogndal</Club>
+                <DateOfBirth>22-01-1993</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Stabæk Fotball">
+            <Player id="3343">
+                <FirstName>Magne</FirstName>
+                <LastName>Hoseth</LastName>
+                <Position>CM</Position>
+                <Pace>53</Pace>
+                <Shooting>70</Shooting>
+                <Passing>70</Passing>
+                <Offensive>70</Offensive>
+                <Defensive>40</Defensive>
+                <Stamina>60</Stamina>
+                <Club>Stabæk Fotball</Club>
+                <DateOfBirth>13-10-1980</DateOfBirth>
+            </Player>
+            <Player id="4602">
+                <FirstName>Mandé</FirstName>
+                <LastName>Sayouba</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>36</Stamina>
+                <Club>Stabæk Fotball</Club>
+                <DateOfBirth>15-06-1993</DateOfBirth>
+            </Player>
+            <Player id="4746">
+                <FirstName>Fredrik</FirstName>
+                <LastName>Brustad</LastName>
+                <Position>RM</Position>
+                <Pace>89</Pace>
+                <Shooting>61</Shooting>
+                <Passing>56</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>36</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Stabæk Fotball</Club>
+                <DateOfBirth>22-06-1989</DateOfBirth>
+            </Player>
+            <Player id="4761">
+                <FirstName>Andrew</FirstName>
+                <LastName>Jacobson</LastName>
+                <Position>CDM</Position>
+                <Pace>67</Pace>
+                <Shooting>60</Shooting>
+                <Passing>63</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>65</Stamina>
+                <Club>Stabæk Fotball</Club>
+                <DateOfBirth>25-09-1985</DateOfBirth>
+            </Player>
+            <Player id="5175">
+                <FirstName>Franck</FirstName>
+                <LastName>Boli</LastName>
+                <Position>ST</Position>
+                <Pace>73</Pace>
+                <Shooting>63</Shooting>
+                <Passing>43</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>65</Stamina>
+                <Club>Stabæk Fotball</Club>
+                <DateOfBirth>07-12-1993</DateOfBirth>
+            </Player>
+            <Player id="5278">
+                <FirstName>Jon Inge</FirstName>
+                <LastName>Høiland</LastName>
+                <Position>CB</Position>
+                <Pace>68</Pace>
+                <Shooting>48</Shooting>
+                <Passing>55</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Stabæk Fotball</Club>
+                <DateOfBirth>20-09-1977</DateOfBirth>
+            </Player>
+            <Player id="5280">
+                <FirstName>Tomasz</FirstName>
+                <LastName>Sokolowski</LastName>
+                <Position>CM</Position>
+                <Pace>66</Pace>
+                <Shooting>62</Shooting>
+                <Passing>67</Passing>
+                <Offensive>64</Offensive>
+                <Defensive>56</Defensive>
+                <Stamina>85</Stamina>
+                <Club>Stabæk Fotball</Club>
+                <DateOfBirth>25-06-1985</DateOfBirth>
+            </Player>
+            <Player id="5433">
+                <FirstName>Michael</FirstName>
+                <LastName>Stephens</LastName>
+                <Position>CAM</Position>
+                <Pace>65</Pace>
+                <Shooting>56</Shooting>
+                <Passing>64</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>50</Defensive>
+                <Stamina>81</Stamina>
+                <Club>Stabæk Fotball</Club>
+                <DateOfBirth>03-04-1989</DateOfBirth>
+            </Player>
+            <Player id="7497">
+                <FirstName>Craig</FirstName>
+                <LastName>Henderson</LastName>
+                <Position>RM</Position>
+                <Pace>68</Pace>
+                <Shooting>57</Shooting>
+                <Passing>57</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>45</Defensive>
+                <Stamina>75</Stamina>
+                <Club>Stabæk Fotball</Club>
+                <DateOfBirth>24-06-1987</DateOfBirth>
+            </Player>
+            <Player id="7961">
+                <FirstName>Jørgen</FirstName>
+                <LastName>Hammer</LastName>
+                <Position>CB</Position>
+                <Pace>66</Pace>
+                <Shooting>46</Shooting>
+                <Passing>49</Passing>
+                <Offensive>47</Offensive>
+                <Defensive>59</Defensive>
+                <Stamina>76</Stamina>
+                <Club>Stabæk Fotball</Club>
+                <DateOfBirth>02-04-1991</DateOfBirth>
+            </Player>
+            <Player id="8346">
+                <FirstName>Ville</FirstName>
+                <LastName>Jalasto</LastName>
+                <Position>RB</Position>
+                <Pace>61</Pace>
+                <Shooting>44</Shooting>
+                <Passing>51</Passing>
+                <Offensive>47</Offensive>
+                <Defensive>59</Defensive>
+                <Stamina>64</Stamina>
+                <Club>Stabæk Fotball</Club>
+                <DateOfBirth>19-04-1986</DateOfBirth>
+            </Player>
+            <Player id="8428">
+                <FirstName>Nicolai</FirstName>
+                <LastName>Næss</LastName>
+                <Position>CB</Position>
+                <Pace>54</Pace>
+                <Shooting>45</Shooting>
+                <Passing>45</Passing>
+                <Offensive>45</Offensive>
+                <Defensive>59</Defensive>
+                <Stamina>64</Stamina>
+                <Club>Stabæk Fotball</Club>
+                <DateOfBirth>18-01-1993</DateOfBirth>
+            </Player>
+            <Player id="8799">
+                <FirstName>Anders</FirstName>
+                <LastName>Trondsen</LastName>
+                <Position>LB</Position>
+                <Pace>70</Pace>
+                <Shooting>43</Shooting>
+                <Passing>60</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>56</Defensive>
+                <Stamina>69</Stamina>
+                <Club>Stabæk Fotball</Club>
+                <DateOfBirth>30-03-1995</DateOfBirth>
+            </Player>
+            <Player id="8976">
+                <FirstName>Luc</FirstName>
+                <LastName>Kassi</LastName>
+                <Position>LM</Position>
+                <Pace>79</Pace>
+                <Shooting>56</Shooting>
+                <Passing>52</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>45</Defensive>
+                <Stamina>58</Stamina>
+                <Club>Stabæk Fotball</Club>
+                <DateOfBirth>20-08-1994</DateOfBirth>
+            </Player>
+            <Player id="9944">
+                <FirstName>Emil</FirstName>
+                <LastName>Dahle</LastName>
+                <Position>LM</Position>
+                <Pace>65</Pace>
+                <Shooting>51</Shooting>
+                <Passing>53</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>38</Defensive>
+                <Stamina>63</Stamina>
+                <Club>Stabæk Fotball</Club>
+                <DateOfBirth>30-10-1990</DateOfBirth>
+            </Player>
+            <Player id="10105">
+                <FirstName>Borger</FirstName>
+                <LastName>Thomas</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>33</Stamina>
+                <Club>Stabæk Fotball</Club>
+                <DateOfBirth>15-02-1995</DateOfBirth>
+            </Player>
+            <Player id="10341">
+                <FirstName>Stian</FirstName>
+                <LastName>Sortevik</LastName>
+                <Position>LM</Position>
+                <Pace>53</Pace>
+                <Shooting>57</Shooting>
+                <Passing>53</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>41</Defensive>
+                <Stamina>56</Stamina>
+                <Club>Stabæk Fotball</Club>
+                <DateOfBirth>17-07-1988</DateOfBirth>
+            </Player>
+            <Player id="10784">
+                <FirstName>Daniel</FirstName>
+                <LastName>Granli</LastName>
+                <Position>LB</Position>
+                <Pace>70</Pace>
+                <Shooting>48</Shooting>
+                <Passing>50</Passing>
+                <Offensive>49</Offensive>
+                <Defensive>55</Defensive>
+                <Stamina>68</Stamina>
+                <Club>Stabæk Fotball</Club>
+                <DateOfBirth>01-05-1994</DateOfBirth>
+            </Player>
+            <Player id="11080">
+                <FirstName>Eirik</FirstName>
+                <LastName>Haugstad</LastName>
+                <Position>CM</Position>
+                <Pace>79</Pace>
+                <Shooting>38</Shooting>
+                <Passing>52</Passing>
+                <Offensive>45</Offensive>
+                <Defensive>50</Defensive>
+                <Stamina>61</Stamina>
+                <Club>Stabæk Fotball</Club>
+                <DateOfBirth>17-01-1994</DateOfBirth>
+            </Player>
+        </Team>
+    </League>
+</Players>

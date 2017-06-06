@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.text.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane minHeight="720.0" minWidth="1280.0" prefHeight="720.0" prefWidth="1280.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="nl.tudelft.footballmanager.ui.controller.NewGameViewController">
+   <children>
+      <StackPane layoutX="176.0" layoutY="83.0" AnchorPane.leftAnchor="124.0" AnchorPane.rightAnchor="124.0">
+         <children>
+            <HBox alignment="CENTER" layoutX="176.0" layoutY="83.0" minWidth="289.0" spacing="5.0">
+               <children>
+                  <Label layoutX="131.0" layoutY="61.0" minWidth="100.0" prefHeight="20.0" prefWidth="97.0" text="Your Name:">
+                     <font>
+                        <Font size="16.0" />
+                     </font>
+                  </Label>
+                  <TextField fx:id="coachNameTextField" layoutX="220.0" layoutY="61.0" AnchorPane.topAnchor="61.0" HBox.hgrow="ALWAYS" />
+               </children>
+            </HBox>
+         </children>
+      </StackPane>
+      <StackPane layoutX="111.0" layoutY="14.0" AnchorPane.leftAnchor="110.0" AnchorPane.rightAnchor="110.0" AnchorPane.topAnchor="14.0">
+         <children>
+            <Label alignment="CENTER" contentDisplay="CENTER" layoutX="121.0" layoutY="14.0" text="Create a New Game">
+               <font>
+                  <Font size="42.0" />
+               </font>
+            </Label>
+         </children>
+      </StackPane>
+      <HBox alignment="CENTER" minHeight="0.0" minWidth="0.0" spacing="50.0" AnchorPane.bottomAnchor="72.0" AnchorPane.leftAnchor="70.0" AnchorPane.rightAnchor="70.0" AnchorPane.topAnchor="125.0">
+         <children>
+            <ListView fx:id="leagueListView" layoutX="76.0" layoutY="154.0" prefHeight="363.0" prefWidth="200.0" AnchorPane.bottomAnchor="43.0" AnchorPane.leftAnchor="76.0" HBox.hgrow="ALWAYS" />
+            <ListView fx:id="teamListView" layoutX="313.0" layoutY="154.0" prefHeight="363.0" prefWidth="200.0" AnchorPane.bottomAnchor="43.0" AnchorPane.rightAnchor="76.0" HBox.hgrow="ALWAYS" />
+         </children>
+      </HBox>
+      <Button fx:id="doneButton" layoutX="419.0" layoutY="496.0" mnemonicParsing="false" prefHeight="50.0" prefWidth="100.0" text="Done" AnchorPane.bottomAnchor="14.0" AnchorPane.rightAnchor="70.0" />
+      <Button fx:id="cancelButton" layoutX="70.0" layoutY="496.0" mnemonicParsing="false" prefHeight="50.0" prefWidth="100.0" text="Cancel" AnchorPane.bottomAnchor="14.0" AnchorPane.leftAnchor="70.0" />
+   </children>
+</AnchorPane>

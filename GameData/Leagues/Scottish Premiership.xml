@@ -1,0 +1,2668 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Players>
+    <League Name="Scottish Premiership">
+        <Team Name="Celtic">
+            <Player id="274">
+                <FirstName>Jo Inge</FirstName>
+                <LastName>Berget</LastName>
+                <Position>CAM</Position>
+                <Pace>78</Pace>
+                <Shooting>71</Shooting>
+                <Passing>65</Passing>
+                <Offensive>68</Offensive>
+                <Defensive>44</Defensive>
+                <Stamina>78</Stamina>
+                <Club>Celtic</Club>
+                <DateOfBirth>11-09-1990</DateOfBirth>
+            </Player>
+            <Player id="420">
+                <FirstName>Anthony</FirstName>
+                <LastName>Stokes</LastName>
+                <Position>ST</Position>
+                <Pace>74</Pace>
+                <Shooting>71</Shooting>
+                <Passing>66</Passing>
+                <Offensive>68</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>67</Stamina>
+                <Club>Celtic</Club>
+                <DateOfBirth>25-07-1988</DateOfBirth>
+            </Player>
+            <Player id="725">
+                <FirstName>John</FirstName>
+                <LastName>Guidetti</LastName>
+                <Position>ST</Position>
+                <Pace>60</Pace>
+                <Shooting>75</Shooting>
+                <Passing>60</Passing>
+                <Offensive>67</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>65</Stamina>
+                <Club>Celtic</Club>
+                <DateOfBirth>15-04-1992</DateOfBirth>
+            </Player>
+            <Player id="743">
+                <FirstName>Craig</FirstName>
+                <LastName>Gordon</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>25</Stamina>
+                <Club>Celtic</Club>
+                <DateOfBirth>31-12-1982</DateOfBirth>
+            </Player>
+            <Player id="862">
+                <FirstName>James</FirstName>
+                <LastName>Forrest</LastName>
+                <Position>RM</Position>
+                <Pace>89</Pace>
+                <Shooting>66</Shooting>
+                <Passing>65</Passing>
+                <Offensive>65</Offensive>
+                <Defensive>26</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Celtic</Club>
+                <DateOfBirth>07-07-1991</DateOfBirth>
+            </Player>
+            <Player id="906">
+                <FirstName>Stefan</FirstName>
+                <LastName>Šćepović</LastName>
+                <Position>ST</Position>
+                <Pace>71</Pace>
+                <Shooting>72</Shooting>
+                <Passing>57</Passing>
+                <Offensive>64</Offensive>
+                <Defensive>34</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Celtic</Club>
+                <DateOfBirth>10-01-1990</DateOfBirth>
+            </Player>
+            <Player id="1021">
+                <FirstName>Leigh</FirstName>
+                <LastName>Griffiths</LastName>
+                <Position>ST</Position>
+                <Pace>81</Pace>
+                <Shooting>72</Shooting>
+                <Passing>62</Passing>
+                <Offensive>67</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Celtic</Club>
+                <DateOfBirth>20-08-1990</DateOfBirth>
+            </Player>
+            <Player id="1926">
+                <FirstName>Charlie</FirstName>
+                <LastName>Mulgrew</LastName>
+                <Position>CM</Position>
+                <Pace>66</Pace>
+                <Shooting>52</Shooting>
+                <Passing>72</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>71</Defensive>
+                <Stamina>74</Stamina>
+                <Club>Celtic</Club>
+                <DateOfBirth>06-03-1986</DateOfBirth>
+            </Player>
+            <Player id="2121">
+                <FirstName>Derk</FirstName>
+                <LastName>Boerrigter</LastName>
+                <Position>LM</Position>
+                <Pace>85</Pace>
+                <Shooting>68</Shooting>
+                <Passing>65</Passing>
+                <Offensive>66</Offensive>
+                <Defensive>35</Defensive>
+                <Stamina>74</Stamina>
+                <Club>Celtic</Club>
+                <DateOfBirth>16-10-1986</DateOfBirth>
+            </Player>
+            <Player id="3667">
+                <FirstName>Beram</FirstName>
+                <LastName>Kayal</LastName>
+                <Position>CM</Position>
+                <Pace>74</Pace>
+                <Shooting>57</Shooting>
+                <Passing>65</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>86</Stamina>
+                <Club>Celtic</Club>
+                <DateOfBirth>02-05-1988</DateOfBirth>
+            </Player>
+            <Player id="3859">
+                <FirstName>Łukasz</FirstName>
+                <LastName>Załuska</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>28</Stamina>
+                <Club>Celtic</Club>
+                <DateOfBirth>16-06-1982</DateOfBirth>
+            </Player>
+            <Player id="4073">
+                <FirstName>Aleksandar</FirstName>
+                <LastName>Tonev</LastName>
+                <Position>LM</Position>
+                <Pace>87</Pace>
+                <Shooting>65</Shooting>
+                <Passing>63</Passing>
+                <Offensive>64</Offensive>
+                <Defensive>46</Defensive>
+                <Stamina>81</Stamina>
+                <Club>Celtic</Club>
+                <DateOfBirth>03-02-1990</DateOfBirth>
+            </Player>
+            <Player id="4329">
+                <FirstName>Tomas</FirstName>
+                <LastName>Rogić</LastName>
+                <Position>CAM</Position>
+                <Pace>71</Pace>
+                <Shooting>65</Shooting>
+                <Passing>65</Passing>
+                <Offensive>65</Offensive>
+                <Defensive>36</Defensive>
+                <Stamina>74</Stamina>
+                <Club>Celtic</Club>
+                <DateOfBirth>16-12-1992</DateOfBirth>
+            </Player>
+            <Player id="4345">
+                <FirstName>Callum</FirstName>
+                <LastName>McGregor</LastName>
+                <Position>CAM</Position>
+                <Pace>76</Pace>
+                <Shooting>61</Shooting>
+                <Passing>62</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>36</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Celtic</Club>
+                <DateOfBirth>14-06-1993</DateOfBirth>
+            </Player>
+            <Player id="8088">
+                <FirstName>Filip</FirstName>
+                <LastName>Twardzik</LastName>
+                <Position>CM</Position>
+                <Pace>62</Pace>
+                <Shooting>46</Shooting>
+                <Passing>63</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>57</Defensive>
+                <Stamina>63</Stamina>
+                <Club>Celtic</Club>
+                <DateOfBirth>10-02-1993</DateOfBirth>
+            </Player>
+            <Player id="9201">
+                <FirstName>Lewis</FirstName>
+                <LastName>Toshney</LastName>
+                <Position>CB</Position>
+                <Pace>68</Pace>
+                <Shooting>28</Shooting>
+                <Passing>34</Passing>
+                <Offensive>31</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>59</Stamina>
+                <Club>Celtic</Club>
+                <DateOfBirth>24-06-1992</DateOfBirth>
+            </Player>
+            <Player id="9355">
+                <FirstName>Mubarak</FirstName>
+                <LastName>Wakaso</LastName>
+                <Position>LM</Position>
+                <Pace>91</Pace>
+                <Shooting>64</Shooting>
+                <Passing>72</Passing>
+                <Offensive>68</Offensive>
+                <Defensive>65</Defensive>
+                <Stamina>95</Stamina>
+                <Club>Celtic</Club>
+                <DateOfBirth>25-07-1990</DateOfBirth>
+            </Player>
+            <Player id="9871">
+                <FirstName>Kris</FirstName>
+                <LastName>Commons</LastName>
+                <Position>CAM</Position>
+                <Pace>70</Pace>
+                <Shooting>76</Shooting>
+                <Passing>76</Passing>
+                <Offensive>76</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>80</Stamina>
+                <Club>Celtic</Club>
+                <DateOfBirth>30-08-1983</DateOfBirth>
+            </Player>
+            <Player id="10149">
+                <FirstName>Mikael</FirstName>
+                <LastName>Lustig</LastName>
+                <Position>RB</Position>
+                <Pace>74</Pace>
+                <Shooting>54</Shooting>
+                <Passing>68</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>77</Defensive>
+                <Stamina>67</Stamina>
+                <Club>Celtic</Club>
+                <DateOfBirth>13-12-1986</DateOfBirth>
+            </Player>
+            <Player id="11480">
+                <FirstName>Virgil</FirstName>
+                <LastName>van Dijk</LastName>
+                <Position>CB</Position>
+                <Pace>70</Pace>
+                <Shooting>58</Shooting>
+                <Passing>60</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>75</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Celtic</Club>
+                <DateOfBirth>08-07-1991</DateOfBirth>
+            </Player>
+            <Player id="11996">
+                <FirstName>Stefan</FirstName>
+                <LastName>Johansen</LastName>
+                <Position>CM</Position>
+                <Pace>68</Pace>
+                <Shooting>62</Shooting>
+                <Passing>73</Passing>
+                <Offensive>67</Offensive>
+                <Defensive>56</Defensive>
+                <Stamina>80</Stamina>
+                <Club>Celtic</Club>
+                <DateOfBirth>08-01-1991</DateOfBirth>
+            </Player>
+            <Player id="12488">
+                <FirstName>Emilio</FirstName>
+                <LastName>Izaguirre</LastName>
+                <Position>LB</Position>
+                <Pace>77</Pace>
+                <Shooting>43</Shooting>
+                <Passing>69</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>72</Defensive>
+                <Stamina>87</Stamina>
+                <Club>Celtic</Club>
+                <DateOfBirth>10-05-1986</DateOfBirth>
+            </Player>
+            <Player id="12510">
+                <FirstName>Scott</FirstName>
+                <LastName>Brown</LastName>
+                <Position>CM</Position>
+                <Pace>82</Pace>
+                <Shooting>65</Shooting>
+                <Passing>71</Passing>
+                <Offensive>68</Offensive>
+                <Defensive>67</Defensive>
+                <Stamina>80</Stamina>
+                <Club>Celtic</Club>
+                <DateOfBirth>25-06-1985</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Inverness Caledonian Thistle">
+            <Player id="340">
+                <FirstName>Billy</FirstName>
+                <LastName>McKay</LastName>
+                <Position>ST</Position>
+                <Pace>73</Pace>
+                <Shooting>70</Shooting>
+                <Passing>54</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>36</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Inverness Caledonian Thistle</Club>
+                <DateOfBirth>22-10-1988</DateOfBirth>
+            </Player>
+            <Player id="1536">
+                <FirstName>Graeme</FirstName>
+                <LastName>Shinnie</LastName>
+                <Position>LB</Position>
+                <Pace>76</Pace>
+                <Shooting>29</Shooting>
+                <Passing>64</Passing>
+                <Offensive>46</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>91</Stamina>
+                <Club>Inverness Caledonian Thistle</Club>
+                <DateOfBirth>04-08-1991</DateOfBirth>
+            </Player>
+            <Player id="2439">
+                <FirstName>Aaron</FirstName>
+                <LastName>Doran</LastName>
+                <Position>RM</Position>
+                <Pace>81</Pace>
+                <Shooting>56</Shooting>
+                <Passing>67</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>32</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Inverness Caledonian Thistle</Club>
+                <DateOfBirth>13-05-1991</DateOfBirth>
+            </Player>
+            <Player id="2620">
+                <FirstName>Gary</FirstName>
+                <LastName>Warren</LastName>
+                <Position>CB</Position>
+                <Pace>55</Pace>
+                <Shooting>36</Shooting>
+                <Passing>41</Passing>
+                <Offensive>38</Offensive>
+                <Defensive>68</Defensive>
+                <Stamina>62</Stamina>
+                <Club>Inverness Caledonian Thistle</Club>
+                <DateOfBirth>16-08-1984</DateOfBirth>
+            </Player>
+            <Player id="2819">
+                <FirstName>Richie</FirstName>
+                <LastName>Foran</LastName>
+                <Position>CDM</Position>
+                <Pace>63</Pace>
+                <Shooting>60</Shooting>
+                <Passing>65</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>61</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Inverness Caledonian Thistle</Club>
+                <DateOfBirth>16-06-1980</DateOfBirth>
+            </Player>
+            <Player id="4077">
+                <FirstName>Josh</FirstName>
+                <LastName>Meekings</LastName>
+                <Position>CB</Position>
+                <Pace>73</Pace>
+                <Shooting>26</Shooting>
+                <Passing>37</Passing>
+                <Offensive>31</Offensive>
+                <Defensive>68</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Inverness Caledonian Thistle</Club>
+                <DateOfBirth>02-09-1992</DateOfBirth>
+            </Player>
+            <Player id="5098">
+                <FirstName>Ross</FirstName>
+                <LastName>Draper</LastName>
+                <Position>CDM</Position>
+                <Pace>63</Pace>
+                <Shooting>55</Shooting>
+                <Passing>58</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Inverness Caledonian Thistle</Club>
+                <DateOfBirth>20-10-1988</DateOfBirth>
+            </Player>
+            <Player id="5272">
+                <FirstName>Dean</FirstName>
+                <LastName>Brill</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>22</Stamina>
+                <Club>Inverness Caledonian Thistle</Club>
+                <DateOfBirth>02-12-1985</DateOfBirth>
+            </Player>
+            <Player id="5378">
+                <FirstName>Marley</FirstName>
+                <LastName>Watkins</LastName>
+                <Position>RM</Position>
+                <Pace>74</Pace>
+                <Shooting>43</Shooting>
+                <Passing>68</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>27</Defensive>
+                <Stamina>59</Stamina>
+                <Club>Inverness Caledonian Thistle</Club>
+                <DateOfBirth>17-10-1990</DateOfBirth>
+            </Player>
+            <Player id="7898">
+                <FirstName>David</FirstName>
+                <LastName>Raven</LastName>
+                <Position>RB</Position>
+                <Pace>64</Pace>
+                <Shooting>29</Shooting>
+                <Passing>51</Passing>
+                <Offensive>40</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Inverness Caledonian Thistle</Club>
+                <DateOfBirth>10-03-1985</DateOfBirth>
+            </Player>
+            <Player id="8876">
+                <FirstName>Ryan</FirstName>
+                <LastName>Esson</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>26</Stamina>
+                <Club>Inverness Caledonian Thistle</Club>
+                <DateOfBirth>19-03-1980</DateOfBirth>
+            </Player>
+            <Player id="9192">
+                <FirstName>Daniel</FirstName>
+                <LastName>Devine</LastName>
+                <Position>CB</Position>
+                <Pace>72</Pace>
+                <Shooting>32</Shooting>
+                <Passing>39</Passing>
+                <Offensive>35</Offensive>
+                <Defensive>61</Defensive>
+                <Stamina>63</Stamina>
+                <Club>Inverness Caledonian Thistle</Club>
+                <DateOfBirth>07-09-1992</DateOfBirth>
+            </Player>
+            <Player id="10447">
+                <FirstName>Lewis</FirstName>
+                <LastName>Horner</LastName>
+                <Position>CM</Position>
+                <Pace>62</Pace>
+                <Shooting>48</Shooting>
+                <Passing>59</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>45</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Inverness Caledonian Thistle</Club>
+                <DateOfBirth>01-02-1992</DateOfBirth>
+            </Player>
+            <Player id="10495">
+                <FirstName>Danny</FirstName>
+                <LastName>Williams</LastName>
+                <Position>LM</Position>
+                <Pace>65</Pace>
+                <Shooting>57</Shooting>
+                <Passing>54</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>37</Defensive>
+                <Stamina>61</Stamina>
+                <Club>Inverness Caledonian Thistle</Club>
+                <DateOfBirth>25-01-1985</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Dundee United">
+            <Player id="869">
+                <FirstName>Gary</FirstName>
+                <LastName>Mackay-Steven</LastName>
+                <Position>CAM</Position>
+                <Pace>86</Pace>
+                <Shooting>63</Shooting>
+                <Passing>61</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>35</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Dundee United</Club>
+                <DateOfBirth>31-08-1990</DateOfBirth>
+            </Player>
+            <Player id="1020">
+                <FirstName>Stuart</FirstName>
+                <LastName>Armstrong</LastName>
+                <Position>CAM</Position>
+                <Pace>81</Pace>
+                <Shooting>63</Shooting>
+                <Passing>65</Passing>
+                <Offensive>64</Offensive>
+                <Defensive>50</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Dundee United</Club>
+                <DateOfBirth>30-03-1992</DateOfBirth>
+            </Player>
+            <Player id="2482">
+                <FirstName>Nadir</FirstName>
+                <LastName>Çiftçi</LastName>
+                <Position>ST</Position>
+                <Pace>83</Pace>
+                <Shooting>68</Shooting>
+                <Passing>52</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>35</Defensive>
+                <Stamina>58</Stamina>
+                <Club>Dundee United</Club>
+                <DateOfBirth>12-02-1992</DateOfBirth>
+            </Player>
+            <Player id="3476">
+                <FirstName>Ryan</FirstName>
+                <LastName>Dow</LastName>
+                <Position>CAM</Position>
+                <Pace>80</Pace>
+                <Shooting>59</Shooting>
+                <Passing>59</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>81</Stamina>
+                <Club>Dundee United</Club>
+                <DateOfBirth>07-06-1991</DateOfBirth>
+            </Player>
+            <Player id="6403">
+                <FirstName>Jarosław</FirstName>
+                <LastName>Fojut</LastName>
+                <Position>CB</Position>
+                <Pace>67</Pace>
+                <Shooting>34</Shooting>
+                <Passing>39</Passing>
+                <Offensive>36</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>67</Stamina>
+                <Club>Dundee United</Club>
+                <DateOfBirth>17-10-1987</DateOfBirth>
+            </Player>
+            <Player id="6700">
+                <FirstName>Paul</FirstName>
+                <LastName>Paton</LastName>
+                <Position>CDM</Position>
+                <Pace>52</Pace>
+                <Shooting>40</Shooting>
+                <Passing>60</Passing>
+                <Offensive>50</Offensive>
+                <Defensive>61</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Dundee United</Club>
+                <DateOfBirth>18-04-1987</DateOfBirth>
+            </Player>
+            <Player id="8124">
+                <FirstName>Sean</FirstName>
+                <LastName>Dillon</LastName>
+                <Position>CB</Position>
+                <Pace>69</Pace>
+                <Shooting>37</Shooting>
+                <Passing>55</Passing>
+                <Offensive>46</Offensive>
+                <Defensive>59</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Dundee United</Club>
+                <DateOfBirth>30-07-1983</DateOfBirth>
+            </Player>
+            <Player id="8128">
+                <FirstName>Radosław</FirstName>
+                <LastName>Cierzniak</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>34</Stamina>
+                <Club>Dundee United</Club>
+                <DateOfBirth>24-04-1983</DateOfBirth>
+            </Player>
+            <Player id="8329">
+                <FirstName>Mark</FirstName>
+                <LastName>Wilson</LastName>
+                <Position>RB</Position>
+                <Pace>53</Pace>
+                <Shooting>36</Shooting>
+                <Passing>60</Passing>
+                <Offensive>48</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>49</Stamina>
+                <Club>Dundee United</Club>
+                <DateOfBirth>05-06-1984</DateOfBirth>
+            </Player>
+            <Player id="8729">
+                <FirstName>John</FirstName>
+                <LastName>Souttar</LastName>
+                <Position>CB</Position>
+                <Pace>76</Pace>
+                <Shooting>27</Shooting>
+                <Passing>44</Passing>
+                <Offensive>35</Offensive>
+                <Defensive>61</Defensive>
+                <Stamina>60</Stamina>
+                <Club>Dundee United</Club>
+                <DateOfBirth>25-09-1996</DateOfBirth>
+            </Player>
+            <Player id="9004">
+                <FirstName>Conor</FirstName>
+                <LastName>Townsend</LastName>
+                <Position>LB</Position>
+                <Pace>69</Pace>
+                <Shooting>44</Shooting>
+                <Passing>60</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>65</Stamina>
+                <Club>Dundee United</Club>
+                <DateOfBirth>04-03-1993</DateOfBirth>
+            </Player>
+            <Player id="9523">
+                <FirstName>Darren</FirstName>
+                <LastName>Petrie</LastName>
+                <Position>CDM</Position>
+                <Pace>65</Pace>
+                <Shooting>34</Shooting>
+                <Passing>55</Passing>
+                <Offensive>44</Offensive>
+                <Defensive>50</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Dundee United</Club>
+                <DateOfBirth>26-07-1995</DateOfBirth>
+            </Player>
+            <Player id="10222">
+                <FirstName>Marc</FirstName>
+                <LastName>McCallum</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>27</Stamina>
+                <Club>Dundee United</Club>
+                <DateOfBirth>27-03-1993</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Aberdeen">
+            <Player id="1509">
+                <FirstName>Mark</FirstName>
+                <LastName>Reynolds</LastName>
+                <Position>CB</Position>
+                <Pace>76</Pace>
+                <Shooting>25</Shooting>
+                <Passing>56</Passing>
+                <Offensive>40</Offensive>
+                <Defensive>69</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Aberdeen</Club>
+                <DateOfBirth>07-05-1987</DateOfBirth>
+            </Player>
+            <Player id="1969">
+                <FirstName>Peter</FirstName>
+                <LastName>Pawlett</LastName>
+                <Position>CAM</Position>
+                <Pace>88</Pace>
+                <Shooting>64</Shooting>
+                <Passing>59</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>81</Stamina>
+                <Club>Aberdeen</Club>
+                <DateOfBirth>03-02-1991</DateOfBirth>
+            </Player>
+            <Player id="3065">
+                <FirstName>Ryan</FirstName>
+                <LastName>Jack</LastName>
+                <Position>CDM</Position>
+                <Pace>72</Pace>
+                <Shooting>56</Shooting>
+                <Passing>66</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>90</Stamina>
+                <Club>Aberdeen</Club>
+                <DateOfBirth>27-02-1992</DateOfBirth>
+            </Player>
+            <Player id="4106">
+                <FirstName>Jamie</FirstName>
+                <LastName>Langfield</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>28</Stamina>
+                <Club>Aberdeen</Club>
+                <DateOfBirth>22-12-1979</DateOfBirth>
+            </Player>
+            <Player id="4128">
+                <FirstName>Russell</FirstName>
+                <LastName>Anderson</LastName>
+                <Position>CB</Position>
+                <Pace>34</Pace>
+                <Shooting>39</Shooting>
+                <Passing>42</Passing>
+                <Offensive>40</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>34</Stamina>
+                <Club>Aberdeen</Club>
+                <DateOfBirth>25-10-1978</DateOfBirth>
+            </Player>
+            <Player id="4159">
+                <FirstName>Willo</FirstName>
+                <LastName>Flood</LastName>
+                <Position>CDM</Position>
+                <Pace>78</Pace>
+                <Shooting>55</Shooting>
+                <Passing>65</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>90</Stamina>
+                <Club>Aberdeen</Club>
+                <DateOfBirth>10-04-1985</DateOfBirth>
+            </Player>
+            <Player id="4181">
+                <FirstName>Adam</FirstName>
+                <LastName>Rooney</LastName>
+                <Position>ST</Position>
+                <Pace>64</Pace>
+                <Shooting>67</Shooting>
+                <Passing>54</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>81</Stamina>
+                <Club>Aberdeen</Club>
+                <DateOfBirth>21-04-1988</DateOfBirth>
+            </Player>
+            <Player id="5255">
+                <FirstName>Barry</FirstName>
+                <LastName>Robson</LastName>
+                <Position>CDM</Position>
+                <Pace>55</Pace>
+                <Shooting>69</Shooting>
+                <Passing>70</Passing>
+                <Offensive>69</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>58</Stamina>
+                <Club>Aberdeen</Club>
+                <DateOfBirth>07-11-1978</DateOfBirth>
+            </Player>
+            <Player id="6364">
+                <FirstName>Scott</FirstName>
+                <LastName>Brown</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>28</Stamina>
+                <Club>Aberdeen</Club>
+                <DateOfBirth>26-04-1985</DateOfBirth>
+            </Player>
+            <Player id="6444">
+                <FirstName>Shaleum</FirstName>
+                <LastName>Logan</LastName>
+                <Position>RB</Position>
+                <Pace>81</Pace>
+                <Shooting>47</Shooting>
+                <Passing>56</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Aberdeen</Club>
+                <DateOfBirth>29-01-1988</DateOfBirth>
+            </Player>
+            <Player id="7933">
+                <FirstName>Andrew</FirstName>
+                <LastName>Considine</LastName>
+                <Position>LB</Position>
+                <Pace>56</Pace>
+                <Shooting>29</Shooting>
+                <Passing>47</Passing>
+                <Offensive>38</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Aberdeen</Club>
+                <DateOfBirth>01-04-1987</DateOfBirth>
+            </Player>
+            <Player id="7982">
+                <FirstName>Jeffrey</FirstName>
+                <LastName>Monakana</LastName>
+                <Position>RM</Position>
+                <Pace>89</Pace>
+                <Shooting>55</Shooting>
+                <Passing>56</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>24</Defensive>
+                <Stamina>54</Stamina>
+                <Club>Aberdeen</Club>
+                <DateOfBirth>05-11-1993</DateOfBirth>
+            </Player>
+            <Player id="8838">
+                <FirstName>Nicky</FirstName>
+                <LastName>Low</LastName>
+                <Position>CM</Position>
+                <Pace>70</Pace>
+                <Shooting>47</Shooting>
+                <Passing>58</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>54</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Aberdeen</Club>
+                <DateOfBirth>06-01-1992</DateOfBirth>
+            </Player>
+            <Player id="9109">
+                <FirstName>Clark</FirstName>
+                <LastName>Robertson</LastName>
+                <Position>LB</Position>
+                <Pace>69</Pace>
+                <Shooting>27</Shooting>
+                <Passing>54</Passing>
+                <Offensive>40</Offensive>
+                <Defensive>56</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Aberdeen</Club>
+                <DateOfBirth>05-09-1993</DateOfBirth>
+            </Player>
+            <Player id="9864">
+                <FirstName>Lawrence</FirstName>
+                <LastName>Shankland</LastName>
+                <Position>ST</Position>
+                <Pace>71</Pace>
+                <Shooting>55</Shooting>
+                <Passing>46</Passing>
+                <Offensive>50</Offensive>
+                <Defensive>27</Defensive>
+                <Stamina>58</Stamina>
+                <Club>Aberdeen</Club>
+                <DateOfBirth>10-08-1995</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="St. Mirren">
+            <Player id="1826">
+                <FirstName>Kenny</FirstName>
+                <LastName>McLean</LastName>
+                <Position>CM</Position>
+                <Pace>73</Pace>
+                <Shooting>68</Shooting>
+                <Passing>68</Passing>
+                <Offensive>68</Offensive>
+                <Defensive>48</Defensive>
+                <Stamina>74</Stamina>
+                <Club>St. Mirren</Club>
+                <DateOfBirth>08-01-1992</DateOfBirth>
+            </Player>
+            <Player id="2727">
+                <FirstName>Steven</FirstName>
+                <LastName>Thompson</LastName>
+                <Position>ST</Position>
+                <Pace>51</Pace>
+                <Shooting>66</Shooting>
+                <Passing>54</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>34</Defensive>
+                <Stamina>78</Stamina>
+                <Club>St. Mirren</Club>
+                <DateOfBirth>14-10-1978</DateOfBirth>
+            </Player>
+            <Player id="5451">
+                <FirstName>Gregg</FirstName>
+                <LastName>Wylde</LastName>
+                <Position>LM</Position>
+                <Pace>91</Pace>
+                <Shooting>49</Shooting>
+                <Passing>61</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>44</Defensive>
+                <Stamina>58</Stamina>
+                <Club>St. Mirren</Club>
+                <DateOfBirth>23-03-1991</DateOfBirth>
+            </Player>
+            <Player id="5977">
+                <FirstName>Jeroen</FirstName>
+                <LastName>Tesselaar</LastName>
+                <Position>LB</Position>
+                <Pace>71</Pace>
+                <Shooting>27</Shooting>
+                <Passing>52</Passing>
+                <Offensive>39</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>72</Stamina>
+                <Club>St. Mirren</Club>
+                <DateOfBirth>16-01-1989</DateOfBirth>
+            </Player>
+            <Player id="6046">
+                <FirstName>Jim</FirstName>
+                <LastName>Goodwin</LastName>
+                <Position>CM</Position>
+                <Pace>64</Pace>
+                <Shooting>52</Shooting>
+                <Passing>63</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>80</Stamina>
+                <Club>St. Mirren</Club>
+                <DateOfBirth>20-11-1981</DateOfBirth>
+            </Player>
+            <Player id="6105">
+                <FirstName>Isaac</FirstName>
+                <LastName>Osbourne</LastName>
+                <Position>CDM</Position>
+                <Pace>72</Pace>
+                <Shooting>47</Shooting>
+                <Passing>59</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>78</Stamina>
+                <Club>St. Mirren</Club>
+                <DateOfBirth>22-06-1986</DateOfBirth>
+            </Player>
+            <Player id="6802">
+                <FirstName>Callum</FirstName>
+                <LastName>Ball</LastName>
+                <Position>ST</Position>
+                <Pace>60</Pace>
+                <Shooting>60</Shooting>
+                <Passing>52</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>44</Defensive>
+                <Stamina>65</Stamina>
+                <Club>St. Mirren</Club>
+                <DateOfBirth>08-10-1992</DateOfBirth>
+            </Player>
+            <Player id="7518">
+                <FirstName>Marc</FirstName>
+                <LastName>McAusland</LastName>
+                <Position>CB</Position>
+                <Pace>61</Pace>
+                <Shooting>29</Shooting>
+                <Passing>49</Passing>
+                <Offensive>39</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>57</Stamina>
+                <Club>St. Mirren</Club>
+                <DateOfBirth>13-08-1988</DateOfBirth>
+            </Player>
+            <Player id="8168">
+                <FirstName>James</FirstName>
+                <LastName>Marwood</LastName>
+                <Position>ST</Position>
+                <Pace>67</Pace>
+                <Shooting>62</Shooting>
+                <Passing>53</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>59</Stamina>
+                <Club>St. Mirren</Club>
+                <DateOfBirth>21-05-1990</DateOfBirth>
+            </Player>
+            <Player id="9009">
+                <FirstName>Jason</FirstName>
+                <LastName>Naismith</LastName>
+                <Position>RB</Position>
+                <Pace>72</Pace>
+                <Shooting>44</Shooting>
+                <Passing>54</Passing>
+                <Offensive>49</Offensive>
+                <Defensive>57</Defensive>
+                <Stamina>74</Stamina>
+                <Club>St. Mirren</Club>
+                <DateOfBirth>25-06-1994</DateOfBirth>
+            </Player>
+            <Player id="9539">
+                <FirstName>Sean</FirstName>
+                <LastName>Kelly</LastName>
+                <Position>LB</Position>
+                <Pace>67</Pace>
+                <Shooting>30</Shooting>
+                <Passing>55</Passing>
+                <Offensive>42</Offensive>
+                <Defensive>56</Defensive>
+                <Stamina>70</Stamina>
+                <Club>St. Mirren</Club>
+                <DateOfBirth>01-11-1993</DateOfBirth>
+            </Player>
+            <Player id="10231">
+                <FirstName>Thomas</FirstName>
+                <LastName>Reilly</LastName>
+                <Position>ST</Position>
+                <Pace>64</Pace>
+                <Shooting>56</Shooting>
+                <Passing>55</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>34</Defensive>
+                <Stamina>45</Stamina>
+                <Club>St. Mirren</Club>
+                <DateOfBirth>15-09-1994</DateOfBirth>
+            </Player>
+            <Player id="10232">
+                <FirstName>Mark</FirstName>
+                <LastName>Ridgers</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>27</Stamina>
+                <Club>St. Mirren</Club>
+                <DateOfBirth>09-08-1990</DateOfBirth>
+            </Player>
+            <Player id="11064">
+                <FirstName>Declan</FirstName>
+                <LastName>Hughes</LastName>
+                <Position>CM</Position>
+                <Pace>66</Pace>
+                <Shooting>42</Shooting>
+                <Passing>54</Passing>
+                <Offensive>48</Offensive>
+                <Defensive>45</Defensive>
+                <Stamina>58</Stamina>
+                <Club>St. Mirren</Club>
+                <DateOfBirth>17-05-1995</DateOfBirth>
+            </Player>
+            <Player id="11162">
+                <FirstName>Ross</FirstName>
+                <LastName>Caldwell</LastName>
+                <Position>ST</Position>
+                <Pace>51</Pace>
+                <Shooting>56</Shooting>
+                <Passing>39</Passing>
+                <Offensive>47</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>57</Stamina>
+                <Club>St. Mirren</Club>
+                <DateOfBirth>26-10-1993</DateOfBirth>
+            </Player>
+            <Player id="11313">
+                <FirstName>Adam</FirstName>
+                <LastName>Brown</LastName>
+                <Position>RM</Position>
+                <Pace>65</Pace>
+                <Shooting>47</Shooting>
+                <Passing>51</Passing>
+                <Offensive>49</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>53</Stamina>
+                <Club>St. Mirren</Club>
+                <DateOfBirth>09-06-1995</DateOfBirth>
+            </Player>
+            <Player id="11340">
+                <FirstName>Mark</FirstName>
+                <LastName>Williams</LastName>
+                <Position>CB</Position>
+                <Pace>67</Pace>
+                <Shooting>33</Shooting>
+                <Passing>36</Passing>
+                <Offensive>34</Offensive>
+                <Defensive>51</Defensive>
+                <Stamina>33</Stamina>
+                <Club>St. Mirren</Club>
+                <DateOfBirth>15-05-1995</DateOfBirth>
+            </Player>
+            <Player id="11373">
+                <FirstName>Ellis</FirstName>
+                <LastName>Plummer</LastName>
+                <Position>LB</Position>
+                <Pace>59</Pace>
+                <Shooting>27</Shooting>
+                <Passing>39</Passing>
+                <Offensive>33</Offensive>
+                <Defensive>51</Defensive>
+                <Stamina>61</Stamina>
+                <Club>St. Mirren</Club>
+                <DateOfBirth>02-09-1994</DateOfBirth>
+            </Player>
+            <Player id="11550">
+                <FirstName>Mo</FirstName>
+                <LastName>Yaqub</LastName>
+                <Position>LB</Position>
+                <Pace>55</Pace>
+                <Shooting>27</Shooting>
+                <Passing>38</Passing>
+                <Offensive>32</Offensive>
+                <Defensive>51</Defensive>
+                <Stamina>61</Stamina>
+                <Club>St. Mirren</Club>
+                <DateOfBirth>07-01-1994</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Motherwell">
+            <Player id="1833">
+                <FirstName>Steven</FirstName>
+                <LastName>Hammell</LastName>
+                <Position>LB</Position>
+                <Pace>70</Pace>
+                <Shooting>39</Shooting>
+                <Passing>63</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>88</Stamina>
+                <Club>Motherwell</Club>
+                <DateOfBirth>18-02-1982</DateOfBirth>
+            </Player>
+            <Player id="1835">
+                <FirstName>Keith</FirstName>
+                <LastName>Lasley</LastName>
+                <Position>CM</Position>
+                <Pace>62</Pace>
+                <Shooting>49</Shooting>
+                <Passing>67</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Motherwell</Club>
+                <DateOfBirth>21-09-1979</DateOfBirth>
+            </Player>
+            <Player id="2123">
+                <FirstName>Lionel</FirstName>
+                <LastName>Ainsworth</LastName>
+                <Position>RM</Position>
+                <Pace>90</Pace>
+                <Shooting>62</Shooting>
+                <Passing>62</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>24</Defensive>
+                <Stamina>63</Stamina>
+                <Club>Motherwell</Club>
+                <DateOfBirth>01-10-1987</DateOfBirth>
+            </Player>
+            <Player id="2979">
+                <FirstName>Stephen</FirstName>
+                <LastName>McManus</LastName>
+                <Position>CB</Position>
+                <Pace>55</Pace>
+                <Shooting>39</Shooting>
+                <Passing>45</Passing>
+                <Offensive>42</Offensive>
+                <Defensive>65</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Motherwell</Club>
+                <DateOfBirth>10-09-1982</DateOfBirth>
+            </Player>
+            <Player id="3988">
+                <FirstName>Mark</FirstName>
+                <LastName>O'Brien</LastName>
+                <Position>CB</Position>
+                <Pace>56</Pace>
+                <Shooting>37</Shooting>
+                <Passing>47</Passing>
+                <Offensive>42</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>69</Stamina>
+                <Club>Motherwell</Club>
+                <DateOfBirth>20-11-1992</DateOfBirth>
+            </Player>
+            <Player id="5651">
+                <FirstName>Gunnar</FirstName>
+                <LastName>Nielsen</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>32</Stamina>
+                <Club>Motherwell</Club>
+                <DateOfBirth>07-10-1986</DateOfBirth>
+            </Player>
+            <Player id="7006">
+                <FirstName>Paul</FirstName>
+                <LastName>Lawson</LastName>
+                <Position>CM</Position>
+                <Pace>34</Pace>
+                <Shooting>60</Shooting>
+                <Passing>66</Passing>
+                <Offensive>63</Offensive>
+                <Defensive>56</Defensive>
+                <Stamina>48</Stamina>
+                <Club>Motherwell</Club>
+                <DateOfBirth>15-05-1984</DateOfBirth>
+            </Player>
+            <Player id="7722">
+                <FirstName>Robert</FirstName>
+                <LastName>McHugh</LastName>
+                <Position>ST</Position>
+                <Pace>65</Pace>
+                <Shooting>60</Shooting>
+                <Passing>54</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Motherwell</Club>
+                <DateOfBirth>16-07-1991</DateOfBirth>
+            </Player>
+            <Player id="8199">
+                <FirstName>Fraser</FirstName>
+                <LastName>Kerr</LastName>
+                <Position>RB</Position>
+                <Pace>71</Pace>
+                <Shooting>30</Shooting>
+                <Passing>44</Passing>
+                <Offensive>37</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>64</Stamina>
+                <Club>Motherwell</Club>
+                <DateOfBirth>17-01-1993</DateOfBirth>
+            </Player>
+            <Player id="8734">
+                <FirstName>Craig</FirstName>
+                <LastName>Reid</LastName>
+                <Position>RB</Position>
+                <Pace>71</Pace>
+                <Shooting>30</Shooting>
+                <Passing>46</Passing>
+                <Offensive>38</Offensive>
+                <Defensive>61</Defensive>
+                <Stamina>62</Stamina>
+                <Club>Motherwell</Club>
+                <DateOfBirth>26-02-1986</DateOfBirth>
+            </Player>
+            <Player id="8940">
+                <FirstName>Simon</FirstName>
+                <LastName>Ramsden</LastName>
+                <Position>RB</Position>
+                <Pace>52</Pace>
+                <Shooting>37</Shooting>
+                <Passing>53</Passing>
+                <Offensive>45</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>58</Stamina>
+                <Club>Motherwell</Club>
+                <DateOfBirth>17-12-1981</DateOfBirth>
+            </Player>
+            <Player id="9176">
+                <FirstName>Adam</FirstName>
+                <LastName>Cummins</LastName>
+                <Position>CB</Position>
+                <Pace>55</Pace>
+                <Shooting>31</Shooting>
+                <Passing>41</Passing>
+                <Offensive>36</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>60</Stamina>
+                <Club>Motherwell</Club>
+                <DateOfBirth>03-03-1993</DateOfBirth>
+            </Player>
+            <Player id="9738">
+                <FirstName>Dan</FirstName>
+                <LastName>Twardzik</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>26</Stamina>
+                <Club>Motherwell</Club>
+                <DateOfBirth>13-04-1991</DateOfBirth>
+            </Player>
+            <Player id="9849">
+                <FirstName>Zaine</FirstName>
+                <LastName>Francis-Angol</LastName>
+                <Position>LM</Position>
+                <Pace>81</Pace>
+                <Shooting>33</Shooting>
+                <Passing>50</Passing>
+                <Offensive>41</Offensive>
+                <Defensive>57</Defensive>
+                <Stamina>64</Stamina>
+                <Club>Motherwell</Club>
+                <DateOfBirth>30-06-1993</DateOfBirth>
+            </Player>
+            <Player id="10096">
+                <FirstName>Stuart</FirstName>
+                <LastName>Carswell</LastName>
+                <Position>CM</Position>
+                <Pace>71</Pace>
+                <Shooting>43</Shooting>
+                <Passing>58</Passing>
+                <Offensive>50</Offensive>
+                <Defensive>52</Defensive>
+                <Stamina>65</Stamina>
+                <Club>Motherwell</Club>
+                <DateOfBirth>09-09-1993</DateOfBirth>
+            </Player>
+            <Player id="10340">
+                <FirstName>Lee</FirstName>
+                <LastName>Erwin</LastName>
+                <Position>ST</Position>
+                <Pace>65</Pace>
+                <Shooting>56</Shooting>
+                <Passing>38</Passing>
+                <Offensive>47</Offensive>
+                <Defensive>27</Defensive>
+                <Stamina>57</Stamina>
+                <Club>Motherwell</Club>
+                <DateOfBirth>19-03-1994</DateOfBirth>
+            </Player>
+            <Player id="10736">
+                <FirstName>Josh</FirstName>
+                <LastName>Law</LastName>
+                <Position>RM</Position>
+                <Pace>63</Pace>
+                <Shooting>39</Shooting>
+                <Passing>53</Passing>
+                <Offensive>46</Offensive>
+                <Defensive>24</Defensive>
+                <Stamina>58</Stamina>
+                <Club>Motherwell</Club>
+                <DateOfBirth>01-06-1989</DateOfBirth>
+            </Player>
+            <Player id="10777">
+                <FirstName>Jack</FirstName>
+                <LastName>Leitch</LastName>
+                <Position>CM</Position>
+                <Pace>72</Pace>
+                <Shooting>49</Shooting>
+                <Passing>58</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>45</Defensive>
+                <Stamina>48</Stamina>
+                <Club>Motherwell</Club>
+                <DateOfBirth>17-07-1995</DateOfBirth>
+            </Player>
+            <Player id="11003">
+                <FirstName>Craig</FirstName>
+                <LastName>Moore</LastName>
+                <Position>ST</Position>
+                <Pace>64</Pace>
+                <Shooting>55</Shooting>
+                <Passing>40</Passing>
+                <Offensive>47</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>58</Stamina>
+                <Club>Motherwell</Club>
+                <DateOfBirth>16-08-1994</DateOfBirth>
+            </Player>
+            <Player id="11343">
+                <FirstName>Chris</FirstName>
+                <LastName>Cadden</LastName>
+                <Position>CM</Position>
+                <Pace>63</Pace>
+                <Shooting>42</Shooting>
+                <Passing>51</Passing>
+                <Offensive>46</Offensive>
+                <Defensive>45</Defensive>
+                <Stamina>59</Stamina>
+                <Club>Motherwell</Club>
+                <DateOfBirth>19-09-1996</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Dundee FC">
+            <Player id="3388">
+                <FirstName>Gary</FirstName>
+                <LastName>Harkins</LastName>
+                <Position>LM</Position>
+                <Pace>71</Pace>
+                <Shooting>62</Shooting>
+                <Passing>63</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>49</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Dundee FC</Club>
+                <DateOfBirth>02-01-1985</DateOfBirth>
+            </Player>
+            <Player id="5555">
+                <FirstName>Paul</FirstName>
+                <LastName>McGowan</LastName>
+                <Position>CM</Position>
+                <Pace>73</Pace>
+                <Shooting>61</Shooting>
+                <Passing>63</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>40</Defensive>
+                <Stamina>80</Stamina>
+                <Club>Dundee FC</Club>
+                <DateOfBirth>07-10-1987</DateOfBirth>
+            </Player>
+            <Player id="6239">
+                <FirstName>Philip</FirstName>
+                <LastName>Roberts</LastName>
+                <Position>RM</Position>
+                <Pace>91</Pace>
+                <Shooting>52</Shooting>
+                <Passing>56</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>25</Defensive>
+                <Stamina>63</Stamina>
+                <Club>Dundee FC</Club>
+                <DateOfBirth>07-04-1994</DateOfBirth>
+            </Player>
+            <Player id="6529">
+                <FirstName>Nicky</FirstName>
+                <LastName>Riley</LastName>
+                <Position>RM</Position>
+                <Pace>81</Pace>
+                <Shooting>48</Shooting>
+                <Passing>59</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>42</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Dundee FC</Club>
+                <DateOfBirth>10-05-1986</DateOfBirth>
+            </Player>
+            <Player id="6736">
+                <FirstName>Kyle</FirstName>
+                <LastName>Letheren</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>33</Stamina>
+                <Club>Dundee FC</Club>
+                <DateOfBirth>26-12-1987</DateOfBirth>
+            </Player>
+            <Player id="7011">
+                <FirstName>Simon</FirstName>
+                <LastName>Ferry</LastName>
+                <Position>CM</Position>
+                <Pace>69</Pace>
+                <Shooting>50</Shooting>
+                <Passing>64</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>55</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Dundee FC</Club>
+                <DateOfBirth>11-01-1988</DateOfBirth>
+            </Player>
+            <Player id="7384">
+                <FirstName>Jim</FirstName>
+                <LastName>McAlister</LastName>
+                <Position>CM</Position>
+                <Pace>72</Pace>
+                <Shooting>54</Shooting>
+                <Passing>59</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>54</Defensive>
+                <Stamina>90</Stamina>
+                <Club>Dundee FC</Club>
+                <DateOfBirth>02-11-1985</DateOfBirth>
+            </Player>
+            <Player id="7392">
+                <FirstName>James</FirstName>
+                <LastName>McPake</LastName>
+                <Position>CB</Position>
+                <Pace>60</Pace>
+                <Shooting>43</Shooting>
+                <Passing>49</Passing>
+                <Offensive>46</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>33</Stamina>
+                <Club>Dundee FC</Club>
+                <DateOfBirth>24-06-1984</DateOfBirth>
+            </Player>
+            <Player id="7434">
+                <FirstName>Peter</FirstName>
+                <LastName>MacDonald</LastName>
+                <Position>ST</Position>
+                <Pace>62</Pace>
+                <Shooting>60</Shooting>
+                <Passing>52</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Dundee FC</Club>
+                <DateOfBirth>17-11-1980</DateOfBirth>
+            </Player>
+            <Player id="7665">
+                <FirstName>Kevin</FirstName>
+                <LastName>McBride</LastName>
+                <Position>CDM</Position>
+                <Pace>66</Pace>
+                <Shooting>42</Shooting>
+                <Passing>59</Passing>
+                <Offensive>50</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Dundee FC</Club>
+                <DateOfBirth>14-06-1981</DateOfBirth>
+            </Player>
+            <Player id="7902">
+                <FirstName>Gary</FirstName>
+                <LastName>Irvine</LastName>
+                <Position>RB</Position>
+                <Pace>71</Pace>
+                <Shooting>31</Shooting>
+                <Passing>58</Passing>
+                <Offensive>44</Offensive>
+                <Defensive>61</Defensive>
+                <Stamina>64</Stamina>
+                <Club>Dundee FC</Club>
+                <DateOfBirth>17-03-1985</DateOfBirth>
+            </Player>
+            <Player id="7922">
+                <FirstName>Iain</FirstName>
+                <LastName>Davidson</LastName>
+                <Position>CDM</Position>
+                <Pace>57</Pace>
+                <Shooting>41</Shooting>
+                <Passing>56</Passing>
+                <Offensive>48</Offensive>
+                <Defensive>57</Defensive>
+                <Stamina>61</Stamina>
+                <Club>Dundee FC</Club>
+                <DateOfBirth>14-01-1984</DateOfBirth>
+            </Player>
+            <Player id="8118">
+                <FirstName>Kevin</FirstName>
+                <LastName>Thomson</LastName>
+                <Position>CM</Position>
+                <Pace>59</Pace>
+                <Shooting>49</Shooting>
+                <Passing>62</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>57</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Dundee FC</Club>
+                <DateOfBirth>14-10-1984</DateOfBirth>
+            </Player>
+            <Player id="9938">
+                <FirstName>Thomas</FirstName>
+                <LastName>Konrad</LastName>
+                <Position>CB</Position>
+                <Pace>71</Pace>
+                <Shooting>32</Shooting>
+                <Passing>32</Passing>
+                <Offensive>32</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>50</Stamina>
+                <Club>Dundee FC</Club>
+                <DateOfBirth>05-11-1989</DateOfBirth>
+            </Player>
+            <Player id="9984">
+                <FirstName>Martin</FirstName>
+                <LastName>Boyle</LastName>
+                <Position>ST</Position>
+                <Pace>71</Pace>
+                <Shooting>54</Shooting>
+                <Passing>45</Passing>
+                <Offensive>49</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>55</Stamina>
+                <Club>Dundee FC</Club>
+                <DateOfBirth>25-04-1993</DateOfBirth>
+            </Player>
+            <Player id="10210">
+                <FirstName>Luka</FirstName>
+                <LastName>Tankulic</LastName>
+                <Position>ST</Position>
+                <Pace>70</Pace>
+                <Shooting>53</Shooting>
+                <Passing>39</Passing>
+                <Offensive>46</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>47</Stamina>
+                <Club>Dundee FC</Club>
+                <DateOfBirth>21-06-1991</DateOfBirth>
+            </Player>
+            <Player id="10326">
+                <FirstName>Scott</FirstName>
+                <LastName>Bain</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>30</Stamina>
+                <Club>Dundee FC</Club>
+                <DateOfBirth>22-11-1991</DateOfBirth>
+            </Player>
+            <Player id="10512">
+                <FirstName>Greg</FirstName>
+                <LastName>Stewart</LastName>
+                <Position>ST</Position>
+                <Pace>72</Pace>
+                <Shooting>56</Shooting>
+                <Passing>42</Passing>
+                <Offensive>49</Offensive>
+                <Defensive>26</Defensive>
+                <Stamina>54</Stamina>
+                <Club>Dundee FC</Club>
+                <DateOfBirth>17-03-1990</DateOfBirth>
+            </Player>
+            <Player id="10845">
+                <FirstName>Paul</FirstName>
+                <LastName>McGinn</LastName>
+                <Position>RB</Position>
+                <Pace>68</Pace>
+                <Shooting>26</Shooting>
+                <Passing>42</Passing>
+                <Offensive>34</Offensive>
+                <Defensive>53</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Dundee FC</Club>
+                <DateOfBirth>22-10-1990</DateOfBirth>
+            </Player>
+            <Player id="10879">
+                <FirstName>Craig</FirstName>
+                <LastName>Wighton</LastName>
+                <Position>ST</Position>
+                <Pace>65</Pace>
+                <Shooting>56</Shooting>
+                <Passing>38</Passing>
+                <Offensive>47</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>53</Stamina>
+                <Club>Dundee FC</Club>
+                <DateOfBirth>27-07-1997</DateOfBirth>
+            </Player>
+            <Player id="11328">
+                <FirstName>Cameron</FirstName>
+                <LastName>Kerr</LastName>
+                <Position>RB</Position>
+                <Pace>71</Pace>
+                <Shooting>27</Shooting>
+                <Passing>41</Passing>
+                <Offensive>34</Offensive>
+                <Defensive>51</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Dundee FC</Club>
+                <DateOfBirth>10-09-1995</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="St. Johnstone FC">
+            <Player id="3587">
+                <FirstName>Frazer</FirstName>
+                <LastName>Wright</LastName>
+                <Position>CB</Position>
+                <Pace>34</Pace>
+                <Shooting>33</Shooting>
+                <Passing>51</Passing>
+                <Offensive>42</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>64</Stamina>
+                <Club>St. Johnstone FC</Club>
+                <DateOfBirth>23-12-1979</DateOfBirth>
+            </Player>
+            <Player id="3664">
+                <FirstName>Murray</FirstName>
+                <LastName>Davidson</LastName>
+                <Position>CM</Position>
+                <Pace>67</Pace>
+                <Shooting>58</Shooting>
+                <Passing>62</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>61</Defensive>
+                <Stamina>91</Stamina>
+                <Club>St. Johnstone FC</Club>
+                <DateOfBirth>07-03-1988</DateOfBirth>
+            </Player>
+            <Player id="3861">
+                <FirstName>Alan</FirstName>
+                <LastName>Mannus</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>30</Stamina>
+                <Club>St. Johnstone FC</Club>
+                <DateOfBirth>19-05-1982</DateOfBirth>
+            </Player>
+            <Player id="4138">
+                <FirstName>Steven</FirstName>
+                <LastName>MacLean</LastName>
+                <Position>ST</Position>
+                <Pace>61</Pace>
+                <Shooting>62</Shooting>
+                <Passing>57</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>35</Defensive>
+                <Stamina>81</Stamina>
+                <Club>St. Johnstone FC</Club>
+                <DateOfBirth>23-08-1982</DateOfBirth>
+            </Player>
+            <Player id="4238">
+                <FirstName>David</FirstName>
+                <LastName>Wotherspoon</LastName>
+                <Position>LM</Position>
+                <Pace>75</Pace>
+                <Shooting>53</Shooting>
+                <Passing>64</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>73</Stamina>
+                <Club>St. Johnstone FC</Club>
+                <DateOfBirth>16-01-1990</DateOfBirth>
+            </Player>
+            <Player id="4391">
+                <FirstName>Dave</FirstName>
+                <LastName>Mackay</LastName>
+                <Position>RB</Position>
+                <Pace>32</Pace>
+                <Shooting>45</Shooting>
+                <Passing>61</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>69</Defensive>
+                <Stamina>62</Stamina>
+                <Club>St. Johnstone FC</Club>
+                <DateOfBirth>02-05-1981</DateOfBirth>
+            </Player>
+            <Player id="5146">
+                <FirstName>Michael</FirstName>
+                <LastName>O'Halloran</LastName>
+                <Position>LM</Position>
+                <Pace>84</Pace>
+                <Shooting>62</Shooting>
+                <Passing>52</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>31</Defensive>
+                <Stamina>60</Stamina>
+                <Club>St. Johnstone FC</Club>
+                <DateOfBirth>06-01-1991</DateOfBirth>
+            </Player>
+            <Player id="5262">
+                <FirstName>Simon</FirstName>
+                <LastName>Lappin</LastName>
+                <Position>CM</Position>
+                <Pace>52</Pace>
+                <Shooting>54</Shooting>
+                <Passing>66</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>59</Defensive>
+                <Stamina>68</Stamina>
+                <Club>St. Johnstone FC</Club>
+                <DateOfBirth>25-01-1983</DateOfBirth>
+            </Player>
+            <Player id="6107">
+                <FirstName>Lee</FirstName>
+                <LastName>Croft</LastName>
+                <Position>RM</Position>
+                <Pace>63</Pace>
+                <Shooting>47</Shooting>
+                <Passing>61</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>53</Defensive>
+                <Stamina>71</Stamina>
+                <Club>St. Johnstone FC</Club>
+                <DateOfBirth>21-06-1985</DateOfBirth>
+            </Player>
+            <Player id="7657">
+                <FirstName>Chris</FirstName>
+                <LastName>Millar</LastName>
+                <Position>CM</Position>
+                <Pace>68</Pace>
+                <Shooting>35</Shooting>
+                <Passing>62</Passing>
+                <Offensive>48</Offensive>
+                <Defensive>57</Defensive>
+                <Stamina>71</Stamina>
+                <Club>St. Johnstone FC</Club>
+                <DateOfBirth>30-03-1983</DateOfBirth>
+            </Player>
+            <Player id="7908">
+                <FirstName>Gary</FirstName>
+                <LastName>Miller</LastName>
+                <Position>RB</Position>
+                <Pace>67</Pace>
+                <Shooting>30</Shooting>
+                <Passing>57</Passing>
+                <Offensive>43</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>71</Stamina>
+                <Club>St. Johnstone FC</Club>
+                <DateOfBirth>15-04-1987</DateOfBirth>
+            </Player>
+            <Player id="8117">
+                <FirstName>Gary</FirstName>
+                <LastName>McDonald</LastName>
+                <Position>CM</Position>
+                <Pace>65</Pace>
+                <Shooting>49</Shooting>
+                <Passing>57</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>73</Stamina>
+                <Club>St. Johnstone FC</Club>
+                <DateOfBirth>10-04-1982</DateOfBirth>
+            </Player>
+            <Player id="8136">
+                <FirstName>Brian</FirstName>
+                <LastName>Graham</LastName>
+                <Position>ST</Position>
+                <Pace>63</Pace>
+                <Shooting>60</Shooting>
+                <Passing>44</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>63</Stamina>
+                <Club>St. Johnstone FC</Club>
+                <DateOfBirth>01-02-1988</DateOfBirth>
+            </Player>
+            <Player id="9643">
+                <FirstName>Steve</FirstName>
+                <LastName>Banks</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>45</Stamina>
+                <Club>St. Johnstone FC</Club>
+                <DateOfBirth>09-02-1972</DateOfBirth>
+            </Player>
+            <Player id="9823">
+                <FirstName>Liam</FirstName>
+                <LastName>Caddis</LastName>
+                <Position>CAM</Position>
+                <Pace>71</Pace>
+                <Shooting>43</Shooting>
+                <Passing>57</Passing>
+                <Offensive>50</Offensive>
+                <Defensive>50</Defensive>
+                <Stamina>63</Stamina>
+                <Club>St. Johnstone FC</Club>
+                <DateOfBirth>20-09-1993</DateOfBirth>
+            </Player>
+            <Player id="11061">
+                <FirstName>Dylan</FirstName>
+                <LastName>Easton</LastName>
+                <Position>ST</Position>
+                <Pace>66</Pace>
+                <Shooting>51</Shooting>
+                <Passing>50</Passing>
+                <Offensive>50</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>58</Stamina>
+                <Club>St. Johnstone FC</Club>
+                <DateOfBirth>06-04-1994</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Hamilton Academical FC">
+            <Player id="4217">
+                <FirstName>Mickael</FirstName>
+                <LastName>Antoine-Curier</LastName>
+                <Position>ST</Position>
+                <Pace>72</Pace>
+                <Shooting>64</Shooting>
+                <Passing>48</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>65</Stamina>
+                <Club>Hamilton Academical FC</Club>
+                <DateOfBirth>05-03-1983</DateOfBirth>
+            </Player>
+            <Player id="5652">
+                <FirstName>Michael</FirstName>
+                <LastName>McGovern</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>33</Stamina>
+                <Club>Hamilton Academical FC</Club>
+                <DateOfBirth>12-07-1984</DateOfBirth>
+            </Player>
+            <Player id="7087">
+                <FirstName>Daniel</FirstName>
+                <LastName>Redmond</LastName>
+                <Position>CAM</Position>
+                <Pace>70</Pace>
+                <Shooting>58</Shooting>
+                <Passing>62</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>49</Defensive>
+                <Stamina>55</Stamina>
+                <Club>Hamilton Academical FC</Club>
+                <DateOfBirth>02-03-1991</DateOfBirth>
+            </Player>
+            <Player id="7391">
+                <FirstName>Jason</FirstName>
+                <LastName>Scotland</LastName>
+                <Position>ST</Position>
+                <Pace>33</Pace>
+                <Shooting>65</Shooting>
+                <Passing>50</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>31</Defensive>
+                <Stamina>60</Stamina>
+                <Club>Hamilton Academical FC</Club>
+                <DateOfBirth>18-02-1979</DateOfBirth>
+            </Player>
+            <Player id="7702">
+                <FirstName>Ziggy</FirstName>
+                <LastName>Gordon</LastName>
+                <Position>RB</Position>
+                <Pace>75</Pace>
+                <Shooting>32</Shooting>
+                <Passing>45</Passing>
+                <Offensive>38</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Hamilton Academical FC</Club>
+                <DateOfBirth>23-04-1993</DateOfBirth>
+            </Player>
+            <Player id="9120">
+                <FirstName>Alex</FirstName>
+                <LastName>Neil</LastName>
+                <Position>CM</Position>
+                <Pace>34</Pace>
+                <Shooting>54</Shooting>
+                <Passing>61</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>52</Defensive>
+                <Stamina>60</Stamina>
+                <Club>Hamilton Academical FC</Club>
+                <DateOfBirth>09-06-1981</DateOfBirth>
+            </Player>
+            <Player id="9940">
+                <FirstName>Grant</FirstName>
+                <LastName>Gillespie</LastName>
+                <Position>LB</Position>
+                <Pace>65</Pace>
+                <Shooting>28</Shooting>
+                <Passing>58</Passing>
+                <Offensive>43</Offensive>
+                <Defensive>54</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Hamilton Academical FC</Club>
+                <DateOfBirth>02-07-1991</DateOfBirth>
+            </Player>
+            <Player id="10981">
+                <FirstName>Blair</FirstName>
+                <LastName>Currie</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>27</Stamina>
+                <Club>Hamilton Academical FC</Club>
+                <DateOfBirth>19-02-1994</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Ross County FC">
+            <Player id="4392">
+                <FirstName>Richard</FirstName>
+                <LastName>Brittain</LastName>
+                <Position>RM</Position>
+                <Pace>60</Pace>
+                <Shooting>67</Shooting>
+                <Passing>66</Passing>
+                <Offensive>66</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Ross County FC</Club>
+                <DateOfBirth>24-09-1983</DateOfBirth>
+            </Player>
+            <Player id="5753">
+                <FirstName>Jake</FirstName>
+                <LastName>Jervis</LastName>
+                <Position>ST</Position>
+                <Pace>81</Pace>
+                <Shooting>59</Shooting>
+                <Passing>47</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Ross County FC</Club>
+                <DateOfBirth>17-09-1991</DateOfBirth>
+            </Player>
+            <Player id="6255">
+                <FirstName>Filip</FirstName>
+                <LastName>Kiss</LastName>
+                <Position>CM</Position>
+                <Pace>50</Pace>
+                <Shooting>55</Shooting>
+                <Passing>59</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>59</Defensive>
+                <Stamina>64</Stamina>
+                <Club>Ross County FC</Club>
+                <DateOfBirth>13-10-1990</DateOfBirth>
+            </Player>
+            <Player id="6792">
+                <FirstName>Graham</FirstName>
+                <LastName>Carey</LastName>
+                <Position>LM</Position>
+                <Pace>72</Pace>
+                <Shooting>56</Shooting>
+                <Passing>61</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>54</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Ross County FC</Club>
+                <DateOfBirth>20-05-1989</DateOfBirth>
+            </Player>
+            <Player id="7351">
+                <FirstName>Melvin</FirstName>
+                <LastName>de Leeuw</LastName>
+                <Position>LM</Position>
+                <Pace>71</Pace>
+                <Shooting>58</Shooting>
+                <Passing>59</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>32</Defensive>
+                <Stamina>64</Stamina>
+                <Club>Ross County FC</Club>
+                <DateOfBirth>25-04-1988</DateOfBirth>
+            </Player>
+            <Player id="7533">
+                <FirstName>Steven</FirstName>
+                <LastName>Saunders</LastName>
+                <Position>RB</Position>
+                <Pace>71</Pace>
+                <Shooting>29</Shooting>
+                <Passing>45</Passing>
+                <Offensive>37</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Ross County FC</Club>
+                <DateOfBirth>23-02-1991</DateOfBirth>
+            </Player>
+            <Player id="7723">
+                <FirstName>Yoann</FirstName>
+                <LastName>Arquin</LastName>
+                <Position>ST</Position>
+                <Pace>78</Pace>
+                <Shooting>59</Shooting>
+                <Passing>53</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>26</Defensive>
+                <Stamina>64</Stamina>
+                <Club>Ross County FC</Club>
+                <DateOfBirth>15-04-1988</DateOfBirth>
+            </Player>
+            <Player id="8340">
+                <FirstName>Antonio</FirstName>
+                <LastName>Reguero Chapinal</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>28</Stamina>
+                <Club>Ross County FC</Club>
+                <DateOfBirth>04-07-1982</DateOfBirth>
+            </Player>
+            <Player id="8950">
+                <FirstName>Scott</FirstName>
+                <LastName>Boyd</LastName>
+                <Position>CB</Position>
+                <Pace>54</Pace>
+                <Shooting>41</Shooting>
+                <Passing>51</Passing>
+                <Offensive>46</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>59</Stamina>
+                <Club>Ross County FC</Club>
+                <DateOfBirth>04-06-1986</DateOfBirth>
+            </Player>
+            <Player id="9292">
+                <FirstName>Mark</FirstName>
+                <LastName>Brown</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>24</Stamina>
+                <Club>Ross County FC</Club>
+                <DateOfBirth>28-02-1981</DateOfBirth>
+            </Player>
+            <Player id="9386">
+                <FirstName>Jim</FirstName>
+                <LastName>Fenlon</LastName>
+                <Position>LB</Position>
+                <Pace>75</Pace>
+                <Shooting>43</Shooting>
+                <Passing>51</Passing>
+                <Offensive>47</Offensive>
+                <Defensive>56</Defensive>
+                <Stamina>80</Stamina>
+                <Club>Ross County FC</Club>
+                <DateOfBirth>03-03-1994</DateOfBirth>
+            </Player>
+            <Player id="9959">
+                <FirstName>Darren</FirstName>
+                <LastName>Maatsen</LastName>
+                <Position>RM</Position>
+                <Pace>91</Pace>
+                <Shooting>53</Shooting>
+                <Passing>46</Passing>
+                <Offensive>49</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Ross County FC</Club>
+                <DateOfBirth>30-01-1990</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Kilmarnock">
+            <Player id="5047">
+                <FirstName>Michael</FirstName>
+                <LastName>Ngoo</LastName>
+                <Position>ST</Position>
+                <Pace>78</Pace>
+                <Shooting>60</Shooting>
+                <Passing>45</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>31</Defensive>
+                <Stamina>60</Stamina>
+                <Club>Kilmarnock</Club>
+                <DateOfBirth>23-10-1992</DateOfBirth>
+            </Player>
+            <Player id="5117">
+                <FirstName>Chris</FirstName>
+                <LastName>Johnston</LastName>
+                <Position>LM</Position>
+                <Pace>89</Pace>
+                <Shooting>55</Shooting>
+                <Passing>56</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>26</Defensive>
+                <Stamina>59</Stamina>
+                <Club>Kilmarnock</Club>
+                <DateOfBirth>03-09-1994</DateOfBirth>
+            </Player>
+            <Player id="5569">
+                <FirstName>Lee</FirstName>
+                <LastName>Miller</LastName>
+                <Position>ST</Position>
+                <Pace>62</Pace>
+                <Shooting>65</Shooting>
+                <Passing>60</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>39</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Kilmarnock</Club>
+                <DateOfBirth>18-05-1983</DateOfBirth>
+            </Player>
+            <Player id="5973">
+                <FirstName>Rory</FirstName>
+                <LastName>McKenzie</LastName>
+                <Position>RM</Position>
+                <Pace>81</Pace>
+                <Shooting>52</Shooting>
+                <Passing>57</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>32</Defensive>
+                <Stamina>53</Stamina>
+                <Club>Kilmarnock</Club>
+                <DateOfBirth>07-10-1993</DateOfBirth>
+            </Player>
+            <Player id="6368">
+                <FirstName>Sammy</FirstName>
+                <LastName>Clingan</LastName>
+                <Position>CDM</Position>
+                <Pace>67</Pace>
+                <Shooting>61</Shooting>
+                <Passing>64</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Kilmarnock</Club>
+                <DateOfBirth>13-01-1984</DateOfBirth>
+            </Player>
+            <Player id="6520">
+                <FirstName>Jamie</FirstName>
+                <LastName>Hamill</LastName>
+                <Position>CM</Position>
+                <Pace>64</Pace>
+                <Shooting>52</Shooting>
+                <Passing>62</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>90</Stamina>
+                <Club>Kilmarnock</Club>
+                <DateOfBirth>29-07-1986</DateOfBirth>
+            </Player>
+            <Player id="6782">
+                <FirstName>Manuel</FirstName>
+                <LastName>Pascali</LastName>
+                <Position>CB</Position>
+                <Pace>34</Pace>
+                <Shooting>47</Shooting>
+                <Passing>51</Passing>
+                <Offensive>49</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>76</Stamina>
+                <Club>Kilmarnock</Club>
+                <DateOfBirth>09-09-1981</DateOfBirth>
+            </Player>
+            <Player id="7254">
+                <FirstName>Mark</FirstName>
+                <LastName>Connolly</LastName>
+                <Position>CB</Position>
+                <Pace>55</Pace>
+                <Shooting>28</Shooting>
+                <Passing>49</Passing>
+                <Offensive>38</Offensive>
+                <Defensive>61</Defensive>
+                <Stamina>61</Stamina>
+                <Club>Kilmarnock</Club>
+                <DateOfBirth>16-12-1991</DateOfBirth>
+            </Player>
+            <Player id="7520">
+                <FirstName>Temitope</FirstName>
+                <LastName>Obadeyi</LastName>
+                <Position>LM</Position>
+                <Pace>81</Pace>
+                <Shooting>59</Shooting>
+                <Passing>56</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Kilmarnock</Club>
+                <DateOfBirth>29-10-1989</DateOfBirth>
+            </Player>
+            <Player id="8230">
+                <FirstName>Paul</FirstName>
+                <LastName>Cairney</LastName>
+                <Position>RM</Position>
+                <Pace>63</Pace>
+                <Shooting>52</Shooting>
+                <Passing>56</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>53</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Kilmarnock</Club>
+                <DateOfBirth>29-08-1987</DateOfBirth>
+            </Player>
+            <Player id="8372">
+                <FirstName>Josh</FirstName>
+                <LastName>Magennis</LastName>
+                <Position>ST</Position>
+                <Pace>80</Pace>
+                <Shooting>57</Shooting>
+                <Passing>56</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>50</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Kilmarnock</Club>
+                <DateOfBirth>15-08-1990</DateOfBirth>
+            </Player>
+            <Player id="8728">
+                <FirstName>Craig</FirstName>
+                <LastName>Slater</LastName>
+                <Position>CDM</Position>
+                <Pace>73</Pace>
+                <Shooting>44</Shooting>
+                <Passing>61</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>55</Defensive>
+                <Stamina>59</Stamina>
+                <Club>Kilmarnock</Club>
+                <DateOfBirth>26-04-1994</DateOfBirth>
+            </Player>
+            <Player id="9183">
+                <FirstName>Chris</FirstName>
+                <LastName>Chantler</LastName>
+                <Position>LB</Position>
+                <Pace>81</Pace>
+                <Shooting>47</Shooting>
+                <Passing>56</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>56</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Kilmarnock</Club>
+                <DateOfBirth>16-12-1990</DateOfBirth>
+            </Player>
+            <Player id="9246">
+                <FirstName>Lee</FirstName>
+                <LastName>Ashcroft</LastName>
+                <Position>CB</Position>
+                <Pace>67</Pace>
+                <Shooting>29</Shooting>
+                <Passing>32</Passing>
+                <Offensive>30</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>52</Stamina>
+                <Club>Kilmarnock</Club>
+                <DateOfBirth>29-08-1993</DateOfBirth>
+            </Player>
+            <Player id="9460">
+                <FirstName>Mark</FirstName>
+                <LastName>O'Hara</LastName>
+                <Position>CB</Position>
+                <Pace>68</Pace>
+                <Shooting>25</Shooting>
+                <Passing>45</Passing>
+                <Offensive>35</Offensive>
+                <Defensive>57</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Kilmarnock</Club>
+                <DateOfBirth>12-12-1995</DateOfBirth>
+            </Player>
+            <Player id="9470">
+                <FirstName>Ross</FirstName>
+                <LastName>Barbour</LastName>
+                <Position>RB</Position>
+                <Pace>70</Pace>
+                <Shooting>33</Shooting>
+                <Passing>53</Passing>
+                <Offensive>43</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>63</Stamina>
+                <Club>Kilmarnock</Club>
+                <DateOfBirth>01-02-1993</DateOfBirth>
+            </Player>
+            <Player id="10378">
+                <FirstName>Greg</FirstName>
+                <LastName>Kiltie</LastName>
+                <Position>LM</Position>
+                <Pace>66</Pace>
+                <Shooting>49</Shooting>
+                <Passing>55</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>47</Defensive>
+                <Stamina>57</Stamina>
+                <Club>Kilmarnock</Club>
+                <DateOfBirth>18-01-1997</DateOfBirth>
+            </Player>
+            <Player id="11012">
+                <FirstName>Robbie</FirstName>
+                <LastName>Muirhead</LastName>
+                <Position>CAM</Position>
+                <Pace>60</Pace>
+                <Shooting>56</Shooting>
+                <Passing>40</Passing>
+                <Offensive>48</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>57</Stamina>
+                <Club>Kilmarnock</Club>
+                <DateOfBirth>08-03-1996</DateOfBirth>
+            </Player>
+            <Player id="11407">
+                <FirstName>Ross</FirstName>
+                <LastName>Davidson</LastName>
+                <Position>ST</Position>
+                <Pace>68</Pace>
+                <Shooting>51</Shooting>
+                <Passing>42</Passing>
+                <Offensive>46</Offensive>
+                <Defensive>37</Defensive>
+                <Stamina>59</Stamina>
+                <Club>Kilmarnock</Club>
+                <DateOfBirth>28-10-1993</DateOfBirth>
+            </Player>
+            <Player id="11563">
+                <FirstName>Conor</FirstName>
+                <LastName>Brennan</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>25</Stamina>
+                <Club>Kilmarnock</Club>
+                <DateOfBirth>30-03-1994</DateOfBirth>
+            </Player>
+            <Player id="12675">
+                <FirstName>Alexei</FirstName>
+                <LastName>Eremenko</LastName>
+                <Position>CAM</Position>
+                <Pace>70</Pace>
+                <Shooting>70</Shooting>
+                <Passing>73</Passing>
+                <Offensive>71</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Kilmarnock</Club>
+                <DateOfBirth>24-03-1983</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Partick Thistle F.C.">
+            <Player id="6565">
+                <FirstName>Daniel</FirstName>
+                <LastName>Seaborne</LastName>
+                <Position>CB</Position>
+                <Pace>55</Pace>
+                <Shooting>26</Shooting>
+                <Passing>48</Passing>
+                <Offensive>37</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>73</Stamina>
+                <Club>Partick Thistle F.C.</Club>
+                <DateOfBirth>05-03-1987</DateOfBirth>
+            </Player>
+            <Player id="6893">
+                <FirstName>Stuart</FirstName>
+                <LastName>Bannigan</LastName>
+                <Position>CDM</Position>
+                <Pace>71</Pace>
+                <Shooting>51</Shooting>
+                <Passing>61</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>55</Defensive>
+                <Stamina>82</Stamina>
+                <Club>Partick Thistle F.C.</Club>
+                <DateOfBirth>17-09-1992</DateOfBirth>
+            </Player>
+            <Player id="7429">
+                <FirstName>Paul</FirstName>
+                <LastName>Gallacher</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>34</Stamina>
+                <Club>Partick Thistle F.C.</Club>
+                <DateOfBirth>16-08-1979</DateOfBirth>
+            </Player>
+            <Player id="7957">
+                <FirstName>Scott</FirstName>
+                <LastName>Fox</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>36</Stamina>
+                <Club>Partick Thistle F.C.</Club>
+                <DateOfBirth>28-06-1987</DateOfBirth>
+            </Player>
+            <Player id="8195">
+                <FirstName>Steven</FirstName>
+                <LastName>Lawless</LastName>
+                <Position>RM</Position>
+                <Pace>72</Pace>
+                <Shooting>60</Shooting>
+                <Passing>54</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>24</Defensive>
+                <Stamina>80</Stamina>
+                <Club>Partick Thistle F.C.</Club>
+                <DateOfBirth>12-04-1991</DateOfBirth>
+            </Player>
+            <Player id="8331">
+                <FirstName>Ryan</FirstName>
+                <LastName>Stevenson</LastName>
+                <Position>ST</Position>
+                <Pace>65</Pace>
+                <Shooting>60</Shooting>
+                <Passing>60</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>43</Defensive>
+                <Stamina>80</Stamina>
+                <Club>Partick Thistle F.C.</Club>
+                <DateOfBirth>24-08-1984</DateOfBirth>
+            </Player>
+            <Player id="8535">
+                <FirstName>Jake</FirstName>
+                <LastName>Carroll</LastName>
+                <Position>LB</Position>
+                <Pace>73</Pace>
+                <Shooting>44</Shooting>
+                <Passing>58</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>57</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Partick Thistle F.C.</Club>
+                <DateOfBirth>11-08-1991</DateOfBirth>
+            </Player>
+            <Player id="8687">
+                <FirstName>Conrad</FirstName>
+                <LastName>Balatoni</LastName>
+                <Position>CB</Position>
+                <Pace>71</Pace>
+                <Shooting>32</Shooting>
+                <Passing>49</Passing>
+                <Offensive>40</Offensive>
+                <Defensive>57</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Partick Thistle F.C.</Club>
+                <DateOfBirth>27-01-1991</DateOfBirth>
+            </Player>
+            <Player id="9244">
+                <FirstName>Stephen</FirstName>
+                <LastName>O'Donnell</LastName>
+                <Position>RB</Position>
+                <Pace>72</Pace>
+                <Shooting>32</Shooting>
+                <Passing>54</Passing>
+                <Offensive>43</Offensive>
+                <Defensive>55</Defensive>
+                <Stamina>80</Stamina>
+                <Club>Partick Thistle F.C.</Club>
+                <DateOfBirth>11-05-1992</DateOfBirth>
+            </Player>
+            <Player id="9924">
+                <FirstName>Jordan</FirstName>
+                <LastName>McMillan</LastName>
+                <Position>RB</Position>
+                <Pace>54</Pace>
+                <Shooting>30</Shooting>
+                <Passing>48</Passing>
+                <Offensive>39</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Partick Thistle F.C.</Club>
+                <DateOfBirth>16-10-1988</DateOfBirth>
+            </Player>
+            <Player id="10124">
+                <FirstName>James</FirstName>
+                <LastName>Craigen</LastName>
+                <Position>CDM</Position>
+                <Pace>65</Pace>
+                <Shooting>43</Shooting>
+                <Passing>56</Passing>
+                <Offensive>49</Offensive>
+                <Defensive>45</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Partick Thistle F.C.</Club>
+                <DateOfBirth>28-03-1991</DateOfBirth>
+            </Player>
+            <Player id="10256">
+                <FirstName>Scott</FirstName>
+                <LastName>Basalaj</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>51</Stamina>
+                <Club>Partick Thistle F.C.</Club>
+                <DateOfBirth>19-04-1994</DateOfBirth>
+            </Player>
+            <Player id="10262">
+                <FirstName>Christie</FirstName>
+                <LastName>Elliott</LastName>
+                <Position>RM</Position>
+                <Pace>72</Pace>
+                <Shooting>53</Shooting>
+                <Passing>50</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>59</Stamina>
+                <Club>Partick Thistle F.C.</Club>
+                <DateOfBirth>26-05-1991</DateOfBirth>
+            </Player>
+            <Player id="10861">
+                <FirstName>Lee</FirstName>
+                <LastName>Gallacher</LastName>
+                <Position>ST</Position>
+                <Pace>63</Pace>
+                <Shooting>57</Shooting>
+                <Passing>43</Passing>
+                <Offensive>50</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>59</Stamina>
+                <Club>Partick Thistle F.C.</Club>
+                <DateOfBirth>09-03-1995</DateOfBirth>
+            </Player>
+            <Player id="10918">
+                <FirstName>Declan</FirstName>
+                <LastName>McDaid</LastName>
+                <Position>RM</Position>
+                <Pace>64</Pace>
+                <Shooting>46</Shooting>
+                <Passing>55</Passing>
+                <Offensive>50</Offensive>
+                <Defensive>36</Defensive>
+                <Stamina>41</Stamina>
+                <Club>Partick Thistle F.C.</Club>
+                <DateOfBirth>22-11-1995</DateOfBirth>
+            </Player>
+            <Player id="11114">
+                <FirstName>Liam</FirstName>
+                <LastName>Lindsay</LastName>
+                <Position>CB</Position>
+                <Pace>55</Pace>
+                <Shooting>28</Shooting>
+                <Passing>29</Passing>
+                <Offensive>28</Offensive>
+                <Defensive>51</Defensive>
+                <Stamina>64</Stamina>
+                <Club>Partick Thistle F.C.</Club>
+                <DateOfBirth>12-10-1995</DateOfBirth>
+            </Player>
+            <Player id="11124">
+                <FirstName>Jordan</FirstName>
+                <LastName>Leyden</LastName>
+                <Position>ST</Position>
+                <Pace>53</Pace>
+                <Shooting>57</Shooting>
+                <Passing>38</Passing>
+                <Offensive>47</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>59</Stamina>
+                <Club>Partick Thistle F.C.</Club>
+                <DateOfBirth>09-03-1996</DateOfBirth>
+            </Player>
+            <Player id="11314">
+                <FirstName>Chris</FirstName>
+                <LastName>Duggan</LastName>
+                <Position>ST</Position>
+                <Pace>51</Pace>
+                <Shooting>55</Shooting>
+                <Passing>37</Passing>
+                <Offensive>46</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>52</Stamina>
+                <Club>Partick Thistle F.C.</Club>
+                <DateOfBirth>30-01-1994</DateOfBirth>
+            </Player>
+            <Player id="11336">
+                <FirstName>Jonathon</FirstName>
+                <LastName>Black</LastName>
+                <Position>ST</Position>
+                <Pace>55</Pace>
+                <Shooting>55</Shooting>
+                <Passing>40</Passing>
+                <Offensive>47</Offensive>
+                <Defensive>26</Defensive>
+                <Stamina>55</Stamina>
+                <Club>Partick Thistle F.C.</Club>
+                <DateOfBirth>09-11-1994</DateOfBirth>
+            </Player>
+            <Player id="11432">
+                <FirstName>Marc</FirstName>
+                <LastName>Waters</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>22</Stamina>
+                <Club>Partick Thistle F.C.</Club>
+                <DateOfBirth>30-03-1996</DateOfBirth>
+            </Player>
+            <Player id="11560">
+                <FirstName>David</FirstName>
+                <LastName>Wilson</LastName>
+                <Position>CM</Position>
+                <Pace>61</Pace>
+                <Shooting>39</Shooting>
+                <Passing>50</Passing>
+                <Offensive>44</Offensive>
+                <Defensive>43</Defensive>
+                <Stamina>57</Stamina>
+                <Club>Partick Thistle F.C.</Club>
+                <DateOfBirth>06-09-1994</DateOfBirth>
+            </Player>
+        </Team>
+    </League>
+</Players>

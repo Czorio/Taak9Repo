@@ -1,0 +1,3426 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Players>
+    <League Name="Abdul Latif Jameel League">
+        <Team Name="Al Shabab FC">
+            <Player id="164">
+                <FirstName>Ahmed</FirstName>
+                <LastName>Ateef</LastName>
+                <Position>CM</Position>
+                <Pace>71</Pace>
+                <Shooting>61</Shooting>
+                <Passing>70</Passing>
+                <Offensive>65</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>87</Stamina>
+                <Club>Al Shabab FC</Club>
+                <DateOfBirth>14-04-1983</DateOfBirth>
+            </Player>
+            <Player id="477">
+                <FirstName>Naif</FirstName>
+                <LastName>Hazazi</LastName>
+                <Position>ST</Position>
+                <Pace>72</Pace>
+                <Shooting>69</Shooting>
+                <Passing>52</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>32</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Al Shabab FC</Club>
+                <DateOfBirth>27-07-1988</DateOfBirth>
+            </Player>
+            <Player id="1414">
+                <FirstName>Tareq</FirstName>
+                <LastName>Khattab</LastName>
+                <Position>CB</Position>
+                <Pace>59</Pace>
+                <Shooting>33</Shooting>
+                <Passing>44</Passing>
+                <Offensive>38</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>74</Stamina>
+                <Club>Al Shabab FC</Club>
+                <DateOfBirth>06-05-1992</DateOfBirth>
+            </Player>
+            <Player id="2391">
+                <FirstName>Majed</FirstName>
+                <LastName>Al Marshadi</LastName>
+                <Position>CB</Position>
+                <Pace>62</Pace>
+                <Shooting>30</Shooting>
+                <Passing>43</Passing>
+                <Offensive>36</Offensive>
+                <Defensive>65</Defensive>
+                <Stamina>77</Stamina>
+                <Club>Al Shabab FC</Club>
+                <DateOfBirth>01-11-1984</DateOfBirth>
+            </Player>
+            <Player id="2558">
+                <FirstName>Hassan</FirstName>
+                <LastName>Muath</LastName>
+                <Position>RB</Position>
+                <Pace>88</Pace>
+                <Shooting>62</Shooting>
+                <Passing>65</Passing>
+                <Offensive>63</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>86</Stamina>
+                <Club>Al Shabab FC</Club>
+                <DateOfBirth>27-01-1986</DateOfBirth>
+            </Player>
+            <Player id="3660">
+                <FirstName>Abdulmalek</FirstName>
+                <LastName>Al Khaibri</LastName>
+                <Position>CDM</Position>
+                <Pace>72</Pace>
+                <Shooting>44</Shooting>
+                <Passing>49</Passing>
+                <Offensive>46</Offensive>
+                <Defensive>69</Defensive>
+                <Stamina>86</Stamina>
+                <Club>Al Shabab FC</Club>
+                <DateOfBirth>13-03-1986</DateOfBirth>
+            </Player>
+            <Player id="4453">
+                <FirstName>Abdoh</FirstName>
+                <LastName>Ateef</LastName>
+                <Position>CAM</Position>
+                <Pace>72</Pace>
+                <Shooting>60</Shooting>
+                <Passing>58</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>42</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Al Shabab FC</Club>
+                <DateOfBirth>02-04-1984</DateOfBirth>
+            </Player>
+            <Player id="5638">
+                <FirstName>Rafael</FirstName>
+                <LastName>da Silva Francisco</LastName>
+                <Position>LM</Position>
+                <Pace>87</Pace>
+                <Shooting>65</Shooting>
+                <Passing>72</Passing>
+                <Offensive>68</Offensive>
+                <Defensive>42</Defensive>
+                <Stamina>91</Stamina>
+                <Club>Al Shabab FC</Club>
+                <DateOfBirth>04-08-1983</DateOfBirth>
+            </Player>
+            <Player id="6788">
+                <FirstName>Fahad</FirstName>
+                <LastName>Al Yamani</LastName>
+                <Position>LM</Position>
+                <Pace>64</Pace>
+                <Shooting>55</Shooting>
+                <Passing>58</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>47</Defensive>
+                <Stamina>57</Stamina>
+                <Club>Al Shabab FC</Club>
+                <DateOfBirth>23-11-1989</DateOfBirth>
+            </Player>
+            <Player id="7108">
+                <FirstName>Abdulmajeed</FirstName>
+                <LastName>Al Ruwaili</LastName>
+                <Position>RM</Position>
+                <Pace>74</Pace>
+                <Shooting>57</Shooting>
+                <Passing>59</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>26</Defensive>
+                <Stamina>58</Stamina>
+                <Club>Al Shabab FC</Club>
+                <DateOfBirth>28-08-1986</DateOfBirth>
+            </Player>
+            <Player id="8177">
+                <FirstName>Sayyaf</FirstName>
+                <LastName>Al Bishi</LastName>
+                <Position>CB</Position>
+                <Pace>44</Pace>
+                <Shooting>45</Shooting>
+                <Passing>37</Passing>
+                <Offensive>41</Offensive>
+                <Defensive>57</Defensive>
+                <Stamina>69</Stamina>
+                <Club>Al Shabab FC</Club>
+                <DateOfBirth>18-06-1980</DateOfBirth>
+            </Player>
+            <Player id="8243">
+                <FirstName>Badr</FirstName>
+                <LastName>Al Sulaitin</LastName>
+                <Position>CM</Position>
+                <Pace>56</Pace>
+                <Shooting>42</Shooting>
+                <Passing>60</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>53</Defensive>
+                <Stamina>64</Stamina>
+                <Club>Al Shabab FC</Club>
+                <DateOfBirth>16-06-1990</DateOfBirth>
+            </Player>
+            <Player id="8355">
+                <FirstName>Omar</FirstName>
+                <LastName>Al Ghamdi</LastName>
+                <Position>CDM</Position>
+                <Pace>30</Pace>
+                <Shooting>50</Shooting>
+                <Passing>60</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>56</Defensive>
+                <Stamina>32</Stamina>
+                <Club>Al Shabab FC</Club>
+                <DateOfBirth>11-04-1979</DateOfBirth>
+            </Player>
+            <Player id="9214">
+                <FirstName>Eysa</FirstName>
+                <LastName>Al Mahyani</LastName>
+                <Position>ST</Position>
+                <Pace>66</Pace>
+                <Shooting>57</Shooting>
+                <Passing>40</Passing>
+                <Offensive>48</Offensive>
+                <Defensive>27</Defensive>
+                <Stamina>61</Stamina>
+                <Club>Al Shabab FC</Club>
+                <DateOfBirth>22-06-1983</DateOfBirth>
+            </Player>
+            <Player id="10734">
+                <FirstName>Abdullah</FirstName>
+                <LastName>Shuhail</LastName>
+                <Position>LB</Position>
+                <Pace>81</Pace>
+                <Shooting>36</Shooting>
+                <Passing>57</Passing>
+                <Offensive>46</Offensive>
+                <Defensive>51</Defensive>
+                <Stamina>58</Stamina>
+                <Club>Al Shabab FC</Club>
+                <DateOfBirth>22-01-1985</DateOfBirth>
+            </Player>
+            <Player id="10842">
+                <FirstName>Amer</FirstName>
+                <LastName>Haron</LastName>
+                <Position>CB</Position>
+                <Pace>66</Pace>
+                <Shooting>38</Shooting>
+                <Passing>39</Passing>
+                <Offensive>38</Offensive>
+                <Defensive>52</Defensive>
+                <Stamina>59</Stamina>
+                <Club>Al Shabab FC</Club>
+                <DateOfBirth>28-08-1992</DateOfBirth>
+            </Player>
+            <Player id="11048">
+                <FirstName>Abdullah</FirstName>
+                <LastName>Al Fahad</LastName>
+                <Position>CDM</Position>
+                <Pace>74</Pace>
+                <Shooting>51</Shooting>
+                <Passing>46</Passing>
+                <Offensive>48</Offensive>
+                <Defensive>54</Defensive>
+                <Stamina>66</Stamina>
+                <Club>Al Shabab FC</Club>
+                <DateOfBirth>11-06-1992</DateOfBirth>
+            </Player>
+            <Player id="11194">
+                <FirstName>Saeed</FirstName>
+                <LastName>Al Dosari</LastName>
+                <Position>RM</Position>
+                <Pace>61</Pace>
+                <Shooting>43</Shooting>
+                <Passing>47</Passing>
+                <Offensive>45</Offensive>
+                <Defensive>37</Defensive>
+                <Stamina>69</Stamina>
+                <Club>Al Shabab FC</Club>
+                <DateOfBirth>15-07-1990</DateOfBirth>
+            </Player>
+            <Player id="11277">
+                <FirstName>Abdullah</FirstName>
+                <LastName>Al Dossari</LastName>
+                <Position>CB</Position>
+                <Pace>55</Pace>
+                <Shooting>34</Shooting>
+                <Passing>26</Passing>
+                <Offensive>30</Offensive>
+                <Defensive>53</Defensive>
+                <Stamina>64</Stamina>
+                <Club>Al Shabab FC</Club>
+                <DateOfBirth>23-06-1990</DateOfBirth>
+            </Player>
+            <Player id="11549">
+                <FirstName>Ammar</FirstName>
+                <LastName>Bilal</LastName>
+                <Position>ST</Position>
+                <Pace>69</Pace>
+                <Shooting>50</Shooting>
+                <Passing>37</Passing>
+                <Offensive>43</Offensive>
+                <Defensive>27</Defensive>
+                <Stamina>47</Stamina>
+                <Club>Al Shabab FC</Club>
+                <DateOfBirth>17-05-1993</DateOfBirth>
+            </Player>
+            <Player id="11699">
+                <FirstName>Khalid</FirstName>
+                <LastName>Nasser</LastName>
+                <Position>CM</Position>
+                <Pace>52</Pace>
+                <Shooting>33</Shooting>
+                <Passing>47</Passing>
+                <Offensive>40</Offensive>
+                <Defensive>44</Defensive>
+                <Stamina>42</Stamina>
+                <Club>Al Shabab FC</Club>
+                <DateOfBirth>23-10-1990</DateOfBirth>
+            </Player>
+            <Player id="12294">
+                <FirstName>Rogerio</FirstName>
+                <LastName>de A. S. Coutinho</LastName>
+                <Position>CAM</Position>
+                <Pace>90</Pace>
+                <Shooting>67</Shooting>
+                <Passing>68</Passing>
+                <Offensive>67</Offensive>
+                <Defensive>34</Defensive>
+                <Stamina>75</Stamina>
+                <Club>Al Shabab FC</Club>
+                <DateOfBirth>20-03-1987</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Al-Hilal Saudi FC">
+            <Player id="479">
+                <FirstName>Rodrigo Júnior</FirstName>
+                <LastName>Paula Silva</LastName>
+                <Position>CB</Position>
+                <Pace>44</Pace>
+                <Shooting>31</Shooting>
+                <Passing>46</Passing>
+                <Offensive>38</Offensive>
+                <Defensive>74</Defensive>
+                <Stamina>60</Stamina>
+                <Club>Al-Hilal Saudi FC</Club>
+                <DateOfBirth>07-05-1988</DateOfBirth>
+            </Player>
+            <Player id="701">
+                <FirstName>Salem</FirstName>
+                <LastName>Al Dossari</LastName>
+                <Position>RM</Position>
+                <Pace>89</Pace>
+                <Shooting>70</Shooting>
+                <Passing>66</Passing>
+                <Offensive>68</Offensive>
+                <Defensive>32</Defensive>
+                <Stamina>86</Stamina>
+                <Club>Al-Hilal Saudi FC</Club>
+                <DateOfBirth>19-08-1991</DateOfBirth>
+            </Player>
+            <Player id="1705">
+                <FirstName>Abdulaziz</FirstName>
+                <LastName>Al Dosari</LastName>
+                <Position>LM</Position>
+                <Pace>75</Pace>
+                <Shooting>63</Shooting>
+                <Passing>68</Passing>
+                <Offensive>65</Offensive>
+                <Defensive>35</Defensive>
+                <Stamina>75</Stamina>
+                <Club>Al-Hilal Saudi FC</Club>
+                <DateOfBirth>11-10-1988</DateOfBirth>
+            </Player>
+            <Player id="1802">
+                <FirstName>Nawaf</FirstName>
+                <LastName>Al Abed</LastName>
+                <Position>LM</Position>
+                <Pace>88</Pace>
+                <Shooting>71</Shooting>
+                <Passing>64</Passing>
+                <Offensive>67</Offensive>
+                <Defensive>38</Defensive>
+                <Stamina>78</Stamina>
+                <Club>Al-Hilal Saudi FC</Club>
+                <DateOfBirth>26-01-1990</DateOfBirth>
+            </Player>
+            <Player id="3085">
+                <FirstName>Salman</FirstName>
+                <LastName>Al Faraj</LastName>
+                <Position>CM</Position>
+                <Pace>78</Pace>
+                <Shooting>55</Shooting>
+                <Passing>67</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>61</Defensive>
+                <Stamina>84</Stamina>
+                <Club>Al-Hilal Saudi FC</Club>
+                <DateOfBirth>01-08-1989</DateOfBirth>
+            </Player>
+            <Player id="3659">
+                <FirstName>Hamad</FirstName>
+                <LastName>Al Hamad</LastName>
+                <Position>LM</Position>
+                <Pace>87</Pace>
+                <Shooting>66</Shooting>
+                <Passing>60</Passing>
+                <Offensive>63</Offensive>
+                <Defensive>27</Defensive>
+                <Stamina>74</Stamina>
+                <Club>Al-Hilal Saudi FC</Club>
+                <DateOfBirth>26-08-1987</DateOfBirth>
+            </Player>
+            <Player id="4778">
+                <FirstName>Sultan</FirstName>
+                <LastName>Al Beshi</LastName>
+                <Position>RB</Position>
+                <Pace>75</Pace>
+                <Shooting>48</Shooting>
+                <Passing>57</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>84</Stamina>
+                <Club>Al-Hilal Saudi FC</Club>
+                <DateOfBirth>28-01-1990</DateOfBirth>
+            </Player>
+            <Player id="4809">
+                <FirstName>Thiago</FirstName>
+                <LastName>Neves Augusto</LastName>
+                <Position>CAM</Position>
+                <Pace>76</Pace>
+                <Shooting>77</Shooting>
+                <Passing>77</Passing>
+                <Offensive>77</Offensive>
+                <Defensive>32</Defensive>
+                <Stamina>83</Stamina>
+                <Club>Al-Hilal Saudi FC</Club>
+                <DateOfBirth>27-02-1985</DateOfBirth>
+            </Player>
+            <Player id="5815">
+                <FirstName>Faiz</FirstName>
+                <LastName>Al Sobea</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>30</Stamina>
+                <Club>Al-Hilal Saudi FC</Club>
+                <DateOfBirth>10-09-1982</DateOfBirth>
+            </Player>
+            <Player id="6268">
+                <FirstName>Mohammed</FirstName>
+                <LastName>Al Qarni</LastName>
+                <Position>CDM</Position>
+                <Pace>66</Pace>
+                <Shooting>53</Shooting>
+                <Passing>55</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>77</Stamina>
+                <Club>Al-Hilal Saudi FC</Club>
+                <DateOfBirth>24-11-1989</DateOfBirth>
+            </Player>
+            <Player id="6474">
+                <FirstName>Abdullah</FirstName>
+                <LastName>Al Zori</LastName>
+                <Position>LB</Position>
+                <Pace>68</Pace>
+                <Shooting>41</Shooting>
+                <Passing>51</Passing>
+                <Offensive>46</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>80</Stamina>
+                <Club>Al-Hilal Saudi FC</Club>
+                <DateOfBirth>13-08-1987</DateOfBirth>
+            </Player>
+            <Player id="6759">
+                <FirstName>Abdulatif</FirstName>
+                <LastName>Al Ghannam</LastName>
+                <Position>CDM</Position>
+                <Pace>35</Pace>
+                <Shooting>49</Shooting>
+                <Passing>54</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Al-Hilal Saudi FC</Club>
+                <DateOfBirth>16-07-1985</DateOfBirth>
+            </Player>
+            <Player id="7163">
+                <FirstName>Sultan</FirstName>
+                <LastName>Al Deayea</LastName>
+                <Position>CB</Position>
+                <Pace>75</Pace>
+                <Shooting>43</Shooting>
+                <Passing>52</Passing>
+                <Offensive>47</Offensive>
+                <Defensive>61</Defensive>
+                <Stamina>77</Stamina>
+                <Club>Al-Hilal Saudi FC</Club>
+                <DateOfBirth>07-03-1993</DateOfBirth>
+            </Player>
+            <Player id="8033">
+                <FirstName>Nasser</FirstName>
+                <LastName>Al Shamrani</LastName>
+                <Position>ST</Position>
+                <Pace>86</Pace>
+                <Shooting>76</Shooting>
+                <Passing>60</Passing>
+                <Offensive>68</Offensive>
+                <Defensive>32</Defensive>
+                <Stamina>85</Stamina>
+                <Club>Al-Hilal Saudi FC</Club>
+                <DateOfBirth>23-11-1983</DateOfBirth>
+            </Player>
+            <Player id="8697">
+                <FirstName>Yahya</FirstName>
+                <LastName>Al Muslem</LastName>
+                <Position>CB</Position>
+                <Pace>59</Pace>
+                <Shooting>28</Shooting>
+                <Passing>27</Passing>
+                <Offensive>27</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>73</Stamina>
+                <Club>Al-Hilal Saudi FC</Club>
+                <DateOfBirth>08-08-1986</DateOfBirth>
+            </Player>
+            <Player id="11663">
+                <FirstName>Mohammed</FirstName>
+                <LastName>Al Buraik</LastName>
+                <Position>RB</Position>
+                <Pace>63</Pace>
+                <Shooting>26</Shooting>
+                <Passing>28</Passing>
+                <Offensive>27</Offensive>
+                <Defensive>52</Defensive>
+                <Stamina>56</Stamina>
+                <Club>Al-Hilal Saudi FC</Club>
+                <DateOfBirth>15-09-1992</DateOfBirth>
+            </Player>
+            <Player id="12250">
+                <FirstName>Mohammed</FirstName>
+                <LastName>Al Shalhoub</LastName>
+                <Position>CAM</Position>
+                <Pace>68</Pace>
+                <Shooting>68</Shooting>
+                <Passing>74</Passing>
+                <Offensive>71</Offensive>
+                <Defensive>33</Defensive>
+                <Stamina>66</Stamina>
+                <Club>Al-Hilal Saudi FC</Club>
+                <DateOfBirth>08-12-1980</DateOfBirth>
+            </Player>
+            <Player id="12608">
+                <FirstName>Mihai</FirstName>
+                <LastName>Pintilii</LastName>
+                <Position>CDM</Position>
+                <Pace>69</Pace>
+                <Shooting>52</Shooting>
+                <Passing>67</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>73</Defensive>
+                <Stamina>83</Stamina>
+                <Club>Al-Hilal Saudi FC</Club>
+                <DateOfBirth>09-11-1984</DateOfBirth>
+            </Player>
+            <Player id="12688">
+                <FirstName>Tae-Hwi</FirstName>
+                <LastName>Kwak</LastName>
+                <Position>CB</Position>
+                <Pace>62</Pace>
+                <Shooting>55</Shooting>
+                <Passing>55</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>72</Defensive>
+                <Stamina>81</Stamina>
+                <Club>Al-Hilal Saudi FC</Club>
+                <DateOfBirth>08-07-1981</DateOfBirth>
+            </Player>
+            <Player id="12691">
+                <FirstName>Yasser</FirstName>
+                <LastName>Al Qahtani</LastName>
+                <Position>ST</Position>
+                <Pace>70</Pace>
+                <Shooting>70</Shooting>
+                <Passing>71</Passing>
+                <Offensive>70</Offensive>
+                <Defensive>31</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Al-Hilal Saudi FC</Club>
+                <DateOfBirth>10-10-1982</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Al Nassr FC">
+            <Player id="486">
+                <FirstName>Marcos Gabriel</FirstName>
+                <LastName>do Nascimento</LastName>
+                <Position>CAM</Position>
+                <Pace>87</Pace>
+                <Shooting>64</Shooting>
+                <Passing>65</Passing>
+                <Offensive>64</Offensive>
+                <Defensive>32</Defensive>
+                <Stamina>74</Stamina>
+                <Club>Al Nassr FC</Club>
+                <DateOfBirth>21-07-1990</DateOfBirth>
+            </Player>
+            <Player id="695">
+                <FirstName>Ibrahim</FirstName>
+                <LastName>Ghaleb</LastName>
+                <Position>CM</Position>
+                <Pace>76</Pace>
+                <Shooting>63</Shooting>
+                <Passing>68</Passing>
+                <Offensive>65</Offensive>
+                <Defensive>67</Defensive>
+                <Stamina>92</Stamina>
+                <Club>Al Nassr FC</Club>
+                <DateOfBirth>28-09-1990</DateOfBirth>
+            </Player>
+            <Player id="696">
+                <FirstName>Yehya</FirstName>
+                <LastName>Al Shehri</LastName>
+                <Position>LM</Position>
+                <Pace>85</Pace>
+                <Shooting>66</Shooting>
+                <Passing>67</Passing>
+                <Offensive>66</Offensive>
+                <Defensive>36</Defensive>
+                <Stamina>79</Stamina>
+                <Club>Al Nassr FC</Club>
+                <DateOfBirth>26-06-1990</DateOfBirth>
+            </Player>
+            <Player id="1424">
+                <FirstName>Mohammed</FirstName>
+                <LastName>Al Sahlawi</LastName>
+                <Position>ST</Position>
+                <Pace>75</Pace>
+                <Shooting>69</Shooting>
+                <Passing>51</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>75</Stamina>
+                <Club>Al Nassr FC</Club>
+                <DateOfBirth>10-01-1987</DateOfBirth>
+            </Player>
+            <Player id="3538">
+                <FirstName>Abdulrahim</FirstName>
+                <LastName>Jizawi</LastName>
+                <Position>LM</Position>
+                <Pace>93</Pace>
+                <Shooting>60</Shooting>
+                <Passing>55</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>26</Defensive>
+                <Stamina>73</Stamina>
+                <Club>Al Nassr FC</Club>
+                <DateOfBirth>14-05-1989</DateOfBirth>
+            </Player>
+            <Player id="3658">
+                <FirstName>Ahmed</FirstName>
+                <LastName>Al Fraidi</LastName>
+                <Position>CAM</Position>
+                <Pace>63</Pace>
+                <Shooting>62</Shooting>
+                <Passing>67</Passing>
+                <Offensive>64</Offensive>
+                <Defensive>50</Defensive>
+                <Stamina>57</Stamina>
+                <Club>Al Nassr FC</Club>
+                <DateOfBirth>29-01-1988</DateOfBirth>
+            </Player>
+            <Player id="4252">
+                <FirstName>Hassan</FirstName>
+                <LastName>Al Raheb</LastName>
+                <Position>ST</Position>
+                <Pace>80</Pace>
+                <Shooting>64</Shooting>
+                <Passing>38</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>31</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Al Nassr FC</Club>
+                <DateOfBirth>21-08-1983</DateOfBirth>
+            </Player>
+            <Player id="4336">
+                <FirstName>Khaled</FirstName>
+                <LastName>Al Zylaeei</LastName>
+                <Position>RM</Position>
+                <Pace>83</Pace>
+                <Shooting>49</Shooting>
+                <Passing>57</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>39</Defensive>
+                <Stamina>58</Stamina>
+                <Club>Al Nassr FC</Club>
+                <DateOfBirth>16-03-1987</DateOfBirth>
+            </Player>
+            <Player id="4608">
+                <FirstName>Kamel</FirstName>
+                <LastName>Al Mor</LastName>
+                <Position>RB</Position>
+                <Pace>87</Pace>
+                <Shooting>28</Shooting>
+                <Passing>41</Passing>
+                <Offensive>34</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>85</Stamina>
+                <Club>Al Nassr FC</Club>
+                <DateOfBirth>31-03-1983</DateOfBirth>
+            </Player>
+            <Player id="4878">
+                <FirstName>Khalid</FirstName>
+                <LastName>Al Ghamdi</LastName>
+                <Position>RB</Position>
+                <Pace>92</Pace>
+                <Shooting>28</Shooting>
+                <Passing>56</Passing>
+                <Offensive>42</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>66</Stamina>
+                <Club>Al Nassr FC</Club>
+                <DateOfBirth>28-03-1988</DateOfBirth>
+            </Player>
+            <Player id="4881">
+                <FirstName>Rabeaa</FirstName>
+                <LastName>Sefiani</LastName>
+                <Position>ST</Position>
+                <Pace>75</Pace>
+                <Shooting>63</Shooting>
+                <Passing>59</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>27</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Al Nassr FC</Club>
+                <DateOfBirth>25-01-1987</DateOfBirth>
+            </Player>
+            <Player id="4888">
+                <FirstName>Abdulaziz</FirstName>
+                <LastName>Al Jebreen</LastName>
+                <Position>CM</Position>
+                <Pace>64</Pace>
+                <Shooting>64</Shooting>
+                <Passing>68</Passing>
+                <Offensive>66</Offensive>
+                <Defensive>54</Defensive>
+                <Stamina>62</Stamina>
+                <Club>Al Nassr FC</Club>
+                <DateOfBirth>19-04-1990</DateOfBirth>
+            </Player>
+            <Player id="5520">
+                <FirstName>Hussein</FirstName>
+                <LastName>Sulaimani</LastName>
+                <Position>LB</Position>
+                <Pace>61</Pace>
+                <Shooting>36</Shooting>
+                <Passing>57</Passing>
+                <Offensive>46</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>62</Stamina>
+                <Club>Al Nassr FC</Club>
+                <DateOfBirth>21-01-1977</DateOfBirth>
+            </Player>
+            <Player id="5998">
+                <FirstName>Shaye</FirstName>
+                <LastName>Sharahili</LastName>
+                <Position>CDM</Position>
+                <Pace>69</Pace>
+                <Shooting>43</Shooting>
+                <Passing>52</Passing>
+                <Offensive>47</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>78</Stamina>
+                <Club>Al Nassr FC</Club>
+                <DateOfBirth>30-05-1990</DateOfBirth>
+            </Player>
+            <Player id="6270">
+                <FirstName>Awdh</FirstName>
+                <LastName>Khamis</LastName>
+                <Position>RM</Position>
+                <Pace>80</Pace>
+                <Shooting>47</Shooting>
+                <Passing>59</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>51</Defensive>
+                <Stamina>61</Stamina>
+                <Club>Al Nassr FC</Club>
+                <DateOfBirth>15-07-1988</DateOfBirth>
+            </Player>
+            <Player id="6662">
+                <FirstName>Saud</FirstName>
+                <LastName>Hmood</LastName>
+                <Position>ST</Position>
+                <Pace>72</Pace>
+                <Shooting>63</Shooting>
+                <Passing>50</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>36</Defensive>
+                <Stamina>79</Stamina>
+                <Club>Al Nassr FC</Club>
+                <DateOfBirth>17-08-1989</DateOfBirth>
+            </Player>
+            <Player id="7314">
+                <FirstName>Mohamed Eid</FirstName>
+                <LastName>Al Bishi</LastName>
+                <Position>CB</Position>
+                <Pace>53</Pace>
+                <Shooting>26</Shooting>
+                <Passing>30</Passing>
+                <Offensive>28</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>66</Stamina>
+                <Club>Al Nassr FC</Club>
+                <DateOfBirth>03-05-1987</DateOfBirth>
+            </Player>
+            <Player id="8293">
+                <FirstName>Hernane</FirstName>
+                <LastName>Vidal de Souza</LastName>
+                <Position>ST</Position>
+                <Pace>71</Pace>
+                <Shooting>74</Shooting>
+                <Passing>58</Passing>
+                <Offensive>66</Offensive>
+                <Defensive>31</Defensive>
+                <Stamina>79</Stamina>
+                <Club>Al Nassr FC</Club>
+                <DateOfBirth>08-04-1986</DateOfBirth>
+            </Player>
+            <Player id="9757">
+                <FirstName>Ali</FirstName>
+                <LastName>Al Khaibari</LastName>
+                <Position>CB</Position>
+                <Pace>64</Pace>
+                <Shooting>26</Shooting>
+                <Passing>33</Passing>
+                <Offensive>29</Offensive>
+                <Defensive>57</Defensive>
+                <Stamina>64</Stamina>
+                <Club>Al Nassr FC</Club>
+                <DateOfBirth>25-02-1990</DateOfBirth>
+            </Player>
+            <Player id="10247">
+                <FirstName>Ibrahim</FirstName>
+                <LastName>Al Zubaidi</LastName>
+                <Position>LB</Position>
+                <Pace>74</Pace>
+                <Shooting>32</Shooting>
+                <Passing>42</Passing>
+                <Offensive>37</Offensive>
+                <Defensive>56</Defensive>
+                <Stamina>60</Stamina>
+                <Club>Al Nassr FC</Club>
+                <DateOfBirth>10-04-1989</DateOfBirth>
+            </Player>
+            <Player id="10354">
+                <FirstName>Jumaan</FirstName>
+                <LastName>Al Dosari</LastName>
+                <Position>CB</Position>
+                <Pace>50</Pace>
+                <Shooting>26</Shooting>
+                <Passing>34</Passing>
+                <Offensive>30</Offensive>
+                <Defensive>54</Defensive>
+                <Stamina>58</Stamina>
+                <Club>Al Nassr FC</Club>
+                <DateOfBirth>19-06-1987</DateOfBirth>
+            </Player>
+            <Player id="10486">
+                <FirstName>Abdullah</FirstName>
+                <LastName>Madu</LastName>
+                <Position>CB</Position>
+                <Pace>58</Pace>
+                <Shooting>28</Shooting>
+                <Passing>33</Passing>
+                <Offensive>30</Offensive>
+                <Defensive>57</Defensive>
+                <Stamina>60</Stamina>
+                <Club>Al Nassr FC</Club>
+                <DateOfBirth>15-07-1993</DateOfBirth>
+            </Player>
+            <Player id="10894">
+                <FirstName>Musab</FirstName>
+                <LastName>Al Otaibi</LastName>
+                <Position>LM</Position>
+                <Pace>74</Pace>
+                <Shooting>43</Shooting>
+                <Passing>50</Passing>
+                <Offensive>46</Offensive>
+                <Defensive>32</Defensive>
+                <Stamina>45</Stamina>
+                <Club>Al Nassr FC</Club>
+                <DateOfBirth>03-05-1992</DateOfBirth>
+            </Player>
+            <Player id="11197">
+                <FirstName>Abdulaziz</FirstName>
+                <LastName>Al Otaibi</LastName>
+                <Position>LM</Position>
+                <Pace>71</Pace>
+                <Shooting>36</Shooting>
+                <Passing>50</Passing>
+                <Offensive>43</Offensive>
+                <Defensive>40</Defensive>
+                <Stamina>76</Stamina>
+                <Club>Al Nassr FC</Club>
+                <DateOfBirth>30-07-1992</DateOfBirth>
+            </Player>
+            <Player id="11725">
+                <FirstName>Adrian</FirstName>
+                <LastName>Mierzejewski</LastName>
+                <Position>CAM</Position>
+                <Pace>79</Pace>
+                <Shooting>70</Shooting>
+                <Passing>76</Passing>
+                <Offensive>73</Offensive>
+                <Defensive>35</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Al Nassr FC</Club>
+                <DateOfBirth>06-11-1986</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Al-Ahli Saudi FC">
+            <Player id="656">
+                <FirstName>Moestafa</FirstName>
+                <LastName>El Kabir</LastName>
+                <Position>ST</Position>
+                <Pace>86</Pace>
+                <Shooting>72</Shooting>
+                <Passing>62</Passing>
+                <Offensive>67</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>78</Stamina>
+                <Club>Al-Ahli Saudi FC</Club>
+                <DateOfBirth>05-10-1988</DateOfBirth>
+            </Player>
+            <Player id="2622">
+                <FirstName>Mansour</FirstName>
+                <LastName>Al Harbi</LastName>
+                <Position>LB</Position>
+                <Pace>84</Pace>
+                <Shooting>42</Shooting>
+                <Passing>61</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>84</Stamina>
+                <Club>Al-Ahli Saudi FC</Club>
+                <DateOfBirth>19-10-1987</DateOfBirth>
+            </Player>
+            <Player id="2880">
+                <FirstName>Hussain</FirstName>
+                <LastName>Al Mogahwi</LastName>
+                <Position>LM</Position>
+                <Pace>76</Pace>
+                <Shooting>54</Shooting>
+                <Passing>67</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>46</Defensive>
+                <Stamina>68</Stamina>
+                <Club>Al-Ahli Saudi FC</Club>
+                <DateOfBirth>24-03-1988</DateOfBirth>
+            </Player>
+            <Player id="3460">
+                <FirstName>Kamil</FirstName>
+                <LastName>Al Mousa</LastName>
+                <Position>CB</Position>
+                <Pace>74</Pace>
+                <Shooting>41</Shooting>
+                <Passing>53</Passing>
+                <Offensive>47</Offensive>
+                <Defensive>65</Defensive>
+                <Stamina>82</Stamina>
+                <Club>Al-Ahli Saudi FC</Club>
+                <DateOfBirth>29-08-1982</DateOfBirth>
+            </Player>
+            <Player id="4619">
+                <FirstName>Mustafa</FirstName>
+                <LastName>Basas</LastName>
+                <Position>RM</Position>
+                <Pace>81</Pace>
+                <Shooting>58</Shooting>
+                <Passing>59</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>47</Defensive>
+                <Stamina>78</Stamina>
+                <Club>Al-Ahli Saudi FC</Club>
+                <DateOfBirth>02-06-1993</DateOfBirth>
+            </Player>
+            <Player id="5191">
+                <FirstName>Motaz</FirstName>
+                <LastName>Al Musa</LastName>
+                <Position>CDM</Position>
+                <Pace>63</Pace>
+                <Shooting>40</Shooting>
+                <Passing>52</Passing>
+                <Offensive>46</Offensive>
+                <Defensive>61</Defensive>
+                <Stamina>87</Stamina>
+                <Club>Al-Ahli Saudi FC</Club>
+                <DateOfBirth>08-06-1987</DateOfBirth>
+            </Player>
+            <Player id="5192">
+                <FirstName>Abdullah</FirstName>
+                <LastName>Mayof</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>35</Stamina>
+                <Club>Al-Ahli Saudi FC</Club>
+                <DateOfBirth>23-01-1987</DateOfBirth>
+            </Player>
+            <Player id="5822">
+                <FirstName>Mohsen</FirstName>
+                <LastName>Al Eisa</LastName>
+                <Position>RM</Position>
+                <Pace>77</Pace>
+                <Shooting>57</Shooting>
+                <Passing>62</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>47</Defensive>
+                <Stamina>67</Stamina>
+                <Club>Al-Ahli Saudi FC</Club>
+                <DateOfBirth>14-10-1986</DateOfBirth>
+            </Player>
+            <Player id="6038">
+                <FirstName>Omar</FirstName>
+                <LastName>Al Soma</LastName>
+                <Position>ST</Position>
+                <Pace>53</Pace>
+                <Shooting>66</Shooting>
+                <Passing>39</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>59</Stamina>
+                <Club>Al-Ahli Saudi FC</Club>
+                <DateOfBirth>28-03-1989</DateOfBirth>
+            </Player>
+            <Player id="6278">
+                <FirstName>Yasir</FirstName>
+                <LastName>Al Fahmi</LastName>
+                <Position>ST</Position>
+                <Pace>85</Pace>
+                <Shooting>66</Shooting>
+                <Passing>53</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>26</Defensive>
+                <Stamina>61</Stamina>
+                <Club>Al-Ahli Saudi FC</Club>
+                <DateOfBirth>20-12-1991</DateOfBirth>
+            </Player>
+            <Player id="7344">
+                <FirstName>Aqel</FirstName>
+                <LastName>Al Sahbi</LastName>
+                <Position>CB</Position>
+                <Pace>75</Pace>
+                <Shooting>29</Shooting>
+                <Passing>36</Passing>
+                <Offensive>32</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>76</Stamina>
+                <Club>Al-Ahli Saudi FC</Club>
+                <DateOfBirth>15-03-1987</DateOfBirth>
+            </Player>
+            <Player id="8706">
+                <FirstName>Salman</FirstName>
+                <LastName>Al Moasher</LastName>
+                <Position>LM</Position>
+                <Pace>90</Pace>
+                <Shooting>60</Shooting>
+                <Passing>55</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>57</Stamina>
+                <Club>Al-Ahli Saudi FC</Club>
+                <DateOfBirth>10-05-1988</DateOfBirth>
+            </Player>
+            <Player id="8966">
+                <FirstName>Waleed</FirstName>
+                <LastName>Bakshween</LastName>
+                <Position>CDM</Position>
+                <Pace>72</Pace>
+                <Shooting>40</Shooting>
+                <Passing>46</Passing>
+                <Offensive>43</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>93</Stamina>
+                <Club>Al-Ahli Saudi FC</Club>
+                <DateOfBirth>12-11-1989</DateOfBirth>
+            </Player>
+            <Player id="9231">
+                <FirstName>Mohannad</FirstName>
+                <LastName>Aseri</LastName>
+                <Position>ST</Position>
+                <Pace>72</Pace>
+                <Shooting>55</Shooting>
+                <Passing>41</Passing>
+                <Offensive>48</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>63</Stamina>
+                <Club>Al-Ahli Saudi FC</Club>
+                <DateOfBirth>14-10-1986</DateOfBirth>
+            </Player>
+            <Player id="10049">
+                <FirstName>Motaz</FirstName>
+                <LastName>Hawsawi</LastName>
+                <Position>CB</Position>
+                <Pace>67</Pace>
+                <Shooting>32</Shooting>
+                <Passing>36</Passing>
+                <Offensive>34</Offensive>
+                <Defensive>59</Defensive>
+                <Stamina>56</Stamina>
+                <Club>Al-Ahli Saudi FC</Club>
+                <DateOfBirth>17-02-1992</DateOfBirth>
+            </Player>
+            <Player id="10355">
+                <FirstName>Sultan</FirstName>
+                <LastName>Al Sawadi</LastName>
+                <Position>RM</Position>
+                <Pace>88</Pace>
+                <Shooting>49</Shooting>
+                <Passing>47</Passing>
+                <Offensive>48</Offensive>
+                <Defensive>24</Defensive>
+                <Stamina>54</Stamina>
+                <Club>Al-Ahli Saudi FC</Club>
+                <DateOfBirth>14-12-1992</DateOfBirth>
+            </Player>
+            <Player id="10840">
+                <FirstName>Mohammed</FirstName>
+                <LastName>Al Fatil</LastName>
+                <Position>CB</Position>
+                <Pace>56</Pace>
+                <Shooting>28</Shooting>
+                <Passing>28</Passing>
+                <Offensive>28</Offensive>
+                <Defensive>54</Defensive>
+                <Stamina>61</Stamina>
+                <Club>Al-Ahli Saudi FC</Club>
+                <DateOfBirth>04-01-1992</DateOfBirth>
+            </Player>
+            <Player id="11271">
+                <FirstName>Mohammed</FirstName>
+                <LastName>Amman</LastName>
+                <Position>CB</Position>
+                <Pace>58</Pace>
+                <Shooting>25</Shooting>
+                <Passing>34</Passing>
+                <Offensive>29</Offensive>
+                <Defensive>52</Defensive>
+                <Stamina>64</Stamina>
+                <Club>Al-Ahli Saudi FC</Club>
+                <DateOfBirth>08-09-1988</DateOfBirth>
+            </Player>
+            <Player id="11589">
+                <FirstName>Raid</FirstName>
+                <LastName>Al Ghamdi</LastName>
+                <Position>CM</Position>
+                <Pace>62</Pace>
+                <Shooting>39</Shooting>
+                <Passing>50</Passing>
+                <Offensive>44</Offensive>
+                <Defensive>41</Defensive>
+                <Stamina>73</Stamina>
+                <Club>Al-Ahli Saudi FC</Club>
+                <DateOfBirth>01-01-1993</DateOfBirth>
+            </Player>
+            <Player id="11604">
+                <FirstName>Zakaria</FirstName>
+                <LastName>Sami</LastName>
+                <Position>CM</Position>
+                <Pace>66</Pace>
+                <Shooting>40</Shooting>
+                <Passing>48</Passing>
+                <Offensive>44</Offensive>
+                <Defensive>41</Defensive>
+                <Stamina>64</Stamina>
+                <Club>Al-Ahli Saudi FC</Club>
+                <DateOfBirth>01-07-1992</DateOfBirth>
+            </Player>
+            <Player id="11629">
+                <FirstName>Rayan</FirstName>
+                <LastName>Al Mousa</LastName>
+                <Position>CM</Position>
+                <Pace>66</Pace>
+                <Shooting>42</Shooting>
+                <Passing>53</Passing>
+                <Offensive>47</Offensive>
+                <Defensive>35</Defensive>
+                <Stamina>45</Stamina>
+                <Club>Al-Ahli Saudi FC</Club>
+                <DateOfBirth>01-01-1995</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Ittihad FC">
+            <Player id="958">
+                <FirstName>Mohammed</FirstName>
+                <LastName>Noor</LastName>
+                <Position>CAM</Position>
+                <Pace>38</Pace>
+                <Shooting>66</Shooting>
+                <Passing>74</Passing>
+                <Offensive>70</Offensive>
+                <Defensive>39</Defensive>
+                <Stamina>33</Stamina>
+                <Club>Ittihad FC</Club>
+                <DateOfBirth>26-02-1978</DateOfBirth>
+            </Player>
+            <Player id="1189">
+                <FirstName>Samba</FirstName>
+                <LastName>Diakité</LastName>
+                <Position>CM</Position>
+                <Pace>79</Pace>
+                <Shooting>56</Shooting>
+                <Passing>66</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>69</Defensive>
+                <Stamina>91</Stamina>
+                <Club>Ittihad FC</Club>
+                <DateOfBirth>24-01-1989</DateOfBirth>
+            </Player>
+            <Player id="2508">
+                <FirstName>Fawaz</FirstName>
+                <LastName>Al Qarni</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>39</Stamina>
+                <Club>Ittihad FC</Club>
+                <DateOfBirth>02-04-1992</DateOfBirth>
+            </Player>
+            <Player id="3730">
+                <FirstName>Mohamed</FirstName>
+                <LastName>Abusabaan</LastName>
+                <Position>CDM</Position>
+                <Pace>68</Pace>
+                <Shooting>52</Shooting>
+                <Passing>62</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>79</Stamina>
+                <Club>Ittihad FC</Club>
+                <DateOfBirth>20-01-1990</DateOfBirth>
+            </Player>
+            <Player id="4083">
+                <FirstName>Ahmad</FirstName>
+                <LastName>Assiri</LastName>
+                <Position>CB</Position>
+                <Pace>66</Pace>
+                <Shooting>30</Shooting>
+                <Passing>42</Passing>
+                <Offensive>36</Offensive>
+                <Defensive>70</Defensive>
+                <Stamina>67</Stamina>
+                <Club>Ittihad FC</Club>
+                <DateOfBirth>14-11-1991</DateOfBirth>
+            </Player>
+            <Player id="4985">
+                <FirstName>Hamad</FirstName>
+                <LastName>Al Montashari</LastName>
+                <Position>CB</Position>
+                <Pace>69</Pace>
+                <Shooting>37</Shooting>
+                <Passing>46</Passing>
+                <Offensive>41</Offensive>
+                <Defensive>65</Defensive>
+                <Stamina>65</Stamina>
+                <Club>Ittihad FC</Club>
+                <DateOfBirth>22-06-1982</DateOfBirth>
+            </Player>
+            <Player id="5308">
+                <FirstName>Mohammed</FirstName>
+                <LastName>Qasim</LastName>
+                <Position>LB</Position>
+                <Pace>73</Pace>
+                <Shooting>63</Shooting>
+                <Passing>52</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>74</Stamina>
+                <Club>Ittihad FC</Club>
+                <DateOfBirth>10-08-1995</DateOfBirth>
+            </Player>
+            <Player id="6020">
+                <FirstName>Abdulrahman</FirstName>
+                <LastName>Al Ghamdi</LastName>
+                <Position>ST</Position>
+                <Pace>67</Pace>
+                <Shooting>64</Shooting>
+                <Passing>59</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>31</Defensive>
+                <Stamina>64</Stamina>
+                <Club>Ittihad FC</Club>
+                <DateOfBirth>01-11-1994</DateOfBirth>
+            </Player>
+            <Player id="6301">
+                <FirstName>Abdulfattah</FirstName>
+                <LastName>Assiri</LastName>
+                <Position>RM</Position>
+                <Pace>80</Pace>
+                <Shooting>57</Shooting>
+                <Passing>58</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>27</Defensive>
+                <Stamina>67</Stamina>
+                <Club>Ittihad FC</Club>
+                <DateOfBirth>26-02-1994</DateOfBirth>
+            </Player>
+            <Player id="6418">
+                <FirstName>Didier</FirstName>
+                <LastName>Ya Konan</LastName>
+                <Position>ST</Position>
+                <Pace>84</Pace>
+                <Shooting>78</Shooting>
+                <Passing>69</Passing>
+                <Offensive>73</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>76</Stamina>
+                <Club>Ittihad FC</Club>
+                <DateOfBirth>22-05-1984</DateOfBirth>
+            </Player>
+            <Player id="7164">
+                <FirstName>Jamal</FirstName>
+                <LastName>Bajandouh</LastName>
+                <Position>CDM</Position>
+                <Pace>61</Pace>
+                <Shooting>53</Shooting>
+                <Passing>65</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>55</Defensive>
+                <Stamina>64</Stamina>
+                <Club>Ittihad FC</Club>
+                <DateOfBirth>12-08-1992</DateOfBirth>
+            </Player>
+            <Player id="8244">
+                <FirstName>Basem</FirstName>
+                <LastName>Al Muntasheri</LastName>
+                <Position>CB</Position>
+                <Pace>57</Pace>
+                <Shooting>40</Shooting>
+                <Passing>42</Passing>
+                <Offensive>41</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>67</Stamina>
+                <Club>Ittihad FC</Club>
+                <DateOfBirth>18-09-1990</DateOfBirth>
+            </Player>
+            <Player id="8489">
+                <FirstName>Maan</FirstName>
+                <LastName>Khudari</LastName>
+                <Position>CDM</Position>
+                <Pace>63</Pace>
+                <Shooting>51</Shooting>
+                <Passing>64</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>47</Defensive>
+                <Stamina>63</Stamina>
+                <Club>Ittihad FC</Club>
+                <DateOfBirth>13-12-1991</DateOfBirth>
+            </Player>
+            <Player id="9061">
+                <FirstName>Abdulaziz</FirstName>
+                <LastName>Takrouni</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>36</Stamina>
+                <Club>Ittihad FC</Club>
+                <DateOfBirth>01-01-1991</DateOfBirth>
+            </Player>
+            <Player id="9302">
+                <FirstName>Mabrouk</FirstName>
+                <LastName>Zaid</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>32</Stamina>
+                <Club>Ittihad FC</Club>
+                <DateOfBirth>11-02-1979</DateOfBirth>
+            </Player>
+            <Player id="9459">
+                <FirstName>Hani</FirstName>
+                <LastName>Al Nahed</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>35</Stamina>
+                <Club>Ittihad FC</Club>
+                <DateOfBirth>03-08-1987</DateOfBirth>
+            </Player>
+            <Player id="9972">
+                <FirstName>Saleh</FirstName>
+                <LastName>Alqumayzi</LastName>
+                <Position>RB</Position>
+                <Pace>80</Pace>
+                <Shooting>36</Shooting>
+                <Passing>47</Passing>
+                <Offensive>41</Offensive>
+                <Defensive>52</Defensive>
+                <Stamina>81</Stamina>
+                <Club>Ittihad FC</Club>
+                <DateOfBirth>30-10-1991</DateOfBirth>
+            </Player>
+            <Player id="10236">
+                <FirstName>Ayman</FirstName>
+                <LastName>Fadel</LastName>
+                <Position>CM</Position>
+                <Pace>60</Pace>
+                <Shooting>38</Shooting>
+                <Passing>63</Passing>
+                <Offensive>50</Offensive>
+                <Defensive>32</Defensive>
+                <Stamina>57</Stamina>
+                <Club>Ittihad FC</Club>
+                <DateOfBirth>25-05-1992</DateOfBirth>
+            </Player>
+            <Player id="10253">
+                <FirstName>Mohammed</FirstName>
+                <LastName>Al Amri</LastName>
+                <Position>LB</Position>
+                <Pace>70</Pace>
+                <Shooting>48</Shooting>
+                <Passing>46</Passing>
+                <Offensive>47</Offensive>
+                <Defensive>52</Defensive>
+                <Stamina>67</Stamina>
+                <Club>Ittihad FC</Club>
+                <DateOfBirth>26-11-1991</DateOfBirth>
+            </Player>
+            <Player id="10570">
+                <FirstName>Mohammad</FirstName>
+                <LastName>Al Dmeiri</LastName>
+                <Position>LB</Position>
+                <Pace>50</Pace>
+                <Shooting>32</Shooting>
+                <Passing>36</Passing>
+                <Offensive>34</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>56</Stamina>
+                <Club>Ittihad FC</Club>
+                <DateOfBirth>30-08-1987</DateOfBirth>
+            </Player>
+            <Player id="11193">
+                <FirstName>Yahya</FirstName>
+                <LastName>Dagriri</LastName>
+                <Position>ST</Position>
+                <Pace>46</Pace>
+                <Shooting>51</Shooting>
+                <Passing>43</Passing>
+                <Offensive>47</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>56</Stamina>
+                <Club>Ittihad FC</Club>
+                <DateOfBirth>13-08-1991</DateOfBirth>
+            </Player>
+            <Player id="11455">
+                <FirstName>Turki</FirstName>
+                <LastName>Al Khodair</LastName>
+                <Position>CM</Position>
+                <Pace>62</Pace>
+                <Shooting>49</Shooting>
+                <Passing>55</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>41</Defensive>
+                <Stamina>46</Stamina>
+                <Club>Ittihad FC</Club>
+                <DateOfBirth>23-08-1987</DateOfBirth>
+            </Player>
+            <Player id="11509">
+                <FirstName>Ammar</FirstName>
+                <LastName>Al Dohim</LastName>
+                <Position>CB</Position>
+                <Pace>62</Pace>
+                <Shooting>26</Shooting>
+                <Passing>31</Passing>
+                <Offensive>28</Offensive>
+                <Defensive>50</Defensive>
+                <Stamina>56</Stamina>
+                <Club>Ittihad FC</Club>
+                <DateOfBirth>01-09-1993</DateOfBirth>
+            </Player>
+            <Player id="11748">
+                <FirstName>Marco Antônio</FirstName>
+                <LastName>de Mattos Filho</LastName>
+                <Position>LW</Position>
+                <Pace>75</Pace>
+                <Shooting>72</Shooting>
+                <Passing>74</Passing>
+                <Offensive>73</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>82</Stamina>
+                <Club>Ittihad FC</Club>
+                <DateOfBirth>03-07-1986</DateOfBirth>
+            </Player>
+            <Player id="12770">
+                <FirstName>Mokhtar</FirstName>
+                <LastName>Fallatah</LastName>
+                <Position>ST</Position>
+                <Pace>79</Pace>
+                <Shooting>71</Shooting>
+                <Passing>54</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>80</Stamina>
+                <Club>Ittihad FC</Club>
+                <DateOfBirth>15-10-1987</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Al-Fateh FC">
+            <Player id="1129">
+                <FirstName>Élton José</FirstName>
+                <LastName>Xavier Gomes</LastName>
+                <Position>CAM</Position>
+                <Pace>89</Pace>
+                <Shooting>66</Shooting>
+                <Passing>67</Passing>
+                <Offensive>66</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>76</Stamina>
+                <Club>Al-Fateh FC</Club>
+                <DateOfBirth>04-07-1986</DateOfBirth>
+            </Player>
+            <Player id="1803">
+                <FirstName>Hamdan</FirstName>
+                <LastName>Al Hamdan</LastName>
+                <Position>RM</Position>
+                <Pace>83</Pace>
+                <Shooting>63</Shooting>
+                <Passing>64</Passing>
+                <Offensive>63</Offensive>
+                <Defensive>42</Defensive>
+                <Stamina>76</Stamina>
+                <Club>Al-Fateh FC</Club>
+                <DateOfBirth>12-01-1984</DateOfBirth>
+            </Player>
+            <Player id="4305">
+                <FirstName>Abraham</FirstName>
+                <LastName>Kumedor</LastName>
+                <Position>CDM</Position>
+                <Pace>72</Pace>
+                <Shooting>54</Shooting>
+                <Passing>54</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>65</Defensive>
+                <Stamina>78</Stamina>
+                <Club>Al-Fateh FC</Club>
+                <DateOfBirth>25-02-1985</DateOfBirth>
+            </Player>
+            <Player id="4880">
+                <FirstName>Bader</FirstName>
+                <LastName>Al Nakhli</LastName>
+                <Position>CB</Position>
+                <Pace>77</Pace>
+                <Shooting>38</Shooting>
+                <Passing>48</Passing>
+                <Offensive>43</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>79</Stamina>
+                <Club>Al-Fateh FC</Club>
+                <DateOfBirth>20-05-1988</DateOfBirth>
+            </Player>
+            <Player id="5089">
+                <FirstName>Abdulrahman</FirstName>
+                <LastName>Al Qahtani</LastName>
+                <Position>LM</Position>
+                <Pace>78</Pace>
+                <Shooting>55</Shooting>
+                <Passing>56</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>40</Defensive>
+                <Stamina>78</Stamina>
+                <Club>Al-Fateh FC</Club>
+                <DateOfBirth>22-05-1983</DateOfBirth>
+            </Player>
+            <Player id="5185">
+                <FirstName>Tawfiq</FirstName>
+                <LastName>Buhumaid</LastName>
+                <Position>LM</Position>
+                <Pace>76</Pace>
+                <Shooting>55</Shooting>
+                <Passing>59</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>42</Defensive>
+                <Stamina>87</Stamina>
+                <Club>Al-Fateh FC</Club>
+                <DateOfBirth>13-05-1986</DateOfBirth>
+            </Player>
+            <Player id="6200">
+                <FirstName>Ahmed</FirstName>
+                <LastName>Al Mousa</LastName>
+                <Position>CAM</Position>
+                <Pace>72</Pace>
+                <Shooting>58</Shooting>
+                <Passing>60</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>45</Defensive>
+                <Stamina>73</Stamina>
+                <Club>Al-Fateh FC</Club>
+                <DateOfBirth>27-01-1981</DateOfBirth>
+            </Player>
+            <Player id="6285">
+                <FirstName>Mubarak</FirstName>
+                <LastName>Al Asmari</LastName>
+                <Position>CDM</Position>
+                <Pace>41</Pace>
+                <Shooting>52</Shooting>
+                <Passing>57</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>79</Stamina>
+                <Club>Al-Fateh FC</Club>
+                <DateOfBirth>25-06-1987</DateOfBirth>
+            </Player>
+            <Player id="7603">
+                <FirstName>Abdulaziz</FirstName>
+                <LastName>Abo Skraa</LastName>
+                <Position>RB</Position>
+                <Pace>68</Pace>
+                <Shooting>28</Shooting>
+                <Passing>43</Passing>
+                <Offensive>35</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Al-Fateh FC</Club>
+                <DateOfBirth>23-11-1981</DateOfBirth>
+            </Player>
+            <Player id="7919">
+                <FirstName>Abdullah</FirstName>
+                <LastName>Al Dosary</LastName>
+                <Position>CDM</Position>
+                <Pace>71</Pace>
+                <Shooting>46</Shooting>
+                <Passing>52</Passing>
+                <Offensive>49</Offensive>
+                <Defensive>56</Defensive>
+                <Stamina>76</Stamina>
+                <Club>Al-Fateh FC</Club>
+                <DateOfBirth>02-01-1983</DateOfBirth>
+            </Player>
+            <Player id="9388">
+                <FirstName>Mohammed</FirstName>
+                <LastName>Al Fuhaid</LastName>
+                <Position>CDM</Position>
+                <Pace>67</Pace>
+                <Shooting>38</Shooting>
+                <Passing>53</Passing>
+                <Offensive>45</Offensive>
+                <Defensive>56</Defensive>
+                <Stamina>90</Stamina>
+                <Club>Al-Fateh FC</Club>
+                <DateOfBirth>01-08-1990</DateOfBirth>
+            </Player>
+            <Player id="10474">
+                <FirstName>Ahmad</FirstName>
+                <LastName>Al Boabeed</LastName>
+                <Position>CAM</Position>
+                <Pace>58</Pace>
+                <Shooting>61</Shooting>
+                <Passing>55</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>33</Defensive>
+                <Stamina>30</Stamina>
+                <Club>Al-Fateh FC</Club>
+                <DateOfBirth>05-11-1984</DateOfBirth>
+            </Player>
+            <Player id="10763">
+                <FirstName>Faisal</FirstName>
+                <LastName>Al Jamaan</LastName>
+                <Position>ST</Position>
+                <Pace>55</Pace>
+                <Shooting>56</Shooting>
+                <Passing>46</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>60</Stamina>
+                <Club>Al-Fateh FC</Club>
+                <DateOfBirth>05-02-1986</DateOfBirth>
+            </Player>
+            <Player id="10882">
+                <FirstName>Ali</FirstName>
+                <LastName>Al Mazyadi</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>39</Stamina>
+                <Club>Al-Fateh FC</Club>
+                <DateOfBirth>24-09-1985</DateOfBirth>
+            </Player>
+            <Player id="11104">
+                <FirstName>Fahed</FirstName>
+                <LastName>Al Saud</LastName>
+                <Position>RM</Position>
+                <Pace>67</Pace>
+                <Shooting>35</Shooting>
+                <Passing>50</Passing>
+                <Offensive>42</Offensive>
+                <Defensive>40</Defensive>
+                <Stamina>62</Stamina>
+                <Club>Al-Fateh FC</Club>
+                <DateOfBirth>06-09-1988</DateOfBirth>
+            </Player>
+            <Player id="11275">
+                <FirstName>Sultan</FirstName>
+                <LastName>Al Shammri</LastName>
+                <Position>ST</Position>
+                <Pace>72</Pace>
+                <Shooting>51</Shooting>
+                <Passing>34</Passing>
+                <Offensive>42</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>50</Stamina>
+                <Club>Al-Fateh FC</Club>
+                <DateOfBirth>28-10-1991</DateOfBirth>
+            </Player>
+            <Player id="11545">
+                <FirstName>Faiz</FirstName>
+                <LastName>Al Aliany</LastName>
+                <Position>CM</Position>
+                <Pace>63</Pace>
+                <Shooting>32</Shooting>
+                <Passing>54</Passing>
+                <Offensive>43</Offensive>
+                <Defensive>41</Defensive>
+                <Stamina>67</Stamina>
+                <Club>Al-Fateh FC</Club>
+                <DateOfBirth>10-07-1987</DateOfBirth>
+            </Player>
+            <Player id="11574">
+                <FirstName>Mohammad</FirstName>
+                <LastName>Al Barih</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>30</Stamina>
+                <Club>Al-Fateh FC</Club>
+                <DateOfBirth>19-11-1993</DateOfBirth>
+            </Player>
+            <Player id="11602">
+                <FirstName>Mubarak</FirstName>
+                <LastName>Al Sultan</LastName>
+                <Position>CM</Position>
+                <Pace>68</Pace>
+                <Shooting>35</Shooting>
+                <Passing>49</Passing>
+                <Offensive>42</Offensive>
+                <Defensive>40</Defensive>
+                <Stamina>68</Stamina>
+                <Club>Al-Fateh FC</Club>
+                <DateOfBirth>31-07-1993</DateOfBirth>
+            </Player>
+            <Player id="11623">
+                <FirstName>Nouh</FirstName>
+                <LastName>Al Mousa</LastName>
+                <Position>CM</Position>
+                <Pace>69</Pace>
+                <Shooting>33</Shooting>
+                <Passing>50</Passing>
+                <Offensive>41</Offensive>
+                <Defensive>36</Defensive>
+                <Stamina>79</Stamina>
+                <Club>Al-Fateh FC</Club>
+                <DateOfBirth>01-01-1993</DateOfBirth>
+            </Player>
+            <Player id="11678">
+                <FirstName>Abdullah</FirstName>
+                <LastName>El Abdullah</LastName>
+                <Position>LB</Position>
+                <Pace>43</Pace>
+                <Shooting>25</Shooting>
+                <Passing>26</Passing>
+                <Offensive>25</Offensive>
+                <Defensive>53</Defensive>
+                <Stamina>63</Stamina>
+                <Club>Al-Fateh FC</Club>
+                <DateOfBirth>01-10-1987</DateOfBirth>
+            </Player>
+            <Player id="11686">
+                <FirstName>Ahmed</FirstName>
+                <LastName>Al Sultan</LastName>
+                <Position>CM</Position>
+                <Pace>65</Pace>
+                <Shooting>37</Shooting>
+                <Passing>50</Passing>
+                <Offensive>43</Offensive>
+                <Defensive>43</Defensive>
+                <Stamina>60</Stamina>
+                <Club>Al-Fateh FC</Club>
+                <DateOfBirth>01-01-1992</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Al-Raed FC">
+            <Player id="1396">
+                <FirstName>Hassan</FirstName>
+                <LastName>Taïr</LastName>
+                <Position>ST</Position>
+                <Pace>75</Pace>
+                <Shooting>67</Shooting>
+                <Passing>75</Passing>
+                <Offensive>71</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>84</Stamina>
+                <Club>Al-Raed FC</Club>
+                <DateOfBirth>12-12-1982</DateOfBirth>
+            </Player>
+            <Player id="1665">
+                <FirstName>Papa</FirstName>
+                <LastName>Waigo</LastName>
+                <Position>ST</Position>
+                <Pace>81</Pace>
+                <Shooting>65</Shooting>
+                <Passing>58</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>31</Defensive>
+                <Stamina>82</Stamina>
+                <Club>Al-Raed FC</Club>
+                <DateOfBirth>20-01-1984</DateOfBirth>
+            </Player>
+            <Player id="4879">
+                <FirstName>Ahmed</FirstName>
+                <LastName>Al Kassar</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>32</Stamina>
+                <Club>Al-Raed FC</Club>
+                <DateOfBirth>08-05-1991</DateOfBirth>
+            </Player>
+            <Player id="6172">
+                <FirstName>Alexis Enam</FirstName>
+                <LastName>Mendomo</LastName>
+                <Position>CDM</Position>
+                <Pace>63</Pace>
+                <Shooting>31</Shooting>
+                <Passing>51</Passing>
+                <Offensive>41</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>79</Stamina>
+                <Club>Al-Raed FC</Club>
+                <DateOfBirth>25-11-1986</DateOfBirth>
+            </Player>
+            <Player id="6283">
+                <FirstName>Faisal</FirstName>
+                <LastName>Darwish</LastName>
+                <Position>RM</Position>
+                <Pace>84</Pace>
+                <Shooting>58</Shooting>
+                <Passing>56</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>49</Defensive>
+                <Stamina>73</Stamina>
+                <Club>Al-Raed FC</Club>
+                <DateOfBirth>03-07-1991</DateOfBirth>
+            </Player>
+            <Player id="7319">
+                <FirstName>Jufain</FirstName>
+                <LastName>Al Bishi</LastName>
+                <Position>CB</Position>
+                <Pace>74</Pace>
+                <Shooting>28</Shooting>
+                <Passing>47</Passing>
+                <Offensive>37</Offensive>
+                <Defensive>61</Defensive>
+                <Stamina>75</Stamina>
+                <Club>Al-Raed FC</Club>
+                <DateOfBirth>01-05-1987</DateOfBirth>
+            </Player>
+            <Player id="8051">
+                <FirstName>Meshal</FirstName>
+                <LastName>Al Enazi</LastName>
+                <Position>ST</Position>
+                <Pace>72</Pace>
+                <Shooting>62</Shooting>
+                <Passing>59</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>38</Defensive>
+                <Stamina>58</Stamina>
+                <Club>Al-Raed FC</Club>
+                <DateOfBirth>07-01-1987</DateOfBirth>
+            </Player>
+            <Player id="8223">
+                <FirstName>Ibrahim</FirstName>
+                <LastName>Madkhali</LastName>
+                <Position>CB</Position>
+                <Pace>69</Pace>
+                <Shooting>39</Shooting>
+                <Passing>47</Passing>
+                <Offensive>43</Offensive>
+                <Defensive>59</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Al-Raed FC</Club>
+                <DateOfBirth>17-11-1984</DateOfBirth>
+            </Player>
+            <Player id="9235">
+                <FirstName>Hadi</FirstName>
+                <LastName>Yahya</LastName>
+                <Position>CB</Position>
+                <Pace>53</Pace>
+                <Shooting>28</Shooting>
+                <Passing>31</Passing>
+                <Offensive>29</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>75</Stamina>
+                <Club>Al-Raed FC</Club>
+                <DateOfBirth>03-04-1990</DateOfBirth>
+            </Player>
+            <Player id="9537">
+                <FirstName>Salman</FirstName>
+                <LastName>Al Sibyani</LastName>
+                <Position>CF</Position>
+                <Pace>86</Pace>
+                <Shooting>58</Shooting>
+                <Passing>45</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>24</Defensive>
+                <Stamina>46</Stamina>
+                <Club>Al-Raed FC</Club>
+                <DateOfBirth>11-11-1989</DateOfBirth>
+            </Player>
+            <Player id="9983">
+                <FirstName>Fahad</FirstName>
+                <LastName>Al Johani</LastName>
+                <Position>ST</Position>
+                <Pace>69</Pace>
+                <Shooting>59</Shooting>
+                <Passing>36</Passing>
+                <Offensive>47</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>50</Stamina>
+                <Club>Al-Raed FC</Club>
+                <DateOfBirth>26-10-1991</DateOfBirth>
+            </Player>
+            <Player id="10237">
+                <FirstName>Abdulsalam</FirstName>
+                <LastName>Al Shereaf</LastName>
+                <Position>RB</Position>
+                <Pace>70</Pace>
+                <Shooting>45</Shooting>
+                <Passing>53</Passing>
+                <Offensive>49</Offensive>
+                <Defensive>54</Defensive>
+                <Stamina>68</Stamina>
+                <Club>Al-Raed FC</Club>
+                <DateOfBirth>18-04-1989</DateOfBirth>
+            </Player>
+            <Player id="10475">
+                <FirstName>Saeed</FirstName>
+                <LastName>Al Issa</LastName>
+                <Position>RB</Position>
+                <Pace>78</Pace>
+                <Shooting>24</Shooting>
+                <Passing>45</Passing>
+                <Offensive>34</Offensive>
+                <Defensive>55</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Al-Raed FC</Club>
+                <DateOfBirth>15-09-1988</DateOfBirth>
+            </Player>
+            <Player id="10817">
+                <FirstName>Fahad</FirstName>
+                <LastName>Al Shammari</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>34</Stamina>
+                <Club>Al-Raed FC</Club>
+                <DateOfBirth>05-05-1981</DateOfBirth>
+            </Player>
+            <Player id="11049">
+                <FirstName>Mohamed</FirstName>
+                <LastName>Al Dobeeb</LastName>
+                <Position>ST</Position>
+                <Pace>58</Pace>
+                <Shooting>49</Shooting>
+                <Passing>44</Passing>
+                <Offensive>46</Offensive>
+                <Defensive>31</Defensive>
+                <Stamina>77</Stamina>
+                <Club>Al-Raed FC</Club>
+                <DateOfBirth>26-01-1990</DateOfBirth>
+            </Player>
+            <Player id="11270">
+                <FirstName>Majed</FirstName>
+                <LastName>Versani</LastName>
+                <Position>CDM</Position>
+                <Pace>65</Pace>
+                <Shooting>27</Shooting>
+                <Passing>47</Passing>
+                <Offensive>37</Offensive>
+                <Defensive>50</Defensive>
+                <Stamina>59</Stamina>
+                <Club>Al-Raed FC</Club>
+                <DateOfBirth>18-01-1984</DateOfBirth>
+            </Player>
+            <Player id="11390">
+                <FirstName>Fuad</FirstName>
+                <LastName>Al Mutairi</LastName>
+                <Position>CM</Position>
+                <Pace>69</Pace>
+                <Shooting>46</Shooting>
+                <Passing>55</Passing>
+                <Offensive>50</Offensive>
+                <Defensive>37</Defensive>
+                <Stamina>59</Stamina>
+                <Club>Al-Raed FC</Club>
+                <DateOfBirth>01-08-1986</DateOfBirth>
+            </Player>
+            <Player id="11463">
+                <FirstName>Yasser</FirstName>
+                <LastName>Al Mutairi</LastName>
+                <Position>RB</Position>
+                <Pace>60</Pace>
+                <Shooting>27</Shooting>
+                <Passing>35</Passing>
+                <Offensive>31</Offensive>
+                <Defensive>51</Defensive>
+                <Stamina>58</Stamina>
+                <Club>Al-Raed FC</Club>
+                <DateOfBirth>30-10-1993</DateOfBirth>
+            </Player>
+            <Player id="11575">
+                <FirstName>Tareg</FirstName>
+                <LastName>Alkabe</LastName>
+                <Position>RB</Position>
+                <Pace>68</Pace>
+                <Shooting>42</Shooting>
+                <Passing>48</Passing>
+                <Offensive>45</Offensive>
+                <Defensive>49</Defensive>
+                <Stamina>44</Stamina>
+                <Club>Al-Raed FC</Club>
+                <DateOfBirth>01-08-1992</DateOfBirth>
+            </Player>
+            <Player id="11603">
+                <FirstName>Abdulrahman</FirstName>
+                <LastName>Al Shereaf</LastName>
+                <Position>CB</Position>
+                <Pace>56</Pace>
+                <Shooting>32</Shooting>
+                <Passing>43</Passing>
+                <Offensive>37</Offensive>
+                <Defensive>50</Defensive>
+                <Stamina>63</Stamina>
+                <Club>Al-Raed FC</Club>
+                <DateOfBirth>18-06-1992</DateOfBirth>
+            </Player>
+            <Player id="11610">
+                <FirstName>Mousa</FirstName>
+                <LastName>Al Oufi</LastName>
+                <Position>CM</Position>
+                <Pace>68</Pace>
+                <Shooting>40</Shooting>
+                <Passing>53</Passing>
+                <Offensive>46</Offensive>
+                <Defensive>36</Defensive>
+                <Stamina>62</Stamina>
+                <Club>Al-Raed FC</Club>
+                <DateOfBirth>01-01-1990</DateOfBirth>
+            </Player>
+            <Player id="11634">
+                <FirstName>Abdulrahman</FirstName>
+                <LastName>Al Baraka</LastName>
+                <Position>CDM</Position>
+                <Pace>55</Pace>
+                <Shooting>33</Shooting>
+                <Passing>47</Passing>
+                <Offensive>40</Offensive>
+                <Defensive>45</Defensive>
+                <Stamina>31</Stamina>
+                <Club>Al-Raed FC</Club>
+                <DateOfBirth>21-09-1990</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Al-Faisaly FC">
+            <Player id="1655">
+                <FirstName>Marcelo</FirstName>
+                <LastName>Ramos Nicácio</LastName>
+                <Position>ST</Position>
+                <Pace>70</Pace>
+                <Shooting>71</Shooting>
+                <Passing>55</Passing>
+                <Offensive>63</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>64</Stamina>
+                <Club>Al-Faisaly FC</Club>
+                <DateOfBirth>05-01-1983</DateOfBirth>
+            </Player>
+            <Player id="7119">
+                <FirstName>Majed</FirstName>
+                <LastName>Abu Yabis</LastName>
+                <Position>LM</Position>
+                <Pace>82</Pace>
+                <Shooting>57</Shooting>
+                <Passing>55</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>74</Stamina>
+                <Club>Al-Faisaly FC</Club>
+                <DateOfBirth>08-11-1984</DateOfBirth>
+            </Player>
+            <Player id="7225">
+                <FirstName>Antônio Adriano</FirstName>
+                <LastName>Antunes de Paula</LastName>
+                <Position>CF</Position>
+                <Pace>75</Pace>
+                <Shooting>57</Shooting>
+                <Passing>58</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>73</Stamina>
+                <Club>Al-Faisaly FC</Club>
+                <DateOfBirth>13-06-1987</DateOfBirth>
+            </Player>
+            <Player id="8058">
+                <FirstName>Abdullah</FirstName>
+                <LastName>Dawsh</LastName>
+                <Position>CB</Position>
+                <Pace>69</Pace>
+                <Shooting>31</Shooting>
+                <Passing>37</Passing>
+                <Offensive>34</Offensive>
+                <Defensive>57</Defensive>
+                <Stamina>77</Stamina>
+                <Club>Al-Faisaly FC</Club>
+                <DateOfBirth>12-12-1987</DateOfBirth>
+            </Player>
+            <Player id="8490">
+                <FirstName>Wesam</FirstName>
+                <LastName>Al Swed</LastName>
+                <Position>LB</Position>
+                <Pace>79</Pace>
+                <Shooting>49</Shooting>
+                <Passing>61</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>51</Defensive>
+                <Stamina>83</Stamina>
+                <Club>Al-Faisaly FC</Club>
+                <DateOfBirth>29-11-1987</DateOfBirth>
+            </Player>
+            <Player id="8741">
+                <FirstName>Khalil</FirstName>
+                <LastName>Bani Attiah</LastName>
+                <Position>LM</Position>
+                <Pace>87</Pace>
+                <Shooting>53</Shooting>
+                <Passing>51</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>50</Defensive>
+                <Stamina>80</Stamina>
+                <Club>Al-Faisaly FC</Club>
+                <DateOfBirth>08-06-1991</DateOfBirth>
+            </Player>
+            <Player id="9230">
+                <FirstName>Omar</FirstName>
+                <LastName>Abdulaziz</LastName>
+                <Position>CDM</Position>
+                <Pace>70</Pace>
+                <Shooting>39</Shooting>
+                <Passing>55</Passing>
+                <Offensive>47</Offensive>
+                <Defensive>55</Defensive>
+                <Stamina>90</Stamina>
+                <Club>Al-Faisaly FC</Club>
+                <DateOfBirth>17-12-1983</DateOfBirth>
+            </Player>
+            <Player id="9943">
+                <FirstName>Mansour</FirstName>
+                <LastName>Al Naji</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>35</Stamina>
+                <Club>Al-Faisaly FC</Club>
+                <DateOfBirth>30-06-1978</DateOfBirth>
+            </Player>
+            <Player id="10159">
+                <FirstName>Mansour</FirstName>
+                <LastName>Hamzi</LastName>
+                <Position>RM</Position>
+                <Pace>81</Pace>
+                <Shooting>53</Shooting>
+                <Passing>49</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>27</Defensive>
+                <Stamina>52</Stamina>
+                <Club>Al-Faisaly FC</Club>
+                <DateOfBirth>01-06-1993</DateOfBirth>
+            </Player>
+            <Player id="10239">
+                <FirstName>Ala'a</FirstName>
+                <LastName>Rishani</LastName>
+                <Position>CDM</Position>
+                <Pace>65</Pace>
+                <Shooting>50</Shooting>
+                <Passing>54</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>57</Defensive>
+                <Stamina>56</Stamina>
+                <Club>Al-Faisaly FC</Club>
+                <DateOfBirth>30-10-1987</DateOfBirth>
+            </Player>
+            <Player id="10351">
+                <FirstName>Mohammed</FirstName>
+                <LastName>Jahfali</LastName>
+                <Position>CB</Position>
+                <Pace>57</Pace>
+                <Shooting>32</Shooting>
+                <Passing>47</Passing>
+                <Offensive>39</Offensive>
+                <Defensive>51</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Al-Faisaly FC</Club>
+                <DateOfBirth>24-10-1990</DateOfBirth>
+            </Player>
+            <Player id="10619">
+                <FirstName>Sultan</FirstName>
+                <LastName>Al Dhahri</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>34</Stamina>
+                <Club>Al-Faisaly FC</Club>
+                <DateOfBirth>24-04-1977</DateOfBirth>
+            </Player>
+            <Player id="11105">
+                <FirstName>Eslam</FirstName>
+                <LastName>Seraj</LastName>
+                <Position>ST</Position>
+                <Pace>71</Pace>
+                <Shooting>55</Shooting>
+                <Passing>41</Passing>
+                <Offensive>48</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>57</Stamina>
+                <Club>Al-Faisaly FC</Club>
+                <DateOfBirth>07-03-1989</DateOfBirth>
+            </Player>
+            <Player id="11166">
+                <FirstName>Salem</FirstName>
+                <LastName>Al Khaibary</LastName>
+                <Position>ST</Position>
+                <Pace>76</Pace>
+                <Shooting>54</Shooting>
+                <Passing>37</Passing>
+                <Offensive>45</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>48</Stamina>
+                <Club>Al-Faisaly FC</Club>
+                <DateOfBirth>01-08-1991</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Al-Taawoun FC">
+            <Player id="1936">
+                <FirstName>Paul</FirstName>
+                <LastName>Alo'o Efoulou</LastName>
+                <Position>ST</Position>
+                <Pace>79</Pace>
+                <Shooting>68</Shooting>
+                <Passing>60</Passing>
+                <Offensive>64</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>65</Stamina>
+                <Club>Al-Taawoun FC</Club>
+                <DateOfBirth>12-11-1983</DateOfBirth>
+            </Player>
+            <Player id="4339">
+                <FirstName>Shadi</FirstName>
+                <LastName>Abu Hash'hash</LastName>
+                <Position>CDM</Position>
+                <Pace>59</Pace>
+                <Shooting>47</Shooting>
+                <Passing>57</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>78</Stamina>
+                <Club>Al-Taawoun FC</Club>
+                <DateOfBirth>20-01-1981</DateOfBirth>
+            </Player>
+            <Player id="7190">
+                <FirstName>Sanad</FirstName>
+                <LastName>Shrahilee</LastName>
+                <Position>CB</Position>
+                <Pace>74</Pace>
+                <Shooting>28</Shooting>
+                <Passing>38</Passing>
+                <Offensive>33</Offensive>
+                <Defensive>61</Defensive>
+                <Stamina>80</Stamina>
+                <Club>Al-Taawoun FC</Club>
+                <DateOfBirth>31-03-1986</DateOfBirth>
+            </Player>
+            <Player id="7692">
+                <FirstName>David</FirstName>
+                <LastName>Ochieng</LastName>
+                <Position>CB</Position>
+                <Pace>69</Pace>
+                <Shooting>31</Shooting>
+                <Passing>37</Passing>
+                <Offensive>34</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>75</Stamina>
+                <Club>Al-Taawoun FC</Club>
+                <DateOfBirth>07-10-1992</DateOfBirth>
+            </Player>
+            <Player id="8242">
+                <FirstName>Ryan</FirstName>
+                <LastName>Belal</LastName>
+                <Position>ST</Position>
+                <Pace>69</Pace>
+                <Shooting>60</Shooting>
+                <Passing>37</Passing>
+                <Offensive>48</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>59</Stamina>
+                <Club>Al-Taawoun FC</Club>
+                <DateOfBirth>04-10-1988</DateOfBirth>
+            </Player>
+            <Player id="8624">
+                <FirstName>Bader</FirstName>
+                <LastName>Al Khamees</LastName>
+                <Position>ST</Position>
+                <Pace>50</Pace>
+                <Shooting>59</Shooting>
+                <Passing>62</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>85</Stamina>
+                <Club>Al-Taawoun FC</Club>
+                <DateOfBirth>02-08-1984</DateOfBirth>
+            </Player>
+            <Player id="8699">
+                <FirstName>Saad</FirstName>
+                <LastName>Al Yami</LastName>
+                <Position>LM</Position>
+                <Pace>68</Pace>
+                <Shooting>60</Shooting>
+                <Passing>59</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>87</Stamina>
+                <Club>Al-Taawoun FC</Club>
+                <DateOfBirth>11-08-1986</DateOfBirth>
+            </Player>
+            <Player id="9236">
+                <FirstName>Mahmoud</FirstName>
+                <LastName>Muath</LastName>
+                <Position>RB</Position>
+                <Pace>45</Pace>
+                <Shooting>25</Shooting>
+                <Passing>44</Passing>
+                <Offensive>34</Offensive>
+                <Defensive>59</Defensive>
+                <Stamina>75</Stamina>
+                <Club>Al-Taawoun FC</Club>
+                <DateOfBirth>26-10-1984</DateOfBirth>
+            </Player>
+            <Player id="9530">
+                <FirstName>Majed</FirstName>
+                <LastName>Hazazi</LastName>
+                <Position>RB</Position>
+                <Pace>81</Pace>
+                <Shooting>42</Shooting>
+                <Passing>54</Passing>
+                <Offensive>48</Offensive>
+                <Defensive>54</Defensive>
+                <Stamina>76</Stamina>
+                <Club>Al-Taawoun FC</Club>
+                <DateOfBirth>19-03-1988</DateOfBirth>
+            </Player>
+            <Player id="9979">
+                <FirstName>Hamoud</FirstName>
+                <LastName>Abbas</LastName>
+                <Position>CDM</Position>
+                <Pace>68</Pace>
+                <Shooting>50</Shooting>
+                <Passing>57</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>53</Defensive>
+                <Stamina>46</Stamina>
+                <Club>Al-Taawoun FC</Club>
+                <DateOfBirth>10-04-1986</DateOfBirth>
+            </Player>
+            <Player id="10238">
+                <FirstName>Yassen</FirstName>
+                <LastName>Hamza</LastName>
+                <Position>RB</Position>
+                <Pace>75</Pace>
+                <Shooting>35</Shooting>
+                <Passing>55</Passing>
+                <Offensive>45</Offensive>
+                <Defensive>53</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Al-Taawoun FC</Club>
+                <DateOfBirth>27-09-1990</DateOfBirth>
+            </Player>
+            <Player id="10756">
+                <FirstName>Thamer</FirstName>
+                <LastName>Almeshauqeh</LastName>
+                <Position>ST</Position>
+                <Pace>65</Pace>
+                <Shooting>57</Shooting>
+                <Passing>37</Passing>
+                <Offensive>47</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>58</Stamina>
+                <Club>Al-Taawoun FC</Club>
+                <DateOfBirth>22-04-1991</DateOfBirth>
+            </Player>
+            <Player id="10765">
+                <FirstName>Faisal</FirstName>
+                <LastName>Al Margab</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>36</Stamina>
+                <Club>Al-Taawoun FC</Club>
+                <DateOfBirth>01-04-1984</DateOfBirth>
+            </Player>
+            <Player id="11109">
+                <FirstName>Madallah</FirstName>
+                <LastName>Al Olayan</LastName>
+                <Position>CDM</Position>
+                <Pace>64</Pace>
+                <Shooting>44</Shooting>
+                <Passing>51</Passing>
+                <Offensive>47</Offensive>
+                <Defensive>44</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Al-Taawoun FC</Club>
+                <DateOfBirth>25-08-1994</DateOfBirth>
+            </Player>
+            <Player id="11110">
+                <FirstName>Saleh</FirstName>
+                <LastName>Al Ghaddouni</LastName>
+                <Position>ST</Position>
+                <Pace>76</Pace>
+                <Shooting>51</Shooting>
+                <Passing>36</Passing>
+                <Offensive>43</Offensive>
+                <Defensive>27</Defensive>
+                <Stamina>40</Stamina>
+                <Club>Al-Taawoun FC</Club>
+                <DateOfBirth>11-08-1994</DateOfBirth>
+            </Player>
+            <Player id="11375">
+                <FirstName>Abdulrahman</FirstName>
+                <LastName>Al Abdulrazzaq</LastName>
+                <Position>CB</Position>
+                <Pace>46</Pace>
+                <Shooting>27</Shooting>
+                <Passing>32</Passing>
+                <Offensive>29</Offensive>
+                <Defensive>52</Defensive>
+                <Stamina>42</Stamina>
+                <Club>Al-Taawoun FC</Club>
+                <DateOfBirth>21-07-1993</DateOfBirth>
+            </Player>
+            <Player id="11417">
+                <FirstName>Abdullah</FirstName>
+                <LastName>Al Ghamdi</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>38</Stamina>
+                <Club>Al-Taawoun FC</Club>
+                <DateOfBirth>06-05-1990</DateOfBirth>
+            </Player>
+            <Player id="11609">
+                <FirstName>Mohammed</FirstName>
+                <LastName>Al Muqari</LastName>
+                <Position>CAM</Position>
+                <Pace>58</Pace>
+                <Shooting>36</Shooting>
+                <Passing>55</Passing>
+                <Offensive>45</Offensive>
+                <Defensive>32</Defensive>
+                <Stamina>43</Stamina>
+                <Club>Al-Taawoun FC</Club>
+                <DateOfBirth>01-08-1991</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Al-Orubah FC">
+            <Player id="2000">
+                <FirstName>Jhasmani</FirstName>
+                <LastName>Campos</LastName>
+                <Position>CAM</Position>
+                <Pace>65</Pace>
+                <Shooting>62</Shooting>
+                <Passing>63</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>25</Defensive>
+                <Stamina>78</Stamina>
+                <Club>Al-Orubah FC</Club>
+                <DateOfBirth>10-05-1988</DateOfBirth>
+            </Player>
+            <Player id="5669">
+                <FirstName>Waleed</FirstName>
+                <LastName>Al Gizani</LastName>
+                <Position>ST</Position>
+                <Pace>73</Pace>
+                <Shooting>64</Shooting>
+                <Passing>49</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>67</Stamina>
+                <Club>Al-Orubah FC</Club>
+                <DateOfBirth>25-02-1981</DateOfBirth>
+            </Player>
+            <Player id="6876">
+                <FirstName>Ibrahim</FirstName>
+                <LastName>Hazzazi</LastName>
+                <Position>RB</Position>
+                <Pace>77</Pace>
+                <Shooting>36</Shooting>
+                <Passing>57</Passing>
+                <Offensive>46</Offensive>
+                <Defensive>57</Defensive>
+                <Stamina>76</Stamina>
+                <Club>Al-Orubah FC</Club>
+                <DateOfBirth>22-11-1984</DateOfBirth>
+            </Player>
+            <Player id="7529">
+                <FirstName>Ali</FirstName>
+                <LastName>Al Zubaidi</LastName>
+                <Position>CDM</Position>
+                <Pace>57</Pace>
+                <Shooting>51</Shooting>
+                <Passing>56</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>60</Stamina>
+                <Club>Al-Orubah FC</Club>
+                <DateOfBirth>17-12-1986</DateOfBirth>
+            </Player>
+            <Player id="8178">
+                <FirstName>Ali</FirstName>
+                <LastName>Ataif</LastName>
+                <Position>CM</Position>
+                <Pace>73</Pace>
+                <Shooting>50</Shooting>
+                <Passing>62</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>48</Defensive>
+                <Stamina>62</Stamina>
+                <Club>Al-Orubah FC</Club>
+                <DateOfBirth>01-07-1988</DateOfBirth>
+            </Player>
+            <Player id="9490">
+                <FirstName>Rafea</FirstName>
+                <LastName>Al Ruwaili</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>37</Stamina>
+                <Club>Al-Orubah FC</Club>
+                <DateOfBirth>05-07-1990</DateOfBirth>
+            </Player>
+            <Player id="10252">
+                <FirstName>Fawaz</FirstName>
+                <LastName>Fallatah</LastName>
+                <Position>CB</Position>
+                <Pace>68</Pace>
+                <Shooting>28</Shooting>
+                <Passing>32</Passing>
+                <Offensive>30</Offensive>
+                <Defensive>56</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Al-Orubah FC</Club>
+                <DateOfBirth>08-03-1989</DateOfBirth>
+            </Player>
+            <Player id="10993">
+                <FirstName>Mousa</FirstName>
+                <LastName>Al Shamri</LastName>
+                <Position>ST</Position>
+                <Pace>43</Pace>
+                <Shooting>60</Shooting>
+                <Passing>37</Passing>
+                <Offensive>48</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>57</Stamina>
+                <Club>Al-Orubah FC</Club>
+                <DateOfBirth>15-05-1986</DateOfBirth>
+            </Player>
+            <Player id="11411">
+                <FirstName>Fahad</FirstName>
+                <LastName>Al Reshedi</LastName>
+                <Position>CAM</Position>
+                <Pace>70</Pace>
+                <Shooting>48</Shooting>
+                <Passing>48</Passing>
+                <Offensive>48</Offensive>
+                <Defensive>24</Defensive>
+                <Stamina>46</Stamina>
+                <Club>Al-Orubah FC</Club>
+                <DateOfBirth>08-06-1991</DateOfBirth>
+            </Player>
+            <Player id="11561">
+                <FirstName>Abdullah</FirstName>
+                <LastName>Al Ruwaili</LastName>
+                <Position>CB</Position>
+                <Pace>51</Pace>
+                <Shooting>28</Shooting>
+                <Passing>26</Passing>
+                <Offensive>27</Offensive>
+                <Defensive>52</Defensive>
+                <Stamina>58</Stamina>
+                <Club>Al-Orubah FC</Club>
+                <DateOfBirth>09-07-1989</DateOfBirth>
+            </Player>
+            <Player id="11583">
+                <FirstName>Ziyad</FirstName>
+                <LastName>Al Kuwaykibi</LastName>
+                <Position>RM</Position>
+                <Pace>63</Pace>
+                <Shooting>42</Shooting>
+                <Passing>48</Passing>
+                <Offensive>45</Offensive>
+                <Defensive>26</Defensive>
+                <Stamina>51</Stamina>
+                <Club>Al-Orubah FC</Club>
+                <DateOfBirth>26-11-1992</DateOfBirth>
+            </Player>
+            <Player id="11638">
+                <FirstName>Khalaf</FirstName>
+                <LastName>Al Shammari</LastName>
+                <Position>RB</Position>
+                <Pace>55</Pace>
+                <Shooting>25</Shooting>
+                <Passing>33</Passing>
+                <Offensive>29</Offensive>
+                <Defensive>48</Defensive>
+                <Stamina>61</Stamina>
+                <Club>Al-Orubah FC</Club>
+                <DateOfBirth>09-07-1985</DateOfBirth>
+            </Player>
+            <Player id="11702">
+                <FirstName>Musharraf</FirstName>
+                <LastName>Al Ruwaili</LastName>
+                <Position>CDM</Position>
+                <Pace>64</Pace>
+                <Shooting>41</Shooting>
+                <Passing>50</Passing>
+                <Offensive>45</Offensive>
+                <Defensive>32</Defensive>
+                <Stamina>43</Stamina>
+                <Club>Al-Orubah FC</Club>
+                <DateOfBirth>10-10-1985</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Hajer Club">
+            <Player id="5327">
+                <FirstName>Djordje</FirstName>
+                <LastName>Djikanovic</LastName>
+                <Position>CB</Position>
+                <Pace>62</Pace>
+                <Shooting>26</Shooting>
+                <Passing>50</Passing>
+                <Offensive>38</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>58</Stamina>
+                <Club>Hajer Club</Club>
+                <DateOfBirth>18-08-1984</DateOfBirth>
+            </Player>
+            <Player id="6878">
+                <FirstName>Mohamed</FirstName>
+                <LastName>Al Khmis</LastName>
+                <Position>RM</Position>
+                <Pace>70</Pace>
+                <Shooting>63</Shooting>
+                <Passing>62</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>55</Defensive>
+                <Stamina>73</Stamina>
+                <Club>Hajer Club</Club>
+                <DateOfBirth>12-10-1989</DateOfBirth>
+            </Player>
+            <Player id="8963">
+                <FirstName>Khalid</FirstName>
+                <LastName>Rejaib</LastName>
+                <Position>ST</Position>
+                <Pace>41</Pace>
+                <Shooting>59</Shooting>
+                <Passing>35</Passing>
+                <Offensive>47</Offensive>
+                <Defensive>31</Defensive>
+                <Stamina>57</Stamina>
+                <Club>Hajer Club</Club>
+                <DateOfBirth>05-05-1983</DateOfBirth>
+            </Player>
+            <Player id="9477">
+                <FirstName>Ahmed</FirstName>
+                <LastName>Al Nazera</LastName>
+                <Position>CAM</Position>
+                <Pace>73</Pace>
+                <Shooting>53</Shooting>
+                <Passing>56</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>26</Defensive>
+                <Stamina>61</Stamina>
+                <Club>Hajer Club</Club>
+                <DateOfBirth>07-02-1993</DateOfBirth>
+            </Player>
+            <Player id="9808">
+                <FirstName>Alaa'</FirstName>
+                <LastName>Al Shagran</LastName>
+                <Position>CDM</Position>
+                <Pace>61</Pace>
+                <Shooting>46</Shooting>
+                <Passing>60</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>50</Defensive>
+                <Stamina>74</Stamina>
+                <Club>Hajer Club</Club>
+                <DateOfBirth>21-04-1987</DateOfBirth>
+            </Player>
+            <Player id="9840">
+                <FirstName>Hussein</FirstName>
+                <LastName>Shuwaish</LastName>
+                <Position>LB</Position>
+                <Pace>52</Pace>
+                <Shooting>27</Shooting>
+                <Passing>44</Passing>
+                <Offensive>35</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>60</Stamina>
+                <Club>Hajer Club</Club>
+                <DateOfBirth>07-11-1988</DateOfBirth>
+            </Player>
+            <Player id="10104">
+                <FirstName>Mustafa</FirstName>
+                <LastName>Malaika</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>40</Stamina>
+                <Club>Hajer Club</Club>
+                <DateOfBirth>20-05-1986</DateOfBirth>
+            </Player>
+            <Player id="10240">
+                <FirstName>Bandar</FirstName>
+                <LastName>Al Anzi</LastName>
+                <Position>CAM</Position>
+                <Pace>42</Pace>
+                <Shooting>41</Shooting>
+                <Passing>52</Passing>
+                <Offensive>46</Offensive>
+                <Defensive>38</Defensive>
+                <Stamina>41</Stamina>
+                <Club>Hajer Club</Club>
+                <DateOfBirth>26-03-1988</DateOfBirth>
+            </Player>
+            <Player id="10348">
+                <FirstName>Majed</FirstName>
+                <LastName>Al Qahtani</LastName>
+                <Position>RB</Position>
+                <Pace>69</Pace>
+                <Shooting>45</Shooting>
+                <Passing>53</Passing>
+                <Offensive>49</Offensive>
+                <Defensive>57</Defensive>
+                <Stamina>73</Stamina>
+                <Club>Hajer Club</Club>
+                <DateOfBirth>13-09-1990</DateOfBirth>
+            </Player>
+            <Player id="10620">
+                <FirstName>Mohammed</FirstName>
+                <LastName>Al Shahrani</LastName>
+                <Position>CF</Position>
+                <Pace>67</Pace>
+                <Shooting>62</Shooting>
+                <Passing>44</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>61</Stamina>
+                <Club>Hajer Club</Club>
+                <DateOfBirth>25-05-1982</DateOfBirth>
+            </Player>
+            <Player id="10974">
+                <FirstName>Salman</FirstName>
+                <LastName>Al Hariri</LastName>
+                <Position>LM</Position>
+                <Pace>85</Pace>
+                <Shooting>52</Shooting>
+                <Passing>42</Passing>
+                <Offensive>47</Offensive>
+                <Defensive>35</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Hajer Club</Club>
+                <DateOfBirth>24-06-1988</DateOfBirth>
+            </Player>
+            <Player id="11586">
+                <FirstName>Ahmed</FirstName>
+                <LastName>Al Gizani</LastName>
+                <Position>ST</Position>
+                <Pace>57</Pace>
+                <Shooting>51</Shooting>
+                <Passing>35</Passing>
+                <Offensive>43</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>57</Stamina>
+                <Club>Hajer Club</Club>
+                <DateOfBirth>03-09-1990</DateOfBirth>
+            </Player>
+            <Player id="11607">
+                <FirstName>Ayed</FirstName>
+                <LastName>Al Joni</LastName>
+                <Position>CM</Position>
+                <Pace>66</Pace>
+                <Shooting>35</Shooting>
+                <Passing>51</Passing>
+                <Offensive>43</Offensive>
+                <Defensive>42</Defensive>
+                <Stamina>59</Stamina>
+                <Club>Hajer Club</Club>
+                <DateOfBirth>15-02-1988</DateOfBirth>
+            </Player>
+            <Player id="11615">
+                <FirstName>Riyadh</FirstName>
+                <LastName>Albrahim</LastName>
+                <Position>CM</Position>
+                <Pace>65</Pace>
+                <Shooting>44</Shooting>
+                <Passing>54</Passing>
+                <Offensive>49</Offensive>
+                <Defensive>36</Defensive>
+                <Stamina>44</Stamina>
+                <Club>Hajer Club</Club>
+                <DateOfBirth>15-12-1993</DateOfBirth>
+            </Player>
+            <Player id="11624">
+                <FirstName>Radhi</FirstName>
+                <LastName>Alradhi</LastName>
+                <Position>CM</Position>
+                <Pace>61</Pace>
+                <Shooting>39</Shooting>
+                <Passing>49</Passing>
+                <Offensive>44</Offensive>
+                <Defensive>40</Defensive>
+                <Stamina>64</Stamina>
+                <Club>Hajer Club</Club>
+                <DateOfBirth>13-12-1991</DateOfBirth>
+            </Player>
+            <Player id="11674">
+                <FirstName>Murad</FirstName>
+                <LastName>Al Rashidi</LastName>
+                <Position>CM</Position>
+                <Pace>67</Pace>
+                <Shooting>34</Shooting>
+                <Passing>44</Passing>
+                <Offensive>39</Offensive>
+                <Defensive>38</Defensive>
+                <Stamina>69</Stamina>
+                <Club>Hajer Club</Club>
+                <DateOfBirth>11-03-1991</DateOfBirth>
+            </Player>
+            <Player id="11684">
+                <FirstName>Khalid</FirstName>
+                <LastName>Al Dossary</LastName>
+                <Position>LB</Position>
+                <Pace>59</Pace>
+                <Shooting>25</Shooting>
+                <Passing>28</Passing>
+                <Offensive>26</Offensive>
+                <Defensive>52</Defensive>
+                <Stamina>58</Stamina>
+                <Club>Hajer Club</Club>
+                <DateOfBirth>23-05-1986</DateOfBirth>
+            </Player>
+            <Player id="11694">
+                <FirstName>Majed</FirstName>
+                <LastName>Mansour</LastName>
+                <Position>RB</Position>
+                <Pace>64</Pace>
+                <Shooting>27</Shooting>
+                <Passing>31</Passing>
+                <Offensive>29</Offensive>
+                <Defensive>44</Defensive>
+                <Stamina>73</Stamina>
+                <Club>Hajer Club</Club>
+                <DateOfBirth>01-07-1994</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Alshoulla FC">
+            <Player id="6269">
+                <FirstName>Tamim</FirstName>
+                <LastName>Al Dosari</LastName>
+                <Position>LM</Position>
+                <Pace>73</Pace>
+                <Shooting>57</Shooting>
+                <Passing>59</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Alshoulla FC</Club>
+                <DateOfBirth>04-06-1989</DateOfBirth>
+            </Player>
+            <Player id="7528">
+                <FirstName>Fahad</FirstName>
+                <LastName>Al Mobarak</LastName>
+                <Position>RM</Position>
+                <Pace>61</Pace>
+                <Shooting>39</Shooting>
+                <Passing>59</Passing>
+                <Offensive>49</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>38</Stamina>
+                <Club>Alshoulla FC</Club>
+                <DateOfBirth>15-06-1984</DateOfBirth>
+            </Player>
+            <Player id="9312">
+                <FirstName>Sultan</FirstName>
+                <LastName>Al Bargan</LastName>
+                <Position>CDM</Position>
+                <Pace>69</Pace>
+                <Shooting>48</Shooting>
+                <Passing>60</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>51</Defensive>
+                <Stamina>74</Stamina>
+                <Club>Alshoulla FC</Club>
+                <DateOfBirth>15-02-1983</DateOfBirth>
+            </Player>
+            <Player id="9976">
+                <FirstName>Jaber</FirstName>
+                <LastName>Hagawi</LastName>
+                <Position>CB</Position>
+                <Pace>44</Pace>
+                <Shooting>28</Shooting>
+                <Passing>38</Passing>
+                <Offensive>33</Offensive>
+                <Defensive>55</Defensive>
+                <Stamina>74</Stamina>
+                <Club>Alshoulla FC</Club>
+                <DateOfBirth>12-08-1981</DateOfBirth>
+            </Player>
+            <Player id="10108">
+                <FirstName>Turki</FirstName>
+                <LastName>Elewah</LastName>
+                <Position>ST</Position>
+                <Pace>69</Pace>
+                <Shooting>57</Shooting>
+                <Passing>40</Passing>
+                <Offensive>48</Offensive>
+                <Defensive>26</Defensive>
+                <Stamina>57</Stamina>
+                <Club>Alshoulla FC</Club>
+                <DateOfBirth>18-09-1988</DateOfBirth>
+            </Player>
+            <Player id="10254">
+                <FirstName>Burj Ali</FirstName>
+                <LastName>Maodah</LastName>
+                <Position>CAM</Position>
+                <Pace>38</Pace>
+                <Shooting>55</Shooting>
+                <Passing>57</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>61</Stamina>
+                <Club>Alshoulla FC</Club>
+                <DateOfBirth>01-03-1983</DateOfBirth>
+            </Player>
+            <Player id="10476">
+                <FirstName>Khaled</FirstName>
+                <LastName>Nasser</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>32</Stamina>
+                <Club>Alshoulla FC</Club>
+                <DateOfBirth>18-02-1989</DateOfBirth>
+            </Player>
+            <Player id="10630">
+                <FirstName>Sultan</FirstName>
+                <LastName>Tamihi</LastName>
+                <Position>CB</Position>
+                <Pace>64</Pace>
+                <Shooting>28</Shooting>
+                <Passing>30</Passing>
+                <Offensive>29</Offensive>
+                <Defensive>57</Defensive>
+                <Stamina>58</Stamina>
+                <Club>Alshoulla FC</Club>
+                <DateOfBirth>01-10-1986</DateOfBirth>
+            </Player>
+            <Player id="10755">
+                <FirstName>Sultan</FirstName>
+                <LastName>Al Yami</LastName>
+                <Position>RB</Position>
+                <Pace>62</Pace>
+                <Shooting>39</Shooting>
+                <Passing>46</Passing>
+                <Offensive>42</Offensive>
+                <Defensive>55</Defensive>
+                <Stamina>76</Stamina>
+                <Club>Alshoulla FC</Club>
+                <DateOfBirth>02-06-1987</DateOfBirth>
+            </Player>
+            <Player id="10896">
+                <FirstName>Rashed</FirstName>
+                <LastName>Al Dowesan</LastName>
+                <Position>CB</Position>
+                <Pace>69</Pace>
+                <Shooting>25</Shooting>
+                <Passing>32</Passing>
+                <Offensive>28</Offensive>
+                <Defensive>53</Defensive>
+                <Stamina>69</Stamina>
+                <Club>Alshoulla FC</Club>
+                <DateOfBirth>08-11-1990</DateOfBirth>
+            </Player>
+            <Player id="10989">
+                <FirstName>Fahad</FirstName>
+                <LastName>Al Munaif</LastName>
+                <Position>ST</Position>
+                <Pace>72</Pace>
+                <Shooting>55</Shooting>
+                <Passing>39</Passing>
+                <Offensive>47</Offensive>
+                <Defensive>26</Defensive>
+                <Stamina>59</Stamina>
+                <Club>Alshoulla FC</Club>
+                <DateOfBirth>25-11-1989</DateOfBirth>
+            </Player>
+            <Player id="11106">
+                <FirstName>Mishel</FirstName>
+                <LastName>Al Agmi</LastName>
+                <Position>RB</Position>
+                <Pace>74</Pace>
+                <Shooting>29</Shooting>
+                <Passing>34</Passing>
+                <Offensive>31</Offensive>
+                <Defensive>56</Defensive>
+                <Stamina>66</Stamina>
+                <Club>Alshoulla FC</Club>
+                <DateOfBirth>05-01-1992</DateOfBirth>
+            </Player>
+            <Player id="11263">
+                <FirstName>Saeed</FirstName>
+                <LastName>Al Harbi</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>38</Stamina>
+                <Club>Alshoulla FC</Club>
+                <DateOfBirth>28-08-1981</DateOfBirth>
+            </Player>
+            <Player id="11274">
+                <FirstName>Yahya</FirstName>
+                <LastName>Al Kabie</LastName>
+                <Position>LB</Position>
+                <Pace>84</Pace>
+                <Shooting>30</Shooting>
+                <Passing>31</Passing>
+                <Offensive>30</Offensive>
+                <Defensive>55</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Alshoulla FC</Club>
+                <DateOfBirth>01-07-1987</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Al-Khaleej">
+            <Player id="7109">
+                <FirstName>Ahmed</FirstName>
+                <LastName>Al Mubarak</LastName>
+                <Position>LM</Position>
+                <Pace>80</Pace>
+                <Shooting>50</Shooting>
+                <Passing>54</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>39</Defensive>
+                <Stamina>74</Stamina>
+                <Club>Al-Khaleej</Club>
+                <DateOfBirth>31-03-1985</DateOfBirth>
+            </Player>
+            <Player id="7714">
+                <FirstName>Abdulmutalib</FirstName>
+                <LastName>Al Traidi</LastName>
+                <Position>RB</Position>
+                <Pace>61</Pace>
+                <Shooting>47</Shooting>
+                <Passing>53</Passing>
+                <Offensive>50</Offensive>
+                <Defensive>65</Defensive>
+                <Stamina>62</Stamina>
+                <Club>Al-Khaleej</Club>
+                <DateOfBirth>14-05-1982</DateOfBirth>
+            </Player>
+            <Player id="8788">
+                <FirstName>Hattan</FirstName>
+                <LastName>Bahebri</LastName>
+                <Position>RM</Position>
+                <Pace>78</Pace>
+                <Shooting>47</Shooting>
+                <Passing>55</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>42</Defensive>
+                <Stamina>51</Stamina>
+                <Club>Al-Khaleej</Club>
+                <DateOfBirth>16-07-1992</DateOfBirth>
+            </Player>
+            <Player id="10106">
+                <FirstName>Abdullah</FirstName>
+                <LastName>Al Qarni</LastName>
+                <Position>CB</Position>
+                <Pace>61</Pace>
+                <Shooting>27</Shooting>
+                <Passing>34</Passing>
+                <Offensive>30</Offensive>
+                <Defensive>56</Defensive>
+                <Stamina>62</Stamina>
+                <Club>Al-Khaleej</Club>
+                <DateOfBirth>11-09-1987</DateOfBirth>
+            </Player>
+            <Player id="11195">
+                <FirstName>Saad</FirstName>
+                <LastName>Al Harbi</LastName>
+                <Position>ST</Position>
+                <Pace>70</Pace>
+                <Shooting>51</Shooting>
+                <Passing>37</Passing>
+                <Offensive>44</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>77</Stamina>
+                <Club>Al-Khaleej</Club>
+                <DateOfBirth>10-09-1988</DateOfBirth>
+            </Player>
+            <Player id="11412">
+                <FirstName>Hasan</FirstName>
+                <LastName>Al Haji</LastName>
+                <Position>RM</Position>
+                <Pace>68</Pace>
+                <Shooting>34</Shooting>
+                <Passing>50</Passing>
+                <Offensive>42</Offensive>
+                <Defensive>39</Defensive>
+                <Stamina>75</Stamina>
+                <Club>Al-Khaleej</Club>
+                <DateOfBirth>10-07-1987</DateOfBirth>
+            </Player>
+            <Player id="11621">
+                <FirstName>Hossam</FirstName>
+                <LastName>Al Jadani</LastName>
+                <Position>RB</Position>
+                <Pace>58</Pace>
+                <Shooting>25</Shooting>
+                <Passing>37</Passing>
+                <Offensive>31</Offensive>
+                <Defensive>52</Defensive>
+                <Stamina>63</Stamina>
+                <Club>Al-Khaleej</Club>
+                <DateOfBirth>28-07-1989</DateOfBirth>
+            </Player>
+            <Player id="11640">
+                <FirstName>Mohammed</FirstName>
+                <LastName>Al Tawel</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>35</Stamina>
+                <Club>Al-Khaleej</Club>
+                <DateOfBirth>10-02-1991</DateOfBirth>
+            </Player>
+            <Player id="11680">
+                <FirstName>Yousef</FirstName>
+                <LastName>Khamees</LastName>
+                <Position>LB</Position>
+                <Pace>55</Pace>
+                <Shooting>28</Shooting>
+                <Passing>32</Passing>
+                <Offensive>30</Offensive>
+                <Defensive>48</Defensive>
+                <Stamina>66</Stamina>
+                <Club>Al-Khaleej</Club>
+                <DateOfBirth>01-04-1990</DateOfBirth>
+            </Player>
+            <Player id="11695">
+                <FirstName>Abdullah</FirstName>
+                <LastName>Al Salem</LastName>
+                <Position>CDM</Position>
+                <Pace>43</Pace>
+                <Shooting>36</Shooting>
+                <Passing>42</Passing>
+                <Offensive>39</Offensive>
+                <Defensive>42</Defensive>
+                <Stamina>29</Stamina>
+                <Club>Al-Khaleej</Club>
+                <DateOfBirth>19-12-1992</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Najran FC">
+            <Player id="7315">
+                <FirstName>Hamad</FirstName>
+                <LastName>Al Rabaei</LastName>
+                <Position>LM</Position>
+                <Pace>76</Pace>
+                <Shooting>49</Shooting>
+                <Passing>63</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>52</Defensive>
+                <Stamina>65</Stamina>
+                <Club>Najran FC</Club>
+                <DateOfBirth>01-07-1981</DateOfBirth>
+            </Player>
+            <Player id="8054">
+                <FirstName>Mutab</FirstName>
+                <LastName>Salem</LastName>
+                <Position>ST</Position>
+                <Pace>81</Pace>
+                <Shooting>62</Shooting>
+                <Passing>40</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>63</Stamina>
+                <Club>Najran FC</Club>
+                <DateOfBirth>23-02-1991</DateOfBirth>
+            </Player>
+            <Player id="8792">
+                <FirstName>Mohammed</FirstName>
+                <LastName>Sharefi</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>33</Stamina>
+                <Club>Najran FC</Club>
+                <DateOfBirth>10-12-1978</DateOfBirth>
+            </Player>
+            <Player id="9384">
+                <FirstName>Hamad</FirstName>
+                <LastName>Al Sagour</LastName>
+                <Position>CB</Position>
+                <Pace>65</Pace>
+                <Shooting>40</Shooting>
+                <Passing>37</Passing>
+                <Offensive>38</Offensive>
+                <Defensive>54</Defensive>
+                <Stamina>34</Stamina>
+                <Club>Najran FC</Club>
+                <DateOfBirth>01-07-1979</DateOfBirth>
+            </Player>
+            <Player id="9531">
+                <FirstName>Majed</FirstName>
+                <LastName>Al Jafari</LastName>
+                <Position>CDM</Position>
+                <Pace>58</Pace>
+                <Shooting>44</Shooting>
+                <Passing>52</Passing>
+                <Offensive>48</Offensive>
+                <Defensive>57</Defensive>
+                <Stamina>64</Stamina>
+                <Club>Najran FC</Club>
+                <DateOfBirth>25-02-1986</DateOfBirth>
+            </Player>
+            <Player id="9532">
+                <FirstName>Awadh</FirstName>
+                <LastName>Khrees</LastName>
+                <Position>RB</Position>
+                <Pace>73</Pace>
+                <Shooting>43</Shooting>
+                <Passing>46</Passing>
+                <Offensive>44</Offensive>
+                <Defensive>54</Defensive>
+                <Stamina>94</Stamina>
+                <Club>Najran FC</Club>
+                <DateOfBirth>05-01-1991</DateOfBirth>
+            </Player>
+            <Player id="10241">
+                <FirstName>Abdulaziz</FirstName>
+                <LastName>Hamsal</LastName>
+                <Position>RB</Position>
+                <Pace>71</Pace>
+                <Shooting>54</Shooting>
+                <Passing>57</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>48</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Najran FC</Club>
+                <DateOfBirth>01-03-1987</DateOfBirth>
+            </Player>
+            <Player id="10757">
+                <FirstName>Saleh</FirstName>
+                <LastName>Dowes</LastName>
+                <Position>CDM</Position>
+                <Pace>81</Pace>
+                <Shooting>36</Shooting>
+                <Passing>47</Passing>
+                <Offensive>41</Offensive>
+                <Defensive>52</Defensive>
+                <Stamina>57</Stamina>
+                <Club>Najran FC</Club>
+                <DateOfBirth>24-04-1982</DateOfBirth>
+            </Player>
+            <Player id="10844">
+                <FirstName>Nawaf</FirstName>
+                <LastName>Al Sabhi</LastName>
+                <Position>CB</Position>
+                <Pace>64</Pace>
+                <Shooting>25</Shooting>
+                <Passing>33</Passing>
+                <Offensive>29</Offensive>
+                <Defensive>55</Defensive>
+                <Stamina>75</Stamina>
+                <Club>Najran FC</Club>
+                <DateOfBirth>09-06-1987</DateOfBirth>
+            </Player>
+            <Player id="11046">
+                <FirstName>Ali</FirstName>
+                <LastName>Dhawi</LastName>
+                <Position>ST</Position>
+                <Pace>57</Pace>
+                <Shooting>53</Shooting>
+                <Passing>50</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>24</Defensive>
+                <Stamina>33</Stamina>
+                <Club>Najran FC</Club>
+                <DateOfBirth>24-02-1984</DateOfBirth>
+            </Player>
+            <Player id="11101">
+                <FirstName>Marjaa</FirstName>
+                <LastName>Al Yami</LastName>
+                <Position>LB</Position>
+                <Pace>53</Pace>
+                <Shooting>27</Shooting>
+                <Passing>45</Passing>
+                <Offensive>36</Offensive>
+                <Defensive>56</Defensive>
+                <Stamina>61</Stamina>
+                <Club>Najran FC</Club>
+                <DateOfBirth>13-11-1983</DateOfBirth>
+            </Player>
+            <Player id="11108">
+                <FirstName>Mohmad</FirstName>
+                <LastName>Atiah</LastName>
+                <Position>ST</Position>
+                <Pace>69</Pace>
+                <Shooting>57</Shooting>
+                <Passing>38</Passing>
+                <Offensive>47</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>60</Stamina>
+                <Club>Najran FC</Club>
+                <DateOfBirth>15-06-1992</DateOfBirth>
+            </Player>
+            <Player id="11325">
+                <FirstName>Nasser</FirstName>
+                <LastName>Al Saieri</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>38</Stamina>
+                <Club>Najran FC</Club>
+                <DateOfBirth>01-08-1988</DateOfBirth>
+            </Player>
+            <Player id="11415">
+                <FirstName>Jafar</FirstName>
+                <LastName>Al Saeed</LastName>
+                <Position>CB</Position>
+                <Pace>45</Pace>
+                <Shooting>27</Shooting>
+                <Passing>26</Passing>
+                <Offensive>26</Offensive>
+                <Defensive>50</Defensive>
+                <Stamina>63</Stamina>
+                <Club>Najran FC</Club>
+                <DateOfBirth>11-02-1991</DateOfBirth>
+            </Player>
+            <Player id="11536">
+                <FirstName>Abdullah</FirstName>
+                <LastName>Al Jadani</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>42</Stamina>
+                <Club>Najran FC</Club>
+                <DateOfBirth>28-02-1992</DateOfBirth>
+            </Player>
+            <Player id="11552">
+                <FirstName>Ibrahim</FirstName>
+                <LastName>Al Htrsh</LastName>
+                <Position>CM</Position>
+                <Pace>56</Pace>
+                <Shooting>47</Shooting>
+                <Passing>52</Passing>
+                <Offensive>49</Offensive>
+                <Defensive>38</Defensive>
+                <Stamina>32</Stamina>
+                <Club>Najran FC</Club>
+                <DateOfBirth>06-04-1985</DateOfBirth>
+            </Player>
+            <Player id="11661">
+                <FirstName>Majed</FirstName>
+                <LastName>Al Khaibary</LastName>
+                <Position>LB</Position>
+                <Pace>51</Pace>
+                <Shooting>27</Shooting>
+                <Passing>31</Passing>
+                <Offensive>29</Offensive>
+                <Defensive>50</Defensive>
+                <Stamina>61</Stamina>
+                <Club>Najran FC</Club>
+                <DateOfBirth>24-09-1991</DateOfBirth>
+            </Player>
+        </Team>
+    </League>
+</Players>

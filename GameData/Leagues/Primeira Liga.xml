@@ -1,0 +1,3642 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Players>
+    <League Name="Primeira Liga">
+        <Team Name="FC Porto">
+            <Player id="28">
+                <FirstName>Jackson</FirstName>
+                <LastName>Martínez</LastName>
+                <Position>ST</Position>
+                <Pace>82</Pace>
+                <Shooting>81</Shooting>
+                <Passing>66</Passing>
+                <Offensive>73</Offensive>
+                <Defensive>43</Defensive>
+                <Stamina>84</Stamina>
+                <Club>FC Porto</Club>
+                <DateOfBirth>03-10-1986</DateOfBirth>
+            </Player>
+            <Player id="476">
+                <FirstName>Daniel</FirstName>
+                <LastName>Opare</LastName>
+                <Position>RB</Position>
+                <Pace>90</Pace>
+                <Shooting>49</Shooting>
+                <Passing>62</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>67</Defensive>
+                <Stamina>88</Stamina>
+                <Club>FC Porto</Club>
+                <DateOfBirth>18-10-1990</DateOfBirth>
+            </Player>
+            <Player id="1349">
+                <FirstName>Ricardo Andrade</FirstName>
+                <LastName>Quaresma Bernardo</LastName>
+                <Position>RW</Position>
+                <Pace>84</Pace>
+                <Shooting>74</Shooting>
+                <Passing>77</Passing>
+                <Offensive>75</Offensive>
+                <Defensive>27</Defensive>
+                <Stamina>68</Stamina>
+                <Club>FC Porto</Club>
+                <DateOfBirth>26-09-1983</DateOfBirth>
+            </Player>
+            <Player id="1591">
+                <FirstName>José</FirstName>
+                <LastName>Gómez Campaña</LastName>
+                <Position>CM</Position>
+                <Pace>66</Pace>
+                <Shooting>61</Shooting>
+                <Passing>70</Passing>
+                <Offensive>65</Offensive>
+                <Defensive>49</Defensive>
+                <Stamina>70</Stamina>
+                <Club>FC Porto</Club>
+                <DateOfBirth>31-05-1993</DateOfBirth>
+            </Player>
+            <Player id="2692">
+                <FirstName>Helton</FirstName>
+                <LastName>da Silva Arruda</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>43</Stamina>
+                <Club>FC Porto</Club>
+                <DateOfBirth>18-05-1978</DateOfBirth>
+            </Player>
+            <Player id="2972">
+                <FirstName>Danilo Luiz</FirstName>
+                <LastName>da Silva</LastName>
+                <Position>RB</Position>
+                <Pace>81</Pace>
+                <Shooting>77</Shooting>
+                <Passing>78</Passing>
+                <Offensive>77</Offensive>
+                <Defensive>80</Defensive>
+                <Stamina>80</Stamina>
+                <Club>FC Porto</Club>
+                <DateOfBirth>15-07-1991</DateOfBirth>
+            </Player>
+            <Player id="3539">
+                <FirstName>Ricardo D.</FirstName>
+                <LastName>Barbosa Pereira</LastName>
+                <Position>RB</Position>
+                <Pace>77</Pace>
+                <Shooting>62</Shooting>
+                <Passing>62</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>72</Stamina>
+                <Club>FC Porto</Club>
+                <DateOfBirth>06-10-1993</DateOfBirth>
+            </Player>
+            <Player id="3767">
+                <FirstName>Alex Sandro</FirstName>
+                <LastName>Lobo Silva</LastName>
+                <Position>LB</Position>
+                <Pace>84</Pace>
+                <Shooting>64</Shooting>
+                <Passing>74</Passing>
+                <Offensive>69</Offensive>
+                <Defensive>77</Defensive>
+                <Stamina>86</Stamina>
+                <Club>FC Porto</Club>
+                <DateOfBirth>26-01-1991</DateOfBirth>
+            </Player>
+            <Player id="4013">
+                <FirstName>Yacine</FirstName>
+                <LastName>Brahimi</LastName>
+                <Position>CAM</Position>
+                <Pace>78</Pace>
+                <Shooting>66</Shooting>
+                <Passing>79</Passing>
+                <Offensive>72</Offensive>
+                <Defensive>41</Defensive>
+                <Stamina>72</Stamina>
+                <Club>FC Porto</Club>
+                <DateOfBirth>08-02-1990</DateOfBirth>
+            </Player>
+            <Player id="4030">
+                <FirstName>Rolando Jorge</FirstName>
+                <LastName>Pires da Fonseca</LastName>
+                <Position>CB</Position>
+                <Pace>39</Pace>
+                <Shooting>43</Shooting>
+                <Passing>56</Passing>
+                <Offensive>49</Offensive>
+                <Defensive>81</Defensive>
+                <Stamina>59</Stamina>
+                <Club>FC Porto</Club>
+                <DateOfBirth>31-08-1985</DateOfBirth>
+            </Player>
+            <Player id="4288">
+                <FirstName>Juan Fernando</FirstName>
+                <LastName>Quintero</LastName>
+                <Position>CAM</Position>
+                <Pace>75</Pace>
+                <Shooting>70</Shooting>
+                <Passing>75</Passing>
+                <Offensive>72</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>55</Stamina>
+                <Club>FC Porto</Club>
+                <DateOfBirth>18-01-1993</DateOfBirth>
+            </Player>
+            <Player id="5362">
+                <FirstName>Cristian</FirstName>
+                <LastName>Tello Herrera</LastName>
+                <Position>RW</Position>
+                <Pace>89</Pace>
+                <Shooting>72</Shooting>
+                <Passing>70</Passing>
+                <Offensive>71</Offensive>
+                <Defensive>26</Defensive>
+                <Stamina>76</Stamina>
+                <Club>FC Porto</Club>
+                <DateOfBirth>19-08-1991</DateOfBirth>
+            </Player>
+            <Player id="5893">
+                <FirstName>Maicon</FirstName>
+                <LastName>Pereira Roque</LastName>
+                <Position>CB</Position>
+                <Pace>52</Pace>
+                <Shooting>47</Shooting>
+                <Passing>61</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>78</Defensive>
+                <Stamina>73</Stamina>
+                <Club>FC Porto</Club>
+                <DateOfBirth>14-09-1988</DateOfBirth>
+            </Player>
+            <Player id="7484">
+                <FirstName>Andrés Eduardo</FirstName>
+                <LastName>Fernández Moreno</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>43</Stamina>
+                <Club>FC Porto</Club>
+                <DateOfBirth>16-12-1986</DateOfBirth>
+            </Player>
+            <Player id="8017">
+                <FirstName>Ricardo Jorge</FirstName>
+                <LastName>Novo Nunes</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>41</Stamina>
+                <Club>FC Porto</Club>
+                <DateOfBirth>06-07-1982</DateOfBirth>
+            </Player>
+            <Player id="9092">
+                <FirstName>Héctor</FirstName>
+                <LastName>Herrera</LastName>
+                <Position>CM</Position>
+                <Pace>73</Pace>
+                <Shooting>66</Shooting>
+                <Passing>73</Passing>
+                <Offensive>69</Offensive>
+                <Defensive>67</Defensive>
+                <Stamina>87</Stamina>
+                <Club>FC Porto</Club>
+                <DateOfBirth>19-04-1990</DateOfBirth>
+            </Player>
+            <Player id="9604">
+                <FirstName>Vincent</FirstName>
+                <LastName>Aboubakar</LastName>
+                <Position>ST</Position>
+                <Pace>85</Pace>
+                <Shooting>77</Shooting>
+                <Passing>56</Passing>
+                <Offensive>66</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>73</Stamina>
+                <Club>FC Porto</Club>
+                <DateOfBirth>22-01-1992</DateOfBirth>
+            </Player>
+            <Player id="9607">
+                <FirstName>Carlos Henrique</FirstName>
+                <LastName>Venancio Casimiro</LastName>
+                <Position>CDM</Position>
+                <Pace>66</Pace>
+                <Shooting>66</Shooting>
+                <Passing>71</Passing>
+                <Offensive>68</Offensive>
+                <Defensive>73</Defensive>
+                <Stamina>80</Stamina>
+                <Club>FC Porto</Club>
+                <DateOfBirth>23-02-1992</DateOfBirth>
+            </Player>
+            <Player id="10405">
+                <FirstName>Bruno</FirstName>
+                <LastName>Martins Indi</LastName>
+                <Position>CB</Position>
+                <Pace>68</Pace>
+                <Shooting>47</Shooting>
+                <Passing>58</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>76</Defensive>
+                <Stamina>70</Stamina>
+                <Club>FC Porto</Club>
+                <DateOfBirth>08-02-1992</DateOfBirth>
+            </Player>
+            <Player id="11213">
+                <FirstName>Fabiano</FirstName>
+                <LastName>Ribeiro de Freitas</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>42</Stamina>
+                <Club>FC Porto</Club>
+                <DateOfBirth>29-02-1988</DateOfBirth>
+            </Player>
+            <Player id="11967">
+                <FirstName>Evandro</FirstName>
+                <LastName>Goebel</LastName>
+                <Position>CM</Position>
+                <Pace>67</Pace>
+                <Shooting>72</Shooting>
+                <Passing>75</Passing>
+                <Offensive>73</Offensive>
+                <Defensive>56</Defensive>
+                <Stamina>71</Stamina>
+                <Club>FC Porto</Club>
+                <DateOfBirth>23-08-1986</DateOfBirth>
+            </Player>
+            <Player id="12356">
+                <FirstName>Kelvin Mateus</FirstName>
+                <LastName>de Oliveira</LastName>
+                <Position>RW</Position>
+                <Pace>82</Pace>
+                <Shooting>65</Shooting>
+                <Passing>64</Passing>
+                <Offensive>64</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>59</Stamina>
+                <Club>FC Porto</Club>
+                <DateOfBirth>01-06-1993</DateOfBirth>
+            </Player>
+            <Player id="12538">
+                <FirstName>Iván</FirstName>
+                <LastName>Marcano Sierra</LastName>
+                <Position>CB</Position>
+                <Pace>71</Pace>
+                <Shooting>46</Shooting>
+                <Passing>67</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>74</Defensive>
+                <Stamina>73</Stamina>
+                <Club>FC Porto</Club>
+                <DateOfBirth>11-05-1986</DateOfBirth>
+            </Player>
+            <Player id="12899">
+                <FirstName>José Ángel</FirstName>
+                <LastName>Valdés Díaz</LastName>
+                <Position>LB</Position>
+                <Pace>77</Pace>
+                <Shooting>49</Shooting>
+                <Passing>66</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>70</Defensive>
+                <Stamina>79</Stamina>
+                <Club>FC Porto</Club>
+                <DateOfBirth>05-09-1989</DateOfBirth>
+            </Player>
+            <Player id="12904">
+                <FirstName>Diego</FirstName>
+                <LastName>Reyes</LastName>
+                <Position>CB</Position>
+                <Pace>69</Pace>
+                <Shooting>48</Shooting>
+                <Passing>58</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>75</Defensive>
+                <Stamina>75</Stamina>
+                <Club>FC Porto</Club>
+                <DateOfBirth>19-09-1992</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Sport Lisboa Benfica">
+            <Player id="30">
+                <FirstName>Júlio César</FirstName>
+                <LastName>Soares Espíndola</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>35</Stamina>
+                <Club>Sport Lisboa Benfica</Club>
+                <DateOfBirth>03-09-1979</DateOfBirth>
+            </Player>
+            <Player id="184">
+                <FirstName>André Gomes</FirstName>
+                <LastName>M. de Almeida</LastName>
+                <Position>RB</Position>
+                <Pace>68</Pace>
+                <Shooting>51</Shooting>
+                <Passing>68</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>72</Defensive>
+                <Stamina>75</Stamina>
+                <Club>Sport Lisboa Benfica</Club>
+                <DateOfBirth>10-09-1990</DateOfBirth>
+            </Player>
+            <Player id="307">
+                <FirstName>Nicolás</FirstName>
+                <LastName>Gaitán</LastName>
+                <Position>LM</Position>
+                <Pace>83</Pace>
+                <Shooting>74</Shooting>
+                <Passing>81</Passing>
+                <Offensive>77</Offensive>
+                <Defensive>38</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Sport Lisboa Benfica</Club>
+                <DateOfBirth>23-02-1988</DateOfBirth>
+            </Player>
+            <Player id="709">
+                <FirstName>Anderson</FirstName>
+                <LastName>Souza Conceição</LastName>
+                <Position>CAM</Position>
+                <Pace>71</Pace>
+                <Shooting>66</Shooting>
+                <Passing>72</Passing>
+                <Offensive>69</Offensive>
+                <Defensive>50</Defensive>
+                <Stamina>73</Stamina>
+                <Club>Sport Lisboa Benfica</Club>
+                <DateOfBirth>01-02-1994</DateOfBirth>
+            </Player>
+            <Player id="1072">
+                <FirstName>Bryan</FirstName>
+                <LastName>Cristante</LastName>
+                <Position>CM</Position>
+                <Pace>62</Pace>
+                <Shooting>55</Shooting>
+                <Passing>71</Passing>
+                <Offensive>63</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>68</Stamina>
+                <Club>Sport Lisboa Benfica</Club>
+                <DateOfBirth>03-03-1995</DateOfBirth>
+            </Player>
+            <Player id="1089">
+                <FirstName>Anderson Luís</FirstName>
+                <LastName>da Silva</LastName>
+                <Position>CB</Position>
+                <Pace>39</Pace>
+                <Shooting>53</Shooting>
+                <Passing>59</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>84</Defensive>
+                <Stamina>47</Stamina>
+                <Club>Sport Lisboa Benfica</Club>
+                <DateOfBirth>13-02-1981</DateOfBirth>
+            </Player>
+            <Player id="1191">
+                <FirstName>Franco</FirstName>
+                <LastName>Jara</LastName>
+                <Position>ST</Position>
+                <Pace>78</Pace>
+                <Shooting>70</Shooting>
+                <Passing>65</Passing>
+                <Offensive>67</Offensive>
+                <Defensive>32</Defensive>
+                <Stamina>66</Stamina>
+                <Club>Sport Lisboa Benfica</Club>
+                <DateOfBirth>15-07-1988</DateOfBirth>
+            </Player>
+            <Player id="1892">
+                <FirstName>Enzo</FirstName>
+                <LastName>Pérez</LastName>
+                <Position>CM</Position>
+                <Pace>80</Pace>
+                <Shooting>73</Shooting>
+                <Passing>78</Passing>
+                <Offensive>75</Offensive>
+                <Defensive>74</Defensive>
+                <Stamina>88</Stamina>
+                <Club>Sport Lisboa Benfica</Club>
+                <DateOfBirth>22-02-1986</DateOfBirth>
+            </Player>
+            <Player id="2417">
+                <FirstName>Rodrigo José</FirstName>
+                <LastName>Lima dos Santos</LastName>
+                <Position>ST</Position>
+                <Pace>78</Pace>
+                <Shooting>85</Shooting>
+                <Passing>73</Passing>
+                <Offensive>79</Offensive>
+                <Defensive>44</Defensive>
+                <Stamina>77</Stamina>
+                <Club>Sport Lisboa Benfica</Club>
+                <DateOfBirth>11-08-1983</DateOfBirth>
+            </Player>
+            <Player id="3164">
+                <FirstName>João Rafael</FirstName>
+                <LastName>Brito Teixeira</LastName>
+                <Position>CM</Position>
+                <Pace>66</Pace>
+                <Shooting>53</Shooting>
+                <Passing>62</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>59</Defensive>
+                <Stamina>75</Stamina>
+                <Club>Sport Lisboa Benfica</Club>
+                <DateOfBirth>06-02-1994</DateOfBirth>
+            </Player>
+            <Player id="3239">
+                <FirstName>Eduardo</FirstName>
+                <LastName>Salvio</LastName>
+                <Position>RM</Position>
+                <Pace>88</Pace>
+                <Shooting>73</Shooting>
+                <Passing>73</Passing>
+                <Offensive>73</Offensive>
+                <Defensive>43</Defensive>
+                <Stamina>74</Stamina>
+                <Club>Sport Lisboa Benfica</Club>
+                <DateOfBirth>13-07-1990</DateOfBirth>
+            </Player>
+            <Player id="5236">
+                <FirstName>Gonçalo Manuel</FirstName>
+                <LastName>Ganchinho Guedes</LastName>
+                <Position>LM</Position>
+                <Pace>79</Pace>
+                <Shooting>61</Shooting>
+                <Passing>58</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>60</Stamina>
+                <Club>Sport Lisboa Benfica</Club>
+                <DateOfBirth>29-11-1996</DateOfBirth>
+            </Player>
+            <Player id="6421">
+                <FirstName>Maximiliano</FirstName>
+                <LastName>Pereira</LastName>
+                <Position>RB</Position>
+                <Pace>73</Pace>
+                <Shooting>68</Shooting>
+                <Passing>73</Passing>
+                <Offensive>70</Offensive>
+                <Defensive>76</Defensive>
+                <Stamina>84</Stamina>
+                <Club>Sport Lisboa Benfica</Club>
+                <DateOfBirth>08-06-1984</DateOfBirth>
+            </Player>
+            <Player id="6945">
+                <FirstName>Ruben Filipe</FirstName>
+                <LastName>Marques Amorim</LastName>
+                <Position>CM</Position>
+                <Pace>66</Pace>
+                <Shooting>68</Shooting>
+                <Passing>77</Passing>
+                <Offensive>72</Offensive>
+                <Defensive>73</Defensive>
+                <Stamina>77</Stamina>
+                <Club>Sport Lisboa Benfica</Club>
+                <DateOfBirth>27-01-1985</DateOfBirth>
+            </Player>
+            <Player id="7479">
+                <FirstName>Artur Guilherme</FirstName>
+                <LastName>Moraes Gusmão</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>42</Stamina>
+                <Club>Sport Lisboa Benfica</Club>
+                <DateOfBirth>25-01-1981</DateOfBirth>
+            </Player>
+            <Player id="8038">
+                <FirstName>Luis Miguel</FirstName>
+                <LastName>Afonso Fernandes</LastName>
+                <Position>CAM</Position>
+                <Pace>82</Pace>
+                <Shooting>73</Shooting>
+                <Passing>72</Passing>
+                <Offensive>72</Offensive>
+                <Defensive>32</Defensive>
+                <Stamina>75</Stamina>
+                <Club>Sport Lisboa Benfica</Club>
+                <DateOfBirth>06-10-1989</DateOfBirth>
+            </Player>
+            <Player id="8303">
+                <FirstName>Eliseu</FirstName>
+                <LastName>Pereira dos Santos</LastName>
+                <Position>LB</Position>
+                <Pace>87</Pace>
+                <Shooting>71</Shooting>
+                <Passing>71</Passing>
+                <Offensive>71</Offensive>
+                <Defensive>71</Defensive>
+                <Stamina>91</Stamina>
+                <Club>Sport Lisboa Benfica</Club>
+                <DateOfBirth>01-10-1983</DateOfBirth>
+            </Player>
+            <Player id="8564">
+                <FirstName>Jardel</FirstName>
+                <LastName>Nivaldo Vieira</LastName>
+                <Position>CB</Position>
+                <Pace>61</Pace>
+                <Shooting>43</Shooting>
+                <Passing>51</Passing>
+                <Offensive>47</Offensive>
+                <Defensive>77</Defensive>
+                <Stamina>69</Stamina>
+                <Club>Sport Lisboa Benfica</Club>
+                <DateOfBirth>29-03-1986</DateOfBirth>
+            </Player>
+            <Player id="9616">
+                <FirstName>Sílvio Manuel</FirstName>
+                <LastName>Azevedo Ferreira</LastName>
+                <Position>RB</Position>
+                <Pace>76</Pace>
+                <Shooting>62</Shooting>
+                <Passing>70</Passing>
+                <Offensive>66</Offensive>
+                <Defensive>73</Defensive>
+                <Stamina>85</Stamina>
+                <Club>Sport Lisboa Benfica</Club>
+                <DateOfBirth>28-09-1987</DateOfBirth>
+            </Player>
+            <Player id="10152">
+                <FirstName>Ljubomir</FirstName>
+                <LastName>Fejsa</LastName>
+                <Position>CDM</Position>
+                <Pace>67</Pace>
+                <Shooting>61</Shooting>
+                <Passing>67</Passing>
+                <Offensive>64</Offensive>
+                <Defensive>76</Defensive>
+                <Stamina>81</Stamina>
+                <Club>Sport Lisboa Benfica</Club>
+                <DateOfBirth>14-08-1988</DateOfBirth>
+            </Player>
+            <Player id="11786">
+                <FirstName>Vanderley</FirstName>
+                <LastName>Dias Marinho</LastName>
+                <Position>ST</Position>
+                <Pace>73</Pace>
+                <Shooting>75</Shooting>
+                <Passing>58</Passing>
+                <Offensive>66</Offensive>
+                <Defensive>33</Defensive>
+                <Stamina>77</Stamina>
+                <Club>Sport Lisboa Benfica</Club>
+                <DateOfBirth>29-12-1987</DateOfBirth>
+            </Player>
+            <Player id="11793">
+                <FirstName>Miralem</FirstName>
+                <LastName>Sulejmani</LastName>
+                <Position>LM</Position>
+                <Pace>81</Pace>
+                <Shooting>70</Shooting>
+                <Passing>71</Passing>
+                <Offensive>70</Offensive>
+                <Defensive>31</Defensive>
+                <Stamina>58</Stamina>
+                <Club>Sport Lisboa Benfica</Club>
+                <DateOfBirth>05-12-1988</DateOfBirth>
+            </Player>
+            <Player id="12021">
+                <FirstName>Ola</FirstName>
+                <LastName>John</LastName>
+                <Position>LM</Position>
+                <Pace>84</Pace>
+                <Shooting>65</Shooting>
+                <Passing>71</Passing>
+                <Offensive>68</Offensive>
+                <Defensive>27</Defensive>
+                <Stamina>67</Stamina>
+                <Club>Sport Lisboa Benfica</Club>
+                <DateOfBirth>19-05-1992</DateOfBirth>
+            </Player>
+            <Player id="12036">
+                <FirstName>Lisandro</FirstName>
+                <LastName>López</LastName>
+                <Position>CB</Position>
+                <Pace>64</Pace>
+                <Shooting>52</Shooting>
+                <Passing>45</Passing>
+                <Offensive>48</Offensive>
+                <Defensive>77</Defensive>
+                <Stamina>67</Stamina>
+                <Club>Sport Lisboa Benfica</Club>
+                <DateOfBirth>01-09-1989</DateOfBirth>
+            </Player>
+            <Player id="12245">
+                <FirstName>Tiago Manuel</FirstName>
+                <LastName>Dias Correia</LastName>
+                <Position>ST</Position>
+                <Pace>81</Pace>
+                <Shooting>74</Shooting>
+                <Passing>60</Passing>
+                <Offensive>67</Offensive>
+                <Defensive>27</Defensive>
+                <Stamina>76</Stamina>
+                <Club>Sport Lisboa Benfica</Club>
+                <DateOfBirth>12-07-1990</DateOfBirth>
+            </Player>
+            <Player id="12322">
+                <FirstName>Andreas</FirstName>
+                <LastName>Samaris</LastName>
+                <Position>CDM</Position>
+                <Pace>65</Pace>
+                <Shooting>66</Shooting>
+                <Passing>76</Passing>
+                <Offensive>71</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>76</Stamina>
+                <Club>Sport Lisboa Benfica</Club>
+                <DateOfBirth>13-06-1989</DateOfBirth>
+            </Player>
+            <Player id="12905">
+                <FirstName>Steven</FirstName>
+                <LastName>de Sousa Vitória</LastName>
+                <Position>CB</Position>
+                <Pace>42</Pace>
+                <Shooting>57</Shooting>
+                <Passing>52</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>74</Defensive>
+                <Stamina>66</Stamina>
+                <Club>Sport Lisboa Benfica</Club>
+                <DateOfBirth>11-01-1987</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Paços Ferreira">
+            <Player id="49">
+                <FirstName>Sérgio Miguel</FirstName>
+                <LastName>Relvas de Oliveira</LastName>
+                <Position>CAM</Position>
+                <Pace>65</Pace>
+                <Shooting>70</Shooting>
+                <Passing>74</Passing>
+                <Offensive>72</Offensive>
+                <Defensive>47</Defensive>
+                <Stamina>58</Stamina>
+                <Club>Paços Ferreira</Club>
+                <DateOfBirth>02-06-1992</DateOfBirth>
+            </Player>
+            <Player id="705">
+                <FirstName>Paolo</FirstName>
+                <LastName>Hurtado</LastName>
+                <Position>LW</Position>
+                <Pace>83</Pace>
+                <Shooting>70</Shooting>
+                <Passing>63</Passing>
+                <Offensive>66</Offensive>
+                <Defensive>50</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Paços Ferreira</Club>
+                <DateOfBirth>27-07-1990</DateOfBirth>
+            </Player>
+            <Player id="1048">
+                <FirstName>Jean Michaël</FirstName>
+                <LastName>Seri</LastName>
+                <Position>CM</Position>
+                <Pace>77</Pace>
+                <Shooting>56</Shooting>
+                <Passing>65</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>78</Stamina>
+                <Club>Paços Ferreira</Club>
+                <DateOfBirth>19-07-1991</DateOfBirth>
+            </Player>
+            <Player id="1864">
+                <FirstName>Ricardo Jorge</FirstName>
+                <LastName>Ferreira P. Silva</LastName>
+                <Position>CB</Position>
+                <Pace>65</Pace>
+                <Shooting>32</Shooting>
+                <Passing>53</Passing>
+                <Offensive>42</Offensive>
+                <Defensive>68</Defensive>
+                <Stamina>44</Stamina>
+                <Club>Paços Ferreira</Club>
+                <DateOfBirth>19-08-1980</DateOfBirth>
+            </Player>
+            <Player id="2330">
+                <FirstName>Manuel José</FirstName>
+                <LastName>Azevedo Vieira</LastName>
+                <Position>RM</Position>
+                <Pace>64</Pace>
+                <Shooting>68</Shooting>
+                <Passing>68</Passing>
+                <Offensive>68</Offensive>
+                <Defensive>51</Defensive>
+                <Stamina>62</Stamina>
+                <Club>Paços Ferreira</Club>
+                <DateOfBirth>04-02-1981</DateOfBirth>
+            </Player>
+            <Player id="2862">
+                <FirstName>Rodrigo</FirstName>
+                <LastName>Galo Brito</LastName>
+                <Position>RB</Position>
+                <Pace>78</Pace>
+                <Shooting>63</Shooting>
+                <Passing>64</Passing>
+                <Offensive>63</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>74</Stamina>
+                <Club>Paços Ferreira</Club>
+                <DateOfBirth>19-09-1986</DateOfBirth>
+            </Player>
+            <Player id="4087">
+                <FirstName>Hélder Filipe</FirstName>
+                <LastName>Oliveira Lopes</LastName>
+                <Position>LB</Position>
+                <Pace>81</Pace>
+                <Shooting>58</Shooting>
+                <Passing>62</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>74</Stamina>
+                <Club>Paços Ferreira</Club>
+                <DateOfBirth>04-01-1989</DateOfBirth>
+            </Player>
+            <Player id="4776">
+                <FirstName>Nélson Miguel</FirstName>
+                <LastName>Martins Pedroso</LastName>
+                <Position>LB</Position>
+                <Pace>76</Pace>
+                <Shooting>55</Shooting>
+                <Passing>61</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>80</Stamina>
+                <Club>Paços Ferreira</Club>
+                <DateOfBirth>18-06-1985</DateOfBirth>
+            </Player>
+            <Player id="5560">
+                <FirstName>Filipe</FirstName>
+                <LastName>Dias Anunciação</LastName>
+                <Position>CDM</Position>
+                <Pace>50</Pace>
+                <Shooting>48</Shooting>
+                <Passing>63</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>32</Stamina>
+                <Club>Paços Ferreira</Club>
+                <DateOfBirth>27-05-1979</DateOfBirth>
+            </Player>
+            <Player id="6008">
+                <FirstName>Ricardo José</FirstName>
+                <LastName>Araújo Ferreira</LastName>
+                <Position>CB</Position>
+                <Pace>60</Pace>
+                <Shooting>28</Shooting>
+                <Passing>37</Passing>
+                <Offensive>32</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>54</Stamina>
+                <Club>Paços Ferreira</Club>
+                <DateOfBirth>25-11-1992</DateOfBirth>
+            </Player>
+            <Player id="6198">
+                <FirstName>António Filipe</FirstName>
+                <LastName>Norinho de Carvalho</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>33</Stamina>
+                <Club>Paços Ferreira</Club>
+                <DateOfBirth>14-04-1985</DateOfBirth>
+            </Player>
+            <Player id="7356">
+                <FirstName>Jaílson</FirstName>
+                <LastName>de Lima Araújo</LastName>
+                <Position>RB</Position>
+                <Pace>74</Pace>
+                <Shooting>32</Shooting>
+                <Passing>48</Passing>
+                <Offensive>40</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>66</Stamina>
+                <Club>Paços Ferreira</Club>
+                <DateOfBirth>21-01-1991</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="CD Nacional">
+            <Player id="52">
+                <FirstName>Marco André</FirstName>
+                <LastName>Silva Lopes Matias</LastName>
+                <Position>RW</Position>
+                <Pace>84</Pace>
+                <Shooting>66</Shooting>
+                <Passing>65</Passing>
+                <Offensive>65</Offensive>
+                <Defensive>31</Defensive>
+                <Stamina>66</Stamina>
+                <Club>CD Nacional</Club>
+                <DateOfBirth>10-05-1989</DateOfBirth>
+            </Player>
+            <Player id="523">
+                <FirstName>Saleh</FirstName>
+                <LastName>Gomaa</LastName>
+                <Position>CM</Position>
+                <Pace>77</Pace>
+                <Shooting>60</Shooting>
+                <Passing>73</Passing>
+                <Offensive>66</Offensive>
+                <Defensive>56</Defensive>
+                <Stamina>77</Stamina>
+                <Club>CD Nacional</Club>
+                <DateOfBirth>01-08-1993</DateOfBirth>
+            </Player>
+            <Player id="647">
+                <FirstName>Eduardo</FirstName>
+                <LastName>Gottardi</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>35</Stamina>
+                <Club>CD Nacional</Club>
+                <DateOfBirth>18-10-1985</DateOfBirth>
+            </Player>
+            <Player id="814">
+                <FirstName>João Miguel</FirstName>
+                <LastName>Coimbra Aurélio</LastName>
+                <Position>CM</Position>
+                <Pace>68</Pace>
+                <Shooting>61</Shooting>
+                <Passing>70</Passing>
+                <Offensive>65</Offensive>
+                <Defensive>67</Defensive>
+                <Stamina>81</Stamina>
+                <Club>CD Nacional</Club>
+                <DateOfBirth>17-08-1988</DateOfBirth>
+            </Player>
+            <Player id="1411">
+                <FirstName>Zainadine</FirstName>
+                <LastName>Chavango Júnior</LastName>
+                <Position>RB</Position>
+                <Pace>70</Pace>
+                <Shooting>38</Shooting>
+                <Passing>55</Passing>
+                <Offensive>46</Offensive>
+                <Defensive>70</Defensive>
+                <Stamina>78</Stamina>
+                <Club>CD Nacional</Club>
+                <DateOfBirth>24-06-1988</DateOfBirth>
+            </Player>
+            <Player id="2289">
+                <FirstName>Hyun Jun</FirstName>
+                <LastName>Suk</LastName>
+                <Position>ST</Position>
+                <Pace>67</Pace>
+                <Shooting>68</Shooting>
+                <Passing>53</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>33</Defensive>
+                <Stamina>80</Stamina>
+                <Club>CD Nacional</Club>
+                <DateOfBirth>29-06-1991</DateOfBirth>
+            </Player>
+            <Player id="3032">
+                <FirstName>Lucas Eduardo</FirstName>
+                <LastName>Santos João</LastName>
+                <Position>ST</Position>
+                <Pace>76</Pace>
+                <Shooting>66</Shooting>
+                <Passing>48</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>67</Stamina>
+                <Club>CD Nacional</Club>
+                <DateOfBirth>04-09-1993</DateOfBirth>
+            </Player>
+            <Player id="5461">
+                <FirstName>Dejan</FirstName>
+                <LastName>Školnik</LastName>
+                <Position>CM</Position>
+                <Pace>69</Pace>
+                <Shooting>63</Shooting>
+                <Passing>66</Passing>
+                <Offensive>64</Offensive>
+                <Defensive>46</Defensive>
+                <Stamina>69</Stamina>
+                <Club>CD Nacional</Club>
+                <DateOfBirth>01-01-1989</DateOfBirth>
+            </Player>
+            <Player id="7132">
+                <FirstName>Sebastián</FirstName>
+                <LastName>Ayala</LastName>
+                <Position>CM</Position>
+                <Pace>69</Pace>
+                <Shooting>45</Shooting>
+                <Passing>57</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>54</Defensive>
+                <Stamina>82</Stamina>
+                <Club>CD Nacional</Club>
+                <DateOfBirth>14-09-1995</DateOfBirth>
+            </Player>
+            <Player id="7353">
+                <FirstName>Nuno Miguel</FirstName>
+                <LastName>Jerónimo Sequeira</LastName>
+                <Position>LB</Position>
+                <Pace>65</Pace>
+                <Shooting>54</Shooting>
+                <Passing>53</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>66</Stamina>
+                <Club>CD Nacional</Club>
+                <DateOfBirth>19-08-1990</DateOfBirth>
+            </Player>
+            <Player id="8059">
+                <FirstName>Nuno Vieira</FirstName>
+                <LastName>Campos</LastName>
+                <Position>RB</Position>
+                <Pace>70</Pace>
+                <Shooting>34</Shooting>
+                <Passing>48</Passing>
+                <Offensive>41</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>70</Stamina>
+                <Club>CD Nacional</Club>
+                <DateOfBirth>13-06-1993</DateOfBirth>
+            </Player>
+            <Player id="8707">
+                <FirstName>Rui Tiago</FirstName>
+                <LastName>Dantas da Silva</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>27</Stamina>
+                <Club>CD Nacional</Club>
+                <DateOfBirth>07-02-1994</DateOfBirth>
+            </Player>
+            <Player id="8797">
+                <FirstName>Luís Edgar</FirstName>
+                <LastName>Fernandes Abreu</LastName>
+                <Position>CAM</Position>
+                <Pace>72</Pace>
+                <Shooting>46</Shooting>
+                <Passing>57</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>46</Defensive>
+                <Stamina>59</Stamina>
+                <Club>CD Nacional</Club>
+                <DateOfBirth>16-02-1994</DateOfBirth>
+            </Player>
+            <Player id="11810">
+                <FirstName>Mario Junior</FirstName>
+                <LastName>Rondón Fernández</LastName>
+                <Position>RW</Position>
+                <Pace>79</Pace>
+                <Shooting>70</Shooting>
+                <Passing>67</Passing>
+                <Offensive>68</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>74</Stamina>
+                <Club>CD Nacional</Club>
+                <DateOfBirth>26-03-1986</DateOfBirth>
+            </Player>
+            <Player id="12367">
+                <FirstName>Fernando</FirstName>
+                <LastName>Marçal de Oliveira</LastName>
+                <Position>LB</Position>
+                <Pace>82</Pace>
+                <Shooting>58</Shooting>
+                <Passing>63</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>69</Defensive>
+                <Stamina>86</Stamina>
+                <Club>CD Nacional</Club>
+                <DateOfBirth>19-02-1989</DateOfBirth>
+            </Player>
+            <Player id="12371">
+                <FirstName>Miguel Fernando</FirstName>
+                <LastName>Pereira Rodrigues</LastName>
+                <Position>CB</Position>
+                <Pace>65</Pace>
+                <Shooting>33</Shooting>
+                <Passing>46</Passing>
+                <Offensive>39</Offensive>
+                <Defensive>75</Defensive>
+                <Stamina>65</Stamina>
+                <Club>CD Nacional</Club>
+                <DateOfBirth>16-03-1993</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="CS Marítimo">
+            <Player id="54">
+                <FirstName>Danilo Luís</FirstName>
+                <LastName>Hélio Pereira</LastName>
+                <Position>CDM</Position>
+                <Pace>67</Pace>
+                <Shooting>54</Shooting>
+                <Passing>61</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>74</Defensive>
+                <Stamina>79</Stamina>
+                <Club>CS Marítimo</Club>
+                <DateOfBirth>09-09-1991</DateOfBirth>
+            </Player>
+            <Player id="65">
+                <FirstName>Rúben Rafael</FirstName>
+                <LastName>Sousa Ferreira</LastName>
+                <Position>LB</Position>
+                <Pace>71</Pace>
+                <Shooting>44</Shooting>
+                <Passing>66</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>71</Defensive>
+                <Stamina>90</Stamina>
+                <Club>CS Marítimo</Club>
+                <DateOfBirth>17-02-1990</DateOfBirth>
+            </Player>
+            <Player id="761">
+                <FirstName>Romain</FirstName>
+                <LastName>Salin</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>38</Stamina>
+                <Club>CS Marítimo</Club>
+                <DateOfBirth>29-07-1984</DateOfBirth>
+            </Player>
+            <Player id="2039">
+                <FirstName>José Pedro</FirstName>
+                <LastName>Malheiro de Sá</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>34</Stamina>
+                <Club>CS Marítimo</Club>
+                <DateOfBirth>17-01-1993</DateOfBirth>
+            </Player>
+            <Player id="2112">
+                <FirstName>Fernando José</FirstName>
+                <LastName>Almeida S. Ferreira</LastName>
+                <Position>CM</Position>
+                <Pace>67</Pace>
+                <Shooting>67</Shooting>
+                <Passing>64</Passing>
+                <Offensive>65</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>80</Stamina>
+                <Club>CS Marítimo</Club>
+                <DateOfBirth>20-11-1986</DateOfBirth>
+            </Player>
+            <Player id="3780">
+                <FirstName>Patrick</FirstName>
+                <LastName>Bauer</LastName>
+                <Position>CB</Position>
+                <Pace>36</Pace>
+                <Shooting>44</Shooting>
+                <Passing>51</Passing>
+                <Offensive>47</Offensive>
+                <Defensive>67</Defensive>
+                <Stamina>54</Stamina>
+                <Club>CS Marítimo</Club>
+                <DateOfBirth>28-10-1992</DateOfBirth>
+            </Player>
+            <Player id="4003">
+                <FirstName>Kaj</FirstName>
+                <LastName>Ramsteijn</LastName>
+                <Position>CB</Position>
+                <Pace>60</Pace>
+                <Shooting>45</Shooting>
+                <Passing>56</Passing>
+                <Offensive>50</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>67</Stamina>
+                <Club>CS Marítimo</Club>
+                <DateOfBirth>17-01-1990</DateOfBirth>
+            </Player>
+            <Player id="5056">
+                <FirstName>Igor</FirstName>
+                <LastName>Rossi Branco</LastName>
+                <Position>CB</Position>
+                <Pace>50</Pace>
+                <Shooting>28</Shooting>
+                <Passing>51</Passing>
+                <Offensive>39</Offensive>
+                <Defensive>65</Defensive>
+                <Stamina>53</Stamina>
+                <Club>CS Marítimo</Club>
+                <DateOfBirth>10-03-1989</DateOfBirth>
+            </Player>
+            <Player id="5118">
+                <FirstName>Wellington</FirstName>
+                <LastName>de Lima Gomes</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>27</Stamina>
+                <Club>CS Marítimo</Club>
+                <DateOfBirth>21-04-1990</DateOfBirth>
+            </Player>
+            <Player id="6713">
+                <FirstName>Alexandre</FirstName>
+                <LastName>Barros Soares</LastName>
+                <Position>CM</Position>
+                <Pace>67</Pace>
+                <Shooting>52</Shooting>
+                <Passing>62</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>54</Defensive>
+                <Stamina>69</Stamina>
+                <Club>CS Marítimo</Club>
+                <DateOfBirth>01-03-1991</DateOfBirth>
+            </Player>
+            <Player id="7433">
+                <FirstName>Nuno Miguel</FirstName>
+                <LastName>Pereira Sousa</LastName>
+                <Position>RB</Position>
+                <Pace>55</Pace>
+                <Shooting>46</Shooting>
+                <Passing>59</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>42</Stamina>
+                <Club>CS Marítimo</Club>
+                <DateOfBirth>08-03-1979</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Rio Ave FC">
+            <Player id="62">
+                <FirstName>Marcelo</FirstName>
+                <LastName>dos Santos Ferreira</LastName>
+                <Position>CB</Position>
+                <Pace>75</Pace>
+                <Shooting>27</Shooting>
+                <Passing>45</Passing>
+                <Offensive>36</Offensive>
+                <Defensive>74</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Rio Ave FC</Club>
+                <DateOfBirth>27-07-1989</DateOfBirth>
+            </Player>
+            <Player id="699">
+                <FirstName>Diego Hipólito</FirstName>
+                <LastName>da Silva Lopes</LastName>
+                <Position>CAM</Position>
+                <Pace>71</Pace>
+                <Shooting>60</Shooting>
+                <Passing>69</Passing>
+                <Offensive>64</Offensive>
+                <Defensive>46</Defensive>
+                <Stamina>63</Stamina>
+                <Club>Rio Ave FC</Club>
+                <DateOfBirth>03-05-1994</DateOfBirth>
+            </Player>
+            <Player id="1036">
+                <FirstName>Ahmed</FirstName>
+                <LastName>Hassan</LastName>
+                <Position>ST</Position>
+                <Pace>62</Pace>
+                <Shooting>72</Shooting>
+                <Passing>48</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>74</Stamina>
+                <Club>Rio Ave FC</Club>
+                <DateOfBirth>05-03-1993</DateOfBirth>
+            </Player>
+            <Player id="1339">
+                <FirstName>Yonathan</FirstName>
+                <LastName>Del Valle</LastName>
+                <Position>ST</Position>
+                <Pace>83</Pace>
+                <Shooting>71</Shooting>
+                <Passing>58</Passing>
+                <Offensive>64</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>69</Stamina>
+                <Club>Rio Ave FC</Club>
+                <DateOfBirth>28-05-1990</DateOfBirth>
+            </Player>
+            <Player id="1344">
+                <FirstName>Pedro Manuel</FirstName>
+                <LastName>da Silva Moreira</LastName>
+                <Position>CM</Position>
+                <Pace>63</Pace>
+                <Shooting>61</Shooting>
+                <Passing>64</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>72</Defensive>
+                <Stamina>77</Stamina>
+                <Club>Rio Ave FC</Club>
+                <DateOfBirth>15-03-1989</DateOfBirth>
+            </Player>
+            <Player id="1981">
+                <FirstName>José Lionn</FirstName>
+                <LastName>Barbosa de Lucena</LastName>
+                <Position>RB</Position>
+                <Pace>78</Pace>
+                <Shooting>58</Shooting>
+                <Passing>61</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>82</Stamina>
+                <Club>Rio Ave FC</Club>
+                <DateOfBirth>29-01-1989</DateOfBirth>
+            </Player>
+            <Player id="2095">
+                <FirstName>Renan Bardini</FirstName>
+                <LastName>Bressan</LastName>
+                <Position>CAM</Position>
+                <Pace>65</Pace>
+                <Shooting>61</Shooting>
+                <Passing>71</Passing>
+                <Offensive>66</Offensive>
+                <Defensive>40</Defensive>
+                <Stamina>49</Stamina>
+                <Club>Rio Ave FC</Club>
+                <DateOfBirth>03-11-1988</DateOfBirth>
+            </Player>
+            <Player id="2460">
+                <FirstName>Roderick J.</FirstName>
+                <LastName>Gonçalves Miranda</LastName>
+                <Position>CB</Position>
+                <Pace>43</Pace>
+                <Shooting>43</Shooting>
+                <Passing>48</Passing>
+                <Offensive>45</Offensive>
+                <Defensive>68</Defensive>
+                <Stamina>50</Stamina>
+                <Club>Rio Ave FC</Club>
+                <DateOfBirth>30-03-1991</DateOfBirth>
+            </Player>
+            <Player id="3006">
+                <FirstName>Alhassan</FirstName>
+                <LastName>Wakaso</LastName>
+                <Position>CDM</Position>
+                <Pace>65</Pace>
+                <Shooting>49</Shooting>
+                <Passing>57</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>65</Defensive>
+                <Stamina>77</Stamina>
+                <Club>Rio Ave FC</Club>
+                <DateOfBirth>07-01-1992</DateOfBirth>
+            </Player>
+            <Player id="3106">
+                <FirstName>Esmael Ruti</FirstName>
+                <LastName>Tavares Gonçalves</LastName>
+                <Position>ST</Position>
+                <Pace>72</Pace>
+                <Shooting>65</Shooting>
+                <Passing>58</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Rio Ave FC</Club>
+                <DateOfBirth>25-06-1991</DateOfBirth>
+            </Player>
+            <Player id="3858">
+                <FirstName>André Filipe</FirstName>
+                <LastName>Monteiro Vilas Boas</LastName>
+                <Position>CB</Position>
+                <Pace>63</Pace>
+                <Shooting>42</Shooting>
+                <Passing>55</Passing>
+                <Offensive>48</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>74</Stamina>
+                <Club>Rio Ave FC</Club>
+                <DateOfBirth>04-06-1983</DateOfBirth>
+            </Player>
+            <Player id="4265">
+                <FirstName>Jonathan</FirstName>
+                <LastName>Ñíguez Esclapez</LastName>
+                <Position>CDM</Position>
+                <Pace>62</Pace>
+                <Shooting>55</Shooting>
+                <Passing>58</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>57</Defensive>
+                <Stamina>83</Stamina>
+                <Club>Rio Ave FC</Club>
+                <DateOfBirth>02-04-1985</DateOfBirth>
+            </Player>
+            <Player id="4317">
+                <FirstName>Luís Gustavo</FirstName>
+                <LastName>Ledes E. dos Santos</LastName>
+                <Position>CM</Position>
+                <Pace>70</Pace>
+                <Shooting>57</Shooting>
+                <Passing>68</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>51</Defensive>
+                <Stamina>76</Stamina>
+                <Club>Rio Ave FC</Club>
+                <DateOfBirth>28-09-1992</DateOfBirth>
+            </Player>
+            <Player id="4330">
+                <FirstName>Nuno Miguel</FirstName>
+                <LastName>Almeida Costa Lopes</LastName>
+                <Position>RB</Position>
+                <Pace>66</Pace>
+                <Shooting>47</Shooting>
+                <Passing>55</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>65</Defensive>
+                <Stamina>68</Stamina>
+                <Club>Rio Ave FC</Club>
+                <DateOfBirth>19-12-1986</DateOfBirth>
+            </Player>
+            <Player id="5506">
+                <FirstName>Prince Désir</FirstName>
+                <LastName>Gouano</LastName>
+                <Position>CB</Position>
+                <Pace>62</Pace>
+                <Shooting>29</Shooting>
+                <Passing>46</Passing>
+                <Offensive>37</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>64</Stamina>
+                <Club>Rio Ave FC</Club>
+                <DateOfBirth>24-12-1994</DateOfBirth>
+            </Player>
+            <Player id="6228">
+                <FirstName>Júlio</FirstName>
+                <LastName>Regufe Alves</LastName>
+                <Position>CM</Position>
+                <Pace>64</Pace>
+                <Shooting>53</Shooting>
+                <Passing>60</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>57</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Rio Ave FC</Club>
+                <DateOfBirth>29-06-1991</DateOfBirth>
+            </Player>
+            <Player id="6592">
+                <FirstName>Marvin</FirstName>
+                <LastName>Zeegelaar</LastName>
+                <Position>LW</Position>
+                <Pace>66</Pace>
+                <Shooting>56</Shooting>
+                <Passing>51</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>48</Defensive>
+                <Stamina>65</Stamina>
+                <Club>Rio Ave FC</Club>
+                <DateOfBirth>12-08-1990</DateOfBirth>
+            </Player>
+            <Player id="12449">
+                <FirstName>Cássio</FirstName>
+                <LastName>Albuquerque Anjos</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>39</Stamina>
+                <Club>Rio Ave FC</Club>
+                <DateOfBirth>12-08-1980</DateOfBirth>
+            </Player>
+            <Player id="12693">
+                <FirstName>André Filipe</FirstName>
+                <LastName>Alves Monteiro</LastName>
+                <Position>RW</Position>
+                <Pace>77</Pace>
+                <Shooting>66</Shooting>
+                <Passing>67</Passing>
+                <Offensive>66</Offensive>
+                <Defensive>26</Defensive>
+                <Stamina>68</Stamina>
+                <Club>Rio Ave FC</Club>
+                <DateOfBirth>16-03-1988</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="GD Estoril-Praia">
+            <Player id="90">
+                <FirstName>Matías</FirstName>
+                <LastName>Cabrera</LastName>
+                <Position>CM</Position>
+                <Pace>76</Pace>
+                <Shooting>55</Shooting>
+                <Passing>74</Passing>
+                <Offensive>64</Offensive>
+                <Defensive>52</Defensive>
+                <Stamina>72</Stamina>
+                <Club>GD Estoril-Praia</Club>
+                <DateOfBirth>16-05-1986</DateOfBirth>
+            </Player>
+            <Player id="189">
+                <FirstName>Yohan</FirstName>
+                <LastName>Tavares</LastName>
+                <Position>CB</Position>
+                <Pace>60</Pace>
+                <Shooting>38</Shooting>
+                <Passing>50</Passing>
+                <Offensive>44</Offensive>
+                <Defensive>74</Defensive>
+                <Stamina>69</Stamina>
+                <Club>GD Estoril-Praia</Club>
+                <DateOfBirth>02-03-1988</DateOfBirth>
+            </Player>
+            <Player id="756">
+                <FirstName>Paweł</FirstName>
+                <LastName>Kieszek</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>33</Stamina>
+                <Club>GD Estoril-Praia</Club>
+                <DateOfBirth>16-04-1984</DateOfBirth>
+            </Player>
+            <Player id="964">
+                <FirstName>Javier Ángel</FirstName>
+                <LastName>Balboa Osa</LastName>
+                <Position>RW</Position>
+                <Pace>84</Pace>
+                <Shooting>67</Shooting>
+                <Passing>64</Passing>
+                <Offensive>65</Offensive>
+                <Defensive>39</Defensive>
+                <Stamina>74</Stamina>
+                <Club>GD Estoril-Praia</Club>
+                <DateOfBirth>13-05-1985</DateOfBirth>
+            </Player>
+            <Player id="981">
+                <FirstName>Luís Miguel</FirstName>
+                <LastName>Lopes Mendes</LastName>
+                <Position>RB</Position>
+                <Pace>82</Pace>
+                <Shooting>47</Shooting>
+                <Passing>60</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>68</Defensive>
+                <Stamina>84</Stamina>
+                <Club>GD Estoril-Praia</Club>
+                <DateOfBirth>09-04-1987</DateOfBirth>
+            </Player>
+            <Player id="1043">
+                <FirstName>António José</FirstName>
+                <LastName>Pinheiro Carvalho</LastName>
+                <Position>CAM</Position>
+                <Pace>75</Pace>
+                <Shooting>67</Shooting>
+                <Passing>68</Passing>
+                <Offensive>67</Offensive>
+                <Defensive>47</Defensive>
+                <Stamina>66</Stamina>
+                <Club>GD Estoril-Praia</Club>
+                <DateOfBirth>14-01-1993</DateOfBirth>
+            </Player>
+            <Player id="1188">
+                <FirstName>Elvis Manuel</FirstName>
+                <LastName>Monteiro Macedo</LastName>
+                <Position>LB</Position>
+                <Pace>78</Pace>
+                <Shooting>57</Shooting>
+                <Passing>67</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>68</Defensive>
+                <Stamina>88</Stamina>
+                <Club>GD Estoril-Praia</Club>
+                <DateOfBirth>27-07-1985</DateOfBirth>
+            </Player>
+            <Player id="2396">
+                <FirstName>Bruno Miguel</FirstName>
+                <LastName>Moreira de Sousa</LastName>
+                <Position>CB</Position>
+                <Pace>52</Pace>
+                <Shooting>37</Shooting>
+                <Passing>44</Passing>
+                <Offensive>40</Offensive>
+                <Defensive>69</Defensive>
+                <Stamina>46</Stamina>
+                <Club>GD Estoril-Praia</Club>
+                <DateOfBirth>24-09-1982</DateOfBirth>
+            </Player>
+            <Player id="2879">
+                <FirstName>Bruno Andrade</FirstName>
+                <LastName>Toledo Nascimento</LastName>
+                <Position>CB</Position>
+                <Pace>68</Pace>
+                <Shooting>36</Shooting>
+                <Passing>43</Passing>
+                <Offensive>39</Offensive>
+                <Defensive>67</Defensive>
+                <Stamina>62</Stamina>
+                <Club>GD Estoril-Praia</Club>
+                <DateOfBirth>30-05-1991</DateOfBirth>
+            </Player>
+            <Player id="3159">
+                <FirstName>Bruno</FirstName>
+                <LastName>da Silva Lopes</LastName>
+                <Position>ST</Position>
+                <Pace>68</Pace>
+                <Shooting>68</Shooting>
+                <Passing>52</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>61</Stamina>
+                <Club>GD Estoril-Praia</Club>
+                <DateOfBirth>19-08-1986</DateOfBirth>
+            </Player>
+            <Player id="3300">
+                <FirstName>Anderson Luís</FirstName>
+                <LastName>Ribeiro Pereira</LastName>
+                <Position>RB</Position>
+                <Pace>73</Pace>
+                <Shooting>50</Shooting>
+                <Passing>61</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>68</Defensive>
+                <Stamina>74</Stamina>
+                <Club>GD Estoril-Praia</Club>
+                <DateOfBirth>31-07-1988</DateOfBirth>
+            </Player>
+            <Player id="4170">
+                <FirstName>Arthuro H.</FirstName>
+                <LastName>Bernhardt</LastName>
+                <Position>ST</Position>
+                <Pace>36</Pace>
+                <Shooting>67</Shooting>
+                <Passing>47</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>43</Stamina>
+                <Club>GD Estoril-Praia</Club>
+                <DateOfBirth>27-08-1982</DateOfBirth>
+            </Player>
+            <Player id="7289">
+                <FirstName>Afonso Miguel</FirstName>
+                <LastName>Vilhena Taira</LastName>
+                <Position>CM</Position>
+                <Pace>68</Pace>
+                <Shooting>46</Shooting>
+                <Passing>62</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>52</Defensive>
+                <Stamina>63</Stamina>
+                <Club>GD Estoril-Praia</Club>
+                <DateOfBirth>17-06-1992</DateOfBirth>
+            </Player>
+            <Player id="10967">
+                <FirstName>Vagner</FirstName>
+                <LastName>da Silva</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>43</Stamina>
+                <Club>GD Estoril-Praia</Club>
+                <DateOfBirth>06-06-1986</DateOfBirth>
+            </Player>
+            <Player id="12172">
+                <FirstName>Sebastião</FirstName>
+                <LastName>de Freitas Couto</LastName>
+                <Position>LW</Position>
+                <Pace>87</Pace>
+                <Shooting>72</Shooting>
+                <Passing>63</Passing>
+                <Offensive>67</Offensive>
+                <Defensive>31</Defensive>
+                <Stamina>66</Stamina>
+                <Club>GD Estoril-Praia</Club>
+                <DateOfBirth>08-06-1992</DateOfBirth>
+            </Player>
+            <Player id="12211">
+                <FirstName>Rúben Miguel</FirstName>
+                <LastName>Santos Fernandes</LastName>
+                <Position>CB</Position>
+                <Pace>70</Pace>
+                <Shooting>47</Shooting>
+                <Passing>55</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>74</Defensive>
+                <Stamina>70</Stamina>
+                <Club>GD Estoril-Praia</Club>
+                <DateOfBirth>06-05-1986</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Académica Coimbra">
+            <Player id="152">
+                <FirstName>Fernando José</FirstName>
+                <LastName>Ribeiro Alexandre</LastName>
+                <Position>CDM</Position>
+                <Pace>64</Pace>
+                <Shooting>60</Shooting>
+                <Passing>66</Passing>
+                <Offensive>63</Offensive>
+                <Defensive>72</Defensive>
+                <Stamina>76</Stamina>
+                <Club>Académica Coimbra</Club>
+                <DateOfBirth>02-08-1986</DateOfBirth>
+            </Player>
+            <Player id="782">
+                <FirstName>Rui Pedro</FirstName>
+                <LastName>Couto Ramalho</LastName>
+                <Position>ST</Position>
+                <Pace>71</Pace>
+                <Shooting>71</Shooting>
+                <Passing>60</Passing>
+                <Offensive>65</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>69</Stamina>
+                <Club>Académica Coimbra</Club>
+                <DateOfBirth>02-07-1988</DateOfBirth>
+            </Player>
+            <Player id="1116">
+                <FirstName>Dorvalino</FirstName>
+                <LastName>Alves Maciel</LastName>
+                <Position>LB</Position>
+                <Pace>64</Pace>
+                <Shooting>68</Shooting>
+                <Passing>71</Passing>
+                <Offensive>69</Offensive>
+                <Defensive>71</Defensive>
+                <Stamina>51</Stamina>
+                <Club>Académica Coimbra</Club>
+                <DateOfBirth>01-06-1977</DateOfBirth>
+            </Player>
+            <Player id="1476">
+                <FirstName>Ivanildo</FirstName>
+                <LastName>Soares Cassamá</LastName>
+                <Position>LM</Position>
+                <Pace>78</Pace>
+                <Shooting>60</Shooting>
+                <Passing>65</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>32</Defensive>
+                <Stamina>68</Stamina>
+                <Club>Académica Coimbra</Club>
+                <DateOfBirth>09-01-1986</DateOfBirth>
+            </Player>
+            <Player id="1513">
+                <FirstName>João Daniel</FirstName>
+                <LastName>Mendes Real</LastName>
+                <Position>CB</Position>
+                <Pace>54</Pace>
+                <Shooting>40</Shooting>
+                <Passing>49</Passing>
+                <Offensive>44</Offensive>
+                <Defensive>71</Defensive>
+                <Stamina>44</Stamina>
+                <Club>Académica Coimbra</Club>
+                <DateOfBirth>13-05-1983</DateOfBirth>
+            </Player>
+            <Player id="2077">
+                <FirstName>Cristiano</FirstName>
+                <LastName>Pereira Figueiredo</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>37</Stamina>
+                <Club>Académica Coimbra</Club>
+                <DateOfBirth>29-11-1990</DateOfBirth>
+            </Player>
+            <Player id="2083">
+                <FirstName>Edgar</FirstName>
+                <LastName>Salli</LastName>
+                <Position>LM</Position>
+                <Pace>85</Pace>
+                <Shooting>63</Shooting>
+                <Passing>62</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>58</Stamina>
+                <Club>Académica Coimbra</Club>
+                <DateOfBirth>17-08-1992</DateOfBirth>
+            </Player>
+            <Player id="3104">
+                <FirstName>Aníbal</FirstName>
+                <LastName>Araújo Capela</LastName>
+                <Position>CB</Position>
+                <Pace>58</Pace>
+                <Shooting>26</Shooting>
+                <Passing>45</Passing>
+                <Offensive>35</Offensive>
+                <Defensive>68</Defensive>
+                <Stamina>60</Stamina>
+                <Club>Académica Coimbra</Club>
+                <DateOfBirth>08-05-1991</DateOfBirth>
+            </Player>
+            <Player id="3510">
+                <FirstName>Nwankwo</FirstName>
+                <LastName>Obiora</LastName>
+                <Position>CDM</Position>
+                <Pace>71</Pace>
+                <Shooting>43</Shooting>
+                <Passing>56</Passing>
+                <Offensive>49</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>81</Stamina>
+                <Club>Académica Coimbra</Club>
+                <DateOfBirth>12-07-1991</DateOfBirth>
+            </Player>
+            <Player id="5394">
+                <FirstName>Thiago</FirstName>
+                <LastName>Maier dos Santos</LastName>
+                <Position>ST</Position>
+                <Pace>35</Pace>
+                <Shooting>65</Shooting>
+                <Passing>52</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>34</Stamina>
+                <Club>Académica Coimbra</Club>
+                <DateOfBirth>31-08-1986</DateOfBirth>
+            </Player>
+            <Player id="5807">
+                <FirstName>Judikael</FirstName>
+                <LastName>Magique</LastName>
+                <Position>ST</Position>
+                <Pace>68</Pace>
+                <Shooting>62</Shooting>
+                <Passing>57</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>41</Defensive>
+                <Stamina>51</Stamina>
+                <Club>Académica Coimbra</Club>
+                <DateOfBirth>21-01-1993</DateOfBirth>
+            </Player>
+            <Player id="8636">
+                <FirstName>Christopher</FirstName>
+                <LastName>Oualembo</LastName>
+                <Position>RB</Position>
+                <Pace>75</Pace>
+                <Shooting>30</Shooting>
+                <Passing>54</Passing>
+                <Offensive>42</Offensive>
+                <Defensive>57</Defensive>
+                <Stamina>74</Stamina>
+                <Club>Académica Coimbra</Club>
+                <DateOfBirth>31-01-1987</DateOfBirth>
+            </Player>
+            <Player id="9203">
+                <FirstName>Fábio Alexandre</FirstName>
+                <LastName>Barbosa Santos</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>26</Stamina>
+                <Club>Académica Coimbra</Club>
+                <DateOfBirth>14-11-1992</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="SC Braga">
+            <Player id="267">
+                <FirstName>Wanderson</FirstName>
+                <LastName>Souza Carneiro</LastName>
+                <Position>RB</Position>
+                <Pace>78</Pace>
+                <Shooting>61</Shooting>
+                <Passing>61</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>70</Defensive>
+                <Stamina>78</Stamina>
+                <Club>SC Braga</Club>
+                <DateOfBirth>23-02-1987</DateOfBirth>
+            </Player>
+            <Player id="534">
+                <FirstName>Djavan</FirstName>
+                <LastName>da Silva Ferreira</LastName>
+                <Position>LB</Position>
+                <Pace>78</Pace>
+                <Shooting>45</Shooting>
+                <Passing>61</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>70</Defensive>
+                <Stamina>85</Stamina>
+                <Club>SC Braga</Club>
+                <DateOfBirth>31-12-1987</DateOfBirth>
+            </Player>
+            <Player id="704">
+                <FirstName>Pedro Miguel</FirstName>
+                <LastName>Martins Santos</LastName>
+                <Position>RW</Position>
+                <Pace>84</Pace>
+                <Shooting>68</Shooting>
+                <Passing>66</Passing>
+                <Offensive>67</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>69</Stamina>
+                <Club>SC Braga</Club>
+                <DateOfBirth>22-04-1988</DateOfBirth>
+            </Player>
+            <Player id="849">
+                <FirstName>André</FirstName>
+                <LastName>Almeida Pinto</LastName>
+                <Position>CB</Position>
+                <Pace>52</Pace>
+                <Shooting>46</Shooting>
+                <Passing>53</Passing>
+                <Offensive>49</Offensive>
+                <Defensive>72</Defensive>
+                <Stamina>67</Stamina>
+                <Club>SC Braga</Club>
+                <DateOfBirth>05-10-1989</DateOfBirth>
+            </Player>
+            <Player id="865">
+                <FirstName>Mauro</FirstName>
+                <LastName>Silva Sousa</LastName>
+                <Position>CDM</Position>
+                <Pace>68</Pace>
+                <Shooting>47</Shooting>
+                <Passing>65</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>72</Defensive>
+                <Stamina>76</Stamina>
+                <Club>SC Braga</Club>
+                <DateOfBirth>31-10-1990</DateOfBirth>
+            </Player>
+            <Player id="1815">
+                <FirstName>Marcelo Augusto</FirstName>
+                <LastName>Ferreira Teixeira</LastName>
+                <Position>RB</Position>
+                <Pace>74</Pace>
+                <Shooting>48</Shooting>
+                <Passing>58</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>68</Defensive>
+                <Stamina>75</Stamina>
+                <Club>SC Braga</Club>
+                <DateOfBirth>13-10-1987</DateOfBirth>
+            </Player>
+            <Player id="2329">
+                <FirstName>Tiago Henrique</FirstName>
+                <LastName>Damil Gomes</LastName>
+                <Position>LB</Position>
+                <Pace>76</Pace>
+                <Shooting>56</Shooting>
+                <Passing>62</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>67</Defensive>
+                <Stamina>85</Stamina>
+                <Club>SC Braga</Club>
+                <DateOfBirth>29-07-1986</DateOfBirth>
+            </Player>
+            <Player id="2661">
+                <FirstName>Willy</FirstName>
+                <LastName>Boly</LastName>
+                <Position>CB</Position>
+                <Pace>82</Pace>
+                <Shooting>34</Shooting>
+                <Passing>54</Passing>
+                <Offensive>44</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>64</Stamina>
+                <Club>SC Braga</Club>
+                <DateOfBirth>03-02-1991</DateOfBirth>
+            </Player>
+            <Player id="3837">
+                <FirstName>Aleksandar</FirstName>
+                <LastName>Miljković</LastName>
+                <Position>RB</Position>
+                <Pace>69</Pace>
+                <Shooting>48</Shooting>
+                <Passing>55</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>68</Defensive>
+                <Stamina>72</Stamina>
+                <Club>SC Braga</Club>
+                <DateOfBirth>26-02-1990</DateOfBirth>
+            </Player>
+            <Player id="7223">
+                <FirstName>Rafael A.</FirstName>
+                <LastName>F. Ferreira Silva</LastName>
+                <Position>LW</Position>
+                <Pace>89</Pace>
+                <Shooting>67</Shooting>
+                <Passing>70</Passing>
+                <Offensive>68</Offensive>
+                <Defensive>34</Defensive>
+                <Stamina>68</Stamina>
+                <Club>SC Braga</Club>
+                <DateOfBirth>17-05-1993</DateOfBirth>
+            </Player>
+            <Player id="8029">
+                <FirstName>Éder</FirstName>
+                <LastName>Macedo Lopes</LastName>
+                <Position>ST</Position>
+                <Pace>78</Pace>
+                <Shooting>74</Shooting>
+                <Passing>67</Passing>
+                <Offensive>70</Offensive>
+                <Defensive>44</Defensive>
+                <Stamina>79</Stamina>
+                <Club>SC Braga</Club>
+                <DateOfBirth>22-12-1987</DateOfBirth>
+            </Player>
+            <Player id="8546">
+                <FirstName>Alan</FirstName>
+                <LastName>Osório Silva</LastName>
+                <Position>RW</Position>
+                <Pace>68</Pace>
+                <Shooting>71</Shooting>
+                <Passing>78</Passing>
+                <Offensive>74</Offensive>
+                <Defensive>50</Defensive>
+                <Stamina>64</Stamina>
+                <Club>SC Braga</Club>
+                <DateOfBirth>19-09-1979</DateOfBirth>
+            </Player>
+            <Player id="8853">
+                <FirstName>Elton</FirstName>
+                <LastName>Monteiro Almada</LastName>
+                <Position>CB</Position>
+                <Pace>65</Pace>
+                <Shooting>32</Shooting>
+                <Passing>40</Passing>
+                <Offensive>36</Offensive>
+                <Defensive>57</Defensive>
+                <Stamina>63</Stamina>
+                <Club>SC Braga</Club>
+                <DateOfBirth>22-02-1994</DateOfBirth>
+            </Player>
+            <Player id="11223">
+                <FirstName>Rúben Micael</FirstName>
+                <LastName>F. da Ressureição</LastName>
+                <Position>CM</Position>
+                <Pace>69</Pace>
+                <Shooting>70</Shooting>
+                <Passing>78</Passing>
+                <Offensive>74</Offensive>
+                <Defensive>50</Defensive>
+                <Stamina>68</Stamina>
+                <Club>SC Braga</Club>
+                <DateOfBirth>19-08-1986</DateOfBirth>
+            </Player>
+            <Player id="11909">
+                <FirstName>Felipe</FirstName>
+                <LastName>Pardo</LastName>
+                <Position>RW</Position>
+                <Pace>84</Pace>
+                <Shooting>74</Shooting>
+                <Passing>66</Passing>
+                <Offensive>70</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>73</Stamina>
+                <Club>SC Braga</Club>
+                <DateOfBirth>17-08-1990</DateOfBirth>
+            </Player>
+            <Player id="12035">
+                <FirstName>Aderlan Leandro</FirstName>
+                <LastName>de Jesus Santos</LastName>
+                <Position>CB</Position>
+                <Pace>54</Pace>
+                <Shooting>53</Shooting>
+                <Passing>45</Passing>
+                <Offensive>49</Offensive>
+                <Defensive>76</Defensive>
+                <Stamina>63</Stamina>
+                <Club>SC Braga</Club>
+                <DateOfBirth>09-04-1989</DateOfBirth>
+            </Player>
+            <Player id="12319">
+                <FirstName>Salvador José</FirstName>
+                <LastName>Milhazes Agra</LastName>
+                <Position>RW</Position>
+                <Pace>90</Pace>
+                <Shooting>61</Shooting>
+                <Passing>65</Passing>
+                <Offensive>63</Offensive>
+                <Defensive>32</Defensive>
+                <Stamina>65</Stamina>
+                <Club>SC Braga</Club>
+                <DateOfBirth>11-11-1991</DateOfBirth>
+            </Player>
+            <Player id="12495">
+                <FirstName>Custódio Miguel</FirstName>
+                <LastName>Dias de Castro</LastName>
+                <Position>CDM</Position>
+                <Pace>63</Pace>
+                <Shooting>66</Shooting>
+                <Passing>71</Passing>
+                <Offensive>68</Offensive>
+                <Defensive>75</Defensive>
+                <Stamina>53</Stamina>
+                <Club>SC Braga</Club>
+                <DateOfBirth>24-05-1983</DateOfBirth>
+            </Player>
+            <Player id="12616">
+                <FirstName>Pedro Miguel</FirstName>
+                <LastName>A. Pereira Silva</LastName>
+                <Position>CM</Position>
+                <Pace>72</Pace>
+                <Shooting>64</Shooting>
+                <Passing>72</Passing>
+                <Offensive>68</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>87</Stamina>
+                <Club>SC Braga</Club>
+                <DateOfBirth>31-08-1988</DateOfBirth>
+            </Player>
+            <Player id="12623">
+                <FirstName>Leocísio</FirstName>
+                <LastName>Júlio Sami</LastName>
+                <Position>LW</Position>
+                <Pace>92</Pace>
+                <Shooting>70</Shooting>
+                <Passing>59</Passing>
+                <Offensive>64</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>71</Stamina>
+                <Club>SC Braga</Club>
+                <DateOfBirth>18-12-1988</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="C.F. Os Belenenses">
+            <Player id="482">
+                <FirstName>Miguel Alex</FirstName>
+                <LastName>Jesus Rosa</LastName>
+                <Position>LM</Position>
+                <Pace>77</Pace>
+                <Shooting>72</Shooting>
+                <Passing>69</Passing>
+                <Offensive>70</Offensive>
+                <Defensive>39</Defensive>
+                <Stamina>71</Stamina>
+                <Club>C.F. Os Belenenses</Club>
+                <DateOfBirth>13-01-1989</DateOfBirth>
+            </Player>
+            <Player id="708">
+                <FirstName>Tiago Rafael</FirstName>
+                <LastName>Maia Silva</LastName>
+                <Position>CAM</Position>
+                <Pace>71</Pace>
+                <Shooting>64</Shooting>
+                <Passing>68</Passing>
+                <Offensive>66</Offensive>
+                <Defensive>49</Defensive>
+                <Stamina>72</Stamina>
+                <Club>C.F. Os Belenenses</Club>
+                <DateOfBirth>02-06-1993</DateOfBirth>
+            </Player>
+            <Player id="1180">
+                <FirstName>Alfredo</FirstName>
+                <LastName>Kulembe Ribeiro</LastName>
+                <Position>RM</Position>
+                <Pace>92</Pace>
+                <Shooting>66</Shooting>
+                <Passing>62</Passing>
+                <Offensive>64</Offensive>
+                <Defensive>27</Defensive>
+                <Stamina>72</Stamina>
+                <Club>C.F. Os Belenenses</Club>
+                <DateOfBirth>27-03-1990</DateOfBirth>
+            </Player>
+            <Player id="1935">
+                <FirstName>Bruno Manuel</FirstName>
+                <LastName>Rodrigues Silva</LastName>
+                <Position>CDM</Position>
+                <Pace>55</Pace>
+                <Shooting>52</Shooting>
+                <Passing>65</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>76</Stamina>
+                <Club>C.F. Os Belenenses</Club>
+                <DateOfBirth>05-08-1982</DateOfBirth>
+            </Player>
+            <Player id="2040">
+                <FirstName>Matthew Robert</FirstName>
+                <LastName>Jones</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>39</Stamina>
+                <Club>C.F. Os Belenenses</Club>
+                <DateOfBirth>11-05-1986</DateOfBirth>
+            </Player>
+            <Player id="3148">
+                <FirstName>João Diogo</FirstName>
+                <LastName>Serpa Meira</LastName>
+                <Position>CB</Position>
+                <Pace>72</Pace>
+                <Shooting>28</Shooting>
+                <Passing>46</Passing>
+                <Offensive>37</Offensive>
+                <Defensive>67</Defensive>
+                <Stamina>55</Stamina>
+                <Club>C.F. Os Belenenses</Club>
+                <DateOfBirth>30-04-1987</DateOfBirth>
+            </Player>
+            <Player id="3167">
+                <FirstName>Hugo Ventura</FirstName>
+                <LastName>Moura Guedes</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>31</Stamina>
+                <Club>C.F. Os Belenenses</Club>
+                <DateOfBirth>14-01-1988</DateOfBirth>
+            </Player>
+            <Player id="3833">
+                <FirstName>Deyverson</FirstName>
+                <LastName>Brum Silva Acosta</LastName>
+                <Position>ST</Position>
+                <Pace>72</Pace>
+                <Shooting>63</Shooting>
+                <Passing>41</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>58</Stamina>
+                <Club>C.F. Os Belenenses</Club>
+                <DateOfBirth>08-05-1991</DateOfBirth>
+            </Player>
+            <Player id="4355">
+                <FirstName>Tiago David</FirstName>
+                <LastName>Janeiro Caeiro</LastName>
+                <Position>ST</Position>
+                <Pace>41</Pace>
+                <Shooting>65</Shooting>
+                <Passing>43</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>53</Stamina>
+                <Club>C.F. Os Belenenses</Club>
+                <DateOfBirth>29-03-1984</DateOfBirth>
+            </Player>
+            <Player id="4511">
+                <FirstName>Judilson Mamadu</FirstName>
+                <LastName>Tuncara Gomes</LastName>
+                <Position>CDM</Position>
+                <Pace>72</Pace>
+                <Shooting>51</Shooting>
+                <Passing>64</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>75</Stamina>
+                <Club>C.F. Os Belenenses</Club>
+                <DateOfBirth>29-09-1991</DateOfBirth>
+            </Player>
+            <Player id="5855">
+                <FirstName>Fábio Miguel</FirstName>
+                <LastName>Santos Sturgeon</LastName>
+                <Position>ST</Position>
+                <Pace>78</Pace>
+                <Shooting>62</Shooting>
+                <Passing>56</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>32</Defensive>
+                <Stamina>72</Stamina>
+                <Club>C.F. Os Belenenses</Club>
+                <DateOfBirth>04-02-1994</DateOfBirth>
+            </Player>
+            <Player id="6281">
+                <FirstName>Fábio Alexandre</FirstName>
+                <LastName>Silva Nunes</LastName>
+                <Position>LM</Position>
+                <Pace>71</Pace>
+                <Shooting>60</Shooting>
+                <Passing>62</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>40</Defensive>
+                <Stamina>64</Stamina>
+                <Club>C.F. Os Belenenses</Club>
+                <DateOfBirth>24-07-1992</DateOfBirth>
+            </Player>
+            <Player id="6703">
+                <FirstName>Ricardo Alves</FirstName>
+                <LastName>Coelho da Silva</LastName>
+                <Position>CDM</Position>
+                <Pace>63</Pace>
+                <Shooting>54</Shooting>
+                <Passing>58</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>61</Defensive>
+                <Stamina>67</Stamina>
+                <Club>C.F. Os Belenenses</Club>
+                <DateOfBirth>25-03-1993</DateOfBirth>
+            </Player>
+            <Player id="9249">
+                <FirstName>André</FirstName>
+                <LastName>Ferreira Teixeira</LastName>
+                <Position>RB</Position>
+                <Pace>69</Pace>
+                <Shooting>37</Shooting>
+                <Passing>46</Passing>
+                <Offensive>41</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>65</Stamina>
+                <Club>C.F. Os Belenenses</Club>
+                <DateOfBirth>14-09-1993</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Vitória de Guimarães">
+            <Player id="512">
+                <FirstName>Jean</FirstName>
+                <LastName>Barrientos</LastName>
+                <Position>LM</Position>
+                <Pace>75</Pace>
+                <Shooting>67</Shooting>
+                <Passing>67</Passing>
+                <Offensive>67</Offensive>
+                <Defensive>42</Defensive>
+                <Stamina>64</Stamina>
+                <Club>Vitória de Guimarães</Club>
+                <DateOfBirth>16-09-1990</DateOfBirth>
+            </Player>
+            <Player id="546">
+                <FirstName>Hernâni Jorge</FirstName>
+                <LastName>Santos Fortes</LastName>
+                <Position>RM</Position>
+                <Pace>87</Pace>
+                <Shooting>65</Shooting>
+                <Passing>67</Passing>
+                <Offensive>66</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>73</Stamina>
+                <Club>Vitória de Guimarães</Club>
+                <DateOfBirth>20-08-1991</DateOfBirth>
+            </Player>
+            <Player id="591">
+                <FirstName>João Miguel</FirstName>
+                <LastName>da Cunha Teixeira</LastName>
+                <Position>CB</Position>
+                <Pace>62</Pace>
+                <Shooting>55</Shooting>
+                <Passing>60</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>72</Defensive>
+                <Stamina>55</Stamina>
+                <Club>Vitória de Guimarães</Club>
+                <DateOfBirth>19-08-1981</DateOfBirth>
+            </Player>
+            <Player id="1184">
+                <FirstName>Rafael</FirstName>
+                <LastName>Schuler Crivellaro</LastName>
+                <Position>CAM</Position>
+                <Pace>68</Pace>
+                <Shooting>61</Shooting>
+                <Passing>70</Passing>
+                <Offensive>65</Offensive>
+                <Defensive>37</Defensive>
+                <Stamina>59</Stamina>
+                <Club>Vitória de Guimarães</Club>
+                <DateOfBirth>18-02-1989</DateOfBirth>
+            </Player>
+            <Player id="2205">
+                <FirstName>Rodrigo</FirstName>
+                <LastName>Defendi</LastName>
+                <Position>CB</Position>
+                <Pace>45</Pace>
+                <Shooting>29</Shooting>
+                <Passing>46</Passing>
+                <Offensive>37</Offensive>
+                <Defensive>70</Defensive>
+                <Stamina>61</Stamina>
+                <Club>Vitória de Guimarães</Club>
+                <DateOfBirth>01-06-1986</DateOfBirth>
+            </Player>
+            <Player id="2795">
+                <FirstName>António Manuel</FirstName>
+                <LastName>Fernandes Mendes</LastName>
+                <Position>ST</Position>
+                <Pace>68</Pace>
+                <Shooting>64</Shooting>
+                <Passing>50</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>60</Stamina>
+                <Club>Vitória de Guimarães</Club>
+                <DateOfBirth>23-10-1992</DateOfBirth>
+            </Player>
+            <Player id="4939">
+                <FirstName>David</FirstName>
+                <LastName>Caiado Dias</LastName>
+                <Position>RM</Position>
+                <Pace>75</Pace>
+                <Shooting>62</Shooting>
+                <Passing>58</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>68</Stamina>
+                <Club>Vitória de Guimarães</Club>
+                <DateOfBirth>02-05-1987</DateOfBirth>
+            </Player>
+            <Player id="5725">
+                <FirstName>Assis</FirstName>
+                <LastName>Giovanaz</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>38</Stamina>
+                <Club>Vitória de Guimarães</Club>
+                <DateOfBirth>04-10-1989</DateOfBirth>
+            </Player>
+            <Player id="5848">
+                <FirstName>Nii</FirstName>
+                <LastName>Plange</LastName>
+                <Position>RB</Position>
+                <Pace>76</Pace>
+                <Shooting>55</Shooting>
+                <Passing>67</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>61</Defensive>
+                <Stamina>77</Stamina>
+                <Club>Vitória de Guimarães</Club>
+                <DateOfBirth>26-06-1989</DateOfBirth>
+            </Player>
+            <Player id="6018">
+                <FirstName>Josué Humberto</FirstName>
+                <LastName>Gonçalves Leal Sá</LastName>
+                <Position>CB</Position>
+                <Pace>67</Pace>
+                <Shooting>35</Shooting>
+                <Passing>41</Passing>
+                <Offensive>38</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>59</Stamina>
+                <Club>Vitória de Guimarães</Club>
+                <DateOfBirth>17-06-1992</DateOfBirth>
+            </Player>
+            <Player id="6436">
+                <FirstName>Pedro Guerreiro</FirstName>
+                <LastName>de Jesus Correia</LastName>
+                <Position>RB</Position>
+                <Pace>66</Pace>
+                <Shooting>46</Shooting>
+                <Passing>54</Passing>
+                <Offensive>50</Offensive>
+                <Defensive>65</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Vitória de Guimarães</Club>
+                <DateOfBirth>27-03-1987</DateOfBirth>
+            </Player>
+            <Player id="6655">
+                <FirstName>João Filipe</FirstName>
+                <LastName>Amorim Gomes</LastName>
+                <Position>RB</Position>
+                <Pace>71</Pace>
+                <Shooting>34</Shooting>
+                <Passing>50</Passing>
+                <Offensive>42</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>69</Stamina>
+                <Club>Vitória de Guimarães</Club>
+                <DateOfBirth>26-07-1992</DateOfBirth>
+            </Player>
+            <Player id="7357">
+                <FirstName>Ricardo Jorge</FirstName>
+                <LastName>Pires Gomes</LastName>
+                <Position>ST</Position>
+                <Pace>53</Pace>
+                <Shooting>62</Shooting>
+                <Passing>55</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>57</Stamina>
+                <Club>Vitória de Guimarães</Club>
+                <DateOfBirth>18-12-1991</DateOfBirth>
+            </Player>
+            <Player id="12013">
+                <FirstName>André Filipe</FirstName>
+                <LastName>Brás André</LastName>
+                <Position>CDM</Position>
+                <Pace>72</Pace>
+                <Shooting>68</Shooting>
+                <Passing>73</Passing>
+                <Offensive>70</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>87</Stamina>
+                <Club>Vitória de Guimarães</Club>
+                <DateOfBirth>26-08-1989</DateOfBirth>
+            </Player>
+            <Player id="12285">
+                <FirstName>Douglas Renato</FirstName>
+                <LastName>de Jesus</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>44</Stamina>
+                <Club>Vitória de Guimarães</Club>
+                <DateOfBirth>09-03-1983</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Sporting CP">
+            <Player id="620">
+                <FirstName>Mahmoud Abdel</FirstName>
+                <LastName>Razek Fadlallah</LastName>
+                <Position>LW</Position>
+                <Pace>80</Pace>
+                <Shooting>74</Shooting>
+                <Passing>65</Passing>
+                <Offensive>69</Offensive>
+                <Defensive>35</Defensive>
+                <Stamina>62</Stamina>
+                <Club>Sporting CP</Club>
+                <DateOfBirth>05-03-1986</DateOfBirth>
+            </Player>
+            <Player id="1046">
+                <FirstName>Jonathan</FirstName>
+                <LastName>Silva</LastName>
+                <Position>LB</Position>
+                <Pace>81</Pace>
+                <Shooting>51</Shooting>
+                <Passing>58</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>86</Stamina>
+                <Club>Sporting CP</Club>
+                <DateOfBirth>29-06-1994</DateOfBirth>
+            </Player>
+            <Player id="1088">
+                <FirstName>Luís Carlos</FirstName>
+                <LastName>Almeida da Cunha</LastName>
+                <Position>RM</Position>
+                <Pace>84</Pace>
+                <Shooting>78</Shooting>
+                <Passing>79</Passing>
+                <Offensive>78</Offensive>
+                <Defensive>27</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Sporting CP</Club>
+                <DateOfBirth>17-11-1986</DateOfBirth>
+            </Player>
+            <Player id="1885">
+                <FirstName>Rui Pedro</FirstName>
+                <LastName>dos Santos Patrício</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>45</Stamina>
+                <Club>Sporting CP</Club>
+                <DateOfBirth>15-02-1988</DateOfBirth>
+            </Player>
+            <Player id="2036">
+                <FirstName>Ricardo</FirstName>
+                <LastName>Sousa Esgaio</LastName>
+                <Position>RB</Position>
+                <Pace>75</Pace>
+                <Shooting>67</Shooting>
+                <Passing>62</Passing>
+                <Offensive>64</Offensive>
+                <Defensive>65</Defensive>
+                <Stamina>78</Stamina>
+                <Club>Sporting CP</Club>
+                <DateOfBirth>16-05-1993</DateOfBirth>
+            </Player>
+            <Player id="2037">
+                <FirstName>Iuri José</FirstName>
+                <LastName>Picanço Medeiros</LastName>
+                <Position>LW</Position>
+                <Pace>82</Pace>
+                <Shooting>66</Shooting>
+                <Passing>58</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>26</Defensive>
+                <Stamina>54</Stamina>
+                <Club>Sporting CP</Club>
+                <DateOfBirth>10-07-1994</DateOfBirth>
+            </Player>
+            <Player id="2053">
+                <FirstName>Fabrice</FirstName>
+                <LastName>Fokobo</LastName>
+                <Position>CB</Position>
+                <Pace>73</Pace>
+                <Shooting>56</Shooting>
+                <Passing>50</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>65</Defensive>
+                <Stamina>76</Stamina>
+                <Club>Sporting CP</Club>
+                <DateOfBirth>25-01-1994</DateOfBirth>
+            </Player>
+            <Player id="2075">
+                <FirstName>Oriol</FirstName>
+                <LastName>Rosell Argerich</LastName>
+                <Position>CDM</Position>
+                <Pace>58</Pace>
+                <Shooting>43</Shooting>
+                <Passing>55</Passing>
+                <Offensive>49</Offensive>
+                <Defensive>65</Defensive>
+                <Stamina>69</Stamina>
+                <Club>Sporting CP</Club>
+                <DateOfBirth>07-07-1992</DateOfBirth>
+            </Player>
+            <Player id="2973">
+                <FirstName>André</FirstName>
+                <LastName>Carrillo</LastName>
+                <Position>RM</Position>
+                <Pace>89</Pace>
+                <Shooting>75</Shooting>
+                <Passing>75</Passing>
+                <Offensive>75</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Sporting CP</Club>
+                <DateOfBirth>14-06-1991</DateOfBirth>
+            </Player>
+            <Player id="3535">
+                <FirstName>Ryan</FirstName>
+                <LastName>Gauld</LastName>
+                <Position>CAM</Position>
+                <Pace>86</Pace>
+                <Shooting>56</Shooting>
+                <Passing>60</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>62</Stamina>
+                <Club>Sporting CP</Club>
+                <DateOfBirth>16-12-1995</DateOfBirth>
+            </Player>
+            <Player id="4277">
+                <FirstName>Adrien S.</FirstName>
+                <LastName>Perruchet Silva</LastName>
+                <Position>CM</Position>
+                <Pace>61</Pace>
+                <Shooting>74</Shooting>
+                <Passing>80</Passing>
+                <Offensive>77</Offensive>
+                <Defensive>69</Defensive>
+                <Stamina>75</Stamina>
+                <Club>Sporting CP</Club>
+                <DateOfBirth>15-03-1989</DateOfBirth>
+            </Player>
+            <Player id="4821">
+                <FirstName>William</FirstName>
+                <LastName>Silva de Carvalho</LastName>
+                <Position>CDM</Position>
+                <Pace>59</Pace>
+                <Shooting>60</Shooting>
+                <Passing>70</Passing>
+                <Offensive>65</Offensive>
+                <Defensive>80</Defensive>
+                <Stamina>81</Stamina>
+                <Club>Sporting CP</Club>
+                <DateOfBirth>07-04-1992</DateOfBirth>
+            </Player>
+            <Player id="6016">
+                <FirstName>Mouhamadou-Naby</FirstName>
+                <LastName>Sarr</LastName>
+                <Position>CB</Position>
+                <Pace>52</Pace>
+                <Shooting>30</Shooting>
+                <Passing>37</Passing>
+                <Offensive>33</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>68</Stamina>
+                <Club>Sporting CP</Club>
+                <DateOfBirth>13-08-1993</DateOfBirth>
+            </Player>
+            <Player id="6958">
+                <FirstName>Diego</FirstName>
+                <LastName>Capel Trinidad</LastName>
+                <Position>LW</Position>
+                <Pace>87</Pace>
+                <Shooting>64</Shooting>
+                <Passing>69</Passing>
+                <Offensive>66</Offensive>
+                <Defensive>41</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Sporting CP</Club>
+                <DateOfBirth>16-02-1988</DateOfBirth>
+            </Player>
+            <Player id="8286">
+                <FirstName>Cédric Ricardo</FirstName>
+                <LastName>Alves Soares</LastName>
+                <Position>RB</Position>
+                <Pace>82</Pace>
+                <Shooting>67</Shooting>
+                <Passing>71</Passing>
+                <Offensive>69</Offensive>
+                <Defensive>74</Defensive>
+                <Stamina>88</Stamina>
+                <Club>Sporting CP</Club>
+                <DateOfBirth>31-08-1991</DateOfBirth>
+            </Player>
+            <Player id="8821">
+                <FirstName>Fredy</FirstName>
+                <LastName>Montero</LastName>
+                <Position>ST</Position>
+                <Pace>76</Pace>
+                <Shooting>77</Shooting>
+                <Passing>75</Passing>
+                <Offensive>76</Offensive>
+                <Defensive>37</Defensive>
+                <Stamina>77</Stamina>
+                <Club>Sporting CP</Club>
+                <DateOfBirth>26-07-1987</DateOfBirth>
+            </Player>
+            <Player id="9351">
+                <FirstName>Maurício</FirstName>
+                <LastName>Santos Nascimento</LastName>
+                <Position>CB</Position>
+                <Pace>68</Pace>
+                <Shooting>51</Shooting>
+                <Passing>55</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>78</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Sporting CP</Club>
+                <DateOfBirth>02-09-1988</DateOfBirth>
+            </Player>
+            <Player id="10406">
+                <FirstName>André Renato</FirstName>
+                <LastName>Soares Martins</LastName>
+                <Position>CM</Position>
+                <Pace>81</Pace>
+                <Shooting>66</Shooting>
+                <Passing>75</Passing>
+                <Offensive>70</Offensive>
+                <Defensive>56</Defensive>
+                <Stamina>76</Stamina>
+                <Club>Sporting CP</Club>
+                <DateOfBirth>21-01-1990</DateOfBirth>
+            </Player>
+            <Player id="11492">
+                <FirstName>Islam</FirstName>
+                <LastName>Slimani</LastName>
+                <Position>ST</Position>
+                <Pace>63</Pace>
+                <Shooting>74</Shooting>
+                <Passing>53</Passing>
+                <Offensive>63</Offensive>
+                <Defensive>35</Defensive>
+                <Stamina>79</Stamina>
+                <Club>Sporting CP</Club>
+                <DateOfBirth>18-06-1988</DateOfBirth>
+            </Player>
+            <Player id="11753">
+                <FirstName>Jefferson</FirstName>
+                <LastName>Nascimento</LastName>
+                <Position>LB</Position>
+                <Pace>80</Pace>
+                <Shooting>69</Shooting>
+                <Passing>71</Passing>
+                <Offensive>70</Offensive>
+                <Defensive>73</Defensive>
+                <Stamina>91</Stamina>
+                <Club>Sporting CP</Club>
+                <DateOfBirth>05-07-1988</DateOfBirth>
+            </Player>
+            <Player id="11813">
+                <FirstName>Héldon Augusto</FirstName>
+                <LastName>Almeida Ramos</LastName>
+                <Position>RW</Position>
+                <Pace>85</Pace>
+                <Shooting>70</Shooting>
+                <Passing>64</Passing>
+                <Offensive>67</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>73</Stamina>
+                <Club>Sporting CP</Club>
+                <DateOfBirth>14-11-1988</DateOfBirth>
+            </Player>
+            <Player id="12037">
+                <FirstName>Carlos Manuel</FirstName>
+                <LastName>Cardoso Mané</LastName>
+                <Position>RW</Position>
+                <Pace>87</Pace>
+                <Shooting>67</Shooting>
+                <Passing>64</Passing>
+                <Offensive>65</Offensive>
+                <Defensive>39</Defensive>
+                <Stamina>76</Stamina>
+                <Club>Sporting CP</Club>
+                <DateOfBirth>11-03-1994</DateOfBirth>
+            </Player>
+            <Player id="12081">
+                <FirstName>Hugo Miguel</FirstName>
+                <LastName>Almeida Costa Lopes</LastName>
+                <Position>RB</Position>
+                <Pace>77</Pace>
+                <Shooting>40</Shooting>
+                <Passing>69</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>72</Defensive>
+                <Stamina>83</Stamina>
+                <Club>Sporting CP</Club>
+                <DateOfBirth>19-12-1986</DateOfBirth>
+            </Player>
+            <Player id="12327">
+                <FirstName>Paulo André</FirstName>
+                <LastName>R. Oliveira</LastName>
+                <Position>CB</Position>
+                <Pace>60</Pace>
+                <Shooting>34</Shooting>
+                <Passing>43</Passing>
+                <Offensive>38</Offensive>
+                <Defensive>77</Defensive>
+                <Stamina>69</Stamina>
+                <Club>Sporting CP</Club>
+                <DateOfBirth>01-01-1992</DateOfBirth>
+            </Player>
+            <Player id="12374">
+                <FirstName>João Mário</FirstName>
+                <LastName>N.d.C. Eduardo</LastName>
+                <Position>CM</Position>
+                <Pace>64</Pace>
+                <Shooting>62</Shooting>
+                <Passing>73</Passing>
+                <Offensive>67</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Sporting CP</Club>
+                <DateOfBirth>19-01-1993</DateOfBirth>
+            </Player>
+            <Player id="12523">
+                <FirstName>Marcelo</FirstName>
+                <LastName>Boeck</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>35</Stamina>
+                <Club>Sporting CP</Club>
+                <DateOfBirth>28-11-1984</DateOfBirth>
+            </Player>
+            <Player id="12784">
+                <FirstName>Junya</FirstName>
+                <LastName>Tanaka</LastName>
+                <Position>ST</Position>
+                <Pace>76</Pace>
+                <Shooting>73</Shooting>
+                <Passing>65</Passing>
+                <Offensive>69</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Sporting CP</Club>
+                <DateOfBirth>15-07-1987</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="FC Arouca">
+            <Player id="734">
+                <FirstName>Bruno Amaro</FirstName>
+                <LastName>de Sousa Barros</LastName>
+                <Position>CM</Position>
+                <Pace>53</Pace>
+                <Shooting>71</Shooting>
+                <Passing>74</Passing>
+                <Offensive>72</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>52</Stamina>
+                <Club>FC Arouca</Club>
+                <DateOfBirth>01-02-1983</DateOfBirth>
+            </Player>
+            <Player id="882">
+                <FirstName>Mauro</FirstName>
+                <LastName>Goicoechea</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>37</Stamina>
+                <Club>FC Arouca</Club>
+                <DateOfBirth>27-03-1988</DateOfBirth>
+            </Player>
+            <Player id="1406">
+                <FirstName>Roberto P.</FirstName>
+                <LastName>Maximiano Rodrigo</LastName>
+                <Position>ST</Position>
+                <Pace>69</Pace>
+                <Shooting>68</Shooting>
+                <Passing>49</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>26</Defensive>
+                <Stamina>66</Stamina>
+                <Club>FC Arouca</Club>
+                <DateOfBirth>28-11-1988</DateOfBirth>
+            </Player>
+            <Player id="1412">
+                <FirstName>Diego Fortunato</FirstName>
+                <LastName>dos Santos Queiroz</LastName>
+                <Position>CB</Position>
+                <Pace>64</Pace>
+                <Shooting>28</Shooting>
+                <Passing>40</Passing>
+                <Offensive>34</Offensive>
+                <Defensive>70</Defensive>
+                <Stamina>64</Stamina>
+                <Club>FC Arouca</Club>
+                <DateOfBirth>14-01-1984</DateOfBirth>
+            </Player>
+            <Player id="1444">
+                <FirstName>Carlos Pedro</FirstName>
+                <LastName>Carvalho Sousa</LastName>
+                <Position>RW</Position>
+                <Pace>73</Pace>
+                <Shooting>61</Shooting>
+                <Passing>67</Passing>
+                <Offensive>64</Offensive>
+                <Defensive>43</Defensive>
+                <Stamina>77</Stamina>
+                <Club>FC Arouca</Club>
+                <DateOfBirth>30-06-1985</DateOfBirth>
+            </Player>
+            <Player id="1511">
+                <FirstName>Nuno Miguel</FirstName>
+                <LastName>Prata Coelho</LastName>
+                <Position>CB</Position>
+                <Pace>74</Pace>
+                <Shooting>43</Shooting>
+                <Passing>60</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>68</Defensive>
+                <Stamina>82</Stamina>
+                <Club>FC Arouca</Club>
+                <DateOfBirth>23-11-1987</DateOfBirth>
+            </Player>
+            <Player id="2572">
+                <FirstName>Fernando Rui</FirstName>
+                <LastName>V. Pinto Sampaio</LastName>
+                <Position>CM</Position>
+                <Pace>66</Pace>
+                <Shooting>58</Shooting>
+                <Passing>69</Passing>
+                <Offensive>63</Offensive>
+                <Defensive>48</Defensive>
+                <Stamina>69</Stamina>
+                <Club>FC Arouca</Club>
+                <DateOfBirth>29-05-1987</DateOfBirth>
+            </Player>
+            <Player id="2798">
+                <FirstName>Pedro Miguel</FirstName>
+                <LastName>dos Santos Oliveira</LastName>
+                <Position>CB</Position>
+                <Pace>38</Pace>
+                <Shooting>42</Shooting>
+                <Passing>40</Passing>
+                <Offensive>41</Offensive>
+                <Defensive>68</Defensive>
+                <Stamina>52</Stamina>
+                <Club>FC Arouca</Club>
+                <DateOfBirth>18-08-1983</DateOfBirth>
+            </Player>
+            <Player id="2898">
+                <FirstName>André Filipe</FirstName>
+                <LastName>Claro de Jesus</LastName>
+                <Position>LW</Position>
+                <Pace>75</Pace>
+                <Shooting>63</Shooting>
+                <Passing>60</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>60</Stamina>
+                <Club>FC Arouca</Club>
+                <DateOfBirth>31-03-1991</DateOfBirth>
+            </Player>
+            <Player id="3585">
+                <FirstName>Luís Fernando</FirstName>
+                <LastName>Gonçalves Tinoco</LastName>
+                <Position>LB</Position>
+                <Pace>66</Pace>
+                <Shooting>53</Shooting>
+                <Passing>66</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>90</Stamina>
+                <Club>FC Arouca</Club>
+                <DateOfBirth>17-10-1986</DateOfBirth>
+            </Player>
+            <Player id="3868">
+                <FirstName>Ustaritz</FirstName>
+                <LastName>Aldekoaotalora</LastName>
+                <Position>CB</Position>
+                <Pace>71</Pace>
+                <Shooting>35</Shooting>
+                <Passing>46</Passing>
+                <Offensive>40</Offensive>
+                <Defensive>65</Defensive>
+                <Stamina>33</Stamina>
+                <Club>FC Arouca</Club>
+                <DateOfBirth>16-02-1983</DateOfBirth>
+            </Player>
+            <Player id="4845">
+                <FirstName>Iván</FirstName>
+                <LastName>Balliu Campeny</LastName>
+                <Position>RB</Position>
+                <Pace>70</Pace>
+                <Shooting>33</Shooting>
+                <Passing>55</Passing>
+                <Offensive>44</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>82</Stamina>
+                <Club>FC Arouca</Club>
+                <DateOfBirth>01-01-1992</DateOfBirth>
+            </Player>
+            <Player id="5664">
+                <FirstName>Hugo Rogério</FirstName>
+                <LastName>Ferreira Monteiro</LastName>
+                <Position>RW</Position>
+                <Pace>76</Pace>
+                <Shooting>59</Shooting>
+                <Passing>58</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>33</Defensive>
+                <Stamina>52</Stamina>
+                <Club>FC Arouca</Club>
+                <DateOfBirth>09-05-1985</DateOfBirth>
+            </Player>
+            <Player id="6516">
+                <FirstName>Rui Miguel</FirstName>
+                <LastName>Neto Sacramento</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>38</Stamina>
+                <Club>FC Arouca</Club>
+                <DateOfBirth>31-01-1985</DateOfBirth>
+            </Player>
+            <Player id="8459">
+                <FirstName>Igor</FirstName>
+                <LastName>Ferreira Rocha</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>23</Stamina>
+                <Club>FC Arouca</Club>
+                <DateOfBirth>04-03-1993</DateOfBirth>
+            </Player>
+            <Player id="12823">
+                <FirstName>Artur Filipe</FirstName>
+                <LastName>Bernardes Moreira</LastName>
+                <Position>CAM</Position>
+                <Pace>71</Pace>
+                <Shooting>69</Shooting>
+                <Passing>73</Passing>
+                <Offensive>71</Offensive>
+                <Defensive>46</Defensive>
+                <Stamina>74</Stamina>
+                <Club>FC Arouca</Club>
+                <DateOfBirth>18-02-1984</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Boavista FC">
+            <Player id="950">
+                <FirstName>Quincy</FirstName>
+                <LastName>Owusu-Abeyie</LastName>
+                <Position>RM</Position>
+                <Pace>89</Pace>
+                <Shooting>66</Shooting>
+                <Passing>60</Passing>
+                <Offensive>63</Offensive>
+                <Defensive>27</Defensive>
+                <Stamina>65</Stamina>
+                <Club>Boavista FC</Club>
+                <DateOfBirth>15-04-1986</DateOfBirth>
+            </Player>
+            <Player id="2031">
+                <FirstName>Armindo</FirstName>
+                <LastName>R. Mendes Furtado</LastName>
+                <Position>LM</Position>
+                <Pace>85</Pace>
+                <Shooting>63</Shooting>
+                <Passing>60</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>26</Defensive>
+                <Stamina>74</Stamina>
+                <Club>Boavista FC</Club>
+                <DateOfBirth>16-11-1987</DateOfBirth>
+            </Player>
+            <Player id="2061">
+                <FirstName>Brayan</FirstName>
+                <LastName>Beckeles</LastName>
+                <Position>RB</Position>
+                <Pace>68</Pace>
+                <Shooting>42</Shooting>
+                <Passing>57</Passing>
+                <Offensive>49</Offensive>
+                <Defensive>69</Defensive>
+                <Stamina>84</Stamina>
+                <Club>Boavista FC</Club>
+                <DateOfBirth>28-11-1985</DateOfBirth>
+            </Player>
+            <Player id="3603">
+                <FirstName>Christian</FirstName>
+                <LastName>Pouga</LastName>
+                <Position>ST</Position>
+                <Pace>45</Pace>
+                <Shooting>67</Shooting>
+                <Passing>59</Passing>
+                <Offensive>63</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>34</Stamina>
+                <Club>Boavista FC</Club>
+                <DateOfBirth>19-06-1986</DateOfBirth>
+            </Player>
+            <Player id="3997">
+                <FirstName>Michael</FirstName>
+                <LastName>Simões Domingues</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>39</Stamina>
+                <Club>Boavista FC</Club>
+                <DateOfBirth>08-03-1991</DateOfBirth>
+            </Player>
+            <Player id="4066">
+                <FirstName>Lucas Santos</FirstName>
+                <LastName>Rocha da Silva</LastName>
+                <Position>CB</Position>
+                <Pace>52</Pace>
+                <Shooting>42</Shooting>
+                <Passing>53</Passing>
+                <Offensive>47</Offensive>
+                <Defensive>67</Defensive>
+                <Stamina>51</Stamina>
+                <Club>Boavista FC</Club>
+                <DateOfBirth>14-07-1991</DateOfBirth>
+            </Player>
+            <Player id="6194">
+                <FirstName>Leonardo</FirstName>
+                <LastName>Ferreira</LastName>
+                <Position>CF</Position>
+                <Pace>75</Pace>
+                <Shooting>59</Shooting>
+                <Passing>61</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>31</Defensive>
+                <Stamina>54</Stamina>
+                <Club>Boavista FC</Club>
+                <DateOfBirth>07-06-1988</DateOfBirth>
+            </Player>
+            <Player id="6503">
+                <FirstName>João Manuel</FirstName>
+                <LastName>Antunes Dias</LastName>
+                <Position>RB</Position>
+                <Pace>68</Pace>
+                <Shooting>41</Shooting>
+                <Passing>56</Passing>
+                <Offensive>48</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>73</Stamina>
+                <Club>Boavista FC</Club>
+                <DateOfBirth>23-12-1986</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Moreirense FC">
+            <Player id="951">
+                <FirstName>Danielson</FirstName>
+                <LastName>Ferreira Trindade</LastName>
+                <Position>CB</Position>
+                <Pace>54</Pace>
+                <Shooting>42</Shooting>
+                <Passing>48</Passing>
+                <Offensive>45</Offensive>
+                <Defensive>70</Defensive>
+                <Stamina>33</Stamina>
+                <Club>Moreirense FC</Club>
+                <DateOfBirth>09-01-1981</DateOfBirth>
+            </Player>
+            <Player id="1023">
+                <FirstName>Alex</FirstName>
+                <LastName>Santos Gonçalves</LastName>
+                <Position>ST</Position>
+                <Pace>73</Pace>
+                <Shooting>69</Shooting>
+                <Passing>52</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>36</Defensive>
+                <Stamina>51</Stamina>
+                <Club>Moreirense FC</Club>
+                <DateOfBirth>20-05-1990</DateOfBirth>
+            </Player>
+            <Player id="1240">
+                <FirstName>Ramón</FirstName>
+                <LastName>Cardozo</LastName>
+                <Position>ST</Position>
+                <Pace>61</Pace>
+                <Shooting>70</Shooting>
+                <Passing>48</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>58</Stamina>
+                <Club>Moreirense FC</Club>
+                <DateOfBirth>21-04-1986</DateOfBirth>
+            </Player>
+            <Player id="1701">
+                <FirstName>Marcelo José</FirstName>
+                <LastName>Oliveira</LastName>
+                <Position>CB</Position>
+                <Pace>66</Pace>
+                <Shooting>47</Shooting>
+                <Passing>50</Passing>
+                <Offensive>48</Offensive>
+                <Defensive>71</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Moreirense FC</Club>
+                <DateOfBirth>05-09-1981</DateOfBirth>
+            </Player>
+            <Player id="3147">
+                <FirstName>Arsénio Martins</FirstName>
+                <LastName>Lafuente Nunes</LastName>
+                <Position>LW</Position>
+                <Pace>75</Pace>
+                <Shooting>64</Shooting>
+                <Passing>66</Passing>
+                <Offensive>65</Offensive>
+                <Defensive>38</Defensive>
+                <Stamina>64</Stamina>
+                <Club>Moreirense FC</Club>
+                <DateOfBirth>30-08-1989</DateOfBirth>
+            </Player>
+            <Player id="4488">
+                <FirstName>Edivaldo</FirstName>
+                <LastName>Rojas</LastName>
+                <Position>CAM</Position>
+                <Pace>69</Pace>
+                <Shooting>62</Shooting>
+                <Passing>60</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>63</Stamina>
+                <Club>Moreirense FC</Club>
+                <DateOfBirth>17-11-1985</DateOfBirth>
+            </Player>
+            <Player id="4634">
+                <FirstName>Rodrigo</FirstName>
+                <LastName>Battaglia</LastName>
+                <Position>CM</Position>
+                <Pace>71</Pace>
+                <Shooting>60</Shooting>
+                <Passing>59</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>68</Stamina>
+                <Club>Moreirense FC</Club>
+                <DateOfBirth>12-07-1991</DateOfBirth>
+            </Player>
+            <Player id="5663">
+                <FirstName>André Filipe</FirstName>
+                <LastName>Farias Marques</LastName>
+                <Position>LB</Position>
+                <Pace>61</Pace>
+                <Shooting>51</Shooting>
+                <Passing>60</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>65</Defensive>
+                <Stamina>73</Stamina>
+                <Club>Moreirense FC</Club>
+                <DateOfBirth>01-08-1987</DateOfBirth>
+            </Player>
+            <Player id="5856">
+                <FirstName>Pedro Emanuel</FirstName>
+                <LastName>Ferreira Sousa</LastName>
+                <Position>RW</Position>
+                <Pace>76</Pace>
+                <Shooting>60</Shooting>
+                <Passing>57</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>60</Stamina>
+                <Club>Moreirense FC</Club>
+                <DateOfBirth>19-09-1990</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Gil Vicente">
+            <Player id="1075">
+                <FirstName>Diogo Jorge</FirstName>
+                <LastName>Moreno Valente</LastName>
+                <Position>LW</Position>
+                <Pace>79</Pace>
+                <Shooting>62</Shooting>
+                <Passing>65</Passing>
+                <Offensive>63</Offensive>
+                <Defensive>46</Defensive>
+                <Stamina>67</Stamina>
+                <Club>Gil Vicente</Club>
+                <DateOfBirth>23-09-1984</DateOfBirth>
+            </Player>
+            <Player id="1078">
+                <FirstName>Paulo César</FirstName>
+                <LastName>Silva Peixoto</LastName>
+                <Position>CM</Position>
+                <Pace>49</Pace>
+                <Shooting>62</Shooting>
+                <Passing>74</Passing>
+                <Offensive>68</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>46</Stamina>
+                <Club>Gil Vicente</Club>
+                <DateOfBirth>12-05-1980</DateOfBirth>
+            </Player>
+            <Player id="2353">
+                <FirstName>Evaldo</FirstName>
+                <LastName>dos Santos Fabiano</LastName>
+                <Position>LB</Position>
+                <Pace>73</Pace>
+                <Shooting>52</Shooting>
+                <Passing>61</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>65</Defensive>
+                <Stamina>77</Stamina>
+                <Club>Gil Vicente</Club>
+                <DateOfBirth>18-03-1982</DateOfBirth>
+            </Player>
+            <Player id="2486">
+                <FirstName>Rui Miguel</FirstName>
+                <LastName>Teixeira Caetano</LastName>
+                <Position>LW</Position>
+                <Pace>84</Pace>
+                <Shooting>61</Shooting>
+                <Passing>60</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>25</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Gil Vicente</Club>
+                <DateOfBirth>20-04-1991</DateOfBirth>
+            </Player>
+            <Player id="3944">
+                <FirstName>Alphousseyni</FirstName>
+                <LastName>Keita</LastName>
+                <Position>CDM</Position>
+                <Pace>65</Pace>
+                <Shooting>46</Shooting>
+                <Passing>54</Passing>
+                <Offensive>50</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>90</Stamina>
+                <Club>Gil Vicente</Club>
+                <DateOfBirth>13-11-1985</DateOfBirth>
+            </Player>
+            <Player id="4091">
+                <FirstName>Lázaro Luan</FirstName>
+                <LastName>Scapolan</LastName>
+                <Position>CDM</Position>
+                <Pace>54</Pace>
+                <Shooting>51</Shooting>
+                <Passing>56</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>67</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Gil Vicente</Club>
+                <DateOfBirth>30-12-1988</DateOfBirth>
+            </Player>
+            <Player id="6174">
+                <FirstName>Caleb</FirstName>
+                <LastName>Patterson-Sewell</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>36</Stamina>
+                <Club>Gil Vicente</Club>
+                <DateOfBirth>20-05-1987</DateOfBirth>
+            </Player>
+            <Player id="6318">
+                <FirstName>Vítor Bruno</FirstName>
+                <LastName>Rodrigues Gonçalves</LastName>
+                <Position>CM</Position>
+                <Pace>67</Pace>
+                <Shooting>53</Shooting>
+                <Passing>62</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>47</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Gil Vicente</Club>
+                <DateOfBirth>29-03-1992</DateOfBirth>
+            </Player>
+            <Player id="6580">
+                <FirstName>Manassé</FirstName>
+                <LastName>Enza-Yamissi</LastName>
+                <Position>CB</Position>
+                <Pace>70</Pace>
+                <Shooting>37</Shooting>
+                <Passing>51</Passing>
+                <Offensive>44</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Gil Vicente</Club>
+                <DateOfBirth>28-09-1989</DateOfBirth>
+            </Player>
+            <Player id="6897">
+                <FirstName>João Paulo</FirstName>
+                <LastName>Dias Fernandes</LastName>
+                <Position>ST</Position>
+                <Pace>54</Pace>
+                <Shooting>64</Shooting>
+                <Passing>44</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>27</Defensive>
+                <Stamina>56</Stamina>
+                <Club>Gil Vicente</Club>
+                <DateOfBirth>09-11-1992</DateOfBirth>
+            </Player>
+            <Player id="7122">
+                <FirstName>Marwan</FirstName>
+                <LastName>Mohsen</LastName>
+                <Position>ST</Position>
+                <Pace>67</Pace>
+                <Shooting>63</Shooting>
+                <Passing>45</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>55</Stamina>
+                <Club>Gil Vicente</Club>
+                <DateOfBirth>25-02-1989</DateOfBirth>
+            </Player>
+            <Player id="12785">
+                <FirstName>Gabriel</FirstName>
+                <LastName>Rodrigues de Moura</LastName>
+                <Position>RB</Position>
+                <Pace>82</Pace>
+                <Shooting>41</Shooting>
+                <Passing>62</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>71</Defensive>
+                <Stamina>79</Stamina>
+                <Club>Gil Vicente</Club>
+                <DateOfBirth>18-06-1988</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Vitória de Setúbal">
+            <Player id="1268">
+                <FirstName>Emanuel Jesus</FirstName>
+                <LastName>Bonfim Evaristo</LastName>
+                <Position>RW</Position>
+                <Pace>92</Pace>
+                <Shooting>52</Shooting>
+                <Passing>57</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>46</Defensive>
+                <Stamina>75</Stamina>
+                <Club>Vitória de Setúbal</Club>
+                <DateOfBirth>28-08-1982</DateOfBirth>
+            </Player>
+            <Player id="1980">
+                <FirstName>Barbosa Queirós</FirstName>
+                <LastName>Pedro Miguel</LastName>
+                <Position>RB</Position>
+                <Pace>69</Pace>
+                <Shooting>40</Shooting>
+                <Passing>58</Passing>
+                <Offensive>49</Offensive>
+                <Defensive>69</Defensive>
+                <Stamina>80</Stamina>
+                <Club>Vitória de Setúbal</Club>
+                <DateOfBirth>08-08-1984</DateOfBirth>
+            </Player>
+            <Player id="3068">
+                <FirstName>Paulo Daniel</FirstName>
+                <LastName>Fernandes Tavares</LastName>
+                <Position>CM</Position>
+                <Pace>68</Pace>
+                <Shooting>65</Shooting>
+                <Passing>66</Passing>
+                <Offensive>65</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>83</Stamina>
+                <Club>Vitória de Setúbal</Club>
+                <DateOfBirth>09-12-1985</DateOfBirth>
+            </Player>
+            <Player id="3117">
+                <FirstName>Luis</FirstName>
+                <LastName>Advíncula</LastName>
+                <Position>RB</Position>
+                <Pace>84</Pace>
+                <Shooting>64</Shooting>
+                <Passing>63</Passing>
+                <Offensive>63</Offensive>
+                <Defensive>68</Defensive>
+                <Stamina>65</Stamina>
+                <Club>Vitória de Setúbal</Club>
+                <DateOfBirth>02-03-1990</DateOfBirth>
+            </Player>
+            <Player id="3187">
+                <FirstName>Miguel António</FirstName>
+                <LastName>Ferreira Pedro</LastName>
+                <Position>CAM</Position>
+                <Pace>67</Pace>
+                <Shooting>63</Shooting>
+                <Passing>64</Passing>
+                <Offensive>63</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>61</Stamina>
+                <Club>Vitória de Setúbal</Club>
+                <DateOfBirth>06-11-1983</DateOfBirth>
+            </Player>
+            <Player id="3615">
+                <FirstName>Uedson Ney</FirstName>
+                <LastName>dos Santos</LastName>
+                <Position>CDM</Position>
+                <Pace>55</Pace>
+                <Shooting>46</Shooting>
+                <Passing>64</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>58</Stamina>
+                <Club>Vitória de Setúbal</Club>
+                <DateOfBirth>23-02-1981</DateOfBirth>
+            </Player>
+            <Player id="3631">
+                <FirstName>Tiago André</FirstName>
+                <LastName>Ramos Terroso</LastName>
+                <Position>CM</Position>
+                <Pace>64</Pace>
+                <Shooting>58</Shooting>
+                <Passing>68</Passing>
+                <Offensive>63</Offensive>
+                <Defensive>54</Defensive>
+                <Stamina>77</Stamina>
+                <Club>Vitória de Setúbal</Club>
+                <DateOfBirth>13-01-1988</DateOfBirth>
+            </Player>
+            <Player id="3848">
+                <FirstName>Rachide Forbes</FirstName>
+                <LastName>Vandinho Barreto</LastName>
+                <Position>ST</Position>
+                <Pace>58</Pace>
+                <Shooting>70</Shooting>
+                <Passing>46</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>52</Stamina>
+                <Club>Vitória de Setúbal</Club>
+                <DateOfBirth>20-06-1989</DateOfBirth>
+            </Player>
+            <Player id="4243">
+                <FirstName>Adama François</FirstName>
+                <LastName>Sene</LastName>
+                <Position>CB</Position>
+                <Pace>49</Pace>
+                <Shooting>40</Shooting>
+                <Passing>50</Passing>
+                <Offensive>45</Offensive>
+                <Defensive>65</Defensive>
+                <Stamina>66</Stamina>
+                <Club>Vitória de Setúbal</Club>
+                <DateOfBirth>30-11-1989</DateOfBirth>
+            </Player>
+            <Player id="4346">
+                <FirstName>Frederico André</FirstName>
+                <LastName>Ferrão Venâncio</LastName>
+                <Position>CB</Position>
+                <Pace>63</Pace>
+                <Shooting>31</Shooting>
+                <Passing>39</Passing>
+                <Offensive>35</Offensive>
+                <Defensive>67</Defensive>
+                <Stamina>66</Stamina>
+                <Club>Vitória de Setúbal</Club>
+                <DateOfBirth>04-02-1993</DateOfBirth>
+            </Player>
+            <Player id="4532">
+                <FirstName>Diego Maurício</FirstName>
+                <LastName>Machado de Brito</LastName>
+                <Position>ST</Position>
+                <Pace>75</Pace>
+                <Shooting>64</Shooting>
+                <Passing>64</Passing>
+                <Offensive>64</Offensive>
+                <Defensive>32</Defensive>
+                <Stamina>64</Stamina>
+                <Club>Vitória de Setúbal</Club>
+                <DateOfBirth>25-06-1991</DateOfBirth>
+            </Player>
+            <Player id="5194">
+                <FirstName>João Felipe</FirstName>
+                <LastName>Schmidt Urbano</LastName>
+                <Position>CDM</Position>
+                <Pace>62</Pace>
+                <Shooting>51</Shooting>
+                <Passing>66</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>68</Stamina>
+                <Club>Vitória de Setúbal</Club>
+                <DateOfBirth>19-05-1993</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="FC Penafiel">
+            <Player id="4457">
+                <FirstName>Tiago André</FirstName>
+                <LastName>Coelho Lopes</LastName>
+                <Position>ST</Position>
+                <Pace>73</Pace>
+                <Shooting>64</Shooting>
+                <Passing>61</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>37</Defensive>
+                <Stamina>71</Stamina>
+                <Club>FC Penafiel</Club>
+                <DateOfBirth>25-07-1989</DateOfBirth>
+            </Player>
+            <Player id="5252">
+                <FirstName>João Pedro</FirstName>
+                <LastName>Azevedo Silva</LastName>
+                <Position>CB</Position>
+                <Pace>48</Pace>
+                <Shooting>38</Shooting>
+                <Passing>42</Passing>
+                <Offensive>40</Offensive>
+                <Defensive>65</Defensive>
+                <Stamina>53</Stamina>
+                <Club>FC Penafiel</Club>
+                <DateOfBirth>29-12-1987</DateOfBirth>
+            </Player>
+            <Player id="5715">
+                <FirstName>Alireza</FirstName>
+                <LastName>Haghighi</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>25</Stamina>
+                <Club>FC Penafiel</Club>
+                <DateOfBirth>02-05-1988</DateOfBirth>
+            </Player>
+            <Player id="5786">
+                <FirstName>Nuno Henrique</FirstName>
+                <LastName>Gonçalves Nogueira</LastName>
+                <Position>CB</Position>
+                <Pace>64</Pace>
+                <Shooting>38</Shooting>
+                <Passing>43</Passing>
+                <Offensive>40</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>53</Stamina>
+                <Club>FC Penafiel</Club>
+                <DateOfBirth>19-10-1986</DateOfBirth>
+            </Player>
+            <Player id="6118">
+                <FirstName>Paulo Rafael</FirstName>
+                <LastName>Grilo Neves</LastName>
+                <Position>LB</Position>
+                <Pace>70</Pace>
+                <Shooting>42</Shooting>
+                <Passing>64</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>73</Stamina>
+                <Club>FC Penafiel</Club>
+                <DateOfBirth>19-08-1991</DateOfBirth>
+            </Player>
+        </Team>
+    </League>
+</Players>

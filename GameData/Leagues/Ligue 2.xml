@@ -1,0 +1,4192 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Players>
+    <League Name="Ligue 2">
+        <Team Name="FC Sochaux-Montbéliard">
+            <Player id="104">
+                <FirstName>Yohann</FirstName>
+                <LastName>Pelé</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>32</Stamina>
+                <Club>FC Sochaux-Montbéliard</Club>
+                <DateOfBirth>04-11-1982</DateOfBirth>
+            </Player>
+            <Player id="231">
+                <FirstName>Jean-Pascal</FirstName>
+                <LastName>Mignot</LastName>
+                <Position>CB</Position>
+                <Pace>51</Pace>
+                <Shooting>42</Shooting>
+                <Passing>59</Passing>
+                <Offensive>50</Offensive>
+                <Defensive>72</Defensive>
+                <Stamina>61</Stamina>
+                <Club>FC Sochaux-Montbéliard</Club>
+                <DateOfBirth>26-02-1981</DateOfBirth>
+            </Player>
+            <Player id="843">
+                <FirstName>Stoppila</FirstName>
+                <LastName>Sunzu</LastName>
+                <Position>CB</Position>
+                <Pace>77</Pace>
+                <Shooting>34</Shooting>
+                <Passing>53</Passing>
+                <Offensive>43</Offensive>
+                <Defensive>68</Defensive>
+                <Stamina>80</Stamina>
+                <Club>FC Sochaux-Montbéliard</Club>
+                <DateOfBirth>22-06-1989</DateOfBirth>
+            </Player>
+            <Player id="2088">
+                <FirstName>Joseph</FirstName>
+                <LastName>Lopy</LastName>
+                <Position>CDM</Position>
+                <Pace>68</Pace>
+                <Shooting>42</Shooting>
+                <Passing>60</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>67</Defensive>
+                <Stamina>74</Stamina>
+                <Club>FC Sochaux-Montbéliard</Club>
+                <DateOfBirth>15-03-1992</DateOfBirth>
+            </Player>
+            <Player id="2659">
+                <FirstName>Raphaël</FirstName>
+                <LastName>Cacérès</LastName>
+                <Position>ST</Position>
+                <Pace>66</Pace>
+                <Shooting>66</Shooting>
+                <Passing>60</Passing>
+                <Offensive>63</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>67</Stamina>
+                <Club>FC Sochaux-Montbéliard</Club>
+                <DateOfBirth>01-09-1987</DateOfBirth>
+            </Player>
+            <Player id="3308">
+                <FirstName>Julien</FirstName>
+                <LastName>Faussurier</LastName>
+                <Position>RB</Position>
+                <Pace>74</Pace>
+                <Shooting>49</Shooting>
+                <Passing>70</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>92</Stamina>
+                <Club>FC Sochaux-Montbéliard</Club>
+                <DateOfBirth>14-01-1987</DateOfBirth>
+            </Player>
+            <Player id="4074">
+                <FirstName>Thomas</FirstName>
+                <LastName>Guerbert</LastName>
+                <Position>CM</Position>
+                <Pace>74</Pace>
+                <Shooting>62</Shooting>
+                <Passing>69</Passing>
+                <Offensive>65</Offensive>
+                <Defensive>48</Defensive>
+                <Stamina>75</Stamina>
+                <Club>FC Sochaux-Montbéliard</Club>
+                <DateOfBirth>06-04-1989</DateOfBirth>
+            </Player>
+            <Player id="4590">
+                <FirstName>Lionel</FirstName>
+                <LastName>Zouma</LastName>
+                <Position>CB</Position>
+                <Pace>76</Pace>
+                <Shooting>29</Shooting>
+                <Passing>37</Passing>
+                <Offensive>33</Offensive>
+                <Defensive>65</Defensive>
+                <Stamina>57</Stamina>
+                <Club>FC Sochaux-Montbéliard</Club>
+                <DateOfBirth>10-09-1993</DateOfBirth>
+            </Player>
+            <Player id="5710">
+                <FirstName>Edouard</FirstName>
+                <LastName>Butin</LastName>
+                <Position>ST</Position>
+                <Pace>70</Pace>
+                <Shooting>62</Shooting>
+                <Passing>57</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>31</Defensive>
+                <Stamina>57</Stamina>
+                <Club>FC Sochaux-Montbéliard</Club>
+                <DateOfBirth>13-06-1988</DateOfBirth>
+            </Player>
+            <Player id="8747">
+                <FirstName>Marco</FirstName>
+                <LastName>Ilaimaharitra</LastName>
+                <Position>CDM</Position>
+                <Pace>58</Pace>
+                <Shooting>40</Shooting>
+                <Passing>56</Passing>
+                <Offensive>48</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>79</Stamina>
+                <Club>FC Sochaux-Montbéliard</Club>
+                <DateOfBirth>26-07-1995</DateOfBirth>
+            </Player>
+            <Player id="9198">
+                <FirstName>Papa Demba</FirstName>
+                <LastName>Camara</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>32</Stamina>
+                <Club>FC Sochaux-Montbéliard</Club>
+                <DateOfBirth>16-01-1993</DateOfBirth>
+            </Player>
+            <Player id="9794">
+                <FirstName>Pierre</FirstName>
+                <LastName>Gibaud</LastName>
+                <Position>CB</Position>
+                <Pace>70</Pace>
+                <Shooting>35</Shooting>
+                <Passing>46</Passing>
+                <Offensive>40</Offensive>
+                <Defensive>57</Defensive>
+                <Stamina>58</Stamina>
+                <Club>FC Sochaux-Montbéliard</Club>
+                <DateOfBirth>22-04-1988</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Valenciennes FC">
+            <Player id="107">
+                <FirstName>Bertrand</FirstName>
+                <LastName>Laquait</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>25</Stamina>
+                <Club>Valenciennes FC</Club>
+                <DateOfBirth>13-04-1977</DateOfBirth>
+            </Player>
+            <Player id="581">
+                <FirstName>Fabrice</FirstName>
+                <LastName>Abriel</LastName>
+                <Position>CM</Position>
+                <Pace>63</Pace>
+                <Shooting>60</Shooting>
+                <Passing>74</Passing>
+                <Offensive>67</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>68</Stamina>
+                <Club>Valenciennes FC</Club>
+                <DateOfBirth>06-07-1979</DateOfBirth>
+            </Player>
+            <Player id="1010">
+                <FirstName>Pape Abdou</FirstName>
+                <LastName>Camara</LastName>
+                <Position>CDM</Position>
+                <Pace>76</Pace>
+                <Shooting>52</Shooting>
+                <Passing>61</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>67</Defensive>
+                <Stamina>88</Stamina>
+                <Club>Valenciennes FC</Club>
+                <DateOfBirth>24-09-1991</DateOfBirth>
+            </Player>
+            <Player id="1271">
+                <FirstName>Anthony</FirstName>
+                <LastName>Le Tallec</LastName>
+                <Position>ST</Position>
+                <Pace>63</Pace>
+                <Shooting>70</Shooting>
+                <Passing>66</Passing>
+                <Offensive>68</Offensive>
+                <Defensive>33</Defensive>
+                <Stamina>68</Stamina>
+                <Club>Valenciennes FC</Club>
+                <DateOfBirth>03-10-1984</DateOfBirth>
+            </Player>
+            <Player id="1808">
+                <FirstName>Opa</FirstName>
+                <LastName>Nguette</LastName>
+                <Position>LW</Position>
+                <Pace>92</Pace>
+                <Shooting>62</Shooting>
+                <Passing>61</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>60</Stamina>
+                <Club>Valenciennes FC</Club>
+                <DateOfBirth>08-07-1994</DateOfBirth>
+            </Player>
+            <Player id="2327">
+                <FirstName>Adama</FirstName>
+                <LastName>Coulibaly</LastName>
+                <Position>CB</Position>
+                <Pace>47</Pace>
+                <Shooting>42</Shooting>
+                <Passing>49</Passing>
+                <Offensive>45</Offensive>
+                <Defensive>69</Defensive>
+                <Stamina>62</Stamina>
+                <Club>Valenciennes FC</Club>
+                <DateOfBirth>10-10-1980</DateOfBirth>
+            </Player>
+            <Player id="3287">
+                <FirstName>Rydell</FirstName>
+                <LastName>Poepon</LastName>
+                <Position>ST</Position>
+                <Pace>71</Pace>
+                <Shooting>68</Shooting>
+                <Passing>59</Passing>
+                <Offensive>63</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Valenciennes FC</Club>
+                <DateOfBirth>28-08-1987</DateOfBirth>
+            </Player>
+            <Player id="4432">
+                <FirstName>Eloge</FirstName>
+                <LastName>Enza-Yamissi</LastName>
+                <Position>CDM</Position>
+                <Pace>63</Pace>
+                <Shooting>50</Shooting>
+                <Passing>65</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>87</Stamina>
+                <Club>Valenciennes FC</Club>
+                <DateOfBirth>23-01-1983</DateOfBirth>
+            </Player>
+            <Player id="4536">
+                <FirstName>Loris</FirstName>
+                <LastName>Néry</LastName>
+                <Position>LB</Position>
+                <Pace>71</Pace>
+                <Shooting>48</Shooting>
+                <Passing>63</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>66</Stamina>
+                <Club>Valenciennes FC</Club>
+                <DateOfBirth>05-02-1991</DateOfBirth>
+            </Player>
+            <Player id="5709">
+                <FirstName>Magno Macedo</FirstName>
+                <LastName>Novaes</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>34</Stamina>
+                <Club>Valenciennes FC</Club>
+                <DateOfBirth>30-03-1983</DateOfBirth>
+            </Player>
+            <Player id="5791">
+                <FirstName>Kenny</FirstName>
+                <LastName>Lala</LastName>
+                <Position>RB</Position>
+                <Pace>70</Pace>
+                <Shooting>38</Shooting>
+                <Passing>51</Passing>
+                <Offensive>44</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>76</Stamina>
+                <Club>Valenciennes FC</Club>
+                <DateOfBirth>03-10-1991</DateOfBirth>
+            </Player>
+            <Player id="5985">
+                <FirstName>Yunis</FirstName>
+                <LastName>Abdelhamid</LastName>
+                <Position>CB</Position>
+                <Pace>48</Pace>
+                <Shooting>28</Shooting>
+                <Passing>39</Passing>
+                <Offensive>33</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Valenciennes FC</Club>
+                <DateOfBirth>28-09-1987</DateOfBirth>
+            </Player>
+            <Player id="6492">
+                <FirstName>Sékou</FirstName>
+                <LastName>Baradji</LastName>
+                <Position>CDM</Position>
+                <Pace>52</Pace>
+                <Shooting>42</Shooting>
+                <Passing>53</Passing>
+                <Offensive>47</Offensive>
+                <Defensive>61</Defensive>
+                <Stamina>76</Stamina>
+                <Club>Valenciennes FC</Club>
+                <DateOfBirth>24-04-1984</DateOfBirth>
+            </Player>
+            <Player id="9063">
+                <FirstName>Jérôme</FirstName>
+                <LastName>Guihoata</LastName>
+                <Position>CB</Position>
+                <Pace>73</Pace>
+                <Shooting>28</Shooting>
+                <Passing>43</Passing>
+                <Offensive>35</Offensive>
+                <Defensive>59</Defensive>
+                <Stamina>66</Stamina>
+                <Club>Valenciennes FC</Club>
+                <DateOfBirth>07-10-1994</DateOfBirth>
+            </Player>
+            <Player id="10445">
+                <FirstName>Marco</FirstName>
+                <LastName>Da Silva</LastName>
+                <Position>CM</Position>
+                <Pace>57</Pace>
+                <Shooting>41</Shooting>
+                <Passing>56</Passing>
+                <Offensive>48</Offensive>
+                <Defensive>53</Defensive>
+                <Stamina>76</Stamina>
+                <Club>Valenciennes FC</Club>
+                <DateOfBirth>10-04-1992</DateOfBirth>
+            </Player>
+            <Player id="10538">
+                <FirstName>Paul</FirstName>
+                <LastName>Charruau</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>25</Stamina>
+                <Club>Valenciennes FC</Club>
+                <DateOfBirth>12-07-1993</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Stade Lavallois Mayenne FC">
+            <Player id="455">
+                <FirstName>Christian</FirstName>
+                <LastName>Bekamenga</LastName>
+                <Position>ST</Position>
+                <Pace>75</Pace>
+                <Shooting>71</Shooting>
+                <Passing>58</Passing>
+                <Offensive>64</Offensive>
+                <Defensive>31</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Stade Lavallois Mayenne FC</Club>
+                <DateOfBirth>09-05-1986</DateOfBirth>
+            </Player>
+            <Player id="4092">
+                <FirstName>Fouad</FirstName>
+                <LastName>Chafik</LastName>
+                <Position>RB</Position>
+                <Pace>78</Pace>
+                <Shooting>52</Shooting>
+                <Passing>59</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>61</Defensive>
+                <Stamina>90</Stamina>
+                <Club>Stade Lavallois Mayenne FC</Club>
+                <DateOfBirth>16-10-1986</DateOfBirth>
+            </Player>
+            <Player id="4332">
+                <FirstName>Pierre-Yves</FirstName>
+                <LastName>Polomat</LastName>
+                <Position>LB</Position>
+                <Pace>75</Pace>
+                <Shooting>42</Shooting>
+                <Passing>56</Passing>
+                <Offensive>49</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>75</Stamina>
+                <Club>Stade Lavallois Mayenne FC</Club>
+                <DateOfBirth>27-12-1993</DateOfBirth>
+            </Player>
+            <Player id="4416">
+                <FirstName>Sébastien</FirstName>
+                <LastName>Renouard</LastName>
+                <Position>CAM</Position>
+                <Pace>68</Pace>
+                <Shooting>58</Shooting>
+                <Passing>63</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>40</Defensive>
+                <Stamina>75</Stamina>
+                <Club>Stade Lavallois Mayenne FC</Club>
+                <DateOfBirth>11-07-1984</DateOfBirth>
+            </Player>
+            <Player id="5267">
+                <FirstName>Lionel</FirstName>
+                <LastName>Cappone</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>32</Stamina>
+                <Club>Stade Lavallois Mayenne FC</Club>
+                <DateOfBirth>08-02-1979</DateOfBirth>
+            </Player>
+            <Player id="5386">
+                <FirstName>Antony</FirstName>
+                <LastName>Robic</LastName>
+                <Position>RM</Position>
+                <Pace>67</Pace>
+                <Shooting>53</Shooting>
+                <Passing>63</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>39</Defensive>
+                <Stamina>80</Stamina>
+                <Club>Stade Lavallois Mayenne FC</Club>
+                <DateOfBirth>05-03-1986</DateOfBirth>
+            </Player>
+            <Player id="6537">
+                <FirstName>Djibril</FirstName>
+                <LastName>Konaté</LastName>
+                <Position>CB</Position>
+                <Pace>51</Pace>
+                <Shooting>42</Shooting>
+                <Passing>50</Passing>
+                <Offensive>46</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>74</Stamina>
+                <Club>Stade Lavallois Mayenne FC</Club>
+                <DateOfBirth>02-09-1980</DateOfBirth>
+            </Player>
+            <Player id="6593">
+                <FirstName>Anthony</FirstName>
+                <LastName>Gonçalves</LastName>
+                <Position>CM</Position>
+                <Pace>61</Pace>
+                <Shooting>41</Shooting>
+                <Passing>60</Passing>
+                <Offensive>50</Offensive>
+                <Defensive>57</Defensive>
+                <Stamina>91</Stamina>
+                <Club>Stade Lavallois Mayenne FC</Club>
+                <DateOfBirth>06-03-1986</DateOfBirth>
+            </Player>
+            <Player id="6619">
+                <FirstName>Maxime</FirstName>
+                <LastName>Bourgeois</LastName>
+                <Position>LM</Position>
+                <Pace>77</Pace>
+                <Shooting>56</Shooting>
+                <Passing>59</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>63</Stamina>
+                <Club>Stade Lavallois Mayenne FC</Club>
+                <DateOfBirth>03-02-1991</DateOfBirth>
+            </Player>
+            <Player id="6732">
+                <FirstName>Mamadou</FirstName>
+                <LastName>Diallo</LastName>
+                <Position>ST</Position>
+                <Pace>67</Pace>
+                <Shooting>59</Shooting>
+                <Passing>56</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>32</Defensive>
+                <Stamina>64</Stamina>
+                <Club>Stade Lavallois Mayenne FC</Club>
+                <DateOfBirth>17-04-1982</DateOfBirth>
+            </Player>
+            <Player id="7765">
+                <FirstName>Maxime</FirstName>
+                <LastName>Hautbois</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>29</Stamina>
+                <Club>Stade Lavallois Mayenne FC</Club>
+                <DateOfBirth>03-01-1991</DateOfBirth>
+            </Player>
+            <Player id="7951">
+                <FirstName>Selim</FirstName>
+                <LastName>Ben Djemia</LastName>
+                <Position>CB</Position>
+                <Pace>78</Pace>
+                <Shooting>41</Shooting>
+                <Passing>53</Passing>
+                <Offensive>47</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>81</Stamina>
+                <Club>Stade Lavallois Mayenne FC</Club>
+                <DateOfBirth>29-01-1989</DateOfBirth>
+            </Player>
+            <Player id="8409">
+                <FirstName>Kévin</FirstName>
+                <LastName>Perrot</LastName>
+                <Position>RB</Position>
+                <Pace>62</Pace>
+                <Shooting>33</Shooting>
+                <Passing>54</Passing>
+                <Offensive>43</Offensive>
+                <Defensive>57</Defensive>
+                <Stamina>81</Stamina>
+                <Club>Stade Lavallois Mayenne FC</Club>
+                <DateOfBirth>13-06-1989</DateOfBirth>
+            </Player>
+            <Player id="8794">
+                <FirstName>César</FirstName>
+                <LastName>Zeoula</LastName>
+                <Position>RW</Position>
+                <Pace>81</Pace>
+                <Shooting>51</Shooting>
+                <Passing>55</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>34</Defensive>
+                <Stamina>67</Stamina>
+                <Club>Stade Lavallois Mayenne FC</Club>
+                <DateOfBirth>29-08-1989</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Gazélec Football Club Ajaccio">
+            <Player id="582">
+                <FirstName>David</FirstName>
+                <LastName>Ducourtioux</LastName>
+                <Position>CDM</Position>
+                <Pace>71</Pace>
+                <Shooting>60</Shooting>
+                <Passing>68</Passing>
+                <Offensive>64</Offensive>
+                <Defensive>73</Defensive>
+                <Stamina>65</Stamina>
+                <Club>Gazélec Football Club Ajaccio</Club>
+                <DateOfBirth>11-04-1978</DateOfBirth>
+            </Player>
+            <Player id="1648">
+                <FirstName>Grégory</FirstName>
+                <LastName>Pujol</LastName>
+                <Position>ST</Position>
+                <Pace>55</Pace>
+                <Shooting>73</Shooting>
+                <Passing>68</Passing>
+                <Offensive>70</Offensive>
+                <Defensive>34</Defensive>
+                <Stamina>65</Stamina>
+                <Club>Gazélec Football Club Ajaccio</Club>
+                <DateOfBirth>25-01-1980</DateOfBirth>
+            </Player>
+            <Player id="2869">
+                <FirstName>Ali</FirstName>
+                <LastName>M'Madi</LastName>
+                <Position>ST</Position>
+                <Pace>89</Pace>
+                <Shooting>66</Shooting>
+                <Passing>55</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>31</Defensive>
+                <Stamina>64</Stamina>
+                <Club>Gazélec Football Club Ajaccio</Club>
+                <DateOfBirth>21-04-1990</DateOfBirth>
+            </Player>
+            <Player id="3871">
+                <FirstName>Louis</FirstName>
+                <LastName>Poggi</LastName>
+                <Position>RWB</Position>
+                <Pace>76</Pace>
+                <Shooting>52</Shooting>
+                <Passing>61</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>59</Defensive>
+                <Stamina>84</Stamina>
+                <Club>Gazélec Football Club Ajaccio</Club>
+                <DateOfBirth>18-06-1984</DateOfBirth>
+            </Player>
+            <Player id="4118">
+                <FirstName>Julien</FirstName>
+                <LastName>François</LastName>
+                <Position>CDM</Position>
+                <Pace>37</Pace>
+                <Shooting>46</Shooting>
+                <Passing>60</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>73</Stamina>
+                <Club>Gazélec Football Club Ajaccio</Club>
+                <DateOfBirth>21-09-1979</DateOfBirth>
+            </Player>
+            <Player id="5184">
+                <FirstName>Cyriaque</FirstName>
+                <LastName>Rivieyran</LastName>
+                <Position>RB</Position>
+                <Pace>74</Pace>
+                <Shooting>42</Shooting>
+                <Passing>55</Passing>
+                <Offensive>48</Offensive>
+                <Defensive>61</Defensive>
+                <Stamina>77</Stamina>
+                <Club>Gazélec Football Club Ajaccio</Club>
+                <DateOfBirth>17-04-1991</DateOfBirth>
+            </Player>
+            <Player id="5804">
+                <FirstName>Kévin</FirstName>
+                <LastName>Mayi</LastName>
+                <Position>RW</Position>
+                <Pace>86</Pace>
+                <Shooting>58</Shooting>
+                <Passing>51</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>26</Defensive>
+                <Stamina>47</Stamina>
+                <Club>Gazélec Football Club Ajaccio</Club>
+                <DateOfBirth>14-01-1993</DateOfBirth>
+            </Player>
+            <Player id="6471">
+                <FirstName>Yoann</FirstName>
+                <LastName>Andreu</LastName>
+                <Position>RB</Position>
+                <Pace>60</Pace>
+                <Shooting>28</Shooting>
+                <Passing>52</Passing>
+                <Offensive>40</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>74</Stamina>
+                <Club>Gazélec Football Club Ajaccio</Club>
+                <DateOfBirth>03-05-1989</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Stade Brestois 29">
+            <Player id="608">
+                <FirstName>Alexis</FirstName>
+                <LastName>Thébaux</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>39</Stamina>
+                <Club>Stade Brestois 29</Club>
+                <DateOfBirth>17-03-1985</DateOfBirth>
+            </Player>
+            <Player id="1643">
+                <FirstName>Bruno</FirstName>
+                <LastName>Grougi</LastName>
+                <Position>CAM</Position>
+                <Pace>68</Pace>
+                <Shooting>67</Shooting>
+                <Passing>70</Passing>
+                <Offensive>68</Offensive>
+                <Defensive>47</Defensive>
+                <Stamina>79</Stamina>
+                <Club>Stade Brestois 29</Club>
+                <DateOfBirth>26-04-1983</DateOfBirth>
+            </Player>
+            <Player id="4085">
+                <FirstName>Nicolas</FirstName>
+                <LastName>Verdier</LastName>
+                <Position>ST</Position>
+                <Pace>74</Pace>
+                <Shooting>63</Shooting>
+                <Passing>42</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>68</Stamina>
+                <Club>Stade Brestois 29</Club>
+                <DateOfBirth>17-01-1987</DateOfBirth>
+            </Player>
+            <Player id="4476">
+                <FirstName>Ismaël</FirstName>
+                <LastName>Traoré</LastName>
+                <Position>CB</Position>
+                <Pace>60</Pace>
+                <Shooting>34</Shooting>
+                <Passing>49</Passing>
+                <Offensive>41</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>74</Stamina>
+                <Club>Stade Brestois 29</Club>
+                <DateOfBirth>18-08-1986</DateOfBirth>
+            </Player>
+            <Player id="4517">
+                <FirstName>Johan</FirstName>
+                <LastName>Martial</LastName>
+                <Position>CB</Position>
+                <Pace>67</Pace>
+                <Shooting>27</Shooting>
+                <Passing>52</Passing>
+                <Offensive>39</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Stade Brestois 29</Club>
+                <DateOfBirth>30-05-1991</DateOfBirth>
+            </Player>
+            <Player id="4738">
+                <FirstName>Johann</FirstName>
+                <LastName>Ramaré</LastName>
+                <Position>CM</Position>
+                <Pace>46</Pace>
+                <Shooting>46</Shooting>
+                <Passing>66</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>83</Stamina>
+                <Club>Stade Brestois 29</Club>
+                <DateOfBirth>05-06-1984</DateOfBirth>
+            </Player>
+            <Player id="4777">
+                <FirstName>Tripy</FirstName>
+                <LastName>Makonda</LastName>
+                <Position>LB</Position>
+                <Pace>76</Pace>
+                <Shooting>58</Shooting>
+                <Passing>63</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>59</Stamina>
+                <Club>Stade Brestois 29</Club>
+                <DateOfBirth>24-01-1990</DateOfBirth>
+            </Player>
+            <Player id="5189">
+                <FirstName>Gaëtan</FirstName>
+                <LastName>Laborde</LastName>
+                <Position>ST</Position>
+                <Pace>75</Pace>
+                <Shooting>63</Shooting>
+                <Passing>56</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>33</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Stade Brestois 29</Club>
+                <DateOfBirth>03-05-1994</DateOfBirth>
+            </Player>
+            <Player id="5615">
+                <FirstName>Joan</FirstName>
+                <LastName>Hartock</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>30</Stamina>
+                <Club>Stade Brestois 29</Club>
+                <DateOfBirth>17-02-1987</DateOfBirth>
+            </Player>
+            <Player id="5800">
+                <FirstName>Simon</FirstName>
+                <LastName>Falette</LastName>
+                <Position>CB</Position>
+                <Pace>59</Pace>
+                <Shooting>31</Shooting>
+                <Passing>42</Passing>
+                <Offensive>36</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>78</Stamina>
+                <Club>Stade Brestois 29</Club>
+                <DateOfBirth>19-02-1992</DateOfBirth>
+            </Player>
+            <Player id="6057">
+                <FirstName>Alexandre</FirstName>
+                <LastName>Alphonse</LastName>
+                <Position>ST</Position>
+                <Pace>78</Pace>
+                <Shooting>62</Shooting>
+                <Passing>61</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>27</Defensive>
+                <Stamina>66</Stamina>
+                <Club>Stade Brestois 29</Club>
+                <DateOfBirth>17-06-1982</DateOfBirth>
+            </Player>
+            <Player id="6317">
+                <FirstName>Manuel</FirstName>
+                <LastName>Perez</LastName>
+                <Position>CM</Position>
+                <Pace>76</Pace>
+                <Shooting>51</Shooting>
+                <Passing>61</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>50</Defensive>
+                <Stamina>65</Stamina>
+                <Club>Stade Brestois 29</Club>
+                <DateOfBirth>11-05-1991</DateOfBirth>
+            </Player>
+            <Player id="6458">
+                <FirstName>Wilfried</FirstName>
+                <LastName>Moimbé</LastName>
+                <Position>LB</Position>
+                <Pace>82</Pace>
+                <Shooting>40</Shooting>
+                <Passing>58</Passing>
+                <Offensive>49</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>81</Stamina>
+                <Club>Stade Brestois 29</Club>
+                <DateOfBirth>18-10-1988</DateOfBirth>
+            </Player>
+            <Player id="6463">
+                <FirstName>Gaëtan</FirstName>
+                <LastName>Belaud</LastName>
+                <Position>RB</Position>
+                <Pace>74</Pace>
+                <Shooting>47</Shooting>
+                <Passing>57</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>82</Stamina>
+                <Club>Stade Brestois 29</Club>
+                <DateOfBirth>16-09-1986</DateOfBirth>
+            </Player>
+            <Player id="6767">
+                <FirstName>Stéphane</FirstName>
+                <LastName>Tritz</LastName>
+                <Position>RB</Position>
+                <Pace>69</Pace>
+                <Shooting>33</Shooting>
+                <Passing>49</Passing>
+                <Offensive>41</Offensive>
+                <Defensive>59</Defensive>
+                <Stamina>77</Stamina>
+                <Club>Stade Brestois 29</Club>
+                <DateOfBirth>25-02-1987</DateOfBirth>
+            </Player>
+            <Player id="7574">
+                <FirstName>Abel</FirstName>
+                <LastName>Khaled</LastName>
+                <Position>RW</Position>
+                <Pace>72</Pace>
+                <Shooting>55</Shooting>
+                <Passing>56</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>49</Stamina>
+                <Club>Stade Brestois 29</Club>
+                <DateOfBirth>09-11-1992</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="AS Nancy Lorraine">
+            <Player id="799">
+                <FirstName>Guy-Roland</FirstName>
+                <LastName>Ndy Assembe</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>26</Stamina>
+                <Club>AS Nancy Lorraine</Club>
+                <DateOfBirth>28-02-1986</DateOfBirth>
+            </Player>
+            <Player id="1067">
+                <FirstName>Mana</FirstName>
+                <LastName>Dembélé</LastName>
+                <Position>ST</Position>
+                <Pace>89</Pace>
+                <Shooting>69</Shooting>
+                <Passing>56</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>58</Stamina>
+                <Club>AS Nancy Lorraine</Club>
+                <DateOfBirth>29-11-1988</DateOfBirth>
+            </Player>
+            <Player id="2087">
+                <FirstName>Paul</FirstName>
+                <LastName>Nardi</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>20</Stamina>
+                <Club>AS Nancy Lorraine</Club>
+                <DateOfBirth>18-05-1994</DateOfBirth>
+            </Player>
+            <Player id="2351">
+                <FirstName>Joël</FirstName>
+                <LastName>Sami</LastName>
+                <Position>CB</Position>
+                <Pace>45</Pace>
+                <Shooting>41</Shooting>
+                <Passing>57</Passing>
+                <Offensive>49</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>75</Stamina>
+                <Club>AS Nancy Lorraine</Club>
+                <DateOfBirth>13-11-1984</DateOfBirth>
+            </Player>
+            <Player id="2816">
+                <FirstName>Fabrice</FirstName>
+                <LastName>Ehret</LastName>
+                <Position>LB</Position>
+                <Pace>66</Pace>
+                <Shooting>57</Shooting>
+                <Passing>66</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>68</Defensive>
+                <Stamina>54</Stamina>
+                <Club>AS Nancy Lorraine</Club>
+                <DateOfBirth>28-09-1979</DateOfBirth>
+            </Player>
+            <Player id="3439">
+                <FirstName>Vincent</FirstName>
+                <LastName>Muratori</LastName>
+                <Position>LB</Position>
+                <Pace>72</Pace>
+                <Shooting>24</Shooting>
+                <Passing>55</Passing>
+                <Offensive>39</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>73</Stamina>
+                <Club>AS Nancy Lorraine</Club>
+                <DateOfBirth>03-08-1987</DateOfBirth>
+            </Player>
+            <Player id="3947">
+                <FirstName>Julien</FirstName>
+                <LastName>Cétout</LastName>
+                <Position>CDM</Position>
+                <Pace>53</Pace>
+                <Shooting>30</Shooting>
+                <Passing>61</Passing>
+                <Offensive>45</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>73</Stamina>
+                <Club>AS Nancy Lorraine</Club>
+                <DateOfBirth>02-01-1988</DateOfBirth>
+            </Player>
+            <Player id="4462">
+                <FirstName>Lossémy</FirstName>
+                <LastName>Karaboué</LastName>
+                <Position>RM</Position>
+                <Pace>78</Pace>
+                <Shooting>68</Shooting>
+                <Passing>61</Passing>
+                <Offensive>64</Offensive>
+                <Defensive>32</Defensive>
+                <Stamina>80</Stamina>
+                <Club>AS Nancy Lorraine</Club>
+                <DateOfBirth>18-03-1988</DateOfBirth>
+            </Player>
+            <Player id="4485">
+                <FirstName>Maurice</FirstName>
+                <LastName>Dalé</LastName>
+                <Position>ST</Position>
+                <Pace>76</Pace>
+                <Shooting>63</Shooting>
+                <Passing>52</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>76</Stamina>
+                <Club>AS Nancy Lorraine</Club>
+                <DateOfBirth>12-07-1985</DateOfBirth>
+            </Player>
+            <Player id="8496">
+                <FirstName>Ibrahim</FirstName>
+                <LastName>Amadou</LastName>
+                <Position>CB</Position>
+                <Pace>83</Pace>
+                <Shooting>31</Shooting>
+                <Passing>38</Passing>
+                <Offensive>34</Offensive>
+                <Defensive>61</Defensive>
+                <Stamina>56</Stamina>
+                <Club>AS Nancy Lorraine</Club>
+                <DateOfBirth>06-04-1993</DateOfBirth>
+            </Player>
+            <Player id="8704">
+                <FirstName>Quentin</FirstName>
+                <LastName>Beunardeau</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>27</Stamina>
+                <Club>AS Nancy Lorraine</Club>
+                <DateOfBirth>27-02-1994</DateOfBirth>
+            </Player>
+            <Player id="8904">
+                <FirstName>Karim</FirstName>
+                <LastName>Coulibaly</LastName>
+                <Position>LM</Position>
+                <Pace>66</Pace>
+                <Shooting>51</Shooting>
+                <Passing>57</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>48</Defensive>
+                <Stamina>65</Stamina>
+                <Club>AS Nancy Lorraine</Club>
+                <DateOfBirth>03-06-1993</DateOfBirth>
+            </Player>
+            <Player id="9054">
+                <FirstName>Alexis</FirstName>
+                <LastName>Busin</LastName>
+                <Position>RM</Position>
+                <Pace>82</Pace>
+                <Shooting>56</Shooting>
+                <Passing>54</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>32</Defensive>
+                <Stamina>53</Stamina>
+                <Club>AS Nancy Lorraine</Club>
+                <DateOfBirth>07-09-1995</DateOfBirth>
+            </Player>
+            <Player id="9322">
+                <FirstName>Clément</FirstName>
+                <LastName>Lenglet</LastName>
+                <Position>CB</Position>
+                <Pace>51</Pace>
+                <Shooting>28</Shooting>
+                <Passing>40</Passing>
+                <Offensive>34</Offensive>
+                <Defensive>59</Defensive>
+                <Stamina>62</Stamina>
+                <Club>AS Nancy Lorraine</Club>
+                <DateOfBirth>17-06-1995</DateOfBirth>
+            </Player>
+            <Player id="9472">
+                <FirstName>Tobias</FirstName>
+                <LastName>Badila</LastName>
+                <Position>LB</Position>
+                <Pace>78</Pace>
+                <Shooting>37</Shooting>
+                <Passing>45</Passing>
+                <Offensive>41</Offensive>
+                <Defensive>57</Defensive>
+                <Stamina>69</Stamina>
+                <Club>AS Nancy Lorraine</Club>
+                <DateOfBirth>12-05-1993</DateOfBirth>
+            </Player>
+            <Player id="10463">
+                <FirstName>Junior</FirstName>
+                <LastName>Joachim</LastName>
+                <Position>ST</Position>
+                <Pace>66</Pace>
+                <Shooting>60</Shooting>
+                <Passing>41</Passing>
+                <Offensive>50</Offensive>
+                <Defensive>26</Defensive>
+                <Stamina>54</Stamina>
+                <Club>AS Nancy Lorraine</Club>
+                <DateOfBirth>13-05-1992</DateOfBirth>
+            </Player>
+            <Player id="10856">
+                <FirstName>Modou</FirstName>
+                <LastName>Diagne</LastName>
+                <Position>CB</Position>
+                <Pace>78</Pace>
+                <Shooting>28</Shooting>
+                <Passing>42</Passing>
+                <Offensive>35</Offensive>
+                <Defensive>54</Defensive>
+                <Stamina>60</Stamina>
+                <Club>AS Nancy Lorraine</Club>
+                <DateOfBirth>03-01-1994</DateOfBirth>
+            </Player>
+            <Player id="11893">
+                <FirstName>Youssouf</FirstName>
+                <LastName>Hadji</LastName>
+                <Position>CF</Position>
+                <Pace>69</Pace>
+                <Shooting>75</Shooting>
+                <Passing>70</Passing>
+                <Offensive>72</Offensive>
+                <Defensive>35</Defensive>
+                <Stamina>76</Stamina>
+                <Club>AS Nancy Lorraine</Club>
+                <DateOfBirth>25-02-1980</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Nîmes Olympique">
+            <Player id="985">
+                <FirstName>Mame Ousmane</FirstName>
+                <LastName>Cissokho</LastName>
+                <Position>LW</Position>
+                <Pace>77</Pace>
+                <Shooting>53</Shooting>
+                <Passing>66</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>36</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Nîmes Olympique</Club>
+                <DateOfBirth>14-01-1987</DateOfBirth>
+            </Player>
+            <Player id="2762">
+                <FirstName>Romain</FirstName>
+                <LastName>Sartre</LastName>
+                <Position>CB</Position>
+                <Pace>49</Pace>
+                <Shooting>42</Shooting>
+                <Passing>52</Passing>
+                <Offensive>47</Offensive>
+                <Defensive>67</Defensive>
+                <Stamina>60</Stamina>
+                <Club>Nîmes Olympique</Club>
+                <DateOfBirth>12-11-1982</DateOfBirth>
+            </Player>
+            <Player id="4139">
+                <FirstName>Nenad</FirstName>
+                <LastName>Kovačević</LastName>
+                <Position>CDM</Position>
+                <Pace>45</Pace>
+                <Shooting>52</Shooting>
+                <Passing>59</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>79</Stamina>
+                <Club>Nîmes Olympique</Club>
+                <DateOfBirth>11-11-1980</DateOfBirth>
+            </Player>
+            <Player id="5057">
+                <FirstName>Anthony</FirstName>
+                <LastName>Koura</LastName>
+                <Position>ST</Position>
+                <Pace>90</Pace>
+                <Shooting>61</Shooting>
+                <Passing>47</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>54</Stamina>
+                <Club>Nîmes Olympique</Club>
+                <DateOfBirth>06-05-1993</DateOfBirth>
+            </Player>
+            <Player id="5724">
+                <FirstName>Riad</FirstName>
+                <LastName>Nouri</LastName>
+                <Position>RW</Position>
+                <Pace>80</Pace>
+                <Shooting>57</Shooting>
+                <Passing>56</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>77</Stamina>
+                <Club>Nîmes Olympique</Club>
+                <DateOfBirth>07-06-1985</DateOfBirth>
+            </Player>
+            <Player id="7180">
+                <FirstName>Jonathan</FirstName>
+                <LastName>Lacourt</LastName>
+                <Position>CM</Position>
+                <Pace>57</Pace>
+                <Shooting>39</Shooting>
+                <Passing>60</Passing>
+                <Offensive>49</Offensive>
+                <Defensive>59</Defensive>
+                <Stamina>74</Stamina>
+                <Club>Nîmes Olympique</Club>
+                <DateOfBirth>17-08-1986</DateOfBirth>
+            </Player>
+            <Player id="7270">
+                <FirstName>Jonathan</FirstName>
+                <LastName>Parpeix</LastName>
+                <Position>RB</Position>
+                <Pace>61</Pace>
+                <Shooting>45</Shooting>
+                <Passing>59</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>79</Stamina>
+                <Club>Nîmes Olympique</Club>
+                <DateOfBirth>04-03-1990</DateOfBirth>
+            </Player>
+            <Player id="7623">
+                <FirstName>Jérémy</FirstName>
+                <LastName>Cordoval</LastName>
+                <Position>RB</Position>
+                <Pace>76</Pace>
+                <Shooting>24</Shooting>
+                <Passing>49</Passing>
+                <Offensive>36</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Nîmes Olympique</Club>
+                <DateOfBirth>12-01-1990</DateOfBirth>
+            </Player>
+            <Player id="8468">
+                <FirstName>Abdel Malik</FirstName>
+                <LastName>Hsissane</LastName>
+                <Position>CDM</Position>
+                <Pace>59</Pace>
+                <Shooting>33</Shooting>
+                <Passing>53</Passing>
+                <Offensive>43</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>76</Stamina>
+                <Club>Nîmes Olympique</Club>
+                <DateOfBirth>28-01-1991</DateOfBirth>
+            </Player>
+            <Player id="8607">
+                <FirstName>Mathieu</FirstName>
+                <LastName>Robail</LastName>
+                <Position>LB</Position>
+                <Pace>56</Pace>
+                <Shooting>50</Shooting>
+                <Passing>63</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>55</Defensive>
+                <Stamina>83</Stamina>
+                <Club>Nîmes Olympique</Club>
+                <DateOfBirth>02-06-1985</DateOfBirth>
+            </Player>
+            <Player id="8779">
+                <FirstName>Larry</FirstName>
+                <LastName>Azouni</LastName>
+                <Position>CDM</Position>
+                <Pace>60</Pace>
+                <Shooting>44</Shooting>
+                <Passing>53</Passing>
+                <Offensive>48</Offensive>
+                <Defensive>56</Defensive>
+                <Stamina>63</Stamina>
+                <Club>Nîmes Olympique</Club>
+                <DateOfBirth>23-03-1994</DateOfBirth>
+            </Player>
+            <Player id="10558">
+                <FirstName>Gauthier</FirstName>
+                <LastName>Gallon</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>29</Stamina>
+                <Club>Nîmes Olympique</Club>
+                <DateOfBirth>23-04-1993</DateOfBirth>
+            </Player>
+            <Player id="10618">
+                <FirstName>Mathieu</FirstName>
+                <LastName>Michel</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>29</Stamina>
+                <Club>Nîmes Olympique</Club>
+                <DateOfBirth>04-09-1991</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Dijon FCO">
+            <Player id="1217">
+                <FirstName>Baptiste</FirstName>
+                <LastName>Reynet</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>34</Stamina>
+                <Club>Dijon FCO</Club>
+                <DateOfBirth>28-10-1990</DateOfBirth>
+            </Player>
+            <Player id="2007">
+                <FirstName>Romain</FirstName>
+                <LastName>Amalfitano</LastName>
+                <Position>CAM</Position>
+                <Pace>67</Pace>
+                <Shooting>57</Shooting>
+                <Passing>65</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>37</Defensive>
+                <Stamina>55</Stamina>
+                <Club>Dijon FCO</Club>
+                <DateOfBirth>27-08-1989</DateOfBirth>
+            </Player>
+            <Player id="2519">
+                <FirstName>Romain</FirstName>
+                <LastName>Philippoteaux</LastName>
+                <Position>LW</Position>
+                <Pace>84</Pace>
+                <Shooting>58</Shooting>
+                <Passing>63</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>32</Defensive>
+                <Stamina>75</Stamina>
+                <Club>Dijon FCO</Club>
+                <DateOfBirth>02-03-1988</DateOfBirth>
+            </Player>
+            <Player id="3470">
+                <FirstName>Abdoulaye</FirstName>
+                <LastName>Bamba</LastName>
+                <Position>RB</Position>
+                <Pace>77</Pace>
+                <Shooting>38</Shooting>
+                <Passing>61</Passing>
+                <Offensive>49</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>80</Stamina>
+                <Club>Dijon FCO</Club>
+                <DateOfBirth>25-04-1990</DateOfBirth>
+            </Player>
+            <Player id="4082">
+                <FirstName>Johan</FirstName>
+                <LastName>Gastien</LastName>
+                <Position>CM</Position>
+                <Pace>66</Pace>
+                <Shooting>64</Shooting>
+                <Passing>64</Passing>
+                <Offensive>64</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>90</Stamina>
+                <Club>Dijon FCO</Club>
+                <DateOfBirth>22-01-1988</DateOfBirth>
+            </Player>
+            <Player id="4773">
+                <FirstName>Samuel</FirstName>
+                <LastName>Souprayen</LastName>
+                <Position>LB</Position>
+                <Pace>70</Pace>
+                <Shooting>24</Shooting>
+                <Passing>54</Passing>
+                <Offensive>39</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>78</Stamina>
+                <Club>Dijon FCO</Club>
+                <DateOfBirth>18-02-1989</DateOfBirth>
+            </Player>
+            <Player id="4828">
+                <FirstName>Zakaria</FirstName>
+                <LastName>Diallo</LastName>
+                <Position>CB</Position>
+                <Pace>54</Pace>
+                <Shooting>39</Shooting>
+                <Passing>48</Passing>
+                <Offensive>43</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Dijon FCO</Club>
+                <DateOfBirth>13-08-1986</DateOfBirth>
+            </Player>
+            <Player id="4889">
+                <FirstName>Pape</FirstName>
+                <LastName>Paye</LastName>
+                <Position>RB</Position>
+                <Pace>85</Pace>
+                <Shooting>37</Shooting>
+                <Passing>52</Passing>
+                <Offensive>44</Offensive>
+                <Defensive>65</Defensive>
+                <Stamina>80</Stamina>
+                <Club>Dijon FCO</Club>
+                <DateOfBirth>31-05-1990</DateOfBirth>
+            </Player>
+            <Player id="5187">
+                <FirstName>Florent</FirstName>
+                <LastName>Mollet</LastName>
+                <Position>CM</Position>
+                <Pace>76</Pace>
+                <Shooting>51</Shooting>
+                <Passing>66</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>52</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Dijon FCO</Club>
+                <DateOfBirth>19-11-1991</DateOfBirth>
+            </Player>
+            <Player id="5238">
+                <FirstName>Yohann</FirstName>
+                <LastName>Rivière</LastName>
+                <Position>ST</Position>
+                <Pace>59</Pace>
+                <Shooting>66</Shooting>
+                <Passing>48</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>73</Stamina>
+                <Club>Dijon FCO</Club>
+                <DateOfBirth>18-08-1984</DateOfBirth>
+            </Player>
+            <Player id="5497">
+                <FirstName>Ousseynou</FirstName>
+                <LastName>Cissé</LastName>
+                <Position>CB</Position>
+                <Pace>39</Pace>
+                <Shooting>28</Shooting>
+                <Passing>32</Passing>
+                <Offensive>30</Offensive>
+                <Defensive>65</Defensive>
+                <Stamina>65</Stamina>
+                <Club>Dijon FCO</Club>
+                <DateOfBirth>08-04-1991</DateOfBirth>
+            </Player>
+            <Player id="5762">
+                <FirstName>Steven</FirstName>
+                <LastName>Paulle</LastName>
+                <Position>CB</Position>
+                <Pace>50</Pace>
+                <Shooting>25</Shooting>
+                <Passing>43</Passing>
+                <Offensive>34</Offensive>
+                <Defensive>61</Defensive>
+                <Stamina>64</Stamina>
+                <Club>Dijon FCO</Club>
+                <DateOfBirth>10-02-1986</DateOfBirth>
+            </Player>
+            <Player id="5988">
+                <FirstName>Ahmed Issa</FirstName>
+                <LastName>Koro Koné</LastName>
+                <Position>ST</Position>
+                <Pace>77</Pace>
+                <Shooting>60</Shooting>
+                <Passing>51</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>56</Stamina>
+                <Club>Dijon FCO</Club>
+                <DateOfBirth>05-07-1989</DateOfBirth>
+            </Player>
+            <Player id="6284">
+                <FirstName>Julio</FirstName>
+                <LastName>Tavares</LastName>
+                <Position>ST</Position>
+                <Pace>76</Pace>
+                <Shooting>63</Shooting>
+                <Passing>41</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Dijon FCO</Club>
+                <DateOfBirth>19-11-1988</DateOfBirth>
+            </Player>
+            <Player id="7104">
+                <FirstName>Zié</FirstName>
+                <LastName>Diabaté</LastName>
+                <Position>LB</Position>
+                <Pace>70</Pace>
+                <Shooting>40</Shooting>
+                <Passing>52</Passing>
+                <Offensive>46</Offensive>
+                <Defensive>61</Defensive>
+                <Stamina>77</Stamina>
+                <Club>Dijon FCO</Club>
+                <DateOfBirth>02-03-1989</DateOfBirth>
+            </Player>
+            <Player id="7705">
+                <FirstName>William</FirstName>
+                <LastName>Rémy</LastName>
+                <Position>CB</Position>
+                <Pace>78</Pace>
+                <Shooting>33</Shooting>
+                <Passing>35</Passing>
+                <Offensive>34</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>74</Stamina>
+                <Club>Dijon FCO</Club>
+                <DateOfBirth>04-04-1991</DateOfBirth>
+            </Player>
+            <Player id="8347">
+                <FirstName>Florent</FirstName>
+                <LastName>Perraud</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>32</Stamina>
+                <Club>Dijon FCO</Club>
+                <DateOfBirth>11-06-1982</DateOfBirth>
+            </Player>
+            <Player id="8808">
+                <FirstName>Jordan</FirstName>
+                <LastName>Marié</LastName>
+                <Position>CM</Position>
+                <Pace>73</Pace>
+                <Shooting>35</Shooting>
+                <Passing>54</Passing>
+                <Offensive>44</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>79</Stamina>
+                <Club>Dijon FCO</Club>
+                <DateOfBirth>29-09-1991</DateOfBirth>
+            </Player>
+            <Player id="10554">
+                <FirstName>Enzo</FirstName>
+                <LastName>Basilio</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>26</Stamina>
+                <Club>Dijon FCO</Club>
+                <DateOfBirth>03-10-1994</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Le Havre Athletic Club">
+            <Player id="1260">
+                <FirstName>Abdoulaye</FirstName>
+                <LastName>Diallo</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>31</Stamina>
+                <Club>Le Havre Athletic Club</Club>
+                <DateOfBirth>30-03-1992</DateOfBirth>
+            </Player>
+            <Player id="2510">
+                <FirstName>Geoffrey</FirstName>
+                <LastName>Malfleury</LastName>
+                <Position>ST</Position>
+                <Pace>80</Pace>
+                <Shooting>68</Shooting>
+                <Passing>47</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>31</Defensive>
+                <Stamina>73</Stamina>
+                <Club>Le Havre Athletic Club</Club>
+                <DateOfBirth>20-01-1988</DateOfBirth>
+            </Player>
+            <Player id="3928">
+                <FirstName>Ludovic</FirstName>
+                <LastName>Gamboa</LastName>
+                <Position>LM</Position>
+                <Pace>74</Pace>
+                <Shooting>58</Shooting>
+                <Passing>62</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>34</Defensive>
+                <Stamina>76</Stamina>
+                <Club>Le Havre Athletic Club</Club>
+                <DateOfBirth>14-01-1986</DateOfBirth>
+            </Player>
+            <Player id="4461">
+                <FirstName>Distel</FirstName>
+                <LastName>Zola</LastName>
+                <Position>CDM</Position>
+                <Pace>67</Pace>
+                <Shooting>32</Shooting>
+                <Passing>57</Passing>
+                <Offensive>44</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>82</Stamina>
+                <Club>Le Havre Athletic Club</Club>
+                <DateOfBirth>05-02-1989</DateOfBirth>
+            </Player>
+            <Player id="4493">
+                <FirstName>Zargo</FirstName>
+                <LastName>Touré</LastName>
+                <Position>CB</Position>
+                <Pace>70</Pace>
+                <Shooting>30</Shooting>
+                <Passing>46</Passing>
+                <Offensive>38</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Le Havre Athletic Club</Club>
+                <DateOfBirth>11-11-1989</DateOfBirth>
+            </Player>
+            <Player id="5183">
+                <FirstName>Romain</FirstName>
+                <LastName>Saïss</LastName>
+                <Position>CDM</Position>
+                <Pace>70</Pace>
+                <Shooting>33</Shooting>
+                <Passing>53</Passing>
+                <Offensive>43</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>82</Stamina>
+                <Club>Le Havre Athletic Club</Club>
+                <DateOfBirth>26-03-1990</DateOfBirth>
+            </Player>
+            <Player id="6668">
+                <FirstName>Jordan</FirstName>
+                <LastName>Ikoko</LastName>
+                <Position>RB</Position>
+                <Pace>85</Pace>
+                <Shooting>33</Shooting>
+                <Passing>53</Passing>
+                <Offensive>43</Offensive>
+                <Defensive>61</Defensive>
+                <Stamina>78</Stamina>
+                <Club>Le Havre Athletic Club</Club>
+                <DateOfBirth>03-02-1994</DateOfBirth>
+            </Player>
+            <Player id="7152">
+                <FirstName>Steven</FirstName>
+                <LastName>Fortès</LastName>
+                <Position>CB</Position>
+                <Pace>57</Pace>
+                <Shooting>40</Shooting>
+                <Passing>52</Passing>
+                <Offensive>46</Offensive>
+                <Defensive>61</Defensive>
+                <Stamina>63</Stamina>
+                <Club>Le Havre Athletic Club</Club>
+                <DateOfBirth>17-04-1992</DateOfBirth>
+            </Player>
+            <Player id="7161">
+                <FirstName>Moussa</FirstName>
+                <LastName>Sao</LastName>
+                <Position>ST</Position>
+                <Pace>85</Pace>
+                <Shooting>57</Shooting>
+                <Passing>42</Passing>
+                <Offensive>49</Offensive>
+                <Defensive>27</Defensive>
+                <Stamina>56</Stamina>
+                <Club>Le Havre Athletic Club</Club>
+                <DateOfBirth>17-10-1989</DateOfBirth>
+            </Player>
+            <Player id="7243">
+                <FirstName>Maxime</FirstName>
+                <LastName>Le Marchand</LastName>
+                <Position>CB</Position>
+                <Pace>73</Pace>
+                <Shooting>27</Shooting>
+                <Passing>51</Passing>
+                <Offensive>39</Offensive>
+                <Defensive>61</Defensive>
+                <Stamina>78</Stamina>
+                <Club>Le Havre Athletic Club</Club>
+                <DateOfBirth>10-11-1989</DateOfBirth>
+            </Player>
+            <Player id="8519">
+                <FirstName>Harrison</FirstName>
+                <LastName>Manzala</LastName>
+                <Position>RM</Position>
+                <Pace>84</Pace>
+                <Shooting>62</Shooting>
+                <Passing>50</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>47</Defensive>
+                <Stamina>75</Stamina>
+                <Club>Le Havre Athletic Club</Club>
+                <DateOfBirth>06-03-1994</DateOfBirth>
+            </Player>
+            <Player id="9205">
+                <FirstName>Florian</FirstName>
+                <LastName>Pinteaux</LastName>
+                <Position>LB</Position>
+                <Pace>71</Pace>
+                <Shooting>39</Shooting>
+                <Passing>53</Passing>
+                <Offensive>46</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>64</Stamina>
+                <Club>Le Havre Athletic Club</Club>
+                <DateOfBirth>04-02-1992</DateOfBirth>
+            </Player>
+            <Player id="9800">
+                <FirstName>Pierrick</FirstName>
+                <LastName>Rakotoharisoa</LastName>
+                <Position>CAM</Position>
+                <Pace>90</Pace>
+                <Shooting>45</Shooting>
+                <Passing>55</Passing>
+                <Offensive>50</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>56</Stamina>
+                <Club>Le Havre Athletic Club</Club>
+                <DateOfBirth>04-06-1991</DateOfBirth>
+            </Player>
+            <Player id="10549">
+                <FirstName>Stefan</FirstName>
+                <LastName>Milosavljevic</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>20</Stamina>
+                <Club>Le Havre Athletic Club</Club>
+                <DateOfBirth>22-09-1993</DateOfBirth>
+            </Player>
+            <Player id="10656">
+                <FirstName>Victor</FirstName>
+                <LastName>Lekhal</LastName>
+                <Position>CB</Position>
+                <Pace>75</Pace>
+                <Shooting>26</Shooting>
+                <Passing>33</Passing>
+                <Offensive>29</Offensive>
+                <Defensive>56</Defensive>
+                <Stamina>56</Stamina>
+                <Club>Le Havre Athletic Club</Club>
+                <DateOfBirth>27-02-1994</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="La Berrichonne de Châteauroux">
+            <Player id="1276">
+                <FirstName>Sébastien</FirstName>
+                <LastName>Roudet</LastName>
+                <Position>CM</Position>
+                <Pace>67</Pace>
+                <Shooting>67</Shooting>
+                <Passing>75</Passing>
+                <Offensive>71</Offensive>
+                <Defensive>50</Defensive>
+                <Stamina>60</Stamina>
+                <Club>La Berrichonne de Châteauroux</Club>
+                <DateOfBirth>16-06-1981</DateOfBirth>
+            </Player>
+            <Player id="1642">
+                <FirstName>Laurent</FirstName>
+                <LastName>Bonnart</LastName>
+                <Position>LB</Position>
+                <Pace>61</Pace>
+                <Shooting>48</Shooting>
+                <Passing>67</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>70</Defensive>
+                <Stamina>68</Stamina>
+                <Club>La Berrichonne de Châteauroux</Club>
+                <DateOfBirth>25-12-1979</DateOfBirth>
+            </Player>
+            <Player id="3335">
+                <FirstName>Cédric</FirstName>
+                <LastName>Hountondji</LastName>
+                <Position>CB</Position>
+                <Pace>58</Pace>
+                <Shooting>32</Shooting>
+                <Passing>52</Passing>
+                <Offensive>42</Offensive>
+                <Defensive>68</Defensive>
+                <Stamina>65</Stamina>
+                <Club>La Berrichonne de Châteauroux</Club>
+                <DateOfBirth>19-01-1994</DateOfBirth>
+            </Player>
+            <Player id="4463">
+                <FirstName>Loïc</FirstName>
+                <LastName>Nestor</LastName>
+                <Position>CB</Position>
+                <Pace>74</Pace>
+                <Shooting>39</Shooting>
+                <Passing>53</Passing>
+                <Offensive>46</Offensive>
+                <Defensive>65</Defensive>
+                <Stamina>79</Stamina>
+                <Club>La Berrichonne de Châteauroux</Club>
+                <DateOfBirth>20-05-1989</DateOfBirth>
+            </Player>
+            <Player id="6448">
+                <FirstName>Damien</FirstName>
+                <LastName>Plessis</LastName>
+                <Position>CDM</Position>
+                <Pace>58</Pace>
+                <Shooting>50</Shooting>
+                <Passing>59</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>74</Stamina>
+                <Club>La Berrichonne de Châteauroux</Club>
+                <DateOfBirth>05-03-1988</DateOfBirth>
+            </Player>
+            <Player id="6661">
+                <FirstName>Fabien</FirstName>
+                <LastName>Boyer</LastName>
+                <Position>CB</Position>
+                <Pace>72</Pace>
+                <Shooting>29</Shooting>
+                <Passing>40</Passing>
+                <Offensive>34</Offensive>
+                <Defensive>61</Defensive>
+                <Stamina>66</Stamina>
+                <Club>La Berrichonne de Châteauroux</Club>
+                <DateOfBirth>12-04-1991</DateOfBirth>
+            </Player>
+            <Player id="6873">
+                <FirstName>Denys</FirstName>
+                <LastName>Bain</LastName>
+                <Position>CB</Position>
+                <Pace>71</Pace>
+                <Shooting>28</Shooting>
+                <Passing>40</Passing>
+                <Offensive>34</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>64</Stamina>
+                <Club>La Berrichonne de Châteauroux</Club>
+                <DateOfBirth>02-07-1993</DateOfBirth>
+            </Player>
+            <Player id="7378">
+                <FirstName>Grégory</FirstName>
+                <LastName>Thil</LastName>
+                <Position>ST</Position>
+                <Pace>48</Pace>
+                <Shooting>63</Shooting>
+                <Passing>60</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>32</Defensive>
+                <Stamina>50</Stamina>
+                <Club>La Berrichonne de Châteauroux</Club>
+                <DateOfBirth>15-03-1980</DateOfBirth>
+            </Player>
+            <Player id="7523">
+                <FirstName>Terence</FirstName>
+                <LastName>Makengo</LastName>
+                <Position>ST</Position>
+                <Pace>84</Pace>
+                <Shooting>61</Shooting>
+                <Passing>37</Passing>
+                <Offensive>49</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>42</Stamina>
+                <Club>La Berrichonne de Châteauroux</Club>
+                <DateOfBirth>22-06-1992</DateOfBirth>
+            </Player>
+            <Player id="7828">
+                <FirstName>Flavien</FirstName>
+                <LastName>Tait</LastName>
+                <Position>LM</Position>
+                <Pace>76</Pace>
+                <Shooting>49</Shooting>
+                <Passing>57</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>43</Stamina>
+                <Club>La Berrichonne de Châteauroux</Club>
+                <DateOfBirth>02-02-1993</DateOfBirth>
+            </Player>
+            <Player id="7992">
+                <FirstName>Jonathan</FirstName>
+                <LastName>Millieras</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>30</Stamina>
+                <Club>La Berrichonne de Châteauroux</Club>
+                <DateOfBirth>19-05-1993</DateOfBirth>
+            </Player>
+            <Player id="8499">
+                <FirstName>Johann</FirstName>
+                <LastName>Obiang</LastName>
+                <Position>LB</Position>
+                <Pace>78</Pace>
+                <Shooting>51</Shooting>
+                <Passing>58</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>59</Defensive>
+                <Stamina>61</Stamina>
+                <Club>La Berrichonne de Châteauroux</Club>
+                <DateOfBirth>05-07-1993</DateOfBirth>
+            </Player>
+            <Player id="9993">
+                <FirstName>Paul Arnold</FirstName>
+                <LastName>Garita</LastName>
+                <Position>ST</Position>
+                <Pace>73</Pace>
+                <Shooting>59</Shooting>
+                <Passing>49</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>34</Defensive>
+                <Stamina>68</Stamina>
+                <Club>La Berrichonne de Châteauroux</Club>
+                <DateOfBirth>18-06-1995</DateOfBirth>
+            </Player>
+            <Player id="10458">
+                <FirstName>Emeric</FirstName>
+                <LastName>Dudouit</LastName>
+                <Position>CDM</Position>
+                <Pace>50</Pace>
+                <Shooting>31</Shooting>
+                <Passing>50</Passing>
+                <Offensive>40</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>71</Stamina>
+                <Club>La Berrichonne de Châteauroux</Club>
+                <DateOfBirth>07-09-1991</DateOfBirth>
+            </Player>
+            <Player id="10461">
+                <FirstName>Elie</FirstName>
+                <LastName>Ehua</LastName>
+                <Position>CDM</Position>
+                <Pace>68</Pace>
+                <Shooting>38</Shooting>
+                <Passing>53</Passing>
+                <Offensive>45</Offensive>
+                <Defensive>51</Defensive>
+                <Stamina>60</Stamina>
+                <Club>La Berrichonne de Châteauroux</Club>
+                <DateOfBirth>16-01-1992</DateOfBirth>
+            </Player>
+            <Player id="10488">
+                <FirstName>Jonathan</FirstName>
+                <LastName>Rivas</LastName>
+                <Position>ST</Position>
+                <Pace>59</Pace>
+                <Shooting>60</Shooting>
+                <Passing>39</Passing>
+                <Offensive>49</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>59</Stamina>
+                <Club>La Berrichonne de Châteauroux</Club>
+                <DateOfBirth>25-01-1992</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Tours FC">
+            <Player id="1285">
+                <FirstName>Bryan</FirstName>
+                <LastName>Bergougnoux</LastName>
+                <Position>CAM</Position>
+                <Pace>68</Pace>
+                <Shooting>67</Shooting>
+                <Passing>65</Passing>
+                <Offensive>66</Offensive>
+                <Defensive>37</Defensive>
+                <Stamina>66</Stamina>
+                <Club>Tours FC</Club>
+                <DateOfBirth>12-01-1983</DateOfBirth>
+            </Player>
+            <Player id="3727">
+                <FirstName>Christian</FirstName>
+                <LastName>Kouakou</LastName>
+                <Position>LW</Position>
+                <Pace>87</Pace>
+                <Shooting>64</Shooting>
+                <Passing>50</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>67</Stamina>
+                <Club>Tours FC</Club>
+                <DateOfBirth>01-03-1991</DateOfBirth>
+            </Player>
+            <Player id="4528">
+                <FirstName>Billy</FirstName>
+                <LastName>Ketkeophomphone</LastName>
+                <Position>RM</Position>
+                <Pace>83</Pace>
+                <Shooting>64</Shooting>
+                <Passing>60</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>32</Defensive>
+                <Stamina>75</Stamina>
+                <Club>Tours FC</Club>
+                <DateOfBirth>24-03-1990</DateOfBirth>
+            </Player>
+            <Player id="4670">
+                <FirstName>Pascal</FirstName>
+                <LastName>Berenguer</LastName>
+                <Position>CDM</Position>
+                <Pace>48</Pace>
+                <Shooting>55</Shooting>
+                <Passing>68</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>59</Stamina>
+                <Club>Tours FC</Club>
+                <DateOfBirth>20-05-1981</DateOfBirth>
+            </Player>
+            <Player id="4954">
+                <FirstName>Samuel</FirstName>
+                <LastName>Bouhours</LastName>
+                <Position>LB</Position>
+                <Pace>58</Pace>
+                <Shooting>32</Shooting>
+                <Passing>60</Passing>
+                <Offensive>46</Offensive>
+                <Defensive>67</Defensive>
+                <Stamina>65</Stamina>
+                <Club>Tours FC</Club>
+                <DateOfBirth>26-06-1987</DateOfBirth>
+            </Player>
+            <Player id="5103">
+                <FirstName>Xavier</FirstName>
+                <LastName>Chavalerin</LastName>
+                <Position>CM</Position>
+                <Pace>71</Pace>
+                <Shooting>61</Shooting>
+                <Passing>70</Passing>
+                <Offensive>65</Offensive>
+                <Defensive>42</Defensive>
+                <Stamina>68</Stamina>
+                <Club>Tours FC</Club>
+                <DateOfBirth>07-03-1991</DateOfBirth>
+            </Player>
+            <Player id="7038">
+                <FirstName>Léo</FirstName>
+                <LastName>Schwechlen</LastName>
+                <Position>CB</Position>
+                <Pace>63</Pace>
+                <Shooting>26</Shooting>
+                <Passing>45</Passing>
+                <Offensive>35</Offensive>
+                <Defensive>61</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Tours FC</Club>
+                <DateOfBirth>05-06-1989</DateOfBirth>
+            </Player>
+            <Player id="7358">
+                <FirstName>Baptiste</FirstName>
+                <LastName>Santamaria</LastName>
+                <Position>CM</Position>
+                <Pace>70</Pace>
+                <Shooting>43</Shooting>
+                <Passing>61</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>67</Stamina>
+                <Club>Tours FC</Club>
+                <DateOfBirth>09-03-1995</DateOfBirth>
+            </Player>
+            <Player id="7531">
+                <FirstName>Youcef</FirstName>
+                <LastName>Touati</LastName>
+                <Position>RW</Position>
+                <Pace>77</Pace>
+                <Shooting>46</Shooting>
+                <Passing>57</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>25</Defensive>
+                <Stamina>33</Stamina>
+                <Club>Tours FC</Club>
+                <DateOfBirth>29-03-1989</DateOfBirth>
+            </Player>
+            <Player id="10016">
+                <FirstName>Lorry</FirstName>
+                <LastName>Mengual</LastName>
+                <Position>CAM</Position>
+                <Pace>76</Pace>
+                <Shooting>39</Shooting>
+                <Passing>58</Passing>
+                <Offensive>48</Offensive>
+                <Defensive>36</Defensive>
+                <Stamina>58</Stamina>
+                <Club>Tours FC</Club>
+                <DateOfBirth>02-07-1990</DateOfBirth>
+            </Player>
+            <Player id="10750">
+                <FirstName>Benjamin</FirstName>
+                <LastName>Bertrand</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>27</Stamina>
+                <Club>Tours FC</Club>
+                <DateOfBirth>24-06-1992</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Angers SCO">
+            <Player id="1304">
+                <FirstName>Romain</FirstName>
+                <LastName>Thomas</LastName>
+                <Position>CB</Position>
+                <Pace>63</Pace>
+                <Shooting>33</Shooting>
+                <Passing>40</Passing>
+                <Offensive>36</Offensive>
+                <Defensive>69</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Angers SCO</Club>
+                <DateOfBirth>12-06-1988</DateOfBirth>
+            </Player>
+            <Player id="1528">
+                <FirstName>Abdoul</FirstName>
+                <LastName>Camara</LastName>
+                <Position>LM</Position>
+                <Pace>81</Pace>
+                <Shooting>67</Shooting>
+                <Passing>66</Passing>
+                <Offensive>66</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Angers SCO</Club>
+                <DateOfBirth>20-02-1990</DateOfBirth>
+            </Player>
+            <Player id="1641">
+                <FirstName>Ludovic</FirstName>
+                <LastName>Butelle</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>31</Stamina>
+                <Club>Angers SCO</Club>
+                <DateOfBirth>03-04-1983</DateOfBirth>
+            </Player>
+            <Player id="2824">
+                <FirstName>Anthar</FirstName>
+                <LastName>Yahia</LastName>
+                <Position>CB</Position>
+                <Pace>50</Pace>
+                <Shooting>39</Shooting>
+                <Passing>50</Passing>
+                <Offensive>44</Offensive>
+                <Defensive>68</Defensive>
+                <Stamina>48</Stamina>
+                <Club>Angers SCO</Club>
+                <DateOfBirth>21-03-1982</DateOfBirth>
+            </Player>
+            <Player id="2886">
+                <FirstName>Khaled</FirstName>
+                <LastName>Ayari</LastName>
+                <Position>ST</Position>
+                <Pace>75</Pace>
+                <Shooting>69</Shooting>
+                <Passing>52</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>69</Stamina>
+                <Club>Angers SCO</Club>
+                <DateOfBirth>17-01-1990</DateOfBirth>
+            </Player>
+            <Player id="3677">
+                <FirstName>Ismaël</FirstName>
+                <LastName>Keita</LastName>
+                <Position>CDM</Position>
+                <Pace>69</Pace>
+                <Shooting>47</Shooting>
+                <Passing>57</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>90</Stamina>
+                <Club>Angers SCO</Club>
+                <DateOfBirth>08-07-1990</DateOfBirth>
+            </Player>
+            <Player id="4314">
+                <FirstName>Rayan</FirstName>
+                <LastName>Frikèche</LastName>
+                <Position>CDM</Position>
+                <Pace>56</Pace>
+                <Shooting>53</Shooting>
+                <Passing>62</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>83</Stamina>
+                <Club>Angers SCO</Club>
+                <DateOfBirth>09-10-1991</DateOfBirth>
+            </Player>
+            <Player id="4651">
+                <FirstName>Olivier</FirstName>
+                <LastName>Auriac</LastName>
+                <Position>CDM</Position>
+                <Pace>65</Pace>
+                <Shooting>51</Shooting>
+                <Passing>64</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>55</Defensive>
+                <Stamina>90</Stamina>
+                <Club>Angers SCO</Club>
+                <DateOfBirth>14-09-1983</DateOfBirth>
+            </Player>
+            <Player id="4772">
+                <FirstName>Jonathan</FirstName>
+                <LastName>Kodjia</LastName>
+                <Position>RW</Position>
+                <Pace>83</Pace>
+                <Shooting>63</Shooting>
+                <Passing>50</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>68</Stamina>
+                <Club>Angers SCO</Club>
+                <DateOfBirth>22-10-1989</DateOfBirth>
+            </Player>
+            <Player id="5108">
+                <FirstName>Jonas</FirstName>
+                <LastName>Henrique Pessalli</LastName>
+                <Position>CAM</Position>
+                <Pace>64</Pace>
+                <Shooting>62</Shooting>
+                <Passing>62</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>59</Stamina>
+                <Club>Angers SCO</Club>
+                <DateOfBirth>24-09-1990</DateOfBirth>
+            </Player>
+            <Player id="5292">
+                <FirstName>Diego</FirstName>
+                <LastName>Gómez</LastName>
+                <Position>CAM</Position>
+                <Pace>71</Pace>
+                <Shooting>47</Shooting>
+                <Passing>64</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>24</Defensive>
+                <Stamina>73</Stamina>
+                <Club>Angers SCO</Club>
+                <DateOfBirth>05-01-1984</DateOfBirth>
+            </Player>
+            <Player id="5576">
+                <FirstName>Loïc</FirstName>
+                <LastName>Guillon</LastName>
+                <Position>CB</Position>
+                <Pace>33</Pace>
+                <Shooting>35</Shooting>
+                <Passing>47</Passing>
+                <Offensive>41</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>51</Stamina>
+                <Club>Angers SCO</Club>
+                <DateOfBirth>11-01-1982</DateOfBirth>
+            </Player>
+            <Player id="5687">
+                <FirstName>Arnold</FirstName>
+                <LastName>Bouka Moutou</LastName>
+                <Position>LB</Position>
+                <Pace>71</Pace>
+                <Shooting>27</Shooting>
+                <Passing>58</Passing>
+                <Offensive>42</Offensive>
+                <Defensive>61</Defensive>
+                <Stamina>76</Stamina>
+                <Club>Angers SCO</Club>
+                <DateOfBirth>28-11-1988</DateOfBirth>
+            </Player>
+            <Player id="6212">
+                <FirstName>Alexandre</FirstName>
+                <LastName>Letellier</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>34</Stamina>
+                <Club>Angers SCO</Club>
+                <DateOfBirth>11-12-1990</DateOfBirth>
+            </Player>
+            <Player id="6295">
+                <FirstName>Sofiane</FirstName>
+                <LastName>Boufal</LastName>
+                <Position>RM</Position>
+                <Pace>87</Pace>
+                <Shooting>50</Shooting>
+                <Passing>59</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>25</Defensive>
+                <Stamina>56</Stamina>
+                <Club>Angers SCO</Club>
+                <DateOfBirth>17-09-1993</DateOfBirth>
+            </Player>
+            <Player id="6373">
+                <FirstName>Charles</FirstName>
+                <LastName>Diers</LastName>
+                <Position>RM</Position>
+                <Pace>67</Pace>
+                <Shooting>53</Shooting>
+                <Passing>62</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>36</Defensive>
+                <Stamina>62</Stamina>
+                <Club>Angers SCO</Club>
+                <DateOfBirth>06-06-1981</DateOfBirth>
+            </Player>
+            <Player id="6783">
+                <FirstName>Vincent</FirstName>
+                <LastName>Manceau</LastName>
+                <Position>RB</Position>
+                <Pace>54</Pace>
+                <Shooting>36</Shooting>
+                <Passing>58</Passing>
+                <Offensive>47</Offensive>
+                <Defensive>59</Defensive>
+                <Stamina>86</Stamina>
+                <Club>Angers SCO</Club>
+                <DateOfBirth>24-07-1989</DateOfBirth>
+            </Player>
+            <Player id="9055">
+                <FirstName>Pape Macou</FirstName>
+                <LastName>Sarr</LastName>
+                <Position>RM</Position>
+                <Pace>77</Pace>
+                <Shooting>48</Shooting>
+                <Passing>59</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>26</Defensive>
+                <Stamina>59</Stamina>
+                <Club>Angers SCO</Club>
+                <DateOfBirth>25-07-1991</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="ES Troyes AC">
+            <Player id="1823">
+                <FirstName>Benjamin</FirstName>
+                <LastName>Nivet</LastName>
+                <Position>CAM</Position>
+                <Pace>60</Pace>
+                <Shooting>69</Shooting>
+                <Passing>70</Passing>
+                <Offensive>69</Offensive>
+                <Defensive>54</Defensive>
+                <Stamina>59</Stamina>
+                <Club>ES Troyes AC</Club>
+                <DateOfBirth>02-01-1977</DateOfBirth>
+            </Player>
+            <Player id="1906">
+                <FirstName>Ghislain</FirstName>
+                <LastName>Gimbert</LastName>
+                <Position>ST</Position>
+                <Pace>66</Pace>
+                <Shooting>72</Shooting>
+                <Passing>61</Passing>
+                <Offensive>66</Offensive>
+                <Defensive>35</Defensive>
+                <Stamina>74</Stamina>
+                <Club>ES Troyes AC</Club>
+                <DateOfBirth>07-08-1985</DateOfBirth>
+            </Player>
+            <Player id="1910">
+                <FirstName>Stéphane</FirstName>
+                <LastName>Darbion</LastName>
+                <Position>RM</Position>
+                <Pace>62</Pace>
+                <Shooting>67</Shooting>
+                <Passing>68</Passing>
+                <Offensive>67</Offensive>
+                <Defensive>52</Defensive>
+                <Stamina>81</Stamina>
+                <Club>ES Troyes AC</Club>
+                <DateOfBirth>22-03-1984</DateOfBirth>
+            </Player>
+            <Player id="2399">
+                <FirstName>Denis</FirstName>
+                <LastName>Petric</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>30</Stamina>
+                <Club>ES Troyes AC</Club>
+                <DateOfBirth>24-05-1988</DateOfBirth>
+            </Player>
+            <Player id="3272">
+                <FirstName>Mahamadou</FirstName>
+                <LastName>N'Diaye</LastName>
+                <Position>CB</Position>
+                <Pace>65</Pace>
+                <Shooting>34</Shooting>
+                <Passing>48</Passing>
+                <Offensive>41</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>68</Stamina>
+                <Club>ES Troyes AC</Club>
+                <DateOfBirth>21-06-1990</DateOfBirth>
+            </Player>
+            <Player id="3404">
+                <FirstName>Quentin</FirstName>
+                <LastName>Othon</LastName>
+                <Position>CDM</Position>
+                <Pace>68</Pace>
+                <Shooting>42</Shooting>
+                <Passing>61</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>85</Stamina>
+                <Club>ES Troyes AC</Club>
+                <DateOfBirth>27-03-1988</DateOfBirth>
+            </Player>
+            <Player id="3687">
+                <FirstName>Lionel</FirstName>
+                <LastName>Carole</LastName>
+                <Position>LB</Position>
+                <Pace>80</Pace>
+                <Shooting>38</Shooting>
+                <Passing>59</Passing>
+                <Offensive>48</Offensive>
+                <Defensive>65</Defensive>
+                <Stamina>78</Stamina>
+                <Club>ES Troyes AC</Club>
+                <DateOfBirth>12-04-1991</DateOfBirth>
+            </Player>
+            <Player id="3941">
+                <FirstName>Thomas</FirstName>
+                <LastName>Ayasse</LastName>
+                <Position>CDM</Position>
+                <Pace>66</Pace>
+                <Shooting>51</Shooting>
+                <Passing>67</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>57</Defensive>
+                <Stamina>92</Stamina>
+                <Club>ES Troyes AC</Club>
+                <DateOfBirth>17-02-1987</DateOfBirth>
+            </Player>
+            <Player id="4001">
+                <FirstName>Yoann</FirstName>
+                <LastName>Court</LastName>
+                <Position>LM</Position>
+                <Pace>76</Pace>
+                <Shooting>56</Shooting>
+                <Passing>64</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>37</Defensive>
+                <Stamina>83</Stamina>
+                <Club>ES Troyes AC</Club>
+                <DateOfBirth>14-01-1990</DateOfBirth>
+            </Player>
+            <Player id="4193">
+                <FirstName>Carlos Eduardo</FirstName>
+                <LastName>de Castro Lourenço</LastName>
+                <Position>CB</Position>
+                <Pace>53</Pace>
+                <Shooting>36</Shooting>
+                <Passing>44</Passing>
+                <Offensive>40</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>71</Stamina>
+                <Club>ES Troyes AC</Club>
+                <DateOfBirth>31-05-1987</DateOfBirth>
+            </Player>
+            <Player id="4352">
+                <FirstName>Jimmy</FirstName>
+                <LastName>Cabot</LastName>
+                <Position>LM</Position>
+                <Pace>90</Pace>
+                <Shooting>55</Shooting>
+                <Passing>58</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>26</Defensive>
+                <Stamina>61</Stamina>
+                <Club>ES Troyes AC</Club>
+                <DateOfBirth>18-04-1994</DateOfBirth>
+            </Player>
+            <Player id="4400">
+                <FirstName>Guillaume</FirstName>
+                <LastName>Lacour</LastName>
+                <Position>CDM</Position>
+                <Pace>54</Pace>
+                <Shooting>54</Shooting>
+                <Passing>66</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>57</Defensive>
+                <Stamina>70</Stamina>
+                <Club>ES Troyes AC</Club>
+                <DateOfBirth>02-08-1980</DateOfBirth>
+            </Player>
+            <Player id="4616">
+                <FirstName>Corentin</FirstName>
+                <LastName>Jean</LastName>
+                <Position>ST</Position>
+                <Pace>83</Pace>
+                <Shooting>64</Shooting>
+                <Passing>51</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>45</Stamina>
+                <Club>ES Troyes AC</Club>
+                <DateOfBirth>15-07-1995</DateOfBirth>
+            </Player>
+            <Player id="4785">
+                <FirstName>Matthieu</FirstName>
+                <LastName>Saunier</LastName>
+                <Position>CB</Position>
+                <Pace>50</Pace>
+                <Shooting>27</Shooting>
+                <Passing>47</Passing>
+                <Offensive>37</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>59</Stamina>
+                <Club>ES Troyes AC</Club>
+                <DateOfBirth>07-02-1990</DateOfBirth>
+            </Player>
+            <Player id="4905">
+                <FirstName>Henri</FirstName>
+                <LastName>Bienvenu</LastName>
+                <Position>ST</Position>
+                <Pace>78</Pace>
+                <Shooting>66</Shooting>
+                <Passing>53</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>38</Defensive>
+                <Stamina>74</Stamina>
+                <Club>ES Troyes AC</Club>
+                <DateOfBirth>05-07-1988</DateOfBirth>
+            </Player>
+            <Player id="6552">
+                <FirstName>Matthieu</FirstName>
+                <LastName>Dreyer</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>27</Stamina>
+                <Club>ES Troyes AC</Club>
+                <DateOfBirth>20-03-1989</DateOfBirth>
+            </Player>
+            <Player id="7411">
+                <FirstName>Thiago Xavier</FirstName>
+                <LastName>Rodrigues Corrêa</LastName>
+                <Position>CDM</Position>
+                <Pace>52</Pace>
+                <Shooting>49</Shooting>
+                <Passing>55</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>61</Defensive>
+                <Stamina>74</Stamina>
+                <Club>ES Troyes AC</Club>
+                <DateOfBirth>27-12-1983</DateOfBirth>
+            </Player>
+            <Player id="7628">
+                <FirstName>Karim</FirstName>
+                <LastName>Azamoum</LastName>
+                <Position>CM</Position>
+                <Pace>66</Pace>
+                <Shooting>52</Shooting>
+                <Passing>64</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>46</Defensive>
+                <Stamina>59</Stamina>
+                <Club>ES Troyes AC</Club>
+                <DateOfBirth>17-01-1990</DateOfBirth>
+            </Player>
+            <Player id="7659">
+                <FirstName>Stéphen</FirstName>
+                <LastName>Drouin</LastName>
+                <Position>CB</Position>
+                <Pace>38</Pace>
+                <Shooting>38</Shooting>
+                <Passing>48</Passing>
+                <Offensive>43</Offensive>
+                <Defensive>61</Defensive>
+                <Stamina>56</Stamina>
+                <Club>ES Troyes AC</Club>
+                <DateOfBirth>27-01-1984</DateOfBirth>
+            </Player>
+            <Player id="7874">
+                <FirstName>Jessy</FirstName>
+                <LastName>Pi</LastName>
+                <Position>CDM</Position>
+                <Pace>71</Pace>
+                <Shooting>42</Shooting>
+                <Passing>61</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>50</Defensive>
+                <Stamina>69</Stamina>
+                <Club>ES Troyes AC</Club>
+                <DateOfBirth>24-09-1993</DateOfBirth>
+            </Player>
+            <Player id="8446">
+                <FirstName>Khassa</FirstName>
+                <LastName>Camara</LastName>
+                <Position>CM</Position>
+                <Pace>67</Pace>
+                <Shooting>46</Shooting>
+                <Passing>58</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>52</Defensive>
+                <Stamina>78</Stamina>
+                <Club>ES Troyes AC</Club>
+                <DateOfBirth>22-10-1992</DateOfBirth>
+            </Player>
+            <Player id="8965">
+                <FirstName>Mory</FirstName>
+                <LastName>Koné</LastName>
+                <Position>CB</Position>
+                <Pace>67</Pace>
+                <Shooting>26</Shooting>
+                <Passing>30</Passing>
+                <Offensive>28</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>75</Stamina>
+                <Club>ES Troyes AC</Club>
+                <DateOfBirth>21-04-1994</DateOfBirth>
+            </Player>
+            <Player id="9454">
+                <FirstName>Franck</FirstName>
+                <LastName>Grandel</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>30</Stamina>
+                <Club>ES Troyes AC</Club>
+                <DateOfBirth>17-03-1978</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Clermont Foot Auvergne 63">
+            <Player id="1974">
+                <FirstName>Yannis</FirstName>
+                <LastName>Salibur</LastName>
+                <Position>LM</Position>
+                <Pace>88</Pace>
+                <Shooting>65</Shooting>
+                <Passing>62</Passing>
+                <Offensive>63</Offensive>
+                <Defensive>39</Defensive>
+                <Stamina>73</Stamina>
+                <Club>Clermont Foot Auvergne 63</Club>
+                <DateOfBirth>24-01-1991</DateOfBirth>
+            </Player>
+            <Player id="2291">
+                <FirstName>Idriss</FirstName>
+                <LastName>Saadi</LastName>
+                <Position>ST</Position>
+                <Pace>76</Pace>
+                <Shooting>66</Shooting>
+                <Passing>51</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>80</Stamina>
+                <Club>Clermont Foot Auvergne 63</Club>
+                <DateOfBirth>08-02-1992</DateOfBirth>
+            </Player>
+            <Player id="3059">
+                <FirstName>Anthony</FirstName>
+                <LastName>Lippini</LastName>
+                <Position>RB</Position>
+                <Pace>67</Pace>
+                <Shooting>37</Shooting>
+                <Passing>54</Passing>
+                <Offensive>45</Offensive>
+                <Defensive>68</Defensive>
+                <Stamina>77</Stamina>
+                <Club>Clermont Foot Auvergne 63</Club>
+                <DateOfBirth>07-11-1988</DateOfBirth>
+            </Player>
+            <Player id="5044">
+                <FirstName>Yohan</FirstName>
+                <LastName>Betsch</LastName>
+                <Position>CDM</Position>
+                <Pace>54</Pace>
+                <Shooting>37</Shooting>
+                <Passing>57</Passing>
+                <Offensive>47</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>90</Stamina>
+                <Club>Clermont Foot Auvergne 63</Club>
+                <DateOfBirth>16-02-1987</DateOfBirth>
+            </Player>
+            <Player id="5254">
+                <FirstName>Eugène</FirstName>
+                <LastName>Ekobo</LastName>
+                <Position>CDM</Position>
+                <Pace>50</Pace>
+                <Shooting>47</Shooting>
+                <Passing>59</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>78</Stamina>
+                <Club>Clermont Foot Auvergne 63</Club>
+                <DateOfBirth>15-02-1981</DateOfBirth>
+            </Player>
+            <Player id="5517">
+                <FirstName>Hugo</FirstName>
+                <LastName>Vidémont</LastName>
+                <Position>RM</Position>
+                <Pace>85</Pace>
+                <Shooting>55</Shooting>
+                <Passing>61</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>27</Defensive>
+                <Stamina>50</Stamina>
+                <Club>Clermont Foot Auvergne 63</Club>
+                <DateOfBirth>19-02-1993</DateOfBirth>
+            </Player>
+            <Player id="6127">
+                <FirstName>Jacques</FirstName>
+                <LastName>Salze</LastName>
+                <Position>CB</Position>
+                <Pace>38</Pace>
+                <Shooting>30</Shooting>
+                <Passing>44</Passing>
+                <Offensive>37</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>62</Stamina>
+                <Club>Clermont Foot Auvergne 63</Club>
+                <DateOfBirth>20-04-1987</DateOfBirth>
+            </Player>
+            <Player id="6229">
+                <FirstName>Harry</FirstName>
+                <LastName>Novillo</LastName>
+                <Position>LM</Position>
+                <Pace>81</Pace>
+                <Shooting>63</Shooting>
+                <Passing>55</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>60</Stamina>
+                <Club>Clermont Foot Auvergne 63</Club>
+                <DateOfBirth>11-02-1992</DateOfBirth>
+            </Player>
+            <Player id="6233">
+                <FirstName>Thibault</FirstName>
+                <LastName>Moulin</LastName>
+                <Position>CDM</Position>
+                <Pace>66</Pace>
+                <Shooting>54</Shooting>
+                <Passing>62</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>86</Stamina>
+                <Club>Clermont Foot Auvergne 63</Club>
+                <DateOfBirth>13-01-1990</DateOfBirth>
+            </Player>
+            <Player id="6538">
+                <FirstName>Grégory</FirstName>
+                <LastName>Bettiol</LastName>
+                <Position>ST</Position>
+                <Pace>70</Pace>
+                <Shooting>65</Shooting>
+                <Passing>55</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Clermont Foot Auvergne 63</Club>
+                <DateOfBirth>30-03-1986</DateOfBirth>
+            </Player>
+            <Player id="7187">
+                <FirstName>Cédric</FirstName>
+                <LastName>Avinel</LastName>
+                <Position>CB</Position>
+                <Pace>70</Pace>
+                <Shooting>45</Shooting>
+                <Passing>47</Passing>
+                <Offensive>46</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Clermont Foot Auvergne 63</Club>
+                <DateOfBirth>11-09-1986</DateOfBirth>
+            </Player>
+            <Player id="7255">
+                <FirstName>Franck</FirstName>
+                <LastName>L'Hostis</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>39</Stamina>
+                <Club>Clermont Foot Auvergne 63</Club>
+                <DateOfBirth>03-04-1990</DateOfBirth>
+            </Player>
+            <Player id="7607">
+                <FirstName>Pierrick</FirstName>
+                <LastName>Capelle</LastName>
+                <Position>CF</Position>
+                <Pace>74</Pace>
+                <Shooting>58</Shooting>
+                <Passing>59</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>26</Defensive>
+                <Stamina>67</Stamina>
+                <Club>Clermont Foot Auvergne 63</Club>
+                <DateOfBirth>15-04-1987</DateOfBirth>
+            </Player>
+            <Player id="7627">
+                <FirstName>Rémy</FirstName>
+                <LastName>Dugimont</LastName>
+                <Position>ST</Position>
+                <Pace>63</Pace>
+                <Shooting>60</Shooting>
+                <Passing>40</Passing>
+                <Offensive>50</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>65</Stamina>
+                <Club>Clermont Foot Auvergne 63</Club>
+                <DateOfBirth>01-06-1986</DateOfBirth>
+            </Player>
+            <Player id="7960">
+                <FirstName>Bilal</FirstName>
+                <LastName>Hamdi</LastName>
+                <Position>RM</Position>
+                <Pace>70</Pace>
+                <Shooting>58</Shooting>
+                <Passing>58</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>27</Defensive>
+                <Stamina>52</Stamina>
+                <Club>Clermont Foot Auvergne 63</Club>
+                <DateOfBirth>01-05-1991</DateOfBirth>
+            </Player>
+            <Player id="8322">
+                <FirstName>Adrien</FirstName>
+                <LastName>Pagerie</LastName>
+                <Position>LB</Position>
+                <Pace>69</Pace>
+                <Shooting>28</Shooting>
+                <Passing>46</Passing>
+                <Offensive>37</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>64</Stamina>
+                <Club>Clermont Foot Auvergne 63</Club>
+                <DateOfBirth>08-05-1992</DateOfBirth>
+            </Player>
+            <Player id="9250">
+                <FirstName>Brandon</FirstName>
+                <LastName>Agounon</LastName>
+                <Position>CM</Position>
+                <Pace>68</Pace>
+                <Shooting>50</Shooting>
+                <Passing>59</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>57</Defensive>
+                <Stamina>34</Stamina>
+                <Club>Clermont Foot Auvergne 63</Club>
+                <DateOfBirth>19-10-1994</DateOfBirth>
+            </Player>
+            <Player id="9787">
+                <FirstName>Cédric</FirstName>
+                <LastName>Goncalves</LastName>
+                <Position>CM</Position>
+                <Pace>65</Pace>
+                <Shooting>44</Shooting>
+                <Passing>64</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>52</Defensive>
+                <Stamina>41</Stamina>
+                <Club>Clermont Foot Auvergne 63</Club>
+                <DateOfBirth>06-08-1993</DateOfBirth>
+            </Player>
+            <Player id="10565">
+                <FirstName>Gérald</FirstName>
+                <LastName>Kilota</LastName>
+                <Position>LB</Position>
+                <Pace>76</Pace>
+                <Shooting>55</Shooting>
+                <Passing>50</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>53</Defensive>
+                <Stamina>58</Stamina>
+                <Club>Clermont Foot Auvergne 63</Club>
+                <DateOfBirth>02-01-1994</DateOfBirth>
+            </Player>
+            <Player id="10761">
+                <FirstName>Hugo</FirstName>
+                <LastName>Konongo</LastName>
+                <Position>LB</Position>
+                <Pace>64</Pace>
+                <Shooting>30</Shooting>
+                <Passing>34</Passing>
+                <Offensive>32</Offensive>
+                <Defensive>59</Defensive>
+                <Stamina>64</Stamina>
+                <Club>Clermont Foot Auvergne 63</Club>
+                <DateOfBirth>14-02-1992</DateOfBirth>
+            </Player>
+            <Player id="10927">
+                <FirstName>Mehddy</FirstName>
+                <LastName>Latrèche</LastName>
+                <Position>CAM</Position>
+                <Pace>65</Pace>
+                <Shooting>46</Shooting>
+                <Passing>54</Passing>
+                <Offensive>50</Offensive>
+                <Defensive>34</Defensive>
+                <Stamina>40</Stamina>
+                <Club>Clermont Foot Auvergne 63</Club>
+                <DateOfBirth>13-12-1994</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="AC Ajaccio">
+            <Player id="2200">
+                <FirstName>Ronald</FirstName>
+                <LastName>Zubar</LastName>
+                <Position>CB</Position>
+                <Pace>67</Pace>
+                <Shooting>52</Shooting>
+                <Passing>56</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>70</Stamina>
+                <Club>AC Ajaccio</Club>
+                <DateOfBirth>20-09-1985</DateOfBirth>
+            </Player>
+            <Player id="2375">
+                <FirstName>Dennis</FirstName>
+                <LastName>Oliech</LastName>
+                <Position>ST</Position>
+                <Pace>88</Pace>
+                <Shooting>67</Shooting>
+                <Passing>60</Passing>
+                <Offensive>63</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>73</Stamina>
+                <Club>AC Ajaccio</Club>
+                <DateOfBirth>02-02-1985</DateOfBirth>
+            </Player>
+            <Player id="2760">
+                <FirstName>Benoît</FirstName>
+                <LastName>Lesoimier</LastName>
+                <Position>LM</Position>
+                <Pace>72</Pace>
+                <Shooting>60</Shooting>
+                <Passing>66</Passing>
+                <Offensive>63</Offensive>
+                <Defensive>47</Defensive>
+                <Stamina>75</Stamina>
+                <Club>AC Ajaccio</Club>
+                <DateOfBirth>21-02-1983</DateOfBirth>
+            </Player>
+            <Player id="4435">
+                <FirstName>Gary</FirstName>
+                <LastName>Coulibaly</LastName>
+                <Position>CDM</Position>
+                <Pace>65</Pace>
+                <Shooting>53</Shooting>
+                <Passing>64</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>59</Defensive>
+                <Stamina>76</Stamina>
+                <Club>AC Ajaccio</Club>
+                <DateOfBirth>30-03-1986</DateOfBirth>
+            </Player>
+            <Player id="4795">
+                <FirstName>Grenddy</FirstName>
+                <LastName>Perozo</LastName>
+                <Position>CB</Position>
+                <Pace>75</Pace>
+                <Shooting>35</Shooting>
+                <Passing>53</Passing>
+                <Offensive>44</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>75</Stamina>
+                <Club>AC Ajaccio</Club>
+                <DateOfBirth>28-02-1986</DateOfBirth>
+            </Player>
+            <Player id="6748">
+                <FirstName>Fabrice</FirstName>
+                <LastName>Begeorgi</LastName>
+                <Position>LM</Position>
+                <Pace>67</Pace>
+                <Shooting>65</Shooting>
+                <Passing>58</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>52</Defensive>
+                <Stamina>73</Stamina>
+                <Club>AC Ajaccio</Club>
+                <DateOfBirth>20-04-1987</DateOfBirth>
+            </Player>
+            <Player id="6762">
+                <FirstName>Oumar</FirstName>
+                <LastName>Sissoko</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>34</Stamina>
+                <Club>AC Ajaccio</Club>
+                <DateOfBirth>13-09-1987</DateOfBirth>
+            </Player>
+            <Player id="6882">
+                <FirstName>Brandon</FirstName>
+                <LastName>Deville</LastName>
+                <Position>CAM</Position>
+                <Pace>76</Pace>
+                <Shooting>53</Shooting>
+                <Passing>62</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>44</Defensive>
+                <Stamina>59</Stamina>
+                <Club>AC Ajaccio</Club>
+                <DateOfBirth>17-02-1993</DateOfBirth>
+            </Player>
+            <Player id="7385">
+                <FirstName>Eric</FirstName>
+                <LastName>Marester</LastName>
+                <Position>RB</Position>
+                <Pace>71</Pace>
+                <Shooting>53</Shooting>
+                <Passing>62</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>77</Stamina>
+                <Club>AC Ajaccio</Club>
+                <DateOfBirth>12-06-1984</DateOfBirth>
+            </Player>
+            <Player id="8060">
+                <FirstName>Jordi</FirstName>
+                <LastName>Quintillà Guasch</LastName>
+                <Position>CAM</Position>
+                <Pace>63</Pace>
+                <Shooting>45</Shooting>
+                <Passing>65</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>38</Defensive>
+                <Stamina>48</Stamina>
+                <Club>AC Ajaccio</Club>
+                <DateOfBirth>25-10-1993</DateOfBirth>
+            </Player>
+            <Player id="8793">
+                <FirstName>Paul</FirstName>
+                <LastName>Babiloni</LastName>
+                <Position>LB</Position>
+                <Pace>66</Pace>
+                <Shooting>31</Shooting>
+                <Passing>54</Passing>
+                <Offensive>42</Offensive>
+                <Defensive>59</Defensive>
+                <Stamina>63</Stamina>
+                <Club>AC Ajaccio</Club>
+                <DateOfBirth>16-01-1990</DateOfBirth>
+            </Player>
+            <Player id="9159">
+                <FirstName>Anthony</FirstName>
+                <LastName>Scribe</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>34</Stamina>
+                <Club>AC Ajaccio</Club>
+                <DateOfBirth>01-01-1988</DateOfBirth>
+            </Player>
+            <Player id="10709">
+                <FirstName>Francois-Joseph</FirstName>
+                <LastName>Sollacaro</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>28</Stamina>
+                <Club>AC Ajaccio</Club>
+                <DateOfBirth>21-03-1994</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="AJ Auxerre">
+            <Player id="2764">
+                <FirstName>Vincent</FirstName>
+                <LastName>Gragnic</LastName>
+                <Position>CAM</Position>
+                <Pace>57</Pace>
+                <Shooting>65</Shooting>
+                <Passing>67</Passing>
+                <Offensive>66</Offensive>
+                <Defensive>39</Defensive>
+                <Stamina>69</Stamina>
+                <Club>AJ Auxerre</Club>
+                <DateOfBirth>23-06-1983</DateOfBirth>
+            </Player>
+            <Player id="2870">
+                <FirstName>Donovan</FirstName>
+                <LastName>Léon</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>20</Stamina>
+                <Club>AJ Auxerre</Club>
+                <DateOfBirth>03-11-1992</DateOfBirth>
+            </Player>
+            <Player id="3095">
+                <FirstName>Livio</FirstName>
+                <LastName>Nabab</LastName>
+                <Position>ST</Position>
+                <Pace>88</Pace>
+                <Shooting>65</Shooting>
+                <Passing>60</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>32</Defensive>
+                <Stamina>70</Stamina>
+                <Club>AJ Auxerre</Club>
+                <DateOfBirth>14-06-1988</DateOfBirth>
+            </Player>
+            <Player id="4115">
+                <FirstName>Jamel</FirstName>
+                <LastName>Aït Ben Idir</LastName>
+                <Position>CM</Position>
+                <Pace>53</Pace>
+                <Shooting>46</Shooting>
+                <Passing>62</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>87</Stamina>
+                <Club>AJ Auxerre</Club>
+                <DateOfBirth>10-01-1984</DateOfBirth>
+            </Player>
+            <Player id="4323">
+                <FirstName>Sébastien</FirstName>
+                <LastName>Haller</LastName>
+                <Position>ST</Position>
+                <Pace>77</Pace>
+                <Shooting>65</Shooting>
+                <Passing>45</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>64</Stamina>
+                <Club>AJ Auxerre</Club>
+                <DateOfBirth>22-06-1994</DateOfBirth>
+            </Player>
+            <Player id="4862">
+                <FirstName>Cheick</FirstName>
+                <LastName>Diarra</LastName>
+                <Position>ST</Position>
+                <Pace>78</Pace>
+                <Shooting>66</Shooting>
+                <Passing>52</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>31</Defensive>
+                <Stamina>68</Stamina>
+                <Club>AJ Auxerre</Club>
+                <DateOfBirth>11-02-1992</DateOfBirth>
+            </Player>
+            <Player id="5273">
+                <FirstName>Karim</FirstName>
+                <LastName>Djellabi</LastName>
+                <Position>LB</Position>
+                <Pace>67</Pace>
+                <Shooting>46</Shooting>
+                <Passing>57</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>59</Defensive>
+                <Stamina>85</Stamina>
+                <Club>AJ Auxerre</Club>
+                <DateOfBirth>31-05-1983</DateOfBirth>
+            </Player>
+            <Player id="5577">
+                <FirstName>Julien</FirstName>
+                <LastName>Viale</LastName>
+                <Position>ST</Position>
+                <Pace>66</Pace>
+                <Shooting>67</Shooting>
+                <Passing>54</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>60</Stamina>
+                <Club>AJ Auxerre</Club>
+                <DateOfBirth>13-02-1982</DateOfBirth>
+            </Player>
+            <Player id="5659">
+                <FirstName>Yannis</FirstName>
+                <LastName>Mbombo</LastName>
+                <Position>ST</Position>
+                <Pace>82</Pace>
+                <Shooting>64</Shooting>
+                <Passing>52</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>27</Defensive>
+                <Stamina>55</Stamina>
+                <Club>AJ Auxerre</Club>
+                <DateOfBirth>08-04-1994</DateOfBirth>
+            </Player>
+            <Player id="6027">
+                <FirstName>Yann</FirstName>
+                <LastName>Boé-Kane</LastName>
+                <Position>CDM</Position>
+                <Pace>68</Pace>
+                <Shooting>41</Shooting>
+                <Passing>55</Passing>
+                <Offensive>48</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>76</Stamina>
+                <Club>AJ Auxerre</Club>
+                <DateOfBirth>05-04-1991</DateOfBirth>
+            </Player>
+            <Player id="6042">
+                <FirstName>Amara</FirstName>
+                <LastName>Baby</LastName>
+                <Position>LM</Position>
+                <Pace>82</Pace>
+                <Shooting>50</Shooting>
+                <Passing>58</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>54</Defensive>
+                <Stamina>80</Stamina>
+                <Club>AJ Auxerre</Club>
+                <DateOfBirth>23-02-1989</DateOfBirth>
+            </Player>
+            <Player id="6206">
+                <FirstName>Pierre</FirstName>
+                <LastName>Bouby</LastName>
+                <Position>CDM</Position>
+                <Pace>65</Pace>
+                <Shooting>52</Shooting>
+                <Passing>59</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>83</Stamina>
+                <Club>AJ Auxerre</Club>
+                <DateOfBirth>17-10-1983</DateOfBirth>
+            </Player>
+            <Player id="6335">
+                <FirstName>Rémi</FirstName>
+                <LastName>Mulumba</LastName>
+                <Position>CM</Position>
+                <Pace>66</Pace>
+                <Shooting>55</Shooting>
+                <Passing>58</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>54</Defensive>
+                <Stamina>70</Stamina>
+                <Club>AJ Auxerre</Club>
+                <DateOfBirth>02-11-1992</DateOfBirth>
+            </Player>
+            <Player id="7369">
+                <FirstName>Thomas</FirstName>
+                <LastName>Fontaine</LastName>
+                <Position>CB</Position>
+                <Pace>77</Pace>
+                <Shooting>28</Shooting>
+                <Passing>51</Passing>
+                <Offensive>39</Offensive>
+                <Defensive>59</Defensive>
+                <Stamina>55</Stamina>
+                <Club>AJ Auxerre</Club>
+                <DateOfBirth>08-05-1991</DateOfBirth>
+            </Player>
+            <Player id="7700">
+                <FirstName>François-Xavier</FirstName>
+                <LastName>Fumu Tamuzo</LastName>
+                <Position>RW</Position>
+                <Pace>90</Pace>
+                <Shooting>54</Shooting>
+                <Passing>46</Passing>
+                <Offensive>50</Offensive>
+                <Defensive>31</Defensive>
+                <Stamina>57</Stamina>
+                <Club>AJ Auxerre</Club>
+                <DateOfBirth>03-04-1995</DateOfBirth>
+            </Player>
+            <Player id="8514">
+                <FirstName>Jean-Charles</FirstName>
+                <LastName>Castelletto</LastName>
+                <Position>CB</Position>
+                <Pace>85</Pace>
+                <Shooting>31</Shooting>
+                <Passing>47</Passing>
+                <Offensive>39</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>75</Stamina>
+                <Club>AJ Auxerre</Club>
+                <DateOfBirth>26-01-1995</DateOfBirth>
+            </Player>
+            <Player id="8723">
+                <FirstName>Nicolas</FirstName>
+                <LastName>Gavory</LastName>
+                <Position>RM</Position>
+                <Pace>72</Pace>
+                <Shooting>43</Shooting>
+                <Passing>59</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>41</Defensive>
+                <Stamina>75</Stamina>
+                <Club>AJ Auxerre</Club>
+                <DateOfBirth>16-02-1995</DateOfBirth>
+            </Player>
+            <Player id="8796">
+                <FirstName>Henri Junior</FirstName>
+                <LastName>Ndong</LastName>
+                <Position>RB</Position>
+                <Pace>76</Pace>
+                <Shooting>28</Shooting>
+                <Passing>40</Passing>
+                <Offensive>34</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>72</Stamina>
+                <Club>AJ Auxerre</Club>
+                <DateOfBirth>23-08-1992</DateOfBirth>
+            </Player>
+            <Player id="9936">
+                <FirstName>Geoffrey</FirstName>
+                <LastName>Lembet</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>23</Stamina>
+                <Club>AJ Auxerre</Club>
+                <DateOfBirth>23-09-1988</DateOfBirth>
+            </Player>
+            <Player id="10001">
+                <FirstName>Nicolas</FirstName>
+                <LastName>Staerck-Weille</LastName>
+                <Position>CM</Position>
+                <Pace>60</Pace>
+                <Shooting>40</Shooting>
+                <Passing>58</Passing>
+                <Offensive>49</Offensive>
+                <Defensive>61</Defensive>
+                <Stamina>55</Stamina>
+                <Club>AJ Auxerre</Club>
+                <DateOfBirth>13-02-1993</DateOfBirth>
+            </Player>
+            <Player id="12674">
+                <FirstName>Sébastien</FirstName>
+                <LastName>Puygrenier</LastName>
+                <Position>CB</Position>
+                <Pace>50</Pace>
+                <Shooting>45</Shooting>
+                <Passing>47</Passing>
+                <Offensive>46</Offensive>
+                <Defensive>73</Defensive>
+                <Stamina>69</Stamina>
+                <Club>AJ Auxerre</Club>
+                <DateOfBirth>28-01-1982</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="US Créteil-Lusitanos">
+            <Player id="2902">
+                <FirstName>Cheikh</FirstName>
+                <LastName>Ndoye</LastName>
+                <Position>CDM</Position>
+                <Pace>53</Pace>
+                <Shooting>61</Shooting>
+                <Passing>54</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>69</Defensive>
+                <Stamina>90</Stamina>
+                <Club>US Créteil-Lusitanos</Club>
+                <DateOfBirth>29-03-1986</DateOfBirth>
+            </Player>
+            <Player id="3213">
+                <FirstName>Hérita</FirstName>
+                <LastName>Ilunga</LastName>
+                <Position>LB</Position>
+                <Pace>69</Pace>
+                <Shooting>46</Shooting>
+                <Passing>61</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>67</Defensive>
+                <Stamina>67</Stamina>
+                <Club>US Créteil-Lusitanos</Club>
+                <DateOfBirth>25-02-1982</DateOfBirth>
+            </Player>
+            <Player id="3346">
+                <FirstName>Frédéric</FirstName>
+                <LastName>Piquionne</LastName>
+                <Position>ST</Position>
+                <Pace>60</Pace>
+                <Shooting>66</Shooting>
+                <Passing>58</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>35</Defensive>
+                <Stamina>48</Stamina>
+                <Club>US Créteil-Lusitanos</Club>
+                <DateOfBirth>08-12-1978</DateOfBirth>
+            </Player>
+            <Player id="4070">
+                <FirstName>Alex Ludovic</FirstName>
+                <LastName>Pereira</LastName>
+                <Position>LW</Position>
+                <Pace>80</Pace>
+                <Shooting>61</Shooting>
+                <Passing>58</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>27</Defensive>
+                <Stamina>70</Stamina>
+                <Club>US Créteil-Lusitanos</Club>
+                <DateOfBirth>18-06-1990</DateOfBirth>
+            </Player>
+            <Player id="4364">
+                <FirstName>Ibrahima</FirstName>
+                <LastName>Seck</LastName>
+                <Position>CDM</Position>
+                <Pace>53</Pace>
+                <Shooting>37</Shooting>
+                <Passing>50</Passing>
+                <Offensive>43</Offensive>
+                <Defensive>67</Defensive>
+                <Stamina>88</Stamina>
+                <Club>US Créteil-Lusitanos</Club>
+                <DateOfBirth>10-08-1989</DateOfBirth>
+            </Player>
+            <Player id="4641">
+                <FirstName>Rafaël Marques</FirstName>
+                <LastName>Dias Brito</LastName>
+                <Position>CAM</Position>
+                <Pace>67</Pace>
+                <Shooting>60</Shooting>
+                <Passing>70</Passing>
+                <Offensive>65</Offensive>
+                <Defensive>54</Defensive>
+                <Stamina>69</Stamina>
+                <Club>US Créteil-Lusitanos</Club>
+                <DateOfBirth>29-01-1991</DateOfBirth>
+            </Player>
+            <Player id="4957">
+                <FirstName>Ludovic</FirstName>
+                <LastName>Genest</LastName>
+                <Position>CAM</Position>
+                <Pace>78</Pace>
+                <Shooting>63</Shooting>
+                <Passing>57</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>31</Defensive>
+                <Stamina>73</Stamina>
+                <Club>US Créteil-Lusitanos</Club>
+                <DateOfBirth>18-09-1987</DateOfBirth>
+            </Player>
+            <Player id="5609">
+                <FirstName>Aurélien</FirstName>
+                <LastName>Montaroup</LastName>
+                <Position>LB</Position>
+                <Pace>66</Pace>
+                <Shooting>59</Shooting>
+                <Passing>60</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>82</Stamina>
+                <Club>US Créteil-Lusitanos</Club>
+                <DateOfBirth>19-12-1985</DateOfBirth>
+            </Player>
+            <Player id="5721">
+                <FirstName>Marvin</FirstName>
+                <LastName>Esor</LastName>
+                <Position>RB</Position>
+                <Pace>74</Pace>
+                <Shooting>43</Shooting>
+                <Passing>62</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>59</Defensive>
+                <Stamina>81</Stamina>
+                <Club>US Créteil-Lusitanos</Club>
+                <DateOfBirth>21-07-1989</DateOfBirth>
+            </Player>
+            <Player id="5910">
+                <FirstName>Mathieu</FirstName>
+                <LastName>Lafon</LastName>
+                <Position>CAM</Position>
+                <Pace>67</Pace>
+                <Shooting>59</Shooting>
+                <Passing>65</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>47</Defensive>
+                <Stamina>69</Stamina>
+                <Club>US Créteil-Lusitanos</Club>
+                <DateOfBirth>01-03-1984</DateOfBirth>
+            </Player>
+            <Player id="6250">
+                <FirstName>Marcel</FirstName>
+                <LastName>Essombé</LastName>
+                <Position>ST</Position>
+                <Pace>82</Pace>
+                <Shooting>61</Shooting>
+                <Passing>48</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>73</Stamina>
+                <Club>US Créteil-Lusitanos</Club>
+                <DateOfBirth>06-05-1988</DateOfBirth>
+            </Player>
+            <Player id="6271">
+                <FirstName>Augusto</FirstName>
+                <LastName>Pereira Loureiro</LastName>
+                <Position>LB</Position>
+                <Pace>70</Pace>
+                <Shooting>32</Shooting>
+                <Passing>45</Passing>
+                <Offensive>38</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>72</Stamina>
+                <Club>US Créteil-Lusitanos</Club>
+                <DateOfBirth>30-08-1987</DateOfBirth>
+            </Player>
+            <Player id="6320">
+                <FirstName>Christophe</FirstName>
+                <LastName>Diedhiou</LastName>
+                <Position>CB</Position>
+                <Pace>74</Pace>
+                <Shooting>25</Shooting>
+                <Passing>35</Passing>
+                <Offensive>30</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>61</Stamina>
+                <Club>US Créteil-Lusitanos</Club>
+                <DateOfBirth>08-01-1988</DateOfBirth>
+            </Player>
+            <Player id="6551">
+                <FirstName>Ima Faneva</FirstName>
+                <LastName>Andriatsima</LastName>
+                <Position>ST</Position>
+                <Pace>74</Pace>
+                <Shooting>60</Shooting>
+                <Passing>51</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>78</Stamina>
+                <Club>US Créteil-Lusitanos</Club>
+                <DateOfBirth>03-06-1984</DateOfBirth>
+            </Player>
+            <Player id="7683">
+                <FirstName>Vincent</FirstName>
+                <LastName>Di Bartoloméo</LastName>
+                <Position>CB</Position>
+                <Pace>60</Pace>
+                <Shooting>27</Shooting>
+                <Passing>28</Passing>
+                <Offensive>27</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>67</Stamina>
+                <Club>US Créteil-Lusitanos</Club>
+                <DateOfBirth>01-07-1981</DateOfBirth>
+            </Player>
+            <Player id="7684">
+                <FirstName>Bagaliy</FirstName>
+                <LastName>Dabo</LastName>
+                <Position>LW</Position>
+                <Pace>78</Pace>
+                <Shooting>60</Shooting>
+                <Passing>53</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>24</Defensive>
+                <Stamina>44</Stamina>
+                <Club>US Créteil-Lusitanos</Club>
+                <DateOfBirth>27-07-1988</DateOfBirth>
+            </Player>
+            <Player id="8273">
+                <FirstName>Boris</FirstName>
+                <LastName>Mahon de Monaghan</LastName>
+                <Position>RB</Position>
+                <Pace>65</Pace>
+                <Shooting>26</Shooting>
+                <Passing>44</Passing>
+                <Offensive>35</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>67</Stamina>
+                <Club>US Créteil-Lusitanos</Club>
+                <DateOfBirth>11-02-1986</DateOfBirth>
+            </Player>
+            <Player id="10005">
+                <FirstName>Rachid</FirstName>
+                <LastName>Bachiri</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>23</Stamina>
+                <Club>US Créteil-Lusitanos</Club>
+                <DateOfBirth>08-12-1981</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Chamois Niortais FC">
+            <Player id="3534">
+                <FirstName>Jimmy</FirstName>
+                <LastName>Roye</LastName>
+                <Position>CAM</Position>
+                <Pace>72</Pace>
+                <Shooting>62</Shooting>
+                <Passing>68</Passing>
+                <Offensive>65</Offensive>
+                <Defensive>37</Defensive>
+                <Stamina>78</Stamina>
+                <Club>Chamois Niortais FC</Club>
+                <DateOfBirth>08-09-1988</DateOfBirth>
+            </Player>
+            <Player id="3773">
+                <FirstName>Paul</FirstName>
+                <LastName>Delecroix</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>30</Stamina>
+                <Club>Chamois Niortais FC</Club>
+                <DateOfBirth>14-10-1988</DateOfBirth>
+            </Player>
+            <Player id="4245">
+                <FirstName>Seydou</FirstName>
+                <LastName>Koné</LastName>
+                <Position>ST</Position>
+                <Pace>66</Pace>
+                <Shooting>65</Shooting>
+                <Passing>51</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>67</Stamina>
+                <Club>Chamois Niortais FC</Club>
+                <DateOfBirth>28-03-1983</DateOfBirth>
+            </Player>
+            <Player id="4519">
+                <FirstName>Djiman</FirstName>
+                <LastName>Koukou</LastName>
+                <Position>CDM</Position>
+                <Pace>62</Pace>
+                <Shooting>46</Shooting>
+                <Passing>60</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>89</Stamina>
+                <Club>Chamois Niortais FC</Club>
+                <DateOfBirth>14-11-1990</DateOfBirth>
+            </Player>
+            <Player id="4601">
+                <FirstName>Frédéric</FirstName>
+                <LastName>Bong</LastName>
+                <Position>CB</Position>
+                <Pace>57</Pace>
+                <Shooting>28</Shooting>
+                <Passing>45</Passing>
+                <Offensive>36</Offensive>
+                <Defensive>67</Defensive>
+                <Stamina>69</Stamina>
+                <Club>Chamois Niortais FC</Club>
+                <DateOfBirth>27-07-1987</DateOfBirth>
+            </Player>
+            <Player id="5096">
+                <FirstName>Matthieu</FirstName>
+                <LastName>Sans</LastName>
+                <Position>CB</Position>
+                <Pace>49</Pace>
+                <Shooting>32</Shooting>
+                <Passing>49</Passing>
+                <Offensive>40</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>64</Stamina>
+                <Club>Chamois Niortais FC</Club>
+                <DateOfBirth>16-06-1988</DateOfBirth>
+            </Player>
+            <Player id="5813">
+                <FirstName>Quentin</FirstName>
+                <LastName>Bernard</LastName>
+                <Position>LB</Position>
+                <Pace>68</Pace>
+                <Shooting>55</Shooting>
+                <Passing>63</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>82</Stamina>
+                <Club>Chamois Niortais FC</Club>
+                <DateOfBirth>07-07-1989</DateOfBirth>
+            </Player>
+            <Player id="5814">
+                <FirstName>Simon</FirstName>
+                <LastName>Hébras</LastName>
+                <Position>RM</Position>
+                <Pace>71</Pace>
+                <Shooting>62</Shooting>
+                <Passing>63</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>39</Defensive>
+                <Stamina>62</Stamina>
+                <Club>Chamois Niortais FC</Club>
+                <DateOfBirth>19-03-1988</DateOfBirth>
+            </Player>
+            <Player id="6058">
+                <FirstName>Rodolphe</FirstName>
+                <LastName>Roche</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>25</Stamina>
+                <Club>Chamois Niortais FC</Club>
+                <DateOfBirth>14-06-1979</DateOfBirth>
+            </Player>
+            <Player id="6059">
+                <FirstName>Tristan</FirstName>
+                <LastName>Lahaye</LastName>
+                <Position>RB</Position>
+                <Pace>63</Pace>
+                <Shooting>38</Shooting>
+                <Passing>61</Passing>
+                <Offensive>49</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>77</Stamina>
+                <Club>Chamois Niortais FC</Club>
+                <DateOfBirth>16-02-1983</DateOfBirth>
+            </Player>
+            <Player id="8515">
+                <FirstName>Kévin</FirstName>
+                <LastName>Rocheteau</LastName>
+                <Position>ST</Position>
+                <Pace>70</Pace>
+                <Shooting>55</Shooting>
+                <Passing>59</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>39</Defensive>
+                <Stamina>69</Stamina>
+                <Club>Chamois Niortais FC</Club>
+                <DateOfBirth>10-07-1993</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="AC Arles Avignon">
+            <Player id="4067">
+                <FirstName>Ziri</FirstName>
+                <LastName>Hammar</LastName>
+                <Position>RW</Position>
+                <Pace>68</Pace>
+                <Shooting>62</Shooting>
+                <Passing>64</Passing>
+                <Offensive>63</Offensive>
+                <Defensive>27</Defensive>
+                <Stamina>62</Stamina>
+                <Club>AC Arles Avignon</Club>
+                <DateOfBirth>25-07-1992</DateOfBirth>
+            </Player>
+            <Player id="4974">
+                <FirstName>Erwan</FirstName>
+                <LastName>Quintin</LastName>
+                <Position>LB</Position>
+                <Pace>67</Pace>
+                <Shooting>50</Shooting>
+                <Passing>62</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>86</Stamina>
+                <Club>AC Arles Avignon</Club>
+                <DateOfBirth>01-02-1984</DateOfBirth>
+            </Player>
+            <Player id="5728">
+                <FirstName>Diogo</FirstName>
+                <LastName>Jorge Rosado</LastName>
+                <Position>CAM</Position>
+                <Pace>63</Pace>
+                <Shooting>62</Shooting>
+                <Passing>62</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>52</Stamina>
+                <Club>AC Arles Avignon</Club>
+                <DateOfBirth>21-02-1990</DateOfBirth>
+            </Player>
+            <Player id="5981">
+                <FirstName>Téji</FirstName>
+                <LastName>Savanier</LastName>
+                <Position>CAM</Position>
+                <Pace>77</Pace>
+                <Shooting>55</Shooting>
+                <Passing>60</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>37</Defensive>
+                <Stamina>57</Stamina>
+                <Club>AC Arles Avignon</Club>
+                <DateOfBirth>22-12-1991</DateOfBirth>
+            </Player>
+            <Player id="6749">
+                <FirstName>Larsen</FirstName>
+                <LastName>Touré</LastName>
+                <Position>ST</Position>
+                <Pace>75</Pace>
+                <Shooting>62</Shooting>
+                <Passing>54</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>37</Defensive>
+                <Stamina>59</Stamina>
+                <Club>AC Arles Avignon</Club>
+                <DateOfBirth>20-07-1984</DateOfBirth>
+            </Player>
+            <Player id="6881">
+                <FirstName>Jérôme</FirstName>
+                <LastName>Phojo</LastName>
+                <Position>RWB</Position>
+                <Pace>65</Pace>
+                <Shooting>34</Shooting>
+                <Passing>53</Passing>
+                <Offensive>43</Offensive>
+                <Defensive>61</Defensive>
+                <Stamina>65</Stamina>
+                <Club>AC Arles Avignon</Club>
+                <DateOfBirth>15-04-1993</DateOfBirth>
+            </Player>
+            <Player id="7296">
+                <FirstName>Hugo</FirstName>
+                <LastName>Rodriguez</LastName>
+                <Position>CM</Position>
+                <Pace>69</Pace>
+                <Shooting>43</Shooting>
+                <Passing>60</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>51</Defensive>
+                <Stamina>76</Stamina>
+                <Club>AC Arles Avignon</Club>
+                <DateOfBirth>02-04-1991</DateOfBirth>
+            </Player>
+            <Player id="7959">
+                <FirstName>Adrien</FirstName>
+                <LastName>Coulomb</LastName>
+                <Position>CAM</Position>
+                <Pace>67</Pace>
+                <Shooting>53</Shooting>
+                <Passing>53</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>27</Defensive>
+                <Stamina>60</Stamina>
+                <Club>AC Arles Avignon</Club>
+                <DateOfBirth>04-10-1990</DateOfBirth>
+            </Player>
+            <Player id="8232">
+                <FirstName>Maxime</FirstName>
+                <LastName>Blanc</LastName>
+                <Position>CAM</Position>
+                <Pace>78</Pace>
+                <Shooting>50</Shooting>
+                <Passing>61</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>43</Defensive>
+                <Stamina>72</Stamina>
+                <Club>AC Arles Avignon</Club>
+                <DateOfBirth>23-01-1992</DateOfBirth>
+            </Player>
+            <Player id="9254">
+                <FirstName>Samuel</FirstName>
+                <LastName>Gigot</LastName>
+                <Position>CB</Position>
+                <Pace>59</Pace>
+                <Shooting>30</Shooting>
+                <Passing>38</Passing>
+                <Offensive>34</Offensive>
+                <Defensive>56</Defensive>
+                <Stamina>58</Stamina>
+                <Club>AC Arles Avignon</Club>
+                <DateOfBirth>12-10-1993</DateOfBirth>
+            </Player>
+            <Player id="9641">
+                <FirstName>Naby-Moussa</FirstName>
+                <LastName>Yattara</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>28</Stamina>
+                <Club>AC Arles Avignon</Club>
+                <DateOfBirth>12-01-1984</DateOfBirth>
+            </Player>
+            <Player id="10158">
+                <FirstName>Jackson</FirstName>
+                <LastName>Mendes</LastName>
+                <Position>ST</Position>
+                <Pace>76</Pace>
+                <Shooting>60</Shooting>
+                <Passing>44</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>27</Defensive>
+                <Stamina>50</Stamina>
+                <Club>AC Arles Avignon</Club>
+                <DateOfBirth>04-01-1991</DateOfBirth>
+            </Player>
+            <Player id="10559">
+                <FirstName>Axel</FirstName>
+                <LastName>Maraval</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>25</Stamina>
+                <Club>AC Arles Avignon</Club>
+                <DateOfBirth>20-10-1993</DateOfBirth>
+            </Player>
+            <Player id="10760">
+                <FirstName>Rémy</FirstName>
+                <LastName>Bonne</LastName>
+                <Position>LB</Position>
+                <Pace>69</Pace>
+                <Shooting>28</Shooting>
+                <Passing>32</Passing>
+                <Offensive>30</Offensive>
+                <Defensive>57</Defensive>
+                <Stamina>74</Stamina>
+                <Club>AC Arles Avignon</Club>
+                <DateOfBirth>26-01-1989</DateOfBirth>
+            </Player>
+            <Player id="12699">
+                <FirstName>Garry</FirstName>
+                <LastName>Bocaly</LastName>
+                <Position>RB</Position>
+                <Pace>77</Pace>
+                <Shooting>56</Shooting>
+                <Passing>65</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>71</Defensive>
+                <Stamina>76</Stamina>
+                <Club>AC Arles Avignon</Club>
+                <DateOfBirth>19-04-1988</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="US Orléans Loiret Football">
+            <Player id="4179">
+                <FirstName>Guillaume</FirstName>
+                <LastName>Loriot</LastName>
+                <Position>CDM</Position>
+                <Pace>48</Pace>
+                <Shooting>50</Shooting>
+                <Passing>65</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>65</Defensive>
+                <Stamina>63</Stamina>
+                <Club>US Orléans Loiret Football</Club>
+                <DateOfBirth>21-05-1986</DateOfBirth>
+            </Player>
+            <Player id="4418">
+                <FirstName>Loïc</FirstName>
+                <LastName>Loval-Landré</LastName>
+                <Position>RM</Position>
+                <Pace>79</Pace>
+                <Shooting>59</Shooting>
+                <Passing>59</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>37</Defensive>
+                <Stamina>76</Stamina>
+                <Club>US Orléans Loiret Football</Club>
+                <DateOfBirth>28-09-1981</DateOfBirth>
+            </Player>
+            <Player id="4458">
+                <FirstName>Bruce</FirstName>
+                <LastName>Abdoulaye</LastName>
+                <Position>CB</Position>
+                <Pace>65</Pace>
+                <Shooting>30</Shooting>
+                <Passing>46</Passing>
+                <Offensive>38</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>60</Stamina>
+                <Club>US Orléans Loiret Football</Club>
+                <DateOfBirth>15-04-1982</DateOfBirth>
+            </Player>
+            <Player id="4930">
+                <FirstName>Maxime</FirstName>
+                <LastName>Brillault</LastName>
+                <Position>CB</Position>
+                <Pace>61</Pace>
+                <Shooting>37</Shooting>
+                <Passing>46</Passing>
+                <Offensive>41</Offensive>
+                <Defensive>65</Defensive>
+                <Stamina>63</Stamina>
+                <Club>US Orléans Loiret Football</Club>
+                <DateOfBirth>25-04-1983</DateOfBirth>
+            </Player>
+            <Player id="5575">
+                <FirstName>Luigi</FirstName>
+                <LastName>Glombard</LastName>
+                <Position>RM</Position>
+                <Pace>71</Pace>
+                <Shooting>62</Shooting>
+                <Passing>58</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>71</Stamina>
+                <Club>US Orléans Loiret Football</Club>
+                <DateOfBirth>21-08-1984</DateOfBirth>
+            </Player>
+            <Player id="6353">
+                <FirstName>Arnaud</FirstName>
+                <LastName>Balijon</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>24</Stamina>
+                <Club>US Orléans Loiret Football</Club>
+                <DateOfBirth>17-06-1983</DateOfBirth>
+            </Player>
+            <Player id="6643">
+                <FirstName>Loïc</FirstName>
+                <LastName>Puyo</LastName>
+                <Position>LM</Position>
+                <Pace>62</Pace>
+                <Shooting>45</Shooting>
+                <Passing>62</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>79</Stamina>
+                <Club>US Orléans Loiret Football</Club>
+                <DateOfBirth>19-12-1988</DateOfBirth>
+            </Player>
+            <Player id="6765">
+                <FirstName>Loris</FirstName>
+                <LastName>Arnaud</LastName>
+                <Position>ST</Position>
+                <Pace>71</Pace>
+                <Shooting>59</Shooting>
+                <Passing>49</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>35</Defensive>
+                <Stamina>43</Stamina>
+                <Club>US Orléans Loiret Football</Club>
+                <DateOfBirth>16-04-1987</DateOfBirth>
+            </Player>
+            <Player id="7016">
+                <FirstName>Antoine</FirstName>
+                <LastName>Ponroy</LastName>
+                <Position>CB</Position>
+                <Pace>50</Pace>
+                <Shooting>36</Shooting>
+                <Passing>41</Passing>
+                <Offensive>38</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>53</Stamina>
+                <Club>US Orléans Loiret Football</Club>
+                <DateOfBirth>15-04-1986</DateOfBirth>
+            </Player>
+            <Player id="7703">
+                <FirstName>Thomas</FirstName>
+                <LastName>Renault</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>26</Stamina>
+                <Club>US Orléans Loiret Football</Club>
+                <DateOfBirth>05-03-1984</DateOfBirth>
+            </Player>
+            <Player id="7704">
+                <FirstName>Ousmane</FirstName>
+                <LastName>Sidibé</LastName>
+                <Position>RB</Position>
+                <Pace>71</Pace>
+                <Shooting>30</Shooting>
+                <Passing>52</Passing>
+                <Offensive>41</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>57</Stamina>
+                <Club>US Orléans Loiret Football</Club>
+                <DateOfBirth>23-04-1985</DateOfBirth>
+            </Player>
+            <Player id="7859">
+                <FirstName>Grégory</FirstName>
+                <LastName>Tomas</LastName>
+                <Position>LB</Position>
+                <Pace>68</Pace>
+                <Shooting>51</Shooting>
+                <Passing>51</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>56</Stamina>
+                <Club>US Orléans Loiret Football</Club>
+                <DateOfBirth>05-04-1986</DateOfBirth>
+            </Player>
+            <Player id="8528">
+                <FirstName>Wilfried</FirstName>
+                <LastName>Louisy-Daniel</LastName>
+                <Position>ST</Position>
+                <Pace>64</Pace>
+                <Shooting>58</Shooting>
+                <Passing>38</Passing>
+                <Offensive>48</Offensive>
+                <Defensive>27</Defensive>
+                <Stamina>52</Stamina>
+                <Club>US Orléans Loiret Football</Club>
+                <DateOfBirth>29-05-1986</DateOfBirth>
+            </Player>
+            <Player id="8765">
+                <FirstName>Benoit</FirstName>
+                <LastName>Darcy</LastName>
+                <Position>CB</Position>
+                <Pace>57</Pace>
+                <Shooting>27</Shooting>
+                <Passing>41</Passing>
+                <Offensive>34</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>63</Stamina>
+                <Club>US Orléans Loiret Football</Club>
+                <DateOfBirth>02-03-1985</DateOfBirth>
+            </Player>
+            <Player id="10069">
+                <FirstName>Fabrice</FirstName>
+                <LastName>Seidou</LastName>
+                <Position>ST</Position>
+                <Pace>68</Pace>
+                <Shooting>59</Shooting>
+                <Passing>37</Passing>
+                <Offensive>48</Offensive>
+                <Defensive>33</Defensive>
+                <Stamina>49</Stamina>
+                <Club>US Orléans Loiret Football</Club>
+                <DateOfBirth>19-12-1986</DateOfBirth>
+            </Player>
+            <Player id="10223">
+                <FirstName>Rémi</FirstName>
+                <LastName>Elissalde</LastName>
+                <Position>CDM</Position>
+                <Pace>60</Pace>
+                <Shooting>44</Shooting>
+                <Passing>53</Passing>
+                <Offensive>48</Offensive>
+                <Defensive>55</Defensive>
+                <Stamina>71</Stamina>
+                <Club>US Orléans Loiret Football</Club>
+                <DateOfBirth>01-01-1991</DateOfBirth>
+            </Player>
+            <Player id="10296">
+                <FirstName>Sébastien</FirstName>
+                <LastName>Mpeck-Makendi</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>20</Stamina>
+                <Club>US Orléans Loiret Football</Club>
+                <DateOfBirth>17-01-1994</DateOfBirth>
+            </Player>
+            <Player id="10384">
+                <FirstName>Benjaloud</FirstName>
+                <LastName>Youssouf</LastName>
+                <Position>RB</Position>
+                <Pace>74</Pace>
+                <Shooting>27</Shooting>
+                <Passing>42</Passing>
+                <Offensive>34</Offensive>
+                <Defensive>54</Defensive>
+                <Stamina>60</Stamina>
+                <Club>US Orléans Loiret Football</Club>
+                <DateOfBirth>11-02-1994</DateOfBirth>
+            </Player>
+            <Player id="10385">
+                <FirstName>Jean-Paul</FirstName>
+                <LastName>Mendy</LastName>
+                <Position>LM</Position>
+                <Pace>72</Pace>
+                <Shooting>61</Shooting>
+                <Passing>52</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>53</Stamina>
+                <Club>US Orléans Loiret Football</Club>
+                <DateOfBirth>15-08-1982</DateOfBirth>
+            </Player>
+            <Player id="10710">
+                <FirstName>Bachibou</FirstName>
+                <LastName>Koita</LastName>
+                <Position>ST</Position>
+                <Pace>66</Pace>
+                <Shooting>54</Shooting>
+                <Passing>38</Passing>
+                <Offensive>46</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>56</Stamina>
+                <Club>US Orléans Loiret Football</Club>
+                <DateOfBirth>15-04-1994</DateOfBirth>
+            </Player>
+            <Player id="10718">
+                <FirstName>Chérif</FirstName>
+                <LastName>Quenum</LastName>
+                <Position>CB</Position>
+                <Pace>82</Pace>
+                <Shooting>28</Shooting>
+                <Passing>30</Passing>
+                <Offensive>29</Offensive>
+                <Defensive>55</Defensive>
+                <Stamina>62</Stamina>
+                <Club>US Orléans Loiret Football</Club>
+                <DateOfBirth>05-06-1993</DateOfBirth>
+            </Player>
+        </Team>
+    </League>
+</Players>

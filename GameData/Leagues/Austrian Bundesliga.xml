@@ -1,0 +1,2547 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Players>
+    <League Name="Austrian Bundesliga">
+        <Team Name="FC Red Bull Salzburg">
+            <Player id="210">
+                <FirstName>Massimo</FirstName>
+                <LastName>Bruno</LastName>
+                <Position>RM</Position>
+                <Pace>83</Pace>
+                <Shooting>68</Shooting>
+                <Passing>67</Passing>
+                <Offensive>67</Offensive>
+                <Defensive>40</Defensive>
+                <Stamina>80</Stamina>
+                <Club>FC Red Bull Salzburg</Club>
+                <DateOfBirth>17-09-1993</DateOfBirth>
+            </Player>
+            <Player id="685">
+                <FirstName>Martin</FirstName>
+                <LastName>Hinteregger</LastName>
+                <Position>CB</Position>
+                <Pace>68</Pace>
+                <Shooting>59</Shooting>
+                <Passing>59</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>70</Defensive>
+                <Stamina>75</Stamina>
+                <Club>FC Red Bull Salzburg</Club>
+                <DateOfBirth>07-09-1992</DateOfBirth>
+            </Player>
+            <Player id="1174">
+                <FirstName>Péter</FirstName>
+                <LastName>Gulácsi</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>40</Stamina>
+                <Club>FC Red Bull Salzburg</Club>
+                <DateOfBirth>06-05-1990</DateOfBirth>
+            </Player>
+            <Player id="1390">
+                <FirstName>Marcel</FirstName>
+                <LastName>Sabitzer</LastName>
+                <Position>LM</Position>
+                <Pace>87</Pace>
+                <Shooting>67</Shooting>
+                <Passing>61</Passing>
+                <Offensive>64</Offensive>
+                <Defensive>27</Defensive>
+                <Stamina>71</Stamina>
+                <Club>FC Red Bull Salzburg</Club>
+                <DateOfBirth>17-03-1994</DateOfBirth>
+            </Player>
+            <Player id="1801">
+                <FirstName>Peter</FirstName>
+                <LastName>Ankersen</LastName>
+                <Position>RB</Position>
+                <Pace>83</Pace>
+                <Shooting>64</Shooting>
+                <Passing>65</Passing>
+                <Offensive>64</Offensive>
+                <Defensive>68</Defensive>
+                <Stamina>81</Stamina>
+                <Club>FC Red Bull Salzburg</Club>
+                <DateOfBirth>22-09-1990</DateOfBirth>
+            </Player>
+            <Player id="2285">
+                <FirstName>Stefan</FirstName>
+                <LastName>Ilsanker</LastName>
+                <Position>CDM</Position>
+                <Pace>45</Pace>
+                <Shooting>52</Shooting>
+                <Passing>54</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>71</Defensive>
+                <Stamina>81</Stamina>
+                <Club>FC Red Bull Salzburg</Club>
+                <DateOfBirth>18-05-1989</DateOfBirth>
+            </Player>
+            <Player id="2339">
+                <FirstName>Franz</FirstName>
+                <LastName>Schiemer</LastName>
+                <Position>CB</Position>
+                <Pace>62</Pace>
+                <Shooting>56</Shooting>
+                <Passing>51</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>61</Defensive>
+                <Stamina>91</Stamina>
+                <Club>FC Red Bull Salzburg</Club>
+                <DateOfBirth>21-03-1986</DateOfBirth>
+            </Player>
+            <Player id="2361">
+                <FirstName>Andreas</FirstName>
+                <LastName>Ulmer</LastName>
+                <Position>LB</Position>
+                <Pace>75</Pace>
+                <Shooting>53</Shooting>
+                <Passing>63</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>73</Stamina>
+                <Club>FC Red Bull Salzburg</Club>
+                <DateOfBirth>30-10-1985</DateOfBirth>
+            </Player>
+            <Player id="2842">
+                <FirstName>Alexander</FirstName>
+                <LastName>Walke</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>38</Stamina>
+                <Club>FC Red Bull Salzburg</Club>
+                <DateOfBirth>06-06-1983</DateOfBirth>
+            </Player>
+            <Player id="2904">
+                <FirstName>Naby</FirstName>
+                <LastName>Keita</LastName>
+                <Position>CM</Position>
+                <Pace>78</Pace>
+                <Shooting>57</Shooting>
+                <Passing>59</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>59</Defensive>
+                <Stamina>92</Stamina>
+                <Club>FC Red Bull Salzburg</Club>
+                <DateOfBirth>10-02-1995</DateOfBirth>
+            </Player>
+            <Player id="2945">
+                <FirstName>Christian</FirstName>
+                <LastName>Schwegler</LastName>
+                <Position>RB</Position>
+                <Pace>74</Pace>
+                <Shooting>43</Shooting>
+                <Passing>61</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>65</Defensive>
+                <Stamina>81</Stamina>
+                <Club>FC Red Bull Salzburg</Club>
+                <DateOfBirth>06-06-1984</DateOfBirth>
+            </Player>
+            <Player id="4347">
+                <FirstName>Valentino</FirstName>
+                <LastName>Lazaro</LastName>
+                <Position>LM</Position>
+                <Pace>83</Pace>
+                <Shooting>64</Shooting>
+                <Passing>60</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>42</Defensive>
+                <Stamina>62</Stamina>
+                <Club>FC Red Bull Salzburg</Club>
+                <DateOfBirth>24-03-1996</DateOfBirth>
+            </Player>
+            <Player id="5896">
+                <FirstName>Kevin</FirstName>
+                <LastName>Kampl</LastName>
+                <Position>RM</Position>
+                <Pace>84</Pace>
+                <Shooting>60</Shooting>
+                <Passing>72</Passing>
+                <Offensive>66</Offensive>
+                <Defensive>40</Defensive>
+                <Stamina>75</Stamina>
+                <Club>FC Red Bull Salzburg</Club>
+                <DateOfBirth>09-10-1990</DateOfBirth>
+            </Player>
+            <Player id="9081">
+                <FirstName>Jonatan</FirstName>
+                <LastName>Soriano Casas</LastName>
+                <Position>ST</Position>
+                <Pace>67</Pace>
+                <Shooting>76</Shooting>
+                <Passing>72</Passing>
+                <Offensive>74</Offensive>
+                <Defensive>32</Defensive>
+                <Stamina>70</Stamina>
+                <Club>FC Red Bull Salzburg</Club>
+                <DateOfBirth>24-09-1985</DateOfBirth>
+            </Player>
+            <Player id="9239">
+                <FirstName>Nils</FirstName>
+                <LastName>Quaschner</LastName>
+                <Position>ST</Position>
+                <Pace>71</Pace>
+                <Shooting>58</Shooting>
+                <Passing>49</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>54</Stamina>
+                <Club>FC Red Bull Salzburg</Club>
+                <DateOfBirth>22-04-1994</DateOfBirth>
+            </Player>
+            <Player id="10030">
+                <FirstName>Benno</FirstName>
+                <LastName>Schmitz</LastName>
+                <Position>RB</Position>
+                <Pace>68</Pace>
+                <Shooting>31</Shooting>
+                <Passing>47</Passing>
+                <Offensive>39</Offensive>
+                <Defensive>57</Defensive>
+                <Stamina>58</Stamina>
+                <Club>FC Red Bull Salzburg</Club>
+                <DateOfBirth>17-11-1994</DateOfBirth>
+            </Player>
+            <Player id="10502">
+                <FirstName>Asger</FirstName>
+                <LastName>Strømgaard Sørensen</LastName>
+                <Position>CB</Position>
+                <Pace>62</Pace>
+                <Shooting>37</Shooting>
+                <Passing>51</Passing>
+                <Offensive>44</Offensive>
+                <Defensive>54</Defensive>
+                <Stamina>59</Stamina>
+                <Club>FC Red Bull Salzburg</Club>
+                <DateOfBirth>05-06-1996</DateOfBirth>
+            </Player>
+            <Player id="10933">
+                <FirstName>Smail</FirstName>
+                <LastName>Prevljak</LastName>
+                <Position>ST</Position>
+                <Pace>66</Pace>
+                <Shooting>55</Shooting>
+                <Passing>39</Passing>
+                <Offensive>47</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>53</Stamina>
+                <Club>FC Red Bull Salzburg</Club>
+                <DateOfBirth>10-05-1995</DateOfBirth>
+            </Player>
+            <Player id="11874">
+                <FirstName>Alan Douglas</FirstName>
+                <LastName>Borges de Carvalho</LastName>
+                <Position>ST</Position>
+                <Pace>76</Pace>
+                <Shooting>80</Shooting>
+                <Passing>65</Passing>
+                <Offensive>72</Offensive>
+                <Defensive>33</Defensive>
+                <Stamina>79</Stamina>
+                <Club>FC Red Bull Salzburg</Club>
+                <DateOfBirth>10-07-1989</DateOfBirth>
+            </Player>
+            <Player id="12537">
+                <FirstName>Christoph</FirstName>
+                <LastName>Leitgeb</LastName>
+                <Position>CM</Position>
+                <Pace>77</Pace>
+                <Shooting>54</Shooting>
+                <Passing>71</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>83</Stamina>
+                <Club>FC Red Bull Salzburg</Club>
+                <DateOfBirth>14-04-1985</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="SK Rapid Wien">
+            <Player id="1110">
+                <FirstName>Steffen</FirstName>
+                <LastName>Hofmann</LastName>
+                <Position>CAM</Position>
+                <Pace>62</Pace>
+                <Shooting>66</Shooting>
+                <Passing>73</Passing>
+                <Offensive>69</Offensive>
+                <Defensive>45</Defensive>
+                <Stamina>71</Stamina>
+                <Club>SK Rapid Wien</Club>
+                <DateOfBirth>09-09-1980</DateOfBirth>
+            </Player>
+            <Player id="2571">
+                <FirstName>Thanos</FirstName>
+                <LastName>Petsos</LastName>
+                <Position>CDM</Position>
+                <Pace>58</Pace>
+                <Shooting>55</Shooting>
+                <Passing>60</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>65</Defensive>
+                <Stamina>80</Stamina>
+                <Club>SK Rapid Wien</Club>
+                <DateOfBirth>05-06-1991</DateOfBirth>
+            </Player>
+            <Player id="2627">
+                <FirstName>Robert</FirstName>
+                <LastName>Berić</LastName>
+                <Position>ST</Position>
+                <Pace>74</Pace>
+                <Shooting>65</Shooting>
+                <Passing>42</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>34</Defensive>
+                <Stamina>76</Stamina>
+                <Club>SK Rapid Wien</Club>
+                <DateOfBirth>17-06-1991</DateOfBirth>
+            </Player>
+            <Player id="2774">
+                <FirstName>Mario</FirstName>
+                <LastName>Sonnleitner</LastName>
+                <Position>CB</Position>
+                <Pace>79</Pace>
+                <Shooting>35</Shooting>
+                <Passing>45</Passing>
+                <Offensive>40</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>73</Stamina>
+                <Club>SK Rapid Wien</Club>
+                <DateOfBirth>08-10-1986</DateOfBirth>
+            </Player>
+            <Player id="4071">
+                <FirstName>Christopher</FirstName>
+                <LastName>Dibon</LastName>
+                <Position>CB</Position>
+                <Pace>65</Pace>
+                <Shooting>32</Shooting>
+                <Passing>45</Passing>
+                <Offensive>38</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>71</Stamina>
+                <Club>SK Rapid Wien</Club>
+                <DateOfBirth>02-11-1990</DateOfBirth>
+            </Player>
+            <Player id="4079">
+                <FirstName>Ján</FirstName>
+                <LastName>Novota</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>24</Stamina>
+                <Club>SK Rapid Wien</Club>
+                <DateOfBirth>29-11-1983</DateOfBirth>
+            </Player>
+            <Player id="4093">
+                <FirstName>Louis</FirstName>
+                <LastName>Schaub</LastName>
+                <Position>CAM</Position>
+                <Pace>73</Pace>
+                <Shooting>58</Shooting>
+                <Passing>65</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>34</Defensive>
+                <Stamina>65</Stamina>
+                <Club>SK Rapid Wien</Club>
+                <DateOfBirth>29-12-1994</DateOfBirth>
+            </Player>
+            <Player id="4587">
+                <FirstName>Stefan</FirstName>
+                <LastName>Schwab</LastName>
+                <Position>CAM</Position>
+                <Pace>67</Pace>
+                <Shooting>61</Shooting>
+                <Passing>64</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>48</Defensive>
+                <Stamina>80</Stamina>
+                <Club>SK Rapid Wien</Club>
+                <DateOfBirth>27-09-1990</DateOfBirth>
+            </Player>
+            <Player id="4830">
+                <FirstName>Michael</FirstName>
+                <LastName>Schimpelsberger</LastName>
+                <Position>RB</Position>
+                <Pace>78</Pace>
+                <Shooting>43</Shooting>
+                <Passing>56</Passing>
+                <Offensive>49</Offensive>
+                <Defensive>61</Defensive>
+                <Stamina>82</Stamina>
+                <Club>SK Rapid Wien</Club>
+                <DateOfBirth>12-02-1991</DateOfBirth>
+            </Player>
+            <Player id="5235">
+                <FirstName>Srdjan</FirstName>
+                <LastName>Grahovac</LastName>
+                <Position>CM</Position>
+                <Pace>66</Pace>
+                <Shooting>64</Shooting>
+                <Passing>65</Passing>
+                <Offensive>64</Offensive>
+                <Defensive>50</Defensive>
+                <Stamina>61</Stamina>
+                <Club>SK Rapid Wien</Club>
+                <DateOfBirth>19-09-1992</DateOfBirth>
+            </Player>
+            <Player id="5326">
+                <FirstName>Philipp</FirstName>
+                <LastName>Schobesberger</LastName>
+                <Position>RW</Position>
+                <Pace>74</Pace>
+                <Shooting>58</Shooting>
+                <Passing>59</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>36</Defensive>
+                <Stamina>58</Stamina>
+                <Club>SK Rapid Wien</Club>
+                <DateOfBirth>10-12-1993</DateOfBirth>
+            </Player>
+            <Player id="5446">
+                <FirstName>Thomas</FirstName>
+                <LastName>Schrammel</LastName>
+                <Position>LB</Position>
+                <Pace>79</Pace>
+                <Shooting>45</Shooting>
+                <Passing>59</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>73</Stamina>
+                <Club>SK Rapid Wien</Club>
+                <DateOfBirth>05-09-1987</DateOfBirth>
+            </Player>
+            <Player id="7308">
+                <FirstName>Dominik</FirstName>
+                <LastName>Wydra</LastName>
+                <Position>CDM</Position>
+                <Pace>70</Pace>
+                <Shooting>57</Shooting>
+                <Passing>58</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>61</Defensive>
+                <Stamina>70</Stamina>
+                <Club>SK Rapid Wien</Club>
+                <DateOfBirth>21-03-1994</DateOfBirth>
+            </Player>
+            <Player id="7578">
+                <FirstName>Lukas</FirstName>
+                <LastName>Grozurek</LastName>
+                <Position>LM</Position>
+                <Pace>75</Pace>
+                <Shooting>58</Shooting>
+                <Passing>54</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>81</Stamina>
+                <Club>SK Rapid Wien</Club>
+                <DateOfBirth>22-12-1991</DateOfBirth>
+            </Player>
+            <Player id="8709">
+                <FirstName>Andreas</FirstName>
+                <LastName>Kuen</LastName>
+                <Position>RM</Position>
+                <Pace>69</Pace>
+                <Shooting>53</Shooting>
+                <Passing>59</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>54</Stamina>
+                <Club>SK Rapid Wien</Club>
+                <DateOfBirth>24-03-1995</DateOfBirth>
+            </Player>
+            <Player id="9682">
+                <FirstName>Stefan</FirstName>
+                <LastName>Stangl</LastName>
+                <Position>LB</Position>
+                <Pace>69</Pace>
+                <Shooting>42</Shooting>
+                <Passing>55</Passing>
+                <Offensive>48</Offensive>
+                <Defensive>56</Defensive>
+                <Stamina>67</Stamina>
+                <Club>SK Rapid Wien</Club>
+                <DateOfBirth>20-10-1991</DateOfBirth>
+            </Player>
+            <Player id="9815">
+                <FirstName>Philipp</FirstName>
+                <LastName>Prosenik</LastName>
+                <Position>ST</Position>
+                <Pace>59</Pace>
+                <Shooting>53</Shooting>
+                <Passing>43</Passing>
+                <Offensive>48</Offensive>
+                <Defensive>31</Defensive>
+                <Stamina>58</Stamina>
+                <Club>SK Rapid Wien</Club>
+                <DateOfBirth>01-03-1993</DateOfBirth>
+            </Player>
+            <Player id="9967">
+                <FirstName>Brian</FirstName>
+                <LastName>Behrendt</LastName>
+                <Position>CDM</Position>
+                <Pace>67</Pace>
+                <Shooting>48</Shooting>
+                <Passing>46</Passing>
+                <Offensive>47</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>64</Stamina>
+                <Club>SK Rapid Wien</Club>
+                <DateOfBirth>24-10-1991</DateOfBirth>
+            </Player>
+            <Player id="10772">
+                <FirstName>Marko</FirstName>
+                <LastName>Maric</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>25</Stamina>
+                <Club>SK Rapid Wien</Club>
+                <DateOfBirth>03-01-1996</DateOfBirth>
+            </Player>
+            <Player id="10907">
+                <FirstName>Maximilian</FirstName>
+                <LastName>Hofmann</LastName>
+                <Position>CB</Position>
+                <Pace>57</Pace>
+                <Shooting>26</Shooting>
+                <Passing>35</Passing>
+                <Offensive>30</Offensive>
+                <Defensive>54</Defensive>
+                <Stamina>58</Stamina>
+                <Club>SK Rapid Wien</Club>
+                <DateOfBirth>07-08-1993</DateOfBirth>
+            </Player>
+            <Player id="10917">
+                <FirstName>Mario</FirstName>
+                <LastName>Pavelic</LastName>
+                <Position>RB</Position>
+                <Pace>66</Pace>
+                <Shooting>42</Shooting>
+                <Passing>47</Passing>
+                <Offensive>44</Offensive>
+                <Defensive>52</Defensive>
+                <Stamina>61</Stamina>
+                <Club>SK Rapid Wien</Club>
+                <DateOfBirth>19-09-1993</DateOfBirth>
+            </Player>
+            <Player id="11182">
+                <FirstName>Tobias</FirstName>
+                <LastName>Knoflach</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>33</Stamina>
+                <Club>SK Rapid Wien</Club>
+                <DateOfBirth>30-12-1993</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="FK Austria Wien">
+            <Player id="1247">
+                <FirstName>Omer</FirstName>
+                <LastName>Damari</LastName>
+                <Position>ST</Position>
+                <Pace>82</Pace>
+                <Shooting>74</Shooting>
+                <Passing>57</Passing>
+                <Offensive>65</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>70</Stamina>
+                <Club>FK Austria Wien</Club>
+                <DateOfBirth>24-02-1989</DateOfBirth>
+            </Player>
+            <Player id="1702">
+                <FirstName>Markus</FirstName>
+                <LastName>Suttner</LastName>
+                <Position>LB</Position>
+                <Pace>82</Pace>
+                <Shooting>56</Shooting>
+                <Passing>60</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>68</Defensive>
+                <Stamina>80</Stamina>
+                <Club>FK Austria Wien</Club>
+                <DateOfBirth>16-04-1987</DateOfBirth>
+            </Player>
+            <Player id="1709">
+                <FirstName>Heinz</FirstName>
+                <LastName>Lindner</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>35</Stamina>
+                <Club>FK Austria Wien</Club>
+                <DateOfBirth>17-07-1990</DateOfBirth>
+            </Player>
+            <Player id="1941">
+                <FirstName>Alexander</FirstName>
+                <LastName>Grünwald</LastName>
+                <Position>CM</Position>
+                <Pace>65</Pace>
+                <Shooting>61</Shooting>
+                <Passing>69</Passing>
+                <Offensive>65</Offensive>
+                <Defensive>56</Defensive>
+                <Stamina>76</Stamina>
+                <Club>FK Austria Wien</Club>
+                <DateOfBirth>01-05-1989</DateOfBirth>
+            </Player>
+            <Player id="2013">
+                <FirstName>Daniel</FirstName>
+                <LastName>Royer</LastName>
+                <Position>LM</Position>
+                <Pace>86</Pace>
+                <Shooting>59</Shooting>
+                <Passing>62</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>26</Defensive>
+                <Stamina>78</Stamina>
+                <Club>FK Austria Wien</Club>
+                <DateOfBirth>22-05-1990</DateOfBirth>
+            </Player>
+            <Player id="2445">
+                <FirstName>James</FirstName>
+                <LastName>Holland</LastName>
+                <Position>CDM</Position>
+                <Pace>69</Pace>
+                <Shooting>56</Shooting>
+                <Passing>62</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>87</Stamina>
+                <Club>FK Austria Wien</Club>
+                <DateOfBirth>15-05-1989</DateOfBirth>
+            </Player>
+            <Player id="2484">
+                <FirstName>Alexander</FirstName>
+                <LastName>Gorgon</LastName>
+                <Position>RW</Position>
+                <Pace>73</Pace>
+                <Shooting>69</Shooting>
+                <Passing>64</Passing>
+                <Offensive>66</Offensive>
+                <Defensive>38</Defensive>
+                <Stamina>74</Stamina>
+                <Club>FK Austria Wien</Club>
+                <DateOfBirth>28-10-1988</DateOfBirth>
+            </Player>
+            <Player id="2948">
+                <FirstName>Florian</FirstName>
+                <LastName>Mader</LastName>
+                <Position>CM</Position>
+                <Pace>68</Pace>
+                <Shooting>61</Shooting>
+                <Passing>68</Passing>
+                <Offensive>64</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>84</Stamina>
+                <Club>FK Austria Wien</Club>
+                <DateOfBirth>14-09-1982</DateOfBirth>
+            </Player>
+            <Player id="3096">
+                <FirstName>Jens Stryger</FirstName>
+                <LastName>Larsen</LastName>
+                <Position>RB</Position>
+                <Pace>91</Pace>
+                <Shooting>57</Shooting>
+                <Passing>63</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>81</Stamina>
+                <Club>FK Austria Wien</Club>
+                <DateOfBirth>21-02-1991</DateOfBirth>
+            </Player>
+            <Player id="3382">
+                <FirstName>Manuel</FirstName>
+                <LastName>Ortlechner</LastName>
+                <Position>CB</Position>
+                <Pace>36</Pace>
+                <Shooting>29</Shooting>
+                <Passing>46</Passing>
+                <Offensive>37</Offensive>
+                <Defensive>65</Defensive>
+                <Stamina>72</Stamina>
+                <Club>FK Austria Wien</Club>
+                <DateOfBirth>04-03-1980</DateOfBirth>
+            </Player>
+            <Player id="3915">
+                <FirstName>Vanče</FirstName>
+                <LastName>Šikov</LastName>
+                <Position>CB</Position>
+                <Pace>70</Pace>
+                <Shooting>45</Shooting>
+                <Passing>48</Passing>
+                <Offensive>46</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>70</Stamina>
+                <Club>FK Austria Wien</Club>
+                <DateOfBirth>23-06-1985</DateOfBirth>
+            </Player>
+            <Player id="4002">
+                <FirstName>Marco</FirstName>
+                <LastName>Meilinger</LastName>
+                <Position>LM</Position>
+                <Pace>78</Pace>
+                <Shooting>62</Shooting>
+                <Passing>65</Passing>
+                <Offensive>63</Offensive>
+                <Defensive>26</Defensive>
+                <Stamina>65</Stamina>
+                <Club>FK Austria Wien</Club>
+                <DateOfBirth>03-08-1991</DateOfBirth>
+            </Player>
+            <Player id="5680">
+                <FirstName>Christian</FirstName>
+                <LastName>Ramsebner</LastName>
+                <Position>CB</Position>
+                <Pace>42</Pace>
+                <Shooting>36</Shooting>
+                <Passing>28</Passing>
+                <Offensive>32</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>56</Stamina>
+                <Club>FK Austria Wien</Club>
+                <DateOfBirth>26-03-1989</DateOfBirth>
+            </Player>
+            <Player id="5708">
+                <FirstName>Thomas</FirstName>
+                <LastName>Salamon</LastName>
+                <Position>LM</Position>
+                <Pace>72</Pace>
+                <Shooting>55</Shooting>
+                <Passing>63</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>72</Stamina>
+                <Club>FK Austria Wien</Club>
+                <DateOfBirth>18-01-1989</DateOfBirth>
+            </Player>
+            <Player id="7878">
+                <FirstName>Mario</FirstName>
+                <LastName>Leitgeb</LastName>
+                <Position>CDM</Position>
+                <Pace>58</Pace>
+                <Shooting>47</Shooting>
+                <Passing>55</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>54</Stamina>
+                <Club>FK Austria Wien</Club>
+                <DateOfBirth>30-06-1988</DateOfBirth>
+            </Player>
+            <Player id="9130">
+                <FirstName>David</FirstName>
+                <LastName>de Paula Gallardo</LastName>
+                <Position>CM</Position>
+                <Pace>73</Pace>
+                <Shooting>52</Shooting>
+                <Passing>59</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>34</Defensive>
+                <Stamina>72</Stamina>
+                <Club>FK Austria Wien</Club>
+                <DateOfBirth>03-05-1984</DateOfBirth>
+            </Player>
+            <Player id="9207">
+                <FirstName>Martin</FirstName>
+                <LastName>Harrer</LastName>
+                <Position>LW</Position>
+                <Pace>74</Pace>
+                <Shooting>58</Shooting>
+                <Passing>48</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>27</Defensive>
+                <Stamina>65</Stamina>
+                <Club>FK Austria Wien</Club>
+                <DateOfBirth>19-05-1992</DateOfBirth>
+            </Player>
+            <Player id="10555">
+                <FirstName>Sascha</FirstName>
+                <LastName>Horvath</LastName>
+                <Position>CM</Position>
+                <Pace>69</Pace>
+                <Shooting>50</Shooting>
+                <Passing>52</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>41</Defensive>
+                <Stamina>56</Stamina>
+                <Club>FK Austria Wien</Club>
+                <DateOfBirth>22-08-1996</DateOfBirth>
+            </Player>
+            <Player id="11059">
+                <FirstName>Bernhard</FirstName>
+                <LastName>Luxbacher</LastName>
+                <Position>LM</Position>
+                <Pace>66</Pace>
+                <Shooting>44</Shooting>
+                <Passing>50</Passing>
+                <Offensive>47</Offensive>
+                <Defensive>27</Defensive>
+                <Stamina>51</Stamina>
+                <Club>FK Austria Wien</Club>
+                <DateOfBirth>18-11-1994</DateOfBirth>
+            </Player>
+            <Player id="11248">
+                <FirstName>Philipp</FirstName>
+                <LastName>Koblischek</LastName>
+                <Position>CB</Position>
+                <Pace>58</Pace>
+                <Shooting>31</Shooting>
+                <Passing>31</Passing>
+                <Offensive>31</Offensive>
+                <Defensive>55</Defensive>
+                <Stamina>58</Stamina>
+                <Club>FK Austria Wien</Club>
+                <DateOfBirth>17-02-1992</DateOfBirth>
+            </Player>
+            <Player id="11308">
+                <FirstName>Nikola</FirstName>
+                <LastName>Zivotic</LastName>
+                <Position>RW</Position>
+                <Pace>59</Pace>
+                <Shooting>52</Shooting>
+                <Passing>43</Passing>
+                <Offensive>47</Offensive>
+                <Defensive>27</Defensive>
+                <Stamina>32</Stamina>
+                <Club>FK Austria Wien</Club>
+                <DateOfBirth>26-01-1996</DateOfBirth>
+            </Player>
+            <Player id="11388">
+                <FirstName>Osman</FirstName>
+                <LastName>Hadzikic</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>25</Stamina>
+                <Club>FK Austria Wien</Club>
+                <DateOfBirth>12-03-1996</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="SK Sturm Graz">
+            <Player id="2239">
+                <FirstName>Marco</FirstName>
+                <LastName>Djuricin</LastName>
+                <Position>ST</Position>
+                <Pace>67</Pace>
+                <Shooting>66</Shooting>
+                <Passing>56</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>55</Stamina>
+                <Club>SK Sturm Graz</Club>
+                <DateOfBirth>12-12-1992</DateOfBirth>
+            </Player>
+            <Player id="3594">
+                <FirstName>Michael</FirstName>
+                <LastName>Madl</LastName>
+                <Position>CB</Position>
+                <Pace>66</Pace>
+                <Shooting>47</Shooting>
+                <Passing>61</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>65</Defensive>
+                <Stamina>90</Stamina>
+                <Club>SK Sturm Graz</Club>
+                <DateOfBirth>21-03-1988</DateOfBirth>
+            </Player>
+            <Player id="3943">
+                <FirstName>Anel</FirstName>
+                <LastName>Hadžić</LastName>
+                <Position>CM</Position>
+                <Pace>73</Pace>
+                <Shooting>58</Shooting>
+                <Passing>62</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>81</Stamina>
+                <Club>SK Sturm Graz</Club>
+                <DateOfBirth>16-08-1989</DateOfBirth>
+            </Player>
+            <Player id="4509">
+                <FirstName>Thorsten</FirstName>
+                <LastName>Schick</LastName>
+                <Position>RM</Position>
+                <Pace>74</Pace>
+                <Shooting>65</Shooting>
+                <Passing>62</Passing>
+                <Offensive>63</Offensive>
+                <Defensive>48</Defensive>
+                <Stamina>61</Stamina>
+                <Club>SK Sturm Graz</Club>
+                <DateOfBirth>19-05-1990</DateOfBirth>
+            </Player>
+            <Player id="5414">
+                <FirstName>Daniel</FirstName>
+                <LastName>Beichler</LastName>
+                <Position>CF</Position>
+                <Pace>79</Pace>
+                <Shooting>62</Shooting>
+                <Passing>61</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>40</Defensive>
+                <Stamina>71</Stamina>
+                <Club>SK Sturm Graz</Club>
+                <DateOfBirth>13-10-1988</DateOfBirth>
+            </Player>
+            <Player id="6115">
+                <FirstName>Josip</FirstName>
+                <LastName>Tadić</LastName>
+                <Position>ST</Position>
+                <Pace>73</Pace>
+                <Shooting>62</Shooting>
+                <Passing>56</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>35</Defensive>
+                <Stamina>80</Stamina>
+                <Club>SK Sturm Graz</Club>
+                <DateOfBirth>22-08-1987</DateOfBirth>
+            </Player>
+            <Player id="6243">
+                <FirstName>David</FirstName>
+                <LastName>Schloffer</LastName>
+                <Position>RM</Position>
+                <Pace>76</Pace>
+                <Shooting>55</Shooting>
+                <Passing>58</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>27</Defensive>
+                <Stamina>78</Stamina>
+                <Club>SK Sturm Graz</Club>
+                <DateOfBirth>28-04-1992</DateOfBirth>
+            </Player>
+            <Player id="6249">
+                <FirstName>Aleksandar</FirstName>
+                <LastName>Todorovski</LastName>
+                <Position>RB</Position>
+                <Pace>72</Pace>
+                <Shooting>42</Shooting>
+                <Passing>51</Passing>
+                <Offensive>46</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>71</Stamina>
+                <Club>SK Sturm Graz</Club>
+                <DateOfBirth>26-02-1984</DateOfBirth>
+            </Player>
+            <Player id="6491">
+                <FirstName>Benedikt</FirstName>
+                <LastName>Pliquett</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>26</Stamina>
+                <Club>SK Sturm Graz</Club>
+                <DateOfBirth>20-12-1984</DateOfBirth>
+            </Player>
+            <Player id="7965">
+                <FirstName>Naim</FirstName>
+                <LastName>Sharifi</LastName>
+                <Position>RB</Position>
+                <Pace>73</Pace>
+                <Shooting>29</Shooting>
+                <Passing>47</Passing>
+                <Offensive>38</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>67</Stamina>
+                <Club>SK Sturm Graz</Club>
+                <DateOfBirth>03-06-1992</DateOfBirth>
+            </Player>
+            <Player id="8048">
+                <FirstName>Tomislav</FirstName>
+                <LastName>Barbarić</LastName>
+                <Position>CB</Position>
+                <Pace>43</Pace>
+                <Shooting>29</Shooting>
+                <Passing>31</Passing>
+                <Offensive>30</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>56</Stamina>
+                <Club>SK Sturm Graz</Club>
+                <DateOfBirth>29-03-1989</DateOfBirth>
+            </Player>
+            <Player id="8710">
+                <FirstName>Marc Andre</FirstName>
+                <LastName>Schmerböck</LastName>
+                <Position>RM</Position>
+                <Pace>70</Pace>
+                <Shooting>55</Shooting>
+                <Passing>57</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>64</Stamina>
+                <Club>SK Sturm Graz</Club>
+                <DateOfBirth>01-04-1994</DateOfBirth>
+            </Player>
+            <Player id="9404">
+                <FirstName>Andreas</FirstName>
+                <LastName>Pfingstner</LastName>
+                <Position>CB</Position>
+                <Pace>53</Pace>
+                <Shooting>25</Shooting>
+                <Passing>36</Passing>
+                <Offensive>30</Offensive>
+                <Defensive>59</Defensive>
+                <Stamina>67</Stamina>
+                <Club>SK Sturm Graz</Club>
+                <DateOfBirth>24-03-1993</DateOfBirth>
+            </Player>
+            <Player id="9845">
+                <FirstName>Simon</FirstName>
+                <LastName>Piesinger</LastName>
+                <Position>CDM</Position>
+                <Pace>60</Pace>
+                <Shooting>35</Shooting>
+                <Passing>48</Passing>
+                <Offensive>41</Offensive>
+                <Defensive>54</Defensive>
+                <Stamina>70</Stamina>
+                <Club>SK Sturm Graz</Club>
+                <DateOfBirth>13-05-1992</DateOfBirth>
+            </Player>
+            <Player id="10908">
+                <FirstName>David</FirstName>
+                <LastName>Schnaderbeck</LastName>
+                <Position>CF</Position>
+                <Pace>69</Pace>
+                <Shooting>52</Shooting>
+                <Passing>44</Passing>
+                <Offensive>48</Offensive>
+                <Defensive>26</Defensive>
+                <Stamina>70</Stamina>
+                <Club>SK Sturm Graz</Club>
+                <DateOfBirth>17-03-1992</DateOfBirth>
+            </Player>
+            <Player id="11131">
+                <FirstName>Benjamin</FirstName>
+                <LastName>Rosenberger</LastName>
+                <Position>LB</Position>
+                <Pace>67</Pace>
+                <Shooting>25</Shooting>
+                <Passing>40</Passing>
+                <Offensive>32</Offensive>
+                <Defensive>53</Defensive>
+                <Stamina>62</Stamina>
+                <Club>SK Sturm Graz</Club>
+                <DateOfBirth>15-06-1996</DateOfBirth>
+            </Player>
+            <Player id="11396">
+                <FirstName>Andreas</FirstName>
+                <LastName>Gruber</LastName>
+                <Position>LM</Position>
+                <Pace>66</Pace>
+                <Shooting>45</Shooting>
+                <Passing>51</Passing>
+                <Offensive>48</Offensive>
+                <Defensive>24</Defensive>
+                <Stamina>54</Stamina>
+                <Club>SK Sturm Graz</Club>
+                <DateOfBirth>29-06-1995</DateOfBirth>
+            </Player>
+            <Player id="11397">
+                <FirstName>Tobias</FirstName>
+                <LastName>Schützenauer</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>44</Stamina>
+                <Club>SK Sturm Graz</Club>
+                <DateOfBirth>19-05-1997</DateOfBirth>
+            </Player>
+            <Player id="11420">
+                <FirstName>Erman</FirstName>
+                <LastName>Bevab</LastName>
+                <Position>CB</Position>
+                <Pace>66</Pace>
+                <Shooting>25</Shooting>
+                <Passing>27</Passing>
+                <Offensive>26</Offensive>
+                <Defensive>52</Defensive>
+                <Stamina>70</Stamina>
+                <Club>SK Sturm Graz</Club>
+                <DateOfBirth>27-02-1995</DateOfBirth>
+            </Player>
+            <Player id="11517">
+                <FirstName>Felix</FirstName>
+                <LastName>Schmied</LastName>
+                <Position>LB</Position>
+                <Pace>49</Pace>
+                <Shooting>29</Shooting>
+                <Passing>32</Passing>
+                <Offensive>30</Offensive>
+                <Defensive>53</Defensive>
+                <Stamina>63</Stamina>
+                <Club>SK Sturm Graz</Club>
+                <DateOfBirth>22-09-1994</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="SV Josko Ried">
+            <Player id="3771">
+                <FirstName>Oliver</FirstName>
+                <LastName>Kragl</LastName>
+                <Position>LB</Position>
+                <Pace>73</Pace>
+                <Shooting>63</Shooting>
+                <Passing>62</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>72</Stamina>
+                <Club>SV Josko Ried</Club>
+                <DateOfBirth>12-05-1990</DateOfBirth>
+            </Player>
+            <Player id="3964">
+                <FirstName>Clemens</FirstName>
+                <LastName>Walch</LastName>
+                <Position>RM</Position>
+                <Pace>79</Pace>
+                <Shooting>61</Shooting>
+                <Passing>62</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>71</Stamina>
+                <Club>SV Josko Ried</Club>
+                <DateOfBirth>10-07-1987</DateOfBirth>
+            </Player>
+            <Player id="3971">
+                <FirstName>Thomas</FirstName>
+                <LastName>Reifeltshammer</LastName>
+                <Position>CB</Position>
+                <Pace>54</Pace>
+                <Shooting>26</Shooting>
+                <Passing>35</Passing>
+                <Offensive>30</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>55</Stamina>
+                <Club>SV Josko Ried</Club>
+                <DateOfBirth>03-07-1988</DateOfBirth>
+            </Player>
+            <Player id="5432">
+                <FirstName>Dieter</FirstName>
+                <LastName>Elsneg</LastName>
+                <Position>CAM</Position>
+                <Pace>84</Pace>
+                <Shooting>62</Shooting>
+                <Passing>60</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>44</Defensive>
+                <Stamina>74</Stamina>
+                <Club>SV Josko Ried</Club>
+                <DateOfBirth>04-02-1990</DateOfBirth>
+            </Player>
+            <Player id="6213">
+                <FirstName>Bernhard</FirstName>
+                <LastName>Janeczek</LastName>
+                <Position>CB</Position>
+                <Pace>65</Pace>
+                <Shooting>34</Shooting>
+                <Passing>49</Passing>
+                <Offensive>41</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>54</Stamina>
+                <Club>SV Josko Ried</Club>
+                <DateOfBirth>10-03-1992</DateOfBirth>
+            </Player>
+            <Player id="6280">
+                <FirstName>Thomas</FirstName>
+                <LastName>Murg</LastName>
+                <Position>LM</Position>
+                <Pace>81</Pace>
+                <Shooting>57</Shooting>
+                <Passing>59</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>50</Stamina>
+                <Club>SV Josko Ried</Club>
+                <DateOfBirth>14-11-1994</DateOfBirth>
+            </Player>
+            <Player id="6855">
+                <FirstName>Toni</FirstName>
+                <LastName>Vastić</LastName>
+                <Position>ST</Position>
+                <Pace>67</Pace>
+                <Shooting>61</Shooting>
+                <Passing>51</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>65</Stamina>
+                <Club>SV Josko Ried</Club>
+                <DateOfBirth>17-01-1993</DateOfBirth>
+            </Player>
+            <Player id="7029">
+                <FirstName>Julius</FirstName>
+                <LastName>Perstaller</LastName>
+                <Position>RM</Position>
+                <Pace>77</Pace>
+                <Shooting>63</Shooting>
+                <Passing>56</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>66</Stamina>
+                <Club>SV Josko Ried</Club>
+                <DateOfBirth>08-04-1989</DateOfBirth>
+            </Player>
+            <Player id="7116">
+                <FirstName>Patrick</FirstName>
+                <LastName>Möschl</LastName>
+                <Position>LM</Position>
+                <Pace>81</Pace>
+                <Shooting>48</Shooting>
+                <Passing>56</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>48</Stamina>
+                <Club>SV Josko Ried</Club>
+                <DateOfBirth>06-03-1993</DateOfBirth>
+            </Player>
+            <Player id="7124">
+                <FirstName>Denis</FirstName>
+                <LastName>Streker</LastName>
+                <Position>CDM</Position>
+                <Pace>56</Pace>
+                <Shooting>46</Shooting>
+                <Passing>55</Passing>
+                <Offensive>50</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>66</Stamina>
+                <Club>SV Josko Ried</Club>
+                <DateOfBirth>06-04-1991</DateOfBirth>
+            </Player>
+            <Player id="7525">
+                <FirstName>Marcel</FirstName>
+                <LastName>Ziegl</LastName>
+                <Position>CDM</Position>
+                <Pace>71</Pace>
+                <Shooting>52</Shooting>
+                <Passing>55</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>76</Stamina>
+                <Club>SV Josko Ried</Club>
+                <DateOfBirth>20-12-1992</DateOfBirth>
+            </Player>
+            <Player id="8655">
+                <FirstName>Gernot</FirstName>
+                <LastName>Trauner</LastName>
+                <Position>CDM</Position>
+                <Pace>69</Pace>
+                <Shooting>34</Shooting>
+                <Passing>54</Passing>
+                <Offensive>44</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>71</Stamina>
+                <Club>SV Josko Ried</Club>
+                <DateOfBirth>25-03-1992</DateOfBirth>
+            </Player>
+            <Player id="8872">
+                <FirstName>Denis</FirstName>
+                <LastName>Thomalla</LastName>
+                <Position>CAM</Position>
+                <Pace>68</Pace>
+                <Shooting>58</Shooting>
+                <Passing>56</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>71</Stamina>
+                <Club>SV Josko Ried</Club>
+                <DateOfBirth>16-08-1992</DateOfBirth>
+            </Player>
+            <Player id="9285">
+                <FirstName>Stefan</FirstName>
+                <LastName>Lainer</LastName>
+                <Position>RB</Position>
+                <Pace>78</Pace>
+                <Shooting>37</Shooting>
+                <Passing>50</Passing>
+                <Offensive>43</Offensive>
+                <Defensive>61</Defensive>
+                <Stamina>62</Stamina>
+                <Club>SV Josko Ried</Club>
+                <DateOfBirth>27-08-1992</DateOfBirth>
+            </Player>
+            <Player id="10079">
+                <FirstName>Lorenz</FirstName>
+                <LastName>Höbarth</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>24</Stamina>
+                <Club>SV Josko Ried</Club>
+                <DateOfBirth>14-09-1991</DateOfBirth>
+            </Player>
+            <Player id="10353">
+                <FirstName>Thomas</FirstName>
+                <LastName>Burghuber</LastName>
+                <Position>LM</Position>
+                <Pace>78</Pace>
+                <Shooting>43</Shooting>
+                <Passing>50</Passing>
+                <Offensive>46</Offensive>
+                <Defensive>46</Defensive>
+                <Stamina>54</Stamina>
+                <Club>SV Josko Ried</Club>
+                <DateOfBirth>03-05-1994</DateOfBirth>
+            </Player>
+            <Player id="10938">
+                <FirstName>Kevin</FirstName>
+                <LastName>Metze</LastName>
+                <Position>LW</Position>
+                <Pace>57</Pace>
+                <Shooting>54</Shooting>
+                <Passing>49</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>34</Stamina>
+                <Club>SV Josko Ried</Club>
+                <DateOfBirth>08-01-1996</DateOfBirth>
+            </Player>
+            <Player id="11126">
+                <FirstName>Emrah</FirstName>
+                <LastName>Krizevac</LastName>
+                <Position>CB</Position>
+                <Pace>38</Pace>
+                <Shooting>24</Shooting>
+                <Passing>27</Passing>
+                <Offensive>25</Offensive>
+                <Defensive>53</Defensive>
+                <Stamina>55</Stamina>
+                <Club>SV Josko Ried</Club>
+                <DateOfBirth>18-05-1996</DateOfBirth>
+            </Player>
+            <Player id="11236">
+                <FirstName>Gabriel</FirstName>
+                <LastName>Schneider</LastName>
+                <Position>RM</Position>
+                <Pace>67</Pace>
+                <Shooting>42</Shooting>
+                <Passing>48</Passing>
+                <Offensive>45</Offensive>
+                <Defensive>41</Defensive>
+                <Stamina>47</Stamina>
+                <Club>SV Josko Ried</Club>
+                <DateOfBirth>27-01-1990</DateOfBirth>
+            </Player>
+            <Player id="11296">
+                <FirstName>Jakob</FirstName>
+                <LastName>Kreuzer</LastName>
+                <Position>ST</Position>
+                <Pace>65</Pace>
+                <Shooting>48</Shooting>
+                <Passing>38</Passing>
+                <Offensive>43</Offensive>
+                <Defensive>26</Defensive>
+                <Stamina>64</Stamina>
+                <Club>SV Josko Ried</Club>
+                <DateOfBirth>15-01-1995</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Wolfsberger AC">
+            <Player id="4686">
+                <FirstName>Manuel</FirstName>
+                <LastName>Weber</LastName>
+                <Position>CM</Position>
+                <Pace>68</Pace>
+                <Shooting>54</Shooting>
+                <Passing>62</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>90</Stamina>
+                <Club>Wolfsberger AC</Club>
+                <DateOfBirth>28-08-1985</DateOfBirth>
+            </Player>
+            <Player id="5134">
+                <FirstName>Tadej</FirstName>
+                <LastName>Trdina</LastName>
+                <Position>ST</Position>
+                <Pace>68</Pace>
+                <Shooting>62</Shooting>
+                <Passing>40</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>62</Stamina>
+                <Club>Wolfsberger AC</Club>
+                <DateOfBirth>25-01-1988</DateOfBirth>
+            </Player>
+            <Player id="5298">
+                <FirstName>Jacobo Marían</FirstName>
+                <LastName>Ynclán Pajares</LastName>
+                <Position>LM</Position>
+                <Pace>75</Pace>
+                <Shooting>66</Shooting>
+                <Passing>63</Passing>
+                <Offensive>64</Offensive>
+                <Defensive>33</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Wolfsberger AC</Club>
+                <DateOfBirth>04-02-1984</DateOfBirth>
+            </Player>
+            <Player id="5519">
+                <FirstName>Christian</FirstName>
+                <LastName>Dobnik</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>40</Stamina>
+                <Club>Wolfsberger AC</Club>
+                <DateOfBirth>10-07-1986</DateOfBirth>
+            </Player>
+            <Player id="5706">
+                <FirstName>Nemanja</FirstName>
+                <LastName>Rnić</LastName>
+                <Position>CB</Position>
+                <Pace>68</Pace>
+                <Shooting>38</Shooting>
+                <Passing>52</Passing>
+                <Offensive>45</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Wolfsberger AC</Club>
+                <DateOfBirth>30-09-1984</DateOfBirth>
+            </Player>
+            <Player id="5811">
+                <FirstName>Manuel</FirstName>
+                <LastName>Kerhe</LastName>
+                <Position>RM</Position>
+                <Pace>84</Pace>
+                <Shooting>53</Shooting>
+                <Passing>58</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>57</Defensive>
+                <Stamina>73</Stamina>
+                <Club>Wolfsberger AC</Club>
+                <DateOfBirth>03-06-1987</DateOfBirth>
+            </Player>
+            <Player id="6143">
+                <FirstName>Silvio Carlos</FirstName>
+                <LastName>de Oliveira</LastName>
+                <Position>ST</Position>
+                <Pace>70</Pace>
+                <Shooting>62</Shooting>
+                <Passing>57</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>32</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Wolfsberger AC</Club>
+                <DateOfBirth>01-02-1985</DateOfBirth>
+            </Player>
+            <Player id="6710">
+                <FirstName>Peter</FirstName>
+                <LastName>Tschernegg</LastName>
+                <Position>CDM</Position>
+                <Pace>46</Pace>
+                <Shooting>38</Shooting>
+                <Passing>54</Passing>
+                <Offensive>46</Offensive>
+                <Defensive>61</Defensive>
+                <Stamina>82</Stamina>
+                <Club>Wolfsberger AC</Club>
+                <DateOfBirth>23-07-1992</DateOfBirth>
+            </Player>
+            <Player id="6934">
+                <FirstName>Peter</FirstName>
+                <LastName>Žulj</LastName>
+                <Position>CAM</Position>
+                <Pace>66</Pace>
+                <Shooting>60</Shooting>
+                <Passing>61</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>69</Stamina>
+                <Club>Wolfsberger AC</Club>
+                <DateOfBirth>09-06-1993</DateOfBirth>
+            </Player>
+            <Player id="7150">
+                <FirstName>Alexander</FirstName>
+                <LastName>Kofler</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>45</Stamina>
+                <Club>Wolfsberger AC</Club>
+                <DateOfBirth>06-11-1986</DateOfBirth>
+            </Player>
+            <Player id="7452">
+                <FirstName>Dario</FirstName>
+                <LastName>Baldauf</LastName>
+                <Position>LB</Position>
+                <Pace>67</Pace>
+                <Shooting>31</Shooting>
+                <Passing>53</Passing>
+                <Offensive>42</Offensive>
+                <Defensive>61</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Wolfsberger AC</Club>
+                <DateOfBirth>27-03-1985</DateOfBirth>
+            </Player>
+            <Player id="8336">
+                <FirstName>Boris</FirstName>
+                <LastName>Hüttenbrenner</LastName>
+                <Position>CDM</Position>
+                <Pace>50</Pace>
+                <Shooting>42</Shooting>
+                <Passing>51</Passing>
+                <Offensive>46</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>81</Stamina>
+                <Club>Wolfsberger AC</Club>
+                <DateOfBirth>23-09-1985</DateOfBirth>
+            </Player>
+            <Player id="8374">
+                <FirstName>Stephan</FirstName>
+                <LastName>Palla</LastName>
+                <Position>LB</Position>
+                <Pace>74</Pace>
+                <Shooting>28</Shooting>
+                <Passing>48</Passing>
+                <Offensive>38</Offensive>
+                <Defensive>59</Defensive>
+                <Stamina>68</Stamina>
+                <Club>Wolfsberger AC</Club>
+                <DateOfBirth>15-05-1989</DateOfBirth>
+            </Player>
+            <Player id="8786">
+                <FirstName>Roland</FirstName>
+                <LastName>Putsche</LastName>
+                <Position>CDM</Position>
+                <Pace>66</Pace>
+                <Shooting>42</Shooting>
+                <Passing>53</Passing>
+                <Offensive>47</Offensive>
+                <Defensive>57</Defensive>
+                <Stamina>66</Stamina>
+                <Club>Wolfsberger AC</Club>
+                <DateOfBirth>22-03-1991</DateOfBirth>
+            </Player>
+            <Player id="9193">
+                <FirstName>Daniel</FirstName>
+                <LastName>Drescher</LastName>
+                <Position>CB</Position>
+                <Pace>40</Pace>
+                <Shooting>24</Shooting>
+                <Passing>32</Passing>
+                <Offensive>28</Offensive>
+                <Defensive>56</Defensive>
+                <Stamina>53</Stamina>
+                <Club>Wolfsberger AC</Club>
+                <DateOfBirth>07-10-1989</DateOfBirth>
+            </Player>
+            <Player id="9200">
+                <FirstName>René</FirstName>
+                <LastName>Seebacher</LastName>
+                <Position>RM</Position>
+                <Pace>80</Pace>
+                <Shooting>47</Shooting>
+                <Passing>53</Passing>
+                <Offensive>50</Offensive>
+                <Defensive>54</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Wolfsberger AC</Club>
+                <DateOfBirth>24-07-1988</DateOfBirth>
+            </Player>
+            <Player id="10289">
+                <FirstName>Stefan</FirstName>
+                <LastName>Schwendinger</LastName>
+                <Position>CDM</Position>
+                <Pace>54</Pace>
+                <Shooting>32</Shooting>
+                <Passing>45</Passing>
+                <Offensive>38</Offensive>
+                <Defensive>59</Defensive>
+                <Stamina>59</Stamina>
+                <Club>Wolfsberger AC</Club>
+                <DateOfBirth>27-07-1994</DateOfBirth>
+            </Player>
+            <Player id="11526">
+                <FirstName>René</FirstName>
+                <LastName>Robitsch</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>44</Stamina>
+                <Club>Wolfsberger AC</Club>
+                <DateOfBirth>28-01-1990</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="FC Admira Wacker Mödling">
+            <Player id="4848">
+                <FirstName>Issiaka</FirstName>
+                <LastName>Ouédraogo</LastName>
+                <Position>ST</Position>
+                <Pace>81</Pace>
+                <Shooting>66</Shooting>
+                <Passing>45</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>72</Stamina>
+                <Club>FC Admira Wacker Mödling</Club>
+                <DateOfBirth>19-08-1988</DateOfBirth>
+            </Player>
+            <Player id="5464">
+                <FirstName>Benjamin</FirstName>
+                <LastName>Sulimani</LastName>
+                <Position>ST</Position>
+                <Pace>71</Pace>
+                <Shooting>64</Shooting>
+                <Passing>53</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>27</Defensive>
+                <Stamina>68</Stamina>
+                <Club>FC Admira Wacker Mödling</Club>
+                <DateOfBirth>26-09-1988</DateOfBirth>
+            </Player>
+            <Player id="6453">
+                <FirstName>Wilfried</FirstName>
+                <LastName>Domoraud</LastName>
+                <Position>LM</Position>
+                <Pace>77</Pace>
+                <Shooting>58</Shooting>
+                <Passing>61</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>70</Stamina>
+                <Club>FC Admira Wacker Mödling</Club>
+                <DateOfBirth>18-08-1988</DateOfBirth>
+            </Player>
+            <Player id="6903">
+                <FirstName>Markus</FirstName>
+                <LastName>Katzer</LastName>
+                <Position>LB</Position>
+                <Pace>54</Pace>
+                <Shooting>34</Shooting>
+                <Passing>58</Passing>
+                <Offensive>46</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>73</Stamina>
+                <Club>FC Admira Wacker Mödling</Club>
+                <DateOfBirth>11-12-1979</DateOfBirth>
+            </Player>
+            <Player id="7283">
+                <FirstName>Richard</FirstName>
+                <LastName>Windbichler</LastName>
+                <Position>CB</Position>
+                <Pace>67</Pace>
+                <Shooting>24</Shooting>
+                <Passing>43</Passing>
+                <Offensive>33</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>50</Stamina>
+                <Club>FC Admira Wacker Mödling</Club>
+                <DateOfBirth>02-04-1991</DateOfBirth>
+            </Player>
+            <Player id="7311">
+                <FirstName>Lukas</FirstName>
+                <LastName>Thürauer</LastName>
+                <Position>CAM</Position>
+                <Pace>77</Pace>
+                <Shooting>57</Shooting>
+                <Passing>59</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>33</Defensive>
+                <Stamina>55</Stamina>
+                <Club>FC Admira Wacker Mödling</Club>
+                <DateOfBirth>21-12-1987</DateOfBirth>
+            </Player>
+            <Player id="7436">
+                <FirstName>René</FirstName>
+                <LastName>Schicker</LastName>
+                <Position>ST</Position>
+                <Pace>88</Pace>
+                <Shooting>60</Shooting>
+                <Passing>53</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>40</Defensive>
+                <Stamina>77</Stamina>
+                <Club>FC Admira Wacker Mödling</Club>
+                <DateOfBirth>28-09-1984</DateOfBirth>
+            </Player>
+            <Player id="7669">
+                <FirstName>Bernhard</FirstName>
+                <LastName>Schachner</LastName>
+                <Position>CDM</Position>
+                <Pace>65</Pace>
+                <Shooting>46</Shooting>
+                <Passing>58</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>57</Defensive>
+                <Stamina>72</Stamina>
+                <Club>FC Admira Wacker Mödling</Club>
+                <DateOfBirth>10-01-1986</DateOfBirth>
+            </Player>
+            <Player id="8969">
+                <FirstName>Thomas</FirstName>
+                <LastName>Ebner</LastName>
+                <Position>CDM</Position>
+                <Pace>69</Pace>
+                <Shooting>35</Shooting>
+                <Passing>50</Passing>
+                <Offensive>42</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>53</Stamina>
+                <Club>FC Admira Wacker Mödling</Club>
+                <DateOfBirth>22-02-1992</DateOfBirth>
+            </Player>
+            <Player id="9158">
+                <FirstName>Daniel</FirstName>
+                <LastName>Toth</LastName>
+                <Position>CM</Position>
+                <Pace>74</Pace>
+                <Shooting>54</Shooting>
+                <Passing>59</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>40</Defensive>
+                <Stamina>74</Stamina>
+                <Club>FC Admira Wacker Mödling</Club>
+                <DateOfBirth>10-06-1987</DateOfBirth>
+            </Player>
+            <Player id="9234">
+                <FirstName>Manuel</FirstName>
+                <LastName>Kuttin</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>22</Stamina>
+                <Club>FC Admira Wacker Mödling</Club>
+                <DateOfBirth>17-12-1993</DateOfBirth>
+            </Player>
+            <Player id="9424">
+                <FirstName>Eldis</FirstName>
+                <LastName>Bajrami</LastName>
+                <Position>RW</Position>
+                <Pace>66</Pace>
+                <Shooting>59</Shooting>
+                <Passing>51</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>26</Defensive>
+                <Stamina>62</Stamina>
+                <Club>FC Admira Wacker Mödling</Club>
+                <DateOfBirth>12-12-1992</DateOfBirth>
+            </Player>
+            <Player id="9712">
+                <FirstName>Stephan</FirstName>
+                <LastName>Auer</LastName>
+                <Position>LB</Position>
+                <Pace>72</Pace>
+                <Shooting>28</Shooting>
+                <Passing>44</Passing>
+                <Offensive>36</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>59</Stamina>
+                <Club>FC Admira Wacker Mödling</Club>
+                <DateOfBirth>11-01-1991</DateOfBirth>
+            </Player>
+            <Player id="9847">
+                <FirstName>Thomas</FirstName>
+                <LastName>Weber</LastName>
+                <Position>LB</Position>
+                <Pace>78</Pace>
+                <Shooting>30</Shooting>
+                <Passing>52</Passing>
+                <Offensive>41</Offensive>
+                <Defensive>53</Defensive>
+                <Stamina>63</Stamina>
+                <Club>FC Admira Wacker Mödling</Club>
+                <DateOfBirth>29-04-1993</DateOfBirth>
+            </Player>
+            <Player id="10092">
+                <FirstName>Maximilian</FirstName>
+                <LastName>Sax</LastName>
+                <Position>ST</Position>
+                <Pace>69</Pace>
+                <Shooting>52</Shooting>
+                <Passing>43</Passing>
+                <Offensive>47</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>54</Stamina>
+                <Club>FC Admira Wacker Mödling</Club>
+                <DateOfBirth>22-11-1992</DateOfBirth>
+            </Player>
+            <Player id="10481">
+                <FirstName>Markus</FirstName>
+                <LastName>Lackner</LastName>
+                <Position>CDM</Position>
+                <Pace>48</Pace>
+                <Shooting>37</Shooting>
+                <Passing>49</Passing>
+                <Offensive>43</Offensive>
+                <Defensive>55</Defensive>
+                <Stamina>62</Stamina>
+                <Club>FC Admira Wacker Mödling</Club>
+                <DateOfBirth>05-04-1991</DateOfBirth>
+            </Player>
+            <Player id="10536">
+                <FirstName>Andreas</FirstName>
+                <LastName>Leitner</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>31</Stamina>
+                <Club>FC Admira Wacker Mödling</Club>
+                <DateOfBirth>25-03-1994</DateOfBirth>
+            </Player>
+            <Player id="11244">
+                <FirstName>Stefan</FirstName>
+                <LastName>Posch</LastName>
+                <Position>CB</Position>
+                <Pace>47</Pace>
+                <Shooting>28</Shooting>
+                <Passing>33</Passing>
+                <Offensive>30</Offensive>
+                <Defensive>52</Defensive>
+                <Stamina>64</Stamina>
+                <Club>FC Admira Wacker Mödling</Club>
+                <DateOfBirth>14-05-1997</DateOfBirth>
+            </Player>
+            <Player id="11441">
+                <FirstName>Mustafa</FirstName>
+                <LastName>Yavuz</LastName>
+                <Position>CB</Position>
+                <Pace>48</Pace>
+                <Shooting>28</Shooting>
+                <Passing>29</Passing>
+                <Offensive>28</Offensive>
+                <Defensive>52</Defensive>
+                <Stamina>55</Stamina>
+                <Club>FC Admira Wacker Mödling</Club>
+                <DateOfBirth>13-04-1994</DateOfBirth>
+            </Player>
+            <Player id="11679">
+                <FirstName>Patrick</FirstName>
+                <LastName>Wessely</LastName>
+                <Position>LB</Position>
+                <Pace>66</Pace>
+                <Shooting>27</Shooting>
+                <Passing>34</Passing>
+                <Offensive>30</Offensive>
+                <Defensive>47</Defensive>
+                <Stamina>60</Stamina>
+                <Club>FC Admira Wacker Mödling</Club>
+                <DateOfBirth>27-03-1994</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="SV Grödig">
+            <Player id="4937">
+                <FirstName>Tomás Esteban</FirstName>
+                <LastName>Correa Miranda</LastName>
+                <Position>CAM</Position>
+                <Pace>55</Pace>
+                <Shooting>64</Shooting>
+                <Passing>60</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>67</Stamina>
+                <Club>SV Grödig</Club>
+                <DateOfBirth>05-12-1984</DateOfBirth>
+            </Player>
+            <Player id="5396">
+                <FirstName>Ione Agonay</FirstName>
+                <LastName>Jiménez Cabrera</LastName>
+                <Position>CB</Position>
+                <Pace>43</Pace>
+                <Shooting>44</Shooting>
+                <Passing>53</Passing>
+                <Offensive>48</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>77</Stamina>
+                <Club>SV Grödig</Club>
+                <DateOfBirth>13-10-1985</DateOfBirth>
+            </Player>
+            <Player id="5720">
+                <FirstName>Philipp</FirstName>
+                <LastName>Huspek</LastName>
+                <Position>RM</Position>
+                <Pace>81</Pace>
+                <Shooting>54</Shooting>
+                <Passing>61</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>26</Defensive>
+                <Stamina>68</Stamina>
+                <Club>SV Grödig</Club>
+                <DateOfBirth>05-02-1991</DateOfBirth>
+            </Player>
+            <Player id="5837">
+                <FirstName>Yordy</FirstName>
+                <LastName>Reyna</LastName>
+                <Position>RW</Position>
+                <Pace>90</Pace>
+                <Shooting>58</Shooting>
+                <Passing>47</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>61</Stamina>
+                <Club>SV Grödig</Club>
+                <DateOfBirth>17-09-1993</DateOfBirth>
+            </Player>
+            <Player id="6045">
+                <FirstName>Roman</FirstName>
+                <LastName>Wallner</LastName>
+                <Position>ST</Position>
+                <Pace>60</Pace>
+                <Shooting>66</Shooting>
+                <Passing>62</Passing>
+                <Offensive>64</Offensive>
+                <Defensive>34</Defensive>
+                <Stamina>73</Stamina>
+                <Club>SV Grödig</Club>
+                <DateOfBirth>04-02-1982</DateOfBirth>
+            </Player>
+            <Player id="6862">
+                <FirstName>Daniel</FirstName>
+                <LastName>Schütz</LastName>
+                <Position>RM</Position>
+                <Pace>85</Pace>
+                <Shooting>57</Shooting>
+                <Passing>59</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>25</Defensive>
+                <Stamina>72</Stamina>
+                <Club>SV Grödig</Club>
+                <DateOfBirth>19-06-1991</DateOfBirth>
+            </Player>
+            <Player id="7076">
+                <FirstName>Maximilian</FirstName>
+                <LastName>Karner</LastName>
+                <Position>CB</Position>
+                <Pace>48</Pace>
+                <Shooting>31</Shooting>
+                <Passing>24</Passing>
+                <Offensive>27</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>66</Stamina>
+                <Club>SV Grödig</Club>
+                <DateOfBirth>03-01-1990</DateOfBirth>
+            </Player>
+            <Player id="8411">
+                <FirstName>Matthias</FirstName>
+                <LastName>Maak</LastName>
+                <Position>CB</Position>
+                <Pace>33</Pace>
+                <Shooting>31</Shooting>
+                <Passing>46</Passing>
+                <Offensive>38</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>60</Stamina>
+                <Club>SV Grödig</Club>
+                <DateOfBirth>12-05-1992</DateOfBirth>
+            </Player>
+            <Player id="9290">
+                <FirstName>Sandro</FirstName>
+                <LastName>Djuric</LastName>
+                <Position>CM</Position>
+                <Pace>73</Pace>
+                <Shooting>62</Shooting>
+                <Passing>57</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>54</Defensive>
+                <Stamina>66</Stamina>
+                <Club>SV Grödig</Club>
+                <DateOfBirth>15-02-1994</DateOfBirth>
+            </Player>
+            <Player id="9427">
+                <FirstName>Simon</FirstName>
+                <LastName>Handle</LastName>
+                <Position>RB</Position>
+                <Pace>78</Pace>
+                <Shooting>46</Shooting>
+                <Passing>51</Passing>
+                <Offensive>48</Offensive>
+                <Defensive>56</Defensive>
+                <Stamina>59</Stamina>
+                <Club>SV Grödig</Club>
+                <DateOfBirth>25-01-1993</DateOfBirth>
+            </Player>
+            <Player id="9902">
+                <FirstName>Fabio</FirstName>
+                <LastName>Strauss</LastName>
+                <Position>CB</Position>
+                <Pace>55</Pace>
+                <Shooting>28</Shooting>
+                <Passing>29</Passing>
+                <Offensive>28</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>55</Stamina>
+                <Club>SV Grödig</Club>
+                <DateOfBirth>06-08-1994</DateOfBirth>
+            </Player>
+            <Player id="9947">
+                <FirstName>Marvin</FirstName>
+                <LastName>Potzmann</LastName>
+                <Position>RB</Position>
+                <Pace>69</Pace>
+                <Shooting>58</Shooting>
+                <Passing>52</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>56</Defensive>
+                <Stamina>62</Stamina>
+                <Club>SV Grödig</Club>
+                <DateOfBirth>07-12-1993</DateOfBirth>
+            </Player>
+            <Player id="10300">
+                <FirstName>Robert</FirstName>
+                <LastName>Völkl</LastName>
+                <Position>CDM</Position>
+                <Pace>47</Pace>
+                <Shooting>35</Shooting>
+                <Passing>52</Passing>
+                <Offensive>43</Offensive>
+                <Defensive>51</Defensive>
+                <Stamina>53</Stamina>
+                <Club>SV Grödig</Club>
+                <DateOfBirth>12-02-1993</DateOfBirth>
+            </Player>
+            <Player id="10911">
+                <FirstName>Robert</FirstName>
+                <LastName>Strobl</LastName>
+                <Position>LB</Position>
+                <Pace>57</Pace>
+                <Shooting>34</Shooting>
+                <Passing>38</Passing>
+                <Offensive>36</Offensive>
+                <Defensive>57</Defensive>
+                <Stamina>63</Stamina>
+                <Club>SV Grödig</Club>
+                <DateOfBirth>24-10-1985</DateOfBirth>
+            </Player>
+            <Player id="11015">
+                <FirstName>Lukas</FirstName>
+                <LastName>Schubert</LastName>
+                <Position>RB</Position>
+                <Pace>66</Pace>
+                <Shooting>30</Shooting>
+                <Passing>42</Passing>
+                <Offensive>36</Offensive>
+                <Defensive>55</Defensive>
+                <Stamina>60</Stamina>
+                <Club>SV Grödig</Club>
+                <DateOfBirth>25-06-1989</DateOfBirth>
+            </Player>
+            <Player id="11361">
+                <FirstName>Thomas</FirstName>
+                <LastName>Goiginger</LastName>
+                <Position>CM</Position>
+                <Pace>59</Pace>
+                <Shooting>40</Shooting>
+                <Passing>52</Passing>
+                <Offensive>46</Offensive>
+                <Defensive>44</Defensive>
+                <Stamina>63</Stamina>
+                <Club>SV Grödig</Club>
+                <DateOfBirth>15-03-1993</DateOfBirth>
+            </Player>
+            <Player id="11585">
+                <FirstName>Adnan</FirstName>
+                <LastName>Adilovic</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>35</Stamina>
+                <Club>SV Grödig</Club>
+                <DateOfBirth>22-09-1993</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="SCR Altach">
+            <Player id="5681">
+                <FirstName>Martin</FirstName>
+                <LastName>Kobras</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>33</Stamina>
+                <Club>SCR Altach</Club>
+                <DateOfBirth>19-06-1986</DateOfBirth>
+            </Player>
+            <Player id="6499">
+                <FirstName>Ronald</FirstName>
+                <LastName>Gercaliu</LastName>
+                <Position>LB</Position>
+                <Pace>64</Pace>
+                <Shooting>38</Shooting>
+                <Passing>58</Passing>
+                <Offensive>48</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>67</Stamina>
+                <Club>SCR Altach</Club>
+                <DateOfBirth>12-02-1986</DateOfBirth>
+            </Player>
+            <Player id="6566">
+                <FirstName>Louis Clément</FirstName>
+                <LastName>Ngwat-Mahop</LastName>
+                <Position>LW</Position>
+                <Pace>76</Pace>
+                <Shooting>58</Shooting>
+                <Passing>49</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>66</Stamina>
+                <Club>SCR Altach</Club>
+                <DateOfBirth>16-09-1987</DateOfBirth>
+            </Player>
+            <Player id="7402">
+                <FirstName>Hannes</FirstName>
+                <LastName>Aigner</LastName>
+                <Position>ST</Position>
+                <Pace>66</Pace>
+                <Shooting>63</Shooting>
+                <Passing>52</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>27</Defensive>
+                <Stamina>63</Stamina>
+                <Club>SCR Altach</Club>
+                <DateOfBirth>16-03-1981</DateOfBirth>
+            </Player>
+            <Player id="7453">
+                <FirstName>Philipp</FirstName>
+                <LastName>Netzer</LastName>
+                <Position>CDM</Position>
+                <Pace>66</Pace>
+                <Shooting>47</Shooting>
+                <Passing>57</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>74</Stamina>
+                <Club>SCR Altach</Club>
+                <DateOfBirth>02-10-1985</DateOfBirth>
+            </Player>
+            <Player id="7654">
+                <FirstName>Ivan</FirstName>
+                <LastName>Kovačec</LastName>
+                <Position>LW</Position>
+                <Pace>73</Pace>
+                <Shooting>65</Shooting>
+                <Passing>52</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>27</Defensive>
+                <Stamina>60</Stamina>
+                <Club>SCR Altach</Club>
+                <DateOfBirth>27-06-1988</DateOfBirth>
+            </Player>
+            <Player id="7777">
+                <FirstName>Felix</FirstName>
+                <LastName>Roth</LastName>
+                <Position>CM</Position>
+                <Pace>66</Pace>
+                <Shooting>60</Shooting>
+                <Passing>58</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>52</Defensive>
+                <Stamina>62</Stamina>
+                <Club>SCR Altach</Club>
+                <DateOfBirth>13-11-1987</DateOfBirth>
+            </Player>
+            <Player id="7936">
+                <FirstName>Alexander</FirstName>
+                <LastName>Pöllhuber</LastName>
+                <Position>CB</Position>
+                <Pace>37</Pace>
+                <Shooting>28</Shooting>
+                <Passing>52</Passing>
+                <Offensive>40</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>52</Stamina>
+                <Club>SCR Altach</Club>
+                <DateOfBirth>30-04-1985</DateOfBirth>
+            </Player>
+            <Player id="8764">
+                <FirstName>Daniel</FirstName>
+                <LastName>Luxbacher</LastName>
+                <Position>RW</Position>
+                <Pace>73</Pace>
+                <Shooting>45</Shooting>
+                <Passing>58</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>32</Defensive>
+                <Stamina>67</Stamina>
+                <Club>SCR Altach</Club>
+                <DateOfBirth>13-03-1992</DateOfBirth>
+            </Player>
+            <Player id="8864">
+                <FirstName>Benedikt</FirstName>
+                <LastName>Zech</LastName>
+                <Position>CB</Position>
+                <Pace>52</Pace>
+                <Shooting>27</Shooting>
+                <Passing>35</Passing>
+                <Offensive>31</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>70</Stamina>
+                <Club>SCR Altach</Club>
+                <DateOfBirth>03-11-1990</DateOfBirth>
+            </Player>
+            <Player id="8999">
+                <FirstName>Patrick</FirstName>
+                <LastName>Salomon</LastName>
+                <Position>CAM</Position>
+                <Pace>68</Pace>
+                <Shooting>52</Shooting>
+                <Passing>57</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>46</Defensive>
+                <Stamina>66</Stamina>
+                <Club>SCR Altach</Club>
+                <DateOfBirth>10-06-1988</DateOfBirth>
+            </Player>
+            <Player id="9138">
+                <FirstName>Andreas</FirstName>
+                <LastName>Lienhart</LastName>
+                <Position>RB</Position>
+                <Pace>67</Pace>
+                <Shooting>39</Shooting>
+                <Passing>50</Passing>
+                <Offensive>44</Offensive>
+                <Defensive>59</Defensive>
+                <Stamina>77</Stamina>
+                <Club>SCR Altach</Club>
+                <DateOfBirth>28-01-1986</DateOfBirth>
+            </Player>
+            <Player id="9164">
+                <FirstName>Emanuel</FirstName>
+                <LastName>Schreiner</LastName>
+                <Position>LB</Position>
+                <Pace>74</Pace>
+                <Shooting>27</Shooting>
+                <Passing>44</Passing>
+                <Offensive>35</Offensive>
+                <Defensive>57</Defensive>
+                <Stamina>66</Stamina>
+                <Club>SCR Altach</Club>
+                <DateOfBirth>02-02-1989</DateOfBirth>
+            </Player>
+            <Player id="10190">
+                <FirstName>Darijo</FirstName>
+                <LastName>Pecirep</LastName>
+                <Position>ST</Position>
+                <Pace>65</Pace>
+                <Shooting>56</Shooting>
+                <Passing>35</Passing>
+                <Offensive>45</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>62</Stamina>
+                <Club>SCR Altach</Club>
+                <DateOfBirth>14-08-1991</DateOfBirth>
+            </Player>
+            <Player id="10773">
+                <FirstName>Ismael</FirstName>
+                <LastName>Tajouri-Shradi</LastName>
+                <Position>LW</Position>
+                <Pace>67</Pace>
+                <Shooting>54</Shooting>
+                <Passing>44</Passing>
+                <Offensive>49</Offensive>
+                <Defensive>25</Defensive>
+                <Stamina>30</Stamina>
+                <Club>SCR Altach</Club>
+                <DateOfBirth>27-03-1994</DateOfBirth>
+            </Player>
+            <Player id="11022">
+                <FirstName>Lukas</FirstName>
+                <LastName>Jäger</LastName>
+                <Position>CB</Position>
+                <Pace>63</Pace>
+                <Shooting>28</Shooting>
+                <Passing>34</Passing>
+                <Offensive>31</Offensive>
+                <Defensive>55</Defensive>
+                <Stamina>59</Stamina>
+                <Club>SCR Altach</Club>
+                <DateOfBirth>12-02-1994</DateOfBirth>
+            </Player>
+            <Player id="11242">
+                <FirstName>Rafael</FirstName>
+                <LastName>Leandro Thomaz</LastName>
+                <Position>LB</Position>
+                <Pace>66</Pace>
+                <Shooting>25</Shooting>
+                <Passing>36</Passing>
+                <Offensive>30</Offensive>
+                <Defensive>56</Defensive>
+                <Stamina>60</Stamina>
+                <Club>SCR Altach</Club>
+                <DateOfBirth>18-02-1993</DateOfBirth>
+            </Player>
+            <Player id="11471">
+                <FirstName>Stefan</FirstName>
+                <LastName>Umjenović</LastName>
+                <Position>CB</Position>
+                <Pace>63</Pace>
+                <Shooting>28</Shooting>
+                <Passing>33</Passing>
+                <Offensive>30</Offensive>
+                <Defensive>53</Defensive>
+                <Stamina>64</Stamina>
+                <Club>SCR Altach</Club>
+                <DateOfBirth>11-08-1995</DateOfBirth>
+            </Player>
+            <Player id="11676">
+                <FirstName>Timo</FirstName>
+                <LastName>Wölbitsch</LastName>
+                <Position>CM</Position>
+                <Pace>58</Pace>
+                <Shooting>36</Shooting>
+                <Passing>49</Passing>
+                <Offensive>42</Offensive>
+                <Defensive>42</Defensive>
+                <Stamina>44</Stamina>
+                <Club>SCR Altach</Club>
+                <DateOfBirth>22-05-1994</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="SC Wiener Neustadt">
+            <Player id="6240">
+                <FirstName>Tobias</FirstName>
+                <LastName>Kainz</LastName>
+                <Position>CM</Position>
+                <Pace>68</Pace>
+                <Shooting>59</Shooting>
+                <Passing>63</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>72</Stamina>
+                <Club>SC Wiener Neustadt</Club>
+                <DateOfBirth>31-10-1992</DateOfBirth>
+            </Player>
+            <Player id="6666">
+                <FirstName>Thomas</FirstName>
+                <LastName>Vollnhofer</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>32</Stamina>
+                <Club>SC Wiener Neustadt</Club>
+                <DateOfBirth>02-09-1984</DateOfBirth>
+            </Player>
+            <Player id="6778">
+                <FirstName>Matthias</FirstName>
+                <LastName>Koch</LastName>
+                <Position>CM</Position>
+                <Pace>68</Pace>
+                <Shooting>59</Shooting>
+                <Passing>61</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>55</Defensive>
+                <Stamina>82</Stamina>
+                <Club>SC Wiener Neustadt</Club>
+                <DateOfBirth>01-04-1988</DateOfBirth>
+            </Player>
+            <Player id="7380">
+                <FirstName>Herbert</FirstName>
+                <LastName>Rauter</LastName>
+                <Position>CAM</Position>
+                <Pace>72</Pace>
+                <Shooting>64</Shooting>
+                <Passing>58</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>37</Defensive>
+                <Stamina>64</Stamina>
+                <Club>SC Wiener Neustadt</Club>
+                <DateOfBirth>27-01-1982</DateOfBirth>
+            </Player>
+            <Player id="7930">
+                <FirstName>Dennis</FirstName>
+                <LastName>Mimm</LastName>
+                <Position>CB</Position>
+                <Pace>65</Pace>
+                <Shooting>41</Shooting>
+                <Passing>50</Passing>
+                <Offensive>45</Offensive>
+                <Defensive>61</Defensive>
+                <Stamina>64</Stamina>
+                <Club>SC Wiener Neustadt</Club>
+                <DateOfBirth>18-03-1983</DateOfBirth>
+            </Player>
+            <Player id="7987">
+                <FirstName>Mario</FirstName>
+                <LastName>Pollhammer</LastName>
+                <Position>RB</Position>
+                <Pace>78</Pace>
+                <Shooting>48</Shooting>
+                <Passing>56</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>57</Defensive>
+                <Stamina>86</Stamina>
+                <Club>SC Wiener Neustadt</Club>
+                <DateOfBirth>20-06-1989</DateOfBirth>
+            </Player>
+            <Player id="8335">
+                <FirstName>Mattias</FirstName>
+                <LastName>Sereinig</LastName>
+                <Position>CB</Position>
+                <Pace>59</Pace>
+                <Shooting>39</Shooting>
+                <Passing>50</Passing>
+                <Offensive>44</Offensive>
+                <Defensive>59</Defensive>
+                <Stamina>70</Stamina>
+                <Club>SC Wiener Neustadt</Club>
+                <DateOfBirth>17-11-1984</DateOfBirth>
+            </Player>
+            <Player id="8868">
+                <FirstName>Mario</FirstName>
+                <LastName>Ebenhofer</LastName>
+                <Position>LM</Position>
+                <Pace>70</Pace>
+                <Shooting>46</Shooting>
+                <Passing>56</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>65</Stamina>
+                <Club>SC Wiener Neustadt</Club>
+                <DateOfBirth>29-07-1992</DateOfBirth>
+            </Player>
+            <Player id="9372">
+                <FirstName>Conor</FirstName>
+                <LastName>O'Brien</LastName>
+                <Position>CM</Position>
+                <Pace>64</Pace>
+                <Shooting>51</Shooting>
+                <Passing>55</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>44</Defensive>
+                <Stamina>82</Stamina>
+                <Club>SC Wiener Neustadt</Club>
+                <DateOfBirth>20-10-1988</DateOfBirth>
+            </Player>
+            <Player id="9415">
+                <FirstName>Lukas</FirstName>
+                <LastName>Denner</LastName>
+                <Position>LM</Position>
+                <Pace>72</Pace>
+                <Shooting>36</Shooting>
+                <Passing>52</Passing>
+                <Offensive>44</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>70</Stamina>
+                <Club>SC Wiener Neustadt</Club>
+                <DateOfBirth>19-06-1991</DateOfBirth>
+            </Player>
+            <Player id="9420">
+                <FirstName>Reinhold</FirstName>
+                <LastName>Ranftl</LastName>
+                <Position>RB</Position>
+                <Pace>73</Pace>
+                <Shooting>43</Shooting>
+                <Passing>52</Passing>
+                <Offensive>47</Offensive>
+                <Defensive>57</Defensive>
+                <Stamina>72</Stamina>
+                <Club>SC Wiener Neustadt</Club>
+                <DateOfBirth>24-01-1992</DateOfBirth>
+            </Player>
+            <Player id="9645">
+                <FirstName>Mark</FirstName>
+                <LastName>Prettenthaler</LastName>
+                <Position>LB</Position>
+                <Pace>70</Pace>
+                <Shooting>36</Shooting>
+                <Passing>47</Passing>
+                <Offensive>41</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>71</Stamina>
+                <Club>SC Wiener Neustadt</Club>
+                <DateOfBirth>11-04-1983</DateOfBirth>
+            </Player>
+            <Player id="10176">
+                <FirstName>Julian</FirstName>
+                <LastName>Salamon</LastName>
+                <Position>ST</Position>
+                <Pace>65</Pace>
+                <Shooting>60</Shooting>
+                <Passing>37</Passing>
+                <Offensive>48</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>64</Stamina>
+                <Club>SC Wiener Neustadt</Club>
+                <DateOfBirth>01-05-1991</DateOfBirth>
+            </Player>
+            <Player id="10370">
+                <FirstName>Daniel</FirstName>
+                <LastName>Schöpf</LastName>
+                <Position>CM</Position>
+                <Pace>66</Pace>
+                <Shooting>43</Shooting>
+                <Passing>53</Passing>
+                <Offensive>48</Offensive>
+                <Defensive>55</Defensive>
+                <Stamina>63</Stamina>
+                <Club>SC Wiener Neustadt</Club>
+                <DateOfBirth>09-01-1990</DateOfBirth>
+            </Player>
+            <Player id="10566">
+                <FirstName>Daniel</FirstName>
+                <LastName>Maderner</LastName>
+                <Position>ST</Position>
+                <Pace>65</Pace>
+                <Shooting>54</Shooting>
+                <Passing>36</Passing>
+                <Offensive>45</Offensive>
+                <Defensive>27</Defensive>
+                <Stamina>60</Stamina>
+                <Club>SC Wiener Neustadt</Club>
+                <DateOfBirth>12-10-1995</DateOfBirth>
+            </Player>
+            <Player id="11399">
+                <FirstName>Christopher</FirstName>
+                <LastName>Stadler</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>32</Stamina>
+                <Club>SC Wiener Neustadt</Club>
+                <DateOfBirth>07-01-1994</DateOfBirth>
+            </Player>
+        </Team>
+    </League>
+</Players>

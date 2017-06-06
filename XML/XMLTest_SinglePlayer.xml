@@ -1,0 +1,21 @@
+<players>
+	<League Name="Eredivisie">
+		<Team Name="Feyenoord">
+			<Player id="70">
+				<FirstName>Bilal</FirstName>
+				<LastName>Başaçıkoğlu</LastName>
+				<Position>RW</Position>
+				<Pace>89</Pace>
+				<Shooting>65</Shooting>
+				<Passing>61</Passing>
+				<Offensive>63</Offensive>
+				<Defensive>29</Defensive>
+				<Stamina>74</Stamina>
+				<Club>Feyenoord</Club>
+				<DateOfBirth>26-03-1995</DateOfBirth>
+				<Injured>0</Injured>
+				<CurrentPosition>None</CurrentPosition>
+			</Player>
+		</Team>
+	</League>
+</players>

@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Players>
+    <League Name="Ukraine Wyscha Liga">
+        <Team Name="Shakhtar Donetsk">
+            <Player id="115">
+                <FirstName>Vyacheslav</FirstName>
+                <LastName>Shevchuk</LastName>
+                <Position>LB</Position>
+                <Pace>61</Pace>
+                <Shooting>41</Shooting>
+                <Passing>66</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>74</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Shakhtar Donetsk</Club>
+                <DateOfBirth>13-05-1979</DateOfBirth>
+            </Player>
+            <Player id="679">
+                <FirstName>Ismaily</FirstName>
+                <LastName>Gonçalves dos S.</LastName>
+                <Position>LB</Position>
+                <Pace>73</Pace>
+                <Shooting>64</Shooting>
+                <Passing>66</Passing>
+                <Offensive>65</Offensive>
+                <Defensive>70</Defensive>
+                <Stamina>87</Stamina>
+                <Club>Shakhtar Donetsk</Club>
+                <DateOfBirth>11-01-1990</DateOfBirth>
+            </Player>
+            <Player id="1751">
+                <FirstName>Sergiy</FirstName>
+                <LastName>Kryvtsov</LastName>
+                <Position>CB</Position>
+                <Pace>53</Pace>
+                <Shooting>36</Shooting>
+                <Passing>42</Passing>
+                <Offensive>39</Offensive>
+                <Defensive>74</Defensive>
+                <Stamina>74</Stamina>
+                <Club>Shakhtar Donetsk</Club>
+                <DateOfBirth>15-03-1991</DateOfBirth>
+            </Player>
+            <Player id="1895">
+                <FirstName>Bernard Anício</FirstName>
+                <LastName>Caldeira Duarte</LastName>
+                <Position>CAM</Position>
+                <Pace>90</Pace>
+                <Shooting>71</Shooting>
+                <Passing>76</Passing>
+                <Offensive>73</Offensive>
+                <Defensive>37</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Shakhtar Donetsk</Club>
+                <DateOfBirth>08-09-1992</DateOfBirth>
+            </Player>
+            <Player id="1896">
+                <FirstName>Darijo</FirstName>
+                <LastName>Srna</LastName>
+                <Position>RB</Position>
+                <Pace>73</Pace>
+                <Shooting>73</Shooting>
+                <Passing>88</Passing>
+                <Offensive>80</Offensive>
+                <Defensive>80</Defensive>
+                <Stamina>82</Stamina>
+                <Club>Shakhtar Donetsk</Club>
+                <DateOfBirth>01-05-1982</DateOfBirth>
+            </Player>
+            <Player id="2403">
+                <FirstName>Douglas</FirstName>
+                <LastName>Costa de Souza</LastName>
+                <Position>CAM</Position>
+                <Pace>85</Pace>
+                <Shooting>73</Shooting>
+                <Passing>78</Passing>
+                <Offensive>75</Offensive>
+                <Defensive>51</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Shakhtar Donetsk</Club>
+                <DateOfBirth>14-09-1990</DateOfBirth>
+            </Player>
+            <Player id="3764">
+                <FirstName>Alex</FirstName>
+                <LastName>Teixeira dos Santos</LastName>
+                <Position>CAM</Position>
+                <Pace>78</Pace>
+                <Shooting>73</Shooting>
+                <Passing>75</Passing>
+                <Offensive>74</Offensive>
+                <Defensive>70</Defensive>
+                <Stamina>69</Stamina>
+                <Club>Shakhtar Donetsk</Club>
+                <DateOfBirth>06-01-1990</DateOfBirth>
+            </Player>
+            <Player id="4283">
+                <FirstName>Taison</FirstName>
+                <LastName>Barcellos Freda</LastName>
+                <Position>CAM</Position>
+                <Pace>88</Pace>
+                <Shooting>75</Shooting>
+                <Passing>72</Passing>
+                <Offensive>73</Offensive>
+                <Defensive>41</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Shakhtar Donetsk</Club>
+                <DateOfBirth>13-01-1988</DateOfBirth>
+            </Player>
+            <Player id="6676">
+                <FirstName>Yaroslav</FirstName>
+                <LastName>Rakitskyi</LastName>
+                <Position>CB</Position>
+                <Pace>68</Pace>
+                <Shooting>59</Shooting>
+                <Passing>71</Passing>
+                <Offensive>65</Offensive>
+                <Defensive>81</Defensive>
+                <Stamina>78</Stamina>
+                <Club>Shakhtar Donetsk</Club>
+                <DateOfBirth>03-08-1989</DateOfBirth>
+            </Player>
+            <Player id="8288">
+                <FirstName>Fernando Lucas</FirstName>
+                <LastName>Martins</LastName>
+                <Position>CDM</Position>
+                <Pace>78</Pace>
+                <Shooting>66</Shooting>
+                <Passing>71</Passing>
+                <Offensive>68</Offensive>
+                <Defensive>77</Defensive>
+                <Stamina>81</Stamina>
+                <Club>Shakhtar Donetsk</Club>
+                <DateOfBirth>03-03-1992</DateOfBirth>
+            </Player>
+            <Player id="9087">
+                <FirstName>Andriy</FirstName>
+                <LastName>Pyatov</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>45</Stamina>
+                <Club>Shakhtar Donetsk</Club>
+                <DateOfBirth>28-06-1984</DateOfBirth>
+            </Player>
+            <Player id="10138">
+                <FirstName>Oleksandr</FirstName>
+                <LastName>Kucher</LastName>
+                <Position>CB</Position>
+                <Pace>64</Pace>
+                <Shooting>37</Shooting>
+                <Passing>60</Passing>
+                <Offensive>48</Offensive>
+                <Defensive>80</Defensive>
+                <Stamina>68</Stamina>
+                <Club>Shakhtar Donetsk</Club>
+                <DateOfBirth>22-10-1982</DateOfBirth>
+            </Player>
+            <Player id="11751">
+                <FirstName>Marlos</FirstName>
+                <LastName>Romero Bonfim</LastName>
+                <Position>CAM</Position>
+                <Pace>86</Pace>
+                <Shooting>71</Shooting>
+                <Passing>68</Passing>
+                <Offensive>69</Offensive>
+                <Defensive>42</Defensive>
+                <Stamina>65</Stamina>
+                <Club>Shakhtar Donetsk</Club>
+                <DateOfBirth>07-06-1988</DateOfBirth>
+            </Player>
+            <Player id="11898">
+                <FirstName>Wellington</FirstName>
+                <LastName>S. Sanchez Aguiar</LastName>
+                <Position>CAM</Position>
+                <Pace>88</Pace>
+                <Shooting>66</Shooting>
+                <Passing>70</Passing>
+                <Offensive>68</Offensive>
+                <Defensive>36</Defensive>
+                <Stamina>78</Stamina>
+                <Club>Shakhtar Donetsk</Club>
+                <DateOfBirth>06-02-1992</DateOfBirth>
+            </Player>
+            <Player id="12027">
+                <FirstName>Taras</FirstName>
+                <LastName>Stepanenko</LastName>
+                <Position>CDM</Position>
+                <Pace>67</Pace>
+                <Shooting>53</Shooting>
+                <Passing>67</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>76</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Shakhtar Donetsk</Club>
+                <DateOfBirth>08-08-1989</DateOfBirth>
+            </Player>
+            <Player id="12103">
+                <FirstName>Ilson</FirstName>
+                <LastName>Pereira Junior</LastName>
+                <Position>CAM</Position>
+                <Pace>70</Pace>
+                <Shooting>70</Shooting>
+                <Passing>71</Passing>
+                <Offensive>70</Offensive>
+                <Defensive>65</Defensive>
+                <Stamina>64</Stamina>
+                <Club>Shakhtar Donetsk</Club>
+                <DateOfBirth>12-10-1985</DateOfBirth>
+            </Player>
+            <Player id="12529">
+                <FirstName>Oleksandr</FirstName>
+                <LastName>Gladkyi</LastName>
+                <Position>ST</Position>
+                <Pace>68</Pace>
+                <Shooting>69</Shooting>
+                <Passing>60</Passing>
+                <Offensive>64</Offensive>
+                <Defensive>32</Defensive>
+                <Stamina>60</Stamina>
+                <Club>Shakhtar Donetsk</Club>
+                <DateOfBirth>24-08-1987</DateOfBirth>
+            </Player>
+            <Player id="12541">
+                <FirstName>Dmytro</FirstName>
+                <LastName>Chygrynskyi</LastName>
+                <Position>CB</Position>
+                <Pace>60</Pace>
+                <Shooting>38</Shooting>
+                <Passing>62</Passing>
+                <Offensive>50</Offensive>
+                <Defensive>74</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Shakhtar Donetsk</Club>
+                <DateOfBirth>07-11-1986</DateOfBirth>
+            </Player>
+            <Player id="12605">
+                <FirstName>Frederico</FirstName>
+                <LastName>R de Paula S.</LastName>
+                <Position>CAM</Position>
+                <Pace>82</Pace>
+                <Shooting>70</Shooting>
+                <Passing>68</Passing>
+                <Offensive>69</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>86</Stamina>
+                <Club>Shakhtar Donetsk</Club>
+                <DateOfBirth>05-03-1993</DateOfBirth>
+            </Player>
+            <Player id="12611">
+                <FirstName>Anton</FirstName>
+                <LastName>Kanibolotskyi</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>38</Stamina>
+                <Club>Shakhtar Donetsk</Club>
+                <DateOfBirth>16-05-1988</DateOfBirth>
+            </Player>
+        </Team>
+    </League>
+</Players>

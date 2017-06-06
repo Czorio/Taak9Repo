@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import javafx.scene.effect.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.collections.*?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.cell.*?>
+<?import fxmltableview.*?>
+<?import nl.tudelft.footballmanager.model.*?>
+
+<AnchorPane prefHeight="600.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="nl.tudelft.footballmanager.ui.controller.TeamOverviewController">
+	<children>
+		<TabPane prefHeight="558.0" prefWidth="444.0" tabClosingPolicy="UNAVAILABLE" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+			<tabs>
+				<Tab text="Your Team">
+					<content>
+						<AnchorPane>
+							<children>
+								<SplitPane dividerPositions="0.49161073825503354" prefHeight="531.0" prefWidth="598.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+									<items>
+										<AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="160.0" prefWidth="100.0">
+											<children>
+												<TableView fx:id="yourPlayerTableView" cacheHint="QUALITY" depthTest="ENABLE" editable="true" prefHeight="0.0" prefWidth="0.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+													<columnResizePolicy>
+														<TableView fx:constant="CONSTRAINED_RESIZE_POLICY" />
+													</columnResizePolicy>
+													<columns>
+														<TableColumn fx:id="yourPlayerFirstNameCol" prefWidth="75.0" text="First Name">
+															<cellValueFactory>
+																<PropertyValueFactory property="firstName" />
+															</cellValueFactory>
+														</TableColumn>
+														<TableColumn fx:id="yourPlayerLastNameCol" prefWidth="75.0" text="Surname">
+															<cellValueFactory>
+																<PropertyValueFactory property="lastName" />
+															</cellValueFactory>
+														</TableColumn>
+														<TableColumn fx:id="yourPlayerPositionCol" prefWidth="75.0" text="Position">
+															<cellValueFactory>
+																<PropertyValueFactory property="position" />
+															</cellValueFactory>
+														</TableColumn>
+														<TableColumn fx:id="yourPlayerCurPositionCol" prefWidth="75.0" text="Current Position">
+															<cellValueFactory>
+																<PropertyValueFactory property="curPosition" />
+															</cellValueFactory>
+														</TableColumn>
+														<TableColumn fx:id="yourPlayerOffCol" prefWidth="75.0" text="OFF">
+															<cellValueFactory>
+																<PropertyValueFactory property="offensive" />
+															</cellValueFactory>
+														</TableColumn>
+														<TableColumn fx:id="yourPlayerDefCol" prefWidth="75.0" text="DEF">
+															<cellValueFactory>
+																<PropertyValueFactory property="defensive" />
+															</cellValueFactory>
+														</TableColumn>
+														<TableColumn fx:id="yourPlayerStaminaCol" prefWidth="75.0" text="STA">
+															<cellValueFactory>
+																<PropertyValueFactory property="stamina" />
+															</cellValueFactory>
+														</TableColumn>
+														<TableColumn fx:id="yourPlayerPriceCol" prefWidth="75.0" text="Price">
+															<cellValueFactory>
+																<PropertyValueFactory property="price" />
+															</cellValueFactory>
+														</TableColumn>
+													</columns>
+												</TableView>
+											</children>
+										</AnchorPane>
+										<AnchorPane maxWidth="300.0" minHeight="0.0" minWidth="300.0" prefHeight="160.0" prefWidth="300.0" SplitPane.resizableWithParent="false">
+											<children>
+                                    <AnchorPane prefHeight="255.0" prefWidth="300.0" AnchorPane.bottomAnchor="314.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+                                       <children>
+      												<VBox alignment="CENTER" layoutX="19.0" layoutY="282.0" spacing="1.0" AnchorPane.bottomAnchor="14.0" AnchorPane.leftAnchor="19.0" AnchorPane.rightAnchor="18.0">
+      													<children>
+      														<Label layoutX="33.0" layoutY="366.0" text="Current Position" />
+      														<ChoiceBox fx:id="curPosChoiceBox" layoutX="19.0" layoutY="383.0" prefHeight="25.0" prefWidth="113.0" AnchorPane.bottomAnchor="121.0" AnchorPane.leftAnchor="19.0" AnchorPane.rightAnchor="18.0" />
+      														<VBox alignment="CENTER" spacing="1.0">
+      															<children>
+      																<Label fx:id="placedPlayersLabel" text="#" />
+      																<Label text="/11" />
+      															</children>
+      														</VBox>
+      													</children>
+      												</VBox>
+      												<GridPane prefHeight="277.0" prefWidth="300.0" AnchorPane.bottomAnchor="98.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+      													<columnConstraints>
+      														<ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+      														<ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+      													</columnConstraints>
+      													<rowConstraints>
+      														<RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+      														<RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+      														<RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+      														<RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+      														<RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+      														<RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+      													</rowConstraints>
+      													<children>
+      														<Label text="Name:" />
+      														<Label text="Preferred Position:" GridPane.rowIndex="1" />
+      														<Label text="Off Score:" GridPane.rowIndex="2" />
+      														<Label text="Def Score:" GridPane.rowIndex="3" />
+      														<Label text="Stamina:" GridPane.rowIndex="4" />
+      														<Label text="Price:" GridPane.rowIndex="5" />
+      														<Label fx:id="yourPlayerNameLabel" text="#playerName" GridPane.columnIndex="1" />
+      														<Label fx:id="yourPlayerPositionLabel" text="#playerPos" GridPane.columnIndex="1" GridPane.rowIndex="1" />
+      														<Label fx:id="yourPlayerOffensiveLabel" text="#playerOffensiveScore" GridPane.columnIndex="1" GridPane.rowIndex="2" />
+      														<Label fx:id="yourPlayerDefensiveLabel" text="#playerDefensiveScore" GridPane.columnIndex="1" GridPane.rowIndex="3" />
+      														<Label fx:id="yourPlayerStaminaLabel" text="#playerStamina" GridPane.columnIndex="1" GridPane.rowIndex="4" />
+      														<Label fx:id="yourPlayerPriceLabel" text="#playerPrice" GridPane.columnIndex="1" GridPane.rowIndex="5" />
+      													</children>
+      												</GridPane>
+                                       </children>
+                                    </AnchorPane>
+                                    <StackPane layoutX="61.0" layoutY="434.0" AnchorPane.bottomAnchor="78.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0">
+                                       <children>
+                                          <HBox alignment="CENTER" layoutX="61.0" layoutY="434.0" spacing="3.0" />
+                                       </children>
+                                    </StackPane>
+                                    <Separator layoutX="76.0" layoutY="254.0" prefHeight="3.0" prefWidth="146.0" AnchorPane.bottomAnchor="312.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" />
+                                    <GridPane layoutX="49.0" layoutY="257.0" prefHeight="263.0" prefWidth="200.0" AnchorPane.bottomAnchor="49.0" AnchorPane.leftAnchor="49.0" AnchorPane.rightAnchor="51.0">
+                                      <columnConstraints>
+                                        <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                                        <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                                      </columnConstraints>
+                                      <rowConstraints>
+                                        <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                                        <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                                        <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                                      </rowConstraints>
+                                       <children>
+                                          <Label text="Games Won:" />
+                                          <Label text="Games Lost:" GridPane.rowIndex="1" />
+                                          <Label text="Games Draw:" GridPane.rowIndex="2" />
+                                          <Label fx:id="gamesWonLabel" text="#gamesWonLabel" GridPane.columnIndex="1" />
+                                          <Label fx:id="gamesLostLabel" text="#gamesLostLabel" GridPane.columnIndex="1" GridPane.rowIndex="1" />
+                                          <Label fx:id="gamesDrawLabel" text="#gamesDrawLabel" GridPane.columnIndex="1" GridPane.rowIndex="2" />
+                                       </children>
+                                    </GridPane>
+											</children>
+										</AnchorPane>
+									</items>
+								</SplitPane>
+							</children>
+						</AnchorPane>
+					</content>
+				</Tab>
+				<Tab text="All Players">
+					<content>
+						<AnchorPane>
+							<children>
+								<SplitPane dividerPositions="0.75" prefHeight="531.0" prefWidth="598.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+									<items>
+										<AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="160.0" prefWidth="100.0">
+											<children>
+												<TableView fx:id="otherPlayersTableView" prefHeight="0.0" prefWidth="0.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+													<columnResizePolicy>
+														<TableView fx:constant="CONSTRAINED_RESIZE_POLICY" />
+													</columnResizePolicy>
+													<columns>
+														<TableColumn fx:id="otherPlayersFirstNameCol" prefWidth="75.0" text="First Name">
+															<cellValueFactory>
+																<PropertyValueFactory property="firstName" />
+															</cellValueFactory>
+														</TableColumn>
+														<TableColumn fx:id="otherPlayersLastNameCol" prefWidth="75.0" text="Surname">
+															<cellValueFactory>
+																<PropertyValueFactory property="lastName" />
+															</cellValueFactory>
+														</TableColumn>
+														<TableColumn fx:id="otherPlayersPositionCol" prefWidth="75.0" text="Position">
+															<cellValueFactory>
+																<PropertyValueFactory property="position" />
+															</cellValueFactory>
+														</TableColumn>
+														<TableColumn fx:id="otherPlayersTeamCol" prefWidth="75.0" text="Team">
+														</TableColumn>
+														<TableColumn fx:id="otherPlayersOffCol" prefWidth="75.0" text="OFF">
+															<cellValueFactory>
+																<PropertyValueFactory property="offensive" />
+															</cellValueFactory>
+														</TableColumn>
+														<TableColumn fx:id="otherPlayersDefCol" prefWidth="75.0" text="DEF">
+															<cellValueFactory>
+																<PropertyValueFactory property="defensive" />
+															</cellValueFactory>
+														</TableColumn>
+														<TableColumn fx:id="otherPlayersStaminaCol" prefWidth="75.0" text="STA">
+															<cellValueFactory>
+																<PropertyValueFactory property="stamina" />
+															</cellValueFactory>
+														</TableColumn>
+														<TableColumn fx:id="otherPlayersPriceCol" prefWidth="75.0" text="Price">
+															<cellValueFactory>
+																<PropertyValueFactory property="price" />
+															</cellValueFactory>
+														</TableColumn>
+													</columns>
+												</TableView>
+											</children>
+										</AnchorPane>
+										<AnchorPane maxWidth="300.0" minHeight="0.0" minWidth="300.0" prefHeight="160.0" prefWidth="300.0" SplitPane.resizableWithParent="false">
+											<children>
+												<GridPane layoutX="-34.0" layoutY="176.0" prefHeight="232.0" prefWidth="300.0" AnchorPane.bottomAnchor="337.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+													<columnConstraints>
+														<ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+														<ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+													</columnConstraints>
+													<rowConstraints>
+														<RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+														<RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+														<RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+														<RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+														<RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+														<RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+														<RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+													</rowConstraints>
+													<children>
+														<Label text="Name:" />
+														<Label text="Preferred Position:" GridPane.rowIndex="1" />
+														<Label text="Off Score:" GridPane.rowIndex="2" />
+														<Label text="Def Score:" GridPane.rowIndex="3" />
+														<Label text="Stamina:" GridPane.rowIndex="4" />
+														<Label text="Price:" GridPane.rowIndex="5" />
+														<Label text="Team:" GridPane.rowIndex="6" />
+														<Label fx:id="otherPlayerNameLabel" text="#playerName" GridPane.columnIndex="1" />
+														<Label fx:id="otherPlayerPositionLabel" text="#playerPos" GridPane.columnIndex="1" GridPane.rowIndex="1" />
+														<Label fx:id="otherPlayerOffensiveLabel" text="#playerOffensiveScore" GridPane.columnIndex="1" GridPane.rowIndex="2" />
+														<Label fx:id="otherPlayerDefensiveLabel" text="#playerDefensiveScore" GridPane.columnIndex="1" GridPane.rowIndex="3" />
+														<Label fx:id="otherPlayerStaminaLabel" text="#playerStamina" GridPane.columnIndex="1" GridPane.rowIndex="4" />
+														<Label fx:id="otherPlayerPriceLabel" text="#playerPrice" GridPane.columnIndex="1" GridPane.rowIndex="5" />
+														<Label fx:id="otherPlayerTeamLabel" text="#playerTeam" GridPane.columnIndex="1" GridPane.rowIndex="6" />
+													</children>
+												</GridPane>
+												<Separator layoutY="421.0" prefHeight="3.0" prefWidth="146.0" AnchorPane.bottomAnchor="107.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" />
+												<Button fx:id="buyOtherPlayerButton" layoutX="38.0" layoutY="464.0" mnemonicParsing="false" text="Buy Player" AnchorPane.bottomAnchor="42.0" AnchorPane.leftAnchor="38.0" AnchorPane.rightAnchor="41.0" />
+                                    <StackPane layoutX="52.0" layoutY="435.0" AnchorPane.bottomAnchor="78.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0">
+                                       <children>
+                                          <HBox alignment="CENTER" layoutX="61.0" layoutY="434.0" spacing="3.0">
+                                             <children>
+                                                <Label layoutX="61.0" layoutY="434.0" text="Transfer window is" />
+                                                <Label fx:id="transferWindowLabel1" layoutX="160.0" layoutY="434.0" text="#TransferWindow" />
+                                             </children>
+                                          </HBox>
+                                       </children>
+                                    </StackPane>
+											</children>
+										</AnchorPane>
+									</items>
+								</SplitPane>
+							</children>
+						</AnchorPane>
+					</content>
+				</Tab>
+			</tabs>
+		</TabPane>
+	</children>
+</AnchorPane>

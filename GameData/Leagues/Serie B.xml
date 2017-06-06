@@ -1,0 +1,3134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Players>
+    <League Name="Serie B">
+        <Team Name="Bologna">
+            <Player id="229">
+                <FirstName>Domenico</FirstName>
+                <LastName>Maietta</LastName>
+                <Position>CB</Position>
+                <Pace>53</Pace>
+                <Shooting>27</Shooting>
+                <Passing>44</Passing>
+                <Offensive>35</Offensive>
+                <Defensive>74</Defensive>
+                <Stamina>57</Stamina>
+                <Club>Bologna</Club>
+                <DateOfBirth>03-08-1982</DateOfBirth>
+            </Player>
+            <Player id="251">
+                <FirstName>Francelino</FirstName>
+                <LastName>Da Silva</LastName>
+                <Position>CM</Position>
+                <Pace>55</Pace>
+                <Shooting>65</Shooting>
+                <Passing>74</Passing>
+                <Offensive>69</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Bologna</Club>
+                <DateOfBirth>10-06-1980</DateOfBirth>
+            </Player>
+            <Player id="405">
+                <FirstName>Michele</FirstName>
+                <LastName>Pazienza</LastName>
+                <Position>CDM</Position>
+                <Pace>70</Pace>
+                <Shooting>57</Shooting>
+                <Passing>69</Passing>
+                <Offensive>63</Offensive>
+                <Defensive>69</Defensive>
+                <Stamina>67</Stamina>
+                <Club>Bologna</Club>
+                <DateOfBirth>05-08-1982</DateOfBirth>
+            </Player>
+            <Player id="605">
+                <FirstName>Diego</FirstName>
+                <LastName>Pérez</LastName>
+                <Position>CDM</Position>
+                <Pace>55</Pace>
+                <Shooting>51</Shooting>
+                <Passing>65</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>71</Defensive>
+                <Stamina>74</Stamina>
+                <Club>Bologna</Club>
+                <DateOfBirth>18-05-1980</DateOfBirth>
+            </Player>
+            <Player id="736">
+                <FirstName>Daniele</FirstName>
+                <LastName>Cacia</LastName>
+                <Position>ST</Position>
+                <Pace>71</Pace>
+                <Shooting>69</Shooting>
+                <Passing>53</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>65</Stamina>
+                <Club>Bologna</Club>
+                <DateOfBirth>23-08-1983</DateOfBirth>
+            </Player>
+            <Player id="847">
+                <FirstName>Archimede</FirstName>
+                <LastName>Morleo</LastName>
+                <Position>LM</Position>
+                <Pace>84</Pace>
+                <Shooting>53</Shooting>
+                <Passing>67</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>78</Stamina>
+                <Club>Bologna</Club>
+                <DateOfBirth>26-09-1983</DateOfBirth>
+            </Player>
+            <Player id="1410">
+                <FirstName>Marios</FirstName>
+                <LastName>Oikonomou</LastName>
+                <Position>CB</Position>
+                <Pace>60</Pace>
+                <Shooting>34</Shooting>
+                <Passing>39</Passing>
+                <Offensive>36</Offensive>
+                <Defensive>72</Defensive>
+                <Stamina>62</Stamina>
+                <Club>Bologna</Club>
+                <DateOfBirth>06-10-1992</DateOfBirth>
+            </Player>
+            <Player id="1515">
+                <FirstName>Franco</FirstName>
+                <LastName>Zuculini</LastName>
+                <Position>CM</Position>
+                <Pace>71</Pace>
+                <Shooting>56</Shooting>
+                <Passing>70</Passing>
+                <Offensive>63</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>62</Stamina>
+                <Club>Bologna</Club>
+                <DateOfBirth>05-09-1990</DateOfBirth>
+            </Player>
+            <Player id="2389">
+                <FirstName>Robert</FirstName>
+                <LastName>Acquafresca</LastName>
+                <Position>ST</Position>
+                <Pace>68</Pace>
+                <Shooting>65</Shooting>
+                <Passing>54</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>56</Stamina>
+                <Club>Bologna</Club>
+                <DateOfBirth>11-09-1987</DateOfBirth>
+            </Player>
+            <Player id="4094">
+                <FirstName>Uros</FirstName>
+                <LastName>Radakovic</LastName>
+                <Position>CB</Position>
+                <Pace>60</Pace>
+                <Shooting>26</Shooting>
+                <Passing>39</Passing>
+                <Offensive>32</Offensive>
+                <Defensive>65</Defensive>
+                <Stamina>55</Stamina>
+                <Club>Bologna</Club>
+                <DateOfBirth>31-03-1994</DateOfBirth>
+            </Player>
+            <Player id="4270">
+                <FirstName>Martí</FirstName>
+                <LastName>Riverola Bataller</LastName>
+                <Position>CAM</Position>
+                <Pace>71</Pace>
+                <Shooting>58</Shooting>
+                <Passing>62</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>33</Defensive>
+                <Stamina>64</Stamina>
+                <Club>Bologna</Club>
+                <DateOfBirth>26-01-1991</DateOfBirth>
+            </Player>
+            <Player id="4389">
+                <FirstName>Riccardo</FirstName>
+                <LastName>Improta</LastName>
+                <Position>RW</Position>
+                <Pace>78</Pace>
+                <Shooting>52</Shooting>
+                <Passing>55</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>27</Defensive>
+                <Stamina>57</Stamina>
+                <Club>Bologna</Club>
+                <DateOfBirth>19-12-1993</DateOfBirth>
+            </Player>
+            <Player id="4644">
+                <FirstName>Ferdinando</FirstName>
+                <LastName>Coppola</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>26</Stamina>
+                <Club>Bologna</Club>
+                <DateOfBirth>10-06-1978</DateOfBirth>
+            </Player>
+            <Player id="4750">
+                <FirstName>Gennaro</FirstName>
+                <LastName>Troianiello</LastName>
+                <Position>CF</Position>
+                <Pace>81</Pace>
+                <Shooting>59</Shooting>
+                <Passing>62</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>36</Defensive>
+                <Stamina>77</Stamina>
+                <Club>Bologna</Club>
+                <DateOfBirth>21-03-1983</DateOfBirth>
+            </Player>
+            <Player id="5109">
+                <FirstName>Riccardo</FirstName>
+                <LastName>Pasi</LastName>
+                <Position>CAM</Position>
+                <Pace>73</Pace>
+                <Shooting>56</Shooting>
+                <Passing>61</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>36</Defensive>
+                <Stamina>69</Stamina>
+                <Club>Bologna</Club>
+                <DateOfBirth>27-08-1990</DateOfBirth>
+            </Player>
+            <Player id="5751">
+                <FirstName>Marcel</FirstName>
+                <LastName>Büchel</LastName>
+                <Position>CM</Position>
+                <Pace>66</Pace>
+                <Shooting>50</Shooting>
+                <Passing>67</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>41</Defensive>
+                <Stamina>75</Stamina>
+                <Club>Bologna</Club>
+                <DateOfBirth>18-03-1991</DateOfBirth>
+            </Player>
+            <Player id="6044">
+                <FirstName>Daniel</FirstName>
+                <LastName>Bessa</LastName>
+                <Position>CAM</Position>
+                <Pace>69</Pace>
+                <Shooting>54</Shooting>
+                <Passing>60</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>52</Stamina>
+                <Club>Bologna</Club>
+                <DateOfBirth>14-01-1993</DateOfBirth>
+            </Player>
+            <Player id="6122">
+                <FirstName>Luca</FirstName>
+                <LastName>Ceccarelli</LastName>
+                <Position>RB</Position>
+                <Pace>74</Pace>
+                <Shooting>51</Shooting>
+                <Passing>56</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>83</Stamina>
+                <Club>Bologna</Club>
+                <DateOfBirth>24-03-1983</DateOfBirth>
+            </Player>
+            <Player id="6189">
+                <FirstName>Erik</FirstName>
+                <LastName>Friberg</LastName>
+                <Position>CM</Position>
+                <Pace>52</Pace>
+                <Shooting>57</Shooting>
+                <Passing>64</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>46</Defensive>
+                <Stamina>88</Stamina>
+                <Club>Bologna</Club>
+                <DateOfBirth>10-02-1986</DateOfBirth>
+            </Player>
+            <Player id="8456">
+                <FirstName>Dejan</FirstName>
+                <LastName>Stojanovic</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>34</Stamina>
+                <Club>Bologna</Club>
+                <DateOfBirth>19-07-1993</DateOfBirth>
+            </Player>
+            <Player id="8488">
+                <FirstName>Mathias</FirstName>
+                <LastName>Abero</LastName>
+                <Position>LM</Position>
+                <Pace>71</Pace>
+                <Shooting>48</Shooting>
+                <Passing>57</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>50</Defensive>
+                <Stamina>75</Stamina>
+                <Club>Bologna</Club>
+                <DateOfBirth>09-04-1990</DateOfBirth>
+            </Player>
+            <Player id="9257">
+                <FirstName>Alex</FirstName>
+                <LastName>Ferrari</LastName>
+                <Position>CB</Position>
+                <Pace>58</Pace>
+                <Shooting>28</Shooting>
+                <Passing>31</Passing>
+                <Offensive>29</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>56</Stamina>
+                <Club>Bologna</Club>
+                <DateOfBirth>01-07-1994</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Trapani">
+            <Player id="366">
+                <FirstName>Matteo</FirstName>
+                <LastName>Mancosu</LastName>
+                <Position>ST</Position>
+                <Pace>85</Pace>
+                <Shooting>71</Shooting>
+                <Passing>52</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>81</Stamina>
+                <Club>Trapani</Club>
+                <DateOfBirth>22-12-1984</DateOfBirth>
+            </Player>
+            <Player id="2081">
+                <FirstName>Enis</FirstName>
+                <LastName>Nadarevic</LastName>
+                <Position>LW</Position>
+                <Pace>81</Pace>
+                <Shooting>61</Shooting>
+                <Passing>60</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>31</Defensive>
+                <Stamina>79</Stamina>
+                <Club>Trapani</Club>
+                <DateOfBirth>19-07-1987</DateOfBirth>
+            </Player>
+            <Player id="3798">
+                <FirstName>Simone</FirstName>
+                <LastName>Rizzato</LastName>
+                <Position>LB</Position>
+                <Pace>85</Pace>
+                <Shooting>51</Shooting>
+                <Passing>63</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>59</Defensive>
+                <Stamina>93</Stamina>
+                <Club>Trapani</Club>
+                <DateOfBirth>21-09-1981</DateOfBirth>
+            </Player>
+            <Player id="4691">
+                <FirstName>Antimo</FirstName>
+                <LastName>Iunco</LastName>
+                <Position>CF</Position>
+                <Pace>66</Pace>
+                <Shooting>63</Shooting>
+                <Passing>65</Passing>
+                <Offensive>64</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>69</Stamina>
+                <Club>Trapani</Club>
+                <DateOfBirth>10-06-1984</DateOfBirth>
+            </Player>
+            <Player id="5699">
+                <FirstName>Lys</FirstName>
+                <LastName>Gomis</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>32</Stamina>
+                <Club>Trapani</Club>
+                <DateOfBirth>06-10-1989</DateOfBirth>
+            </Player>
+            <Player id="11035">
+                <FirstName>Richard</FirstName>
+                <LastName>Marcone</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>20</Stamina>
+                <Club>Trapani</Club>
+                <DateOfBirth>21-01-1993</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Carpi">
+            <Player id="380">
+                <FirstName>Gabriel</FirstName>
+                <LastName>Vasconcellos F.</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>34</Stamina>
+                <Club>Carpi</Club>
+                <DateOfBirth>27-09-1992</DateOfBirth>
+            </Player>
+            <Player id="1562">
+                <FirstName>Jerry</FirstName>
+                <LastName>Mbakogu</LastName>
+                <Position>ST</Position>
+                <Pace>89</Pace>
+                <Shooting>66</Shooting>
+                <Passing>51</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>33</Defensive>
+                <Stamina>77</Stamina>
+                <Club>Carpi</Club>
+                <DateOfBirth>01-10-1992</DateOfBirth>
+            </Player>
+            <Player id="1827">
+                <FirstName>Ivan</FirstName>
+                <LastName>Kelava</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>40</Stamina>
+                <Club>Carpi</Club>
+                <DateOfBirth>20-02-1988</DateOfBirth>
+            </Player>
+            <Player id="2297">
+                <FirstName>Simone</FirstName>
+                <LastName>Romagnoli</LastName>
+                <Position>CB</Position>
+                <Pace>54</Pace>
+                <Shooting>38</Shooting>
+                <Passing>42</Passing>
+                <Offensive>40</Offensive>
+                <Defensive>68</Defensive>
+                <Stamina>65</Stamina>
+                <Club>Carpi</Club>
+                <DateOfBirth>09-02-1990</DateOfBirth>
+            </Player>
+            <Player id="3905">
+                <FirstName>Filippo</FirstName>
+                <LastName>Porcari</LastName>
+                <Position>CM</Position>
+                <Pace>69</Pace>
+                <Shooting>56</Shooting>
+                <Passing>66</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>59</Defensive>
+                <Stamina>77</Stamina>
+                <Club>Carpi</Club>
+                <DateOfBirth>28-04-1984</DateOfBirth>
+            </Player>
+            <Player id="7292">
+                <FirstName>Elio</FirstName>
+                <LastName>De Silvestro</LastName>
+                <Position>LM</Position>
+                <Pace>82</Pace>
+                <Shooting>54</Shooting>
+                <Passing>54</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>65</Stamina>
+                <Club>Carpi</Club>
+                <DateOfBirth>10-03-1993</DateOfBirth>
+            </Player>
+            <Player id="7764">
+                <FirstName>Roberto</FirstName>
+                <LastName>Inglese</LastName>
+                <Position>ST</Position>
+                <Pace>61</Pace>
+                <Shooting>62</Shooting>
+                <Passing>40</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>57</Stamina>
+                <Club>Carpi</Club>
+                <DateOfBirth>12-11-1991</DateOfBirth>
+            </Player>
+            <Player id="10303">
+                <FirstName>Aljaz</FirstName>
+                <LastName>Struna</LastName>
+                <Position>RB</Position>
+                <Pace>61</Pace>
+                <Shooting>36</Shooting>
+                <Passing>48</Passing>
+                <Offensive>42</Offensive>
+                <Defensive>54</Defensive>
+                <Stamina>75</Stamina>
+                <Club>Carpi</Club>
+                <DateOfBirth>04-08-1990</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Bari">
+            <Player id="382">
+                <FirstName>Massimo</FirstName>
+                <LastName>Donati</LastName>
+                <Position>CDM</Position>
+                <Pace>55</Pace>
+                <Shooting>61</Shooting>
+                <Passing>70</Passing>
+                <Offensive>65</Offensive>
+                <Defensive>70</Defensive>
+                <Stamina>67</Stamina>
+                <Club>Bari</Club>
+                <DateOfBirth>26-03-1981</DateOfBirth>
+            </Player>
+            <Player id="813">
+                <FirstName>Francesco</FirstName>
+                <LastName>Caputo</LastName>
+                <Position>ST</Position>
+                <Pace>80</Pace>
+                <Shooting>68</Shooting>
+                <Passing>48</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Bari</Club>
+                <DateOfBirth>06-08-1987</DateOfBirth>
+            </Player>
+            <Player id="851">
+                <FirstName>Alen</FirstName>
+                <LastName>Stevanovic</LastName>
+                <Position>RM</Position>
+                <Pace>92</Pace>
+                <Shooting>60</Shooting>
+                <Passing>64</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>37</Defensive>
+                <Stamina>81</Stamina>
+                <Club>Bari</Club>
+                <DateOfBirth>07-01-1991</DateOfBirth>
+            </Player>
+            <Player id="991">
+                <FirstName>Adrian</FirstName>
+                <LastName>Stoian</LastName>
+                <Position>LM</Position>
+                <Pace>77</Pace>
+                <Shooting>66</Shooting>
+                <Passing>68</Passing>
+                <Offensive>67</Offensive>
+                <Defensive>31</Defensive>
+                <Stamina>66</Stamina>
+                <Club>Bari</Club>
+                <DateOfBirth>11-02-1991</DateOfBirth>
+            </Player>
+            <Player id="2082">
+                <FirstName>Giuseppe</FirstName>
+                <LastName>De Luca</LastName>
+                <Position>CF</Position>
+                <Pace>89</Pace>
+                <Shooting>65</Shooting>
+                <Passing>63</Passing>
+                <Offensive>64</Offensive>
+                <Defensive>27</Defensive>
+                <Stamina>63</Stamina>
+                <Club>Bari</Club>
+                <DateOfBirth>22-06-1991</DateOfBirth>
+            </Player>
+            <Player id="2506">
+                <FirstName>Antonio</FirstName>
+                <LastName>Rozzi</LastName>
+                <Position>RW</Position>
+                <Pace>79</Pace>
+                <Shooting>66</Shooting>
+                <Passing>59</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>67</Stamina>
+                <Club>Bari</Club>
+                <DateOfBirth>28-05-1994</DateOfBirth>
+            </Player>
+            <Player id="2623">
+                <FirstName>Daniele</FirstName>
+                <LastName>Sciaudone</LastName>
+                <Position>CM</Position>
+                <Pace>77</Pace>
+                <Shooting>59</Shooting>
+                <Passing>65</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>51</Defensive>
+                <Stamina>83</Stamina>
+                <Club>Bari</Club>
+                <DateOfBirth>10-08-1988</DateOfBirth>
+            </Player>
+            <Player id="3785">
+                <FirstName>Marco</FirstName>
+                <LastName>Romizi</LastName>
+                <Position>CM</Position>
+                <Pace>75</Pace>
+                <Shooting>57</Shooting>
+                <Passing>62</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>52</Defensive>
+                <Stamina>79</Stamina>
+                <Club>Bari</Club>
+                <DateOfBirth>13-02-1990</DateOfBirth>
+            </Player>
+            <Player id="3906">
+                <FirstName>Enrico</FirstName>
+                <LastName>Guarna</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>34</Stamina>
+                <Club>Bari</Club>
+                <DateOfBirth>11-08-1985</DateOfBirth>
+            </Player>
+            <Player id="4412">
+                <FirstName>Matteo</FirstName>
+                <LastName>Contini</LastName>
+                <Position>CB</Position>
+                <Pace>35</Pace>
+                <Shooting>35</Shooting>
+                <Passing>40</Passing>
+                <Offensive>37</Offensive>
+                <Defensive>68</Defensive>
+                <Stamina>55</Stamina>
+                <Club>Bari</Club>
+                <DateOfBirth>16-04-1980</DateOfBirth>
+            </Player>
+            <Player id="4570">
+                <FirstName>Michele</FirstName>
+                <LastName>Camporese</LastName>
+                <Position>CB</Position>
+                <Pace>68</Pace>
+                <Shooting>39</Shooting>
+                <Passing>43</Passing>
+                <Offensive>41</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>65</Stamina>
+                <Club>Bari</Club>
+                <DateOfBirth>19-05-1992</DateOfBirth>
+            </Player>
+            <Player id="5063">
+                <FirstName>Stefano</FirstName>
+                <LastName>Sabelli</LastName>
+                <Position>RB</Position>
+                <Pace>75</Pace>
+                <Shooting>38</Shooting>
+                <Passing>51</Passing>
+                <Offensive>44</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>75</Stamina>
+                <Club>Bari</Club>
+                <DateOfBirth>13-01-1993</DateOfBirth>
+            </Player>
+            <Player id="9178">
+                <FirstName>Alex</FirstName>
+                <LastName>Pena</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>27</Stamina>
+                <Club>Bari</Club>
+                <DateOfBirth>26-01-1990</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Catania">
+            <Player id="514">
+                <FirstName>Lucas</FirstName>
+                <LastName>Castro</LastName>
+                <Position>LW</Position>
+                <Pace>78</Pace>
+                <Shooting>68</Shooting>
+                <Passing>67</Passing>
+                <Offensive>67</Offensive>
+                <Defensive>40</Defensive>
+                <Stamina>74</Stamina>
+                <Club>Catania</Club>
+                <DateOfBirth>09-04-1989</DateOfBirth>
+            </Player>
+            <Player id="521">
+                <FirstName>Alexis</FirstName>
+                <LastName>Rolin</LastName>
+                <Position>CB</Position>
+                <Pace>62</Pace>
+                <Shooting>39</Shooting>
+                <Passing>45</Passing>
+                <Offensive>42</Offensive>
+                <Defensive>74</Defensive>
+                <Stamina>55</Stamina>
+                <Club>Catania</Club>
+                <DateOfBirth>07-02-1989</DateOfBirth>
+            </Player>
+            <Player id="961">
+                <FirstName>Alberto</FirstName>
+                <LastName>Frison</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>38</Stamina>
+                <Club>Catania</Club>
+                <DateOfBirth>21-07-1988</DateOfBirth>
+            </Player>
+            <Player id="1238">
+                <FirstName>Gino</FirstName>
+                <LastName>Peruzzi</LastName>
+                <Position>RB</Position>
+                <Pace>82</Pace>
+                <Shooting>54</Shooting>
+                <Passing>64</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>67</Defensive>
+                <Stamina>84</Stamina>
+                <Club>Catania</Club>
+                <DateOfBirth>09-06-1992</DateOfBirth>
+            </Player>
+            <Player id="1508">
+                <FirstName>Sebastián</FirstName>
+                <LastName>Leto</LastName>
+                <Position>CAM</Position>
+                <Pace>71</Pace>
+                <Shooting>68</Shooting>
+                <Passing>68</Passing>
+                <Offensive>68</Offensive>
+                <Defensive>32</Defensive>
+                <Stamina>55</Stamina>
+                <Club>Catania</Club>
+                <DateOfBirth>30-08-1986</DateOfBirth>
+            </Player>
+            <Player id="1843">
+                <FirstName>Sergio Bernardo</FirstName>
+                <LastName>Almirón</LastName>
+                <Position>CM</Position>
+                <Pace>46</Pace>
+                <Shooting>67</Shooting>
+                <Passing>76</Passing>
+                <Offensive>71</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>30</Stamina>
+                <Club>Catania</Club>
+                <DateOfBirth>07-11-1980</DateOfBirth>
+            </Player>
+            <Player id="2950">
+                <FirstName>Ciro</FirstName>
+                <LastName>Capuano</LastName>
+                <Position>LB</Position>
+                <Pace>69</Pace>
+                <Shooting>56</Shooting>
+                <Passing>61</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>68</Defensive>
+                <Stamina>64</Stamina>
+                <Club>Catania</Club>
+                <DateOfBirth>10-07-1981</DateOfBirth>
+            </Player>
+            <Player id="3418">
+                <FirstName>Luciano Fabián</FirstName>
+                <LastName>Monzón</LastName>
+                <Position>LB</Position>
+                <Pace>75</Pace>
+                <Shooting>58</Shooting>
+                <Passing>63</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>85</Stamina>
+                <Club>Catania</Club>
+                <DateOfBirth>13-04-1987</DateOfBirth>
+            </Player>
+            <Player id="4386">
+                <FirstName>Luca</FirstName>
+                <LastName>Anania</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>21</Stamina>
+                <Club>Catania</Club>
+                <DateOfBirth>21-06-1980</DateOfBirth>
+            </Player>
+            <Player id="4748">
+                <FirstName>Federico</FirstName>
+                <LastName>Moretti</LastName>
+                <Position>CM</Position>
+                <Pace>64</Pace>
+                <Shooting>61</Shooting>
+                <Passing>64</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Catania</Club>
+                <DateOfBirth>28-10-1988</DateOfBirth>
+            </Player>
+            <Player id="4790">
+                <FirstName>Michał</FirstName>
+                <LastName>Chrapek</LastName>
+                <Position>CM</Position>
+                <Pace>54</Pace>
+                <Shooting>60</Shooting>
+                <Passing>66</Passing>
+                <Offensive>63</Offensive>
+                <Defensive>56</Defensive>
+                <Stamina>46</Stamina>
+                <Club>Catania</Club>
+                <DateOfBirth>03-04-1992</DateOfBirth>
+            </Player>
+            <Player id="5795">
+                <FirstName>Pietro</FirstName>
+                <LastName>Terracciano</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>33</Stamina>
+                <Club>Catania</Club>
+                <DateOfBirth>08-03-1990</DateOfBirth>
+            </Player>
+            <Player id="6578">
+                <FirstName>Gastón</FirstName>
+                <LastName>Sauro</LastName>
+                <Position>CB</Position>
+                <Pace>58</Pace>
+                <Shooting>43</Shooting>
+                <Passing>51</Passing>
+                <Offensive>47</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>68</Stamina>
+                <Club>Catania</Club>
+                <DateOfBirth>23-02-1990</DateOfBirth>
+            </Player>
+            <Player id="7506">
+                <FirstName>Edgar</FirstName>
+                <LastName>Çani</LastName>
+                <Position>ST</Position>
+                <Pace>55</Pace>
+                <Shooting>60</Shooting>
+                <Passing>51</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>33</Defensive>
+                <Stamina>66</Stamina>
+                <Club>Catania</Club>
+                <DateOfBirth>22-07-1989</DateOfBirth>
+            </Player>
+            <Player id="9465">
+                <FirstName>Filip</FirstName>
+                <LastName>Janković</LastName>
+                <Position>CAM</Position>
+                <Pace>68</Pace>
+                <Shooting>44</Shooting>
+                <Passing>61</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>24</Defensive>
+                <Stamina>55</Stamina>
+                <Club>Catania</Club>
+                <DateOfBirth>17-01-1995</DateOfBirth>
+            </Player>
+            <Player id="10537">
+                <FirstName>Adrián</FirstName>
+                <LastName>Calello</LastName>
+                <Position>CDM</Position>
+                <Pace>60</Pace>
+                <Shooting>32</Shooting>
+                <Passing>50</Passing>
+                <Offensive>41</Offensive>
+                <Defensive>49</Defensive>
+                <Stamina>66</Stamina>
+                <Club>Catania</Club>
+                <DateOfBirth>14-05-1987</DateOfBirth>
+            </Player>
+            <Player id="12583">
+                <FirstName>R. Martinho</FirstName>
+                <LastName>Alves de Lima</LastName>
+                <Position>LW</Position>
+                <Pace>90</Pace>
+                <Shooting>64</Shooting>
+                <Passing>66</Passing>
+                <Offensive>65</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>87</Stamina>
+                <Club>Catania</Club>
+                <DateOfBirth>15-04-1988</DateOfBirth>
+            </Player>
+            <Player id="12638">
+                <FirstName>Alessandro</FirstName>
+                <LastName>Rosina</LastName>
+                <Position>RW</Position>
+                <Pace>67</Pace>
+                <Shooting>68</Shooting>
+                <Passing>71</Passing>
+                <Offensive>69</Offensive>
+                <Defensive>33</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Catania</Club>
+                <DateOfBirth>31-01-1984</DateOfBirth>
+            </Player>
+            <Player id="12737">
+                <FirstName>Fabián</FirstName>
+                <LastName>Rinaudo</LastName>
+                <Position>CDM</Position>
+                <Pace>72</Pace>
+                <Shooting>62</Shooting>
+                <Passing>66</Passing>
+                <Offensive>64</Offensive>
+                <Defensive>70</Defensive>
+                <Stamina>84</Stamina>
+                <Club>Catania</Club>
+                <DateOfBirth>08-05-1987</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Chiavari">
+            <Player id="615">
+                <FirstName>Leandro</FirstName>
+                <LastName>Rinaudo</LastName>
+                <Position>CB</Position>
+                <Pace>51</Pace>
+                <Shooting>44</Shooting>
+                <Passing>47</Passing>
+                <Offensive>45</Offensive>
+                <Defensive>73</Defensive>
+                <Stamina>53</Stamina>
+                <Club>Chiavari</Club>
+                <DateOfBirth>09-05-1983</DateOfBirth>
+            </Player>
+            <Player id="3967">
+                <FirstName>Andrea</FirstName>
+                <LastName>Mazzarani</LastName>
+                <Position>CF</Position>
+                <Pace>77</Pace>
+                <Shooting>61</Shooting>
+                <Passing>64</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>32</Defensive>
+                <Stamina>76</Stamina>
+                <Club>Chiavari</Club>
+                <DateOfBirth>06-11-1989</DateOfBirth>
+            </Player>
+            <Player id="6179">
+                <FirstName>Gianluca</FirstName>
+                <LastName>Litteri</LastName>
+                <Position>ST</Position>
+                <Pace>65</Pace>
+                <Shooting>62</Shooting>
+                <Passing>50</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>26</Defensive>
+                <Stamina>59</Stamina>
+                <Club>Chiavari</Club>
+                <DateOfBirth>06-06-1988</DateOfBirth>
+            </Player>
+            <Player id="6514">
+                <FirstName>Michele</FirstName>
+                <LastName>Troiano</LastName>
+                <Position>CDM</Position>
+                <Pace>66</Pace>
+                <Shooting>56</Shooting>
+                <Passing>65</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>54</Defensive>
+                <Stamina>79</Stamina>
+                <Club>Chiavari</Club>
+                <DateOfBirth>07-01-1985</DateOfBirth>
+            </Player>
+            <Player id="6879">
+                <FirstName>Mateusz</FirstName>
+                <LastName>Lewandowski</LastName>
+                <Position>LB</Position>
+                <Pace>77</Pace>
+                <Shooting>54</Shooting>
+                <Passing>56</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>76</Stamina>
+                <Club>Chiavari</Club>
+                <DateOfBirth>18-03-1993</DateOfBirth>
+            </Player>
+            <Player id="7519">
+                <FirstName>Francesco</FirstName>
+                <LastName>Di Tacchio</LastName>
+                <Position>CM</Position>
+                <Pace>67</Pace>
+                <Shooting>43</Shooting>
+                <Passing>59</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>56</Defensive>
+                <Stamina>74</Stamina>
+                <Club>Chiavari</Club>
+                <DateOfBirth>20-04-1990</DateOfBirth>
+            </Player>
+            <Player id="10113">
+                <FirstName>Cephas</FirstName>
+                <LastName>Malele</LastName>
+                <Position>ST</Position>
+                <Pace>52</Pace>
+                <Shooting>57</Shooting>
+                <Passing>37</Passing>
+                <Offensive>47</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>61</Stamina>
+                <Club>Chiavari</Club>
+                <DateOfBirth>08-01-1994</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Livorno">
+            <Player id="654">
+                <FirstName>Luca</FirstName>
+                <LastName>Siligardi</LastName>
+                <Position>RF</Position>
+                <Pace>80</Pace>
+                <Shooting>71</Shooting>
+                <Passing>62</Passing>
+                <Offensive>66</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>73</Stamina>
+                <Club>Livorno</Club>
+                <DateOfBirth>26-01-1988</DateOfBirth>
+            </Player>
+            <Player id="758">
+                <FirstName>Marco</FirstName>
+                <LastName>Biagianti</LastName>
+                <Position>CDM</Position>
+                <Pace>60</Pace>
+                <Shooting>61</Shooting>
+                <Passing>70</Passing>
+                <Offensive>65</Offensive>
+                <Defensive>67</Defensive>
+                <Stamina>73</Stamina>
+                <Club>Livorno</Club>
+                <DateOfBirth>19-04-1984</DateOfBirth>
+            </Player>
+            <Player id="1531">
+                <FirstName>Alessandro</FirstName>
+                <LastName>Bernardini</LastName>
+                <Position>CB</Position>
+                <Pace>60</Pace>
+                <Shooting>35</Shooting>
+                <Passing>38</Passing>
+                <Offensive>36</Offensive>
+                <Defensive>72</Defensive>
+                <Stamina>62</Stamina>
+                <Club>Livorno</Club>
+                <DateOfBirth>21-01-1987</DateOfBirth>
+            </Player>
+            <Player id="1923">
+                <FirstName>Juan Ignacio</FirstName>
+                <LastName>Surraco</LastName>
+                <Position>LW</Position>
+                <Pace>79</Pace>
+                <Shooting>55</Shooting>
+                <Passing>61</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>86</Stamina>
+                <Club>Livorno</Club>
+                <DateOfBirth>14-08-1987</DateOfBirth>
+            </Player>
+            <Player id="2107">
+                <FirstName>Federico</FirstName>
+                <LastName>Ceccherini</LastName>
+                <Position>CB</Position>
+                <Pace>67</Pace>
+                <Shooting>25</Shooting>
+                <Passing>38</Passing>
+                <Offensive>31</Offensive>
+                <Defensive>68</Defensive>
+                <Stamina>69</Stamina>
+                <Club>Livorno</Club>
+                <DateOfBirth>11-05-1992</DateOfBirth>
+            </Player>
+            <Player id="4123">
+                <FirstName>Giuseppe</FirstName>
+                <LastName>Gemiti</LastName>
+                <Position>LM</Position>
+                <Pace>76</Pace>
+                <Shooting>49</Shooting>
+                <Passing>62</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>56</Defensive>
+                <Stamina>75</Stamina>
+                <Club>Livorno</Club>
+                <DateOfBirth>03-05-1981</DateOfBirth>
+            </Player>
+            <Player id="5275">
+                <FirstName>Luca</FirstName>
+                <LastName>Mazzoni</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>29</Stamina>
+                <Club>Livorno</Club>
+                <DateOfBirth>29-03-1984</DateOfBirth>
+            </Player>
+            <Player id="7725">
+                <FirstName>Alessandro</FirstName>
+                <LastName>Lambrughi</LastName>
+                <Position>LB</Position>
+                <Pace>79</Pace>
+                <Shooting>32</Shooting>
+                <Passing>54</Passing>
+                <Offensive>43</Offensive>
+                <Defensive>57</Defensive>
+                <Stamina>82</Stamina>
+                <Club>Livorno</Club>
+                <DateOfBirth>19-05-1987</DateOfBirth>
+            </Player>
+            <Player id="12762">
+                <FirstName>Emerson</FirstName>
+                <LastName>Ramos Borges</LastName>
+                <Position>CB</Position>
+                <Pace>66</Pace>
+                <Shooting>54</Shooting>
+                <Passing>61</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>72</Defensive>
+                <Stamina>65</Stamina>
+                <Club>Livorno</Club>
+                <DateOfBirth>16-08-1980</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Pescara">
+            <Player id="717">
+                <FirstName>Cristian</FirstName>
+                <LastName>Pasquato</LastName>
+                <Position>LW</Position>
+                <Pace>85</Pace>
+                <Shooting>65</Shooting>
+                <Passing>64</Passing>
+                <Offensive>64</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Pescara</Club>
+                <DateOfBirth>20-07-1989</DateOfBirth>
+            </Player>
+            <Player id="2246">
+                <FirstName>Gianluca</FirstName>
+                <LastName>Caprari</LastName>
+                <Position>LW</Position>
+                <Pace>83</Pace>
+                <Shooting>62</Shooting>
+                <Passing>59</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>26</Defensive>
+                <Stamina>68</Stamina>
+                <Club>Pescara</Club>
+                <DateOfBirth>30-07-1993</DateOfBirth>
+            </Player>
+            <Player id="2376">
+                <FirstName>Birkir</FirstName>
+                <LastName>Bjarnason</LastName>
+                <Position>CM</Position>
+                <Pace>74</Pace>
+                <Shooting>60</Shooting>
+                <Passing>64</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>61</Defensive>
+                <Stamina>82</Stamina>
+                <Club>Pescara</Club>
+                <DateOfBirth>27-05-1988</DateOfBirth>
+            </Player>
+            <Player id="2656">
+                <FirstName>Bartosz</FirstName>
+                <LastName>Salamon</LastName>
+                <Position>CB</Position>
+                <Pace>58</Pace>
+                <Shooting>52</Shooting>
+                <Passing>62</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>65</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Pescara</Club>
+                <DateOfBirth>01-05-1991</DateOfBirth>
+            </Player>
+            <Player id="3155">
+                <FirstName>Matteo</FirstName>
+                <LastName>Politano</LastName>
+                <Position>RW</Position>
+                <Pace>80</Pace>
+                <Shooting>55</Shooting>
+                <Passing>58</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>24</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Pescara</Club>
+                <DateOfBirth>03-08-1993</DateOfBirth>
+            </Player>
+            <Player id="3999">
+                <FirstName>Uroš</FirstName>
+                <LastName>Ćosić</LastName>
+                <Position>CB</Position>
+                <Pace>62</Pace>
+                <Shooting>39</Shooting>
+                <Passing>44</Passing>
+                <Offensive>41</Offensive>
+                <Defensive>67</Defensive>
+                <Stamina>66</Stamina>
+                <Club>Pescara</Club>
+                <DateOfBirth>24-10-1992</DateOfBirth>
+            </Player>
+            <Player id="6258">
+                <FirstName>Raffaele</FirstName>
+                <LastName>Pucino</LastName>
+                <Position>RB</Position>
+                <Pace>67</Pace>
+                <Shooting>40</Shooting>
+                <Passing>54</Passing>
+                <Offensive>47</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>74</Stamina>
+                <Club>Pescara</Club>
+                <DateOfBirth>03-05-1991</DateOfBirth>
+            </Player>
+            <Player id="8967">
+                <FirstName>Mathias</FirstName>
+                <LastName>Pogba</LastName>
+                <Position>ST</Position>
+                <Pace>74</Pace>
+                <Shooting>58</Shooting>
+                <Passing>50</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Pescara</Club>
+                <DateOfBirth>19-08-1990</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Perugia">
+            <Player id="730">
+                <FirstName>Brayan</FirstName>
+                <LastName>Perea</LastName>
+                <Position>ST</Position>
+                <Pace>78</Pace>
+                <Shooting>66</Shooting>
+                <Passing>65</Passing>
+                <Offensive>65</Offensive>
+                <Defensive>36</Defensive>
+                <Stamina>68</Stamina>
+                <Club>Perugia</Club>
+                <DateOfBirth>25-02-1993</DateOfBirth>
+            </Player>
+            <Player id="2803">
+                <FirstName>Marco</FirstName>
+                <LastName>Rossi</LastName>
+                <Position>LB</Position>
+                <Pace>65</Pace>
+                <Shooting>40</Shooting>
+                <Passing>47</Passing>
+                <Offensive>43</Offensive>
+                <Defensive>71</Defensive>
+                <Stamina>68</Stamina>
+                <Club>Perugia</Club>
+                <DateOfBirth>30-09-1987</DateOfBirth>
+            </Player>
+            <Player id="2825">
+                <FirstName>Guillermo</FirstName>
+                <LastName>Giacomazzi</LastName>
+                <Position>CB</Position>
+                <Pace>33</Pace>
+                <Shooting>58</Shooting>
+                <Passing>64</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>61</Defensive>
+                <Stamina>34</Stamina>
+                <Club>Perugia</Club>
+                <DateOfBirth>21-11-1977</DateOfBirth>
+            </Player>
+            <Player id="3640">
+                <FirstName>Lorenzo</FirstName>
+                <LastName>Del Prete</LastName>
+                <Position>RB</Position>
+                <Pace>79</Pace>
+                <Shooting>41</Shooting>
+                <Passing>56</Passing>
+                <Offensive>48</Offensive>
+                <Defensive>61</Defensive>
+                <Stamina>82</Stamina>
+                <Club>Perugia</Club>
+                <DateOfBirth>12-01-1986</DateOfBirth>
+            </Player>
+            <Player id="5510">
+                <FirstName>Valerio</FirstName>
+                <LastName>Verre</LastName>
+                <Position>CM</Position>
+                <Pace>69</Pace>
+                <Shooting>55</Shooting>
+                <Passing>65</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>53</Defensive>
+                <Stamina>63</Stamina>
+                <Club>Perugia</Club>
+                <DateOfBirth>11-01-1994</DateOfBirth>
+            </Player>
+            <Player id="5697">
+                <FirstName>Jan</FirstName>
+                <LastName>Koprivec</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>20</Stamina>
+                <Club>Perugia</Club>
+                <DateOfBirth>15-07-1988</DateOfBirth>
+            </Player>
+            <Player id="6363">
+                <FirstName>Gianluca</FirstName>
+                <LastName>Comotto</LastName>
+                <Position>RB</Position>
+                <Pace>49</Pace>
+                <Shooting>50</Shooting>
+                <Passing>61</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>32</Stamina>
+                <Club>Perugia</Club>
+                <DateOfBirth>16-10-1978</DateOfBirth>
+            </Player>
+            <Player id="7050">
+                <FirstName>Michael</FirstName>
+                <LastName>Rabušic</LastName>
+                <Position>ST</Position>
+                <Pace>73</Pace>
+                <Shooting>59</Shooting>
+                <Passing>50</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>34</Defensive>
+                <Stamina>52</Stamina>
+                <Club>Perugia</Club>
+                <DateOfBirth>17-09-1989</DateOfBirth>
+            </Player>
+            <Player id="7773">
+                <FirstName>Alessandro</FirstName>
+                <LastName>Crescenzi</LastName>
+                <Position>RB</Position>
+                <Pace>71</Pace>
+                <Shooting>37</Shooting>
+                <Passing>54</Passing>
+                <Offensive>45</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Perugia</Club>
+                <DateOfBirth>25-09-1991</DateOfBirth>
+            </Player>
+            <Player id="8657">
+                <FirstName>Gianluca</FirstName>
+                <LastName>Nicco</LastName>
+                <Position>CM</Position>
+                <Pace>71</Pace>
+                <Shooting>51</Shooting>
+                <Passing>58</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>47</Defensive>
+                <Stamina>82</Stamina>
+                <Club>Perugia</Club>
+                <DateOfBirth>10-08-1988</DateOfBirth>
+            </Player>
+            <Player id="12811">
+                <FirstName>Rodrigo</FirstName>
+                <LastName>Ferrante Taddei</LastName>
+                <Position>CM</Position>
+                <Pace>61</Pace>
+                <Shooting>67</Shooting>
+                <Passing>74</Passing>
+                <Offensive>70</Offensive>
+                <Defensive>70</Defensive>
+                <Stamina>68</Stamina>
+                <Club>Perugia</Club>
+                <DateOfBirth>06-03-1980</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Brescia">
+            <Player id="760">
+                <FirstName>Daniele</FirstName>
+                <LastName>Corvia</LastName>
+                <Position>ST</Position>
+                <Pace>76</Pace>
+                <Shooting>68</Shooting>
+                <Passing>50</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>38</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Brescia</Club>
+                <DateOfBirth>22-11-1984</DateOfBirth>
+            </Player>
+            <Player id="923">
+                <FirstName>Valerio</FirstName>
+                <LastName>Di Cesare</LastName>
+                <Position>CB</Position>
+                <Pace>55</Pace>
+                <Shooting>38</Shooting>
+                <Passing>37</Passing>
+                <Offensive>37</Offensive>
+                <Defensive>72</Defensive>
+                <Stamina>51</Stamina>
+                <Club>Brescia</Club>
+                <DateOfBirth>23-05-1983</DateOfBirth>
+            </Player>
+            <Player id="1063">
+                <FirstName>Simone</FirstName>
+                <LastName>Bentivoglio</LastName>
+                <Position>CM</Position>
+                <Pace>68</Pace>
+                <Shooting>62</Shooting>
+                <Passing>69</Passing>
+                <Offensive>65</Offensive>
+                <Defensive>61</Defensive>
+                <Stamina>74</Stamina>
+                <Club>Brescia</Club>
+                <DateOfBirth>29-05-1985</DateOfBirth>
+            </Player>
+            <Player id="1664">
+                <FirstName>Alessandro</FirstName>
+                <LastName>Budel</LastName>
+                <Position>CDM</Position>
+                <Pace>42</Pace>
+                <Shooting>57</Shooting>
+                <Passing>69</Passing>
+                <Offensive>63</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>69</Stamina>
+                <Club>Brescia</Club>
+                <DateOfBirth>25-02-1981</DateOfBirth>
+            </Player>
+            <Player id="2823">
+                <FirstName>Andrea</FirstName>
+                <LastName>Caracciolo</LastName>
+                <Position>ST</Position>
+                <Pace>60</Pace>
+                <Shooting>64</Shooting>
+                <Passing>54</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>36</Defensive>
+                <Stamina>74</Stamina>
+                <Club>Brescia</Club>
+                <DateOfBirth>18-09-1981</DateOfBirth>
+            </Player>
+            <Player id="5527">
+                <FirstName>Ahmad</FirstName>
+                <LastName>Benali</LastName>
+                <Position>CM</Position>
+                <Pace>82</Pace>
+                <Shooting>46</Shooting>
+                <Passing>65</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>40</Defensive>
+                <Stamina>82</Stamina>
+                <Club>Brescia</Club>
+                <DateOfBirth>07-02-1992</DateOfBirth>
+            </Player>
+            <Player id="6998">
+                <FirstName>Marco</FirstName>
+                <LastName>Zambelli</LastName>
+                <Position>RM</Position>
+                <Pace>79</Pace>
+                <Shooting>47</Shooting>
+                <Passing>56</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>92</Stamina>
+                <Club>Brescia</Club>
+                <DateOfBirth>22-08-1985</DateOfBirth>
+            </Player>
+            <Player id="7194">
+                <FirstName>Michele</FirstName>
+                <LastName>Arcari</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>36</Stamina>
+                <Club>Brescia</Club>
+                <DateOfBirth>26-07-1978</DateOfBirth>
+            </Player>
+            <Player id="12774">
+                <FirstName>Alessio</FirstName>
+                <LastName>Sestu</LastName>
+                <Position>RM</Position>
+                <Pace>77</Pace>
+                <Shooting>65</Shooting>
+                <Passing>70</Passing>
+                <Offensive>67</Offensive>
+                <Defensive>34</Defensive>
+                <Stamina>59</Stamina>
+                <Club>Brescia</Club>
+                <DateOfBirth>29-09-1983</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="La Spezia">
+            <Player id="1145">
+                <FirstName>Matteo</FirstName>
+                <LastName>Ardemagni</LastName>
+                <Position>ST</Position>
+                <Pace>72</Pace>
+                <Shooting>68</Shooting>
+                <Passing>50</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>75</Stamina>
+                <Club>La Spezia</Club>
+                <DateOfBirth>26-03-1987</DateOfBirth>
+            </Player>
+            <Player id="1727">
+                <FirstName>Osariemen</FirstName>
+                <LastName>Ebagua</LastName>
+                <Position>ST</Position>
+                <Pace>82</Pace>
+                <Shooting>67</Shooting>
+                <Passing>51</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>31</Defensive>
+                <Stamina>72</Stamina>
+                <Club>La Spezia</Club>
+                <DateOfBirth>06-06-1986</DateOfBirth>
+            </Player>
+            <Player id="2946">
+                <FirstName>Juan de Dios</FirstName>
+                <LastName>Prados López</LastName>
+                <Position>CDM</Position>
+                <Pace>66</Pace>
+                <Shooting>40</Shooting>
+                <Passing>61</Passing>
+                <Offensive>50</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>78</Stamina>
+                <Club>La Spezia</Club>
+                <DateOfBirth>12-06-1986</DateOfBirth>
+            </Player>
+            <Player id="3672">
+                <FirstName>Niccolò</FirstName>
+                <LastName>Giannetti</LastName>
+                <Position>LW</Position>
+                <Pace>80</Pace>
+                <Shooting>62</Shooting>
+                <Passing>58</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>66</Stamina>
+                <Club>La Spezia</Club>
+                <DateOfBirth>12-05-1991</DateOfBirth>
+            </Player>
+            <Player id="3869">
+                <FirstName>Paolo</FirstName>
+                <LastName>Sammarco</LastName>
+                <Position>CM</Position>
+                <Pace>70</Pace>
+                <Shooting>56</Shooting>
+                <Passing>65</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>59</Defensive>
+                <Stamina>80</Stamina>
+                <Club>La Spezia</Club>
+                <DateOfBirth>17-03-1983</DateOfBirth>
+            </Player>
+            <Player id="5290">
+                <FirstName>Luca</FirstName>
+                <LastName>Ceccarelli</LastName>
+                <Position>CB</Position>
+                <Pace>66</Pace>
+                <Shooting>42</Shooting>
+                <Passing>48</Passing>
+                <Offensive>45</Offensive>
+                <Defensive>65</Defensive>
+                <Stamina>70</Stamina>
+                <Club>La Spezia</Club>
+                <DateOfBirth>20-03-1983</DateOfBirth>
+            </Player>
+            <Player id="6031">
+                <FirstName>Filippo</FirstName>
+                <LastName>De Col</LastName>
+                <Position>RB</Position>
+                <Pace>71</Pace>
+                <Shooting>26</Shooting>
+                <Passing>52</Passing>
+                <Offensive>39</Offensive>
+                <Defensive>61</Defensive>
+                <Stamina>82</Stamina>
+                <Club>La Spezia</Club>
+                <DateOfBirth>28-10-1993</DateOfBirth>
+            </Player>
+            <Player id="6137">
+                <FirstName>Francesco</FirstName>
+                <LastName>Migliore</LastName>
+                <Position>LB</Position>
+                <Pace>72</Pace>
+                <Shooting>35</Shooting>
+                <Passing>56</Passing>
+                <Offensive>45</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>84</Stamina>
+                <Club>La Spezia</Club>
+                <DateOfBirth>17-04-1988</DateOfBirth>
+            </Player>
+            <Player id="6753">
+                <FirstName>Nicola</FirstName>
+                <LastName>Madonna</LastName>
+                <Position>RB</Position>
+                <Pace>69</Pace>
+                <Shooting>56</Shooting>
+                <Passing>60</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>70</Stamina>
+                <Club>La Spezia</Club>
+                <DateOfBirth>31-10-1986</DateOfBirth>
+            </Player>
+            <Player id="9767">
+                <FirstName>Antonini</FirstName>
+                <LastName>Čulina</LastName>
+                <Position>RM</Position>
+                <Pace>75</Pace>
+                <Shooting>52</Shooting>
+                <Passing>52</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>26</Defensive>
+                <Stamina>71</Stamina>
+                <Club>La Spezia</Club>
+                <DateOfBirth>27-01-1992</DateOfBirth>
+            </Player>
+            <Player id="10304">
+                <FirstName>Roberto</FirstName>
+                <LastName>Gagliardini</LastName>
+                <Position>CM</Position>
+                <Pace>65</Pace>
+                <Shooting>45</Shooting>
+                <Passing>50</Passing>
+                <Offensive>47</Offensive>
+                <Defensive>40</Defensive>
+                <Stamina>65</Stamina>
+                <Club>La Spezia</Club>
+                <DateOfBirth>07-04-1994</DateOfBirth>
+            </Player>
+            <Player id="10373">
+                <FirstName>Patrick</FirstName>
+                <LastName>Ciurria</LastName>
+                <Position>RW</Position>
+                <Pace>72</Pace>
+                <Shooting>53</Shooting>
+                <Passing>49</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>25</Defensive>
+                <Stamina>53</Stamina>
+                <Club>La Spezia</Club>
+                <DateOfBirth>09-02-1995</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Crotone">
+            <Player id="1342">
+                <FirstName>Claiton</FirstName>
+                <LastName>Machado dos Santos</LastName>
+                <Position>CB</Position>
+                <Pace>55</Pace>
+                <Shooting>33</Shooting>
+                <Passing>41</Passing>
+                <Offensive>37</Offensive>
+                <Defensive>74</Defensive>
+                <Stamina>54</Stamina>
+                <Club>Crotone</Club>
+                <DateOfBirth>07-09-1984</DateOfBirth>
+            </Player>
+            <Player id="3474">
+                <FirstName>Nnamdi</FirstName>
+                <LastName>Oduamadi</LastName>
+                <Position>LW</Position>
+                <Pace>94</Pace>
+                <Shooting>49</Shooting>
+                <Passing>53</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>88</Stamina>
+                <Club>Crotone</Club>
+                <DateOfBirth>17-10-1990</DateOfBirth>
+            </Player>
+            <Player id="5246">
+                <FirstName>Camillo</FirstName>
+                <LastName>Ciano</LastName>
+                <Position>CF</Position>
+                <Pace>76</Pace>
+                <Shooting>60</Shooting>
+                <Passing>61</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>33</Defensive>
+                <Stamina>66</Stamina>
+                <Club>Crotone</Club>
+                <DateOfBirth>22-02-1990</DateOfBirth>
+            </Player>
+            <Player id="5932">
+                <FirstName>Pietro</FirstName>
+                <LastName>De Giorgio</LastName>
+                <Position>LW</Position>
+                <Pace>73</Pace>
+                <Shooting>61</Shooting>
+                <Passing>59</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>34</Defensive>
+                <Stamina>89</Stamina>
+                <Club>Crotone</Club>
+                <DateOfBirth>16-02-1983</DateOfBirth>
+            </Player>
+            <Player id="6207">
+                <FirstName>Sergiu</FirstName>
+                <LastName>Suciu</LastName>
+                <Position>CM</Position>
+                <Pace>68</Pace>
+                <Shooting>55</Shooting>
+                <Passing>62</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>51</Defensive>
+                <Stamina>80</Stamina>
+                <Club>Crotone</Club>
+                <DateOfBirth>08-05-1990</DateOfBirth>
+            </Player>
+            <Player id="6847">
+                <FirstName>Caio</FirstName>
+                <LastName>Gobbo Secco</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>35</Stamina>
+                <Club>Crotone</Club>
+                <DateOfBirth>22-12-1990</DateOfBirth>
+            </Player>
+            <Player id="7144">
+                <FirstName>Michele</FirstName>
+                <LastName>Cremonesi</LastName>
+                <Position>CB</Position>
+                <Pace>56</Pace>
+                <Shooting>44</Shooting>
+                <Passing>46</Passing>
+                <Offensive>45</Offensive>
+                <Defensive>61</Defensive>
+                <Stamina>60</Stamina>
+                <Club>Crotone</Club>
+                <DateOfBirth>15-04-1988</DateOfBirth>
+            </Player>
+            <Player id="7303">
+                <FirstName>Jacopo</FirstName>
+                <LastName>Dezi</LastName>
+                <Position>CM</Position>
+                <Pace>66</Pace>
+                <Shooting>55</Shooting>
+                <Passing>59</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>50</Defensive>
+                <Stamina>93</Stamina>
+                <Club>Crotone</Club>
+                <DateOfBirth>10-02-1992</DateOfBirth>
+            </Player>
+            <Player id="7866">
+                <FirstName>Steve Leo</FirstName>
+                <LastName>Beleck</LastName>
+                <Position>ST</Position>
+                <Pace>71</Pace>
+                <Shooting>58</Shooting>
+                <Passing>47</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>69</Stamina>
+                <Club>Crotone</Club>
+                <DateOfBirth>10-02-1993</DateOfBirth>
+            </Player>
+            <Player id="8127">
+                <FirstName>Antonio</FirstName>
+                <LastName>Galardo</LastName>
+                <Position>CM</Position>
+                <Pace>32</Pace>
+                <Shooting>56</Shooting>
+                <Passing>61</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>54</Defensive>
+                <Stamina>34</Stamina>
+                <Club>Crotone</Club>
+                <DateOfBirth>18-09-1976</DateOfBirth>
+            </Player>
+            <Player id="9707">
+                <FirstName>Luca</FirstName>
+                <LastName>Berardocco</LastName>
+                <Position>CDM</Position>
+                <Pace>59</Pace>
+                <Shooting>44</Shooting>
+                <Passing>60</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>51</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Crotone</Club>
+                <DateOfBirth>22-01-1991</DateOfBirth>
+            </Player>
+            <Player id="10019">
+                <FirstName>Tomislav</FirstName>
+                <LastName>Saric</LastName>
+                <Position>CM</Position>
+                <Pace>64</Pace>
+                <Shooting>49</Shooting>
+                <Passing>57</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>49</Defensive>
+                <Stamina>61</Stamina>
+                <Club>Crotone</Club>
+                <DateOfBirth>24-06-1990</DateOfBirth>
+            </Player>
+            <Player id="10572">
+                <FirstName>Andrea</FirstName>
+                <LastName>Tripicchio</LastName>
+                <Position>ST</Position>
+                <Pace>67</Pace>
+                <Shooting>55</Shooting>
+                <Passing>47</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>59</Stamina>
+                <Club>Crotone</Club>
+                <DateOfBirth>10-01-1996</DateOfBirth>
+            </Player>
+            <Player id="11144">
+                <FirstName>Cristian</FirstName>
+                <LastName>Riggio</LastName>
+                <Position>CB</Position>
+                <Pace>59</Pace>
+                <Shooting>33</Shooting>
+                <Passing>40</Passing>
+                <Offensive>36</Offensive>
+                <Defensive>54</Defensive>
+                <Stamina>60</Stamina>
+                <Club>Crotone</Club>
+                <DateOfBirth>04-06-1996</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Latina">
+            <Player id="1384">
+                <FirstName>Federico</FirstName>
+                <LastName>Viviani</LastName>
+                <Position>CM</Position>
+                <Pace>64</Pace>
+                <Shooting>61</Shooting>
+                <Passing>71</Passing>
+                <Offensive>66</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Latina</Club>
+                <DateOfBirth>24-03-1992</DateOfBirth>
+            </Player>
+            <Player id="2113">
+                <FirstName>Angelo</FirstName>
+                <LastName>Mariano de Almeida</LastName>
+                <Position>RM</Position>
+                <Pace>79</Pace>
+                <Shooting>58</Shooting>
+                <Passing>63</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>69</Stamina>
+                <Club>Latina</Club>
+                <DateOfBirth>12-06-1981</DateOfBirth>
+            </Player>
+            <Player id="2998">
+                <FirstName>Francesco</FirstName>
+                <LastName>Valiani</LastName>
+                <Position>CM</Position>
+                <Pace>71</Pace>
+                <Shooting>64</Shooting>
+                <Passing>67</Passing>
+                <Offensive>65</Offensive>
+                <Defensive>51</Defensive>
+                <Stamina>90</Stamina>
+                <Club>Latina</Club>
+                <DateOfBirth>29-10-1980</DateOfBirth>
+            </Player>
+            <Player id="3398">
+                <FirstName>Michele</FirstName>
+                <LastName>Paolucci</LastName>
+                <Position>ST</Position>
+                <Pace>70</Pace>
+                <Shooting>66</Shooting>
+                <Passing>56</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>34</Defensive>
+                <Stamina>66</Stamina>
+                <Club>Latina</Club>
+                <DateOfBirth>06-02-1986</DateOfBirth>
+            </Player>
+            <Player id="4175">
+                <FirstName>Andrea</FirstName>
+                <LastName>Rossi</LastName>
+                <Position>LB</Position>
+                <Pace>79</Pace>
+                <Shooting>39</Shooting>
+                <Passing>52</Passing>
+                <Offensive>45</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>83</Stamina>
+                <Club>Latina</Club>
+                <DateOfBirth>07-11-1986</DateOfBirth>
+            </Player>
+            <Player id="4260">
+                <FirstName>Marco</FirstName>
+                <LastName>Crimi</LastName>
+                <Position>CM</Position>
+                <Pace>74</Pace>
+                <Shooting>50</Shooting>
+                <Passing>64</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>57</Defensive>
+                <Stamina>84</Stamina>
+                <Club>Latina</Club>
+                <DateOfBirth>17-03-1990</DateOfBirth>
+            </Player>
+            <Player id="5572">
+                <FirstName>Marcello</FirstName>
+                <LastName>Cottafava</LastName>
+                <Position>CB</Position>
+                <Pace>33</Pace>
+                <Shooting>26</Shooting>
+                <Passing>38</Passing>
+                <Offensive>32</Offensive>
+                <Defensive>67</Defensive>
+                <Stamina>28</Stamina>
+                <Club>Latina</Club>
+                <DateOfBirth>08-09-1977</DateOfBirth>
+            </Player>
+            <Player id="5940">
+                <FirstName>Stefano</FirstName>
+                <LastName>Pettinari</LastName>
+                <Position>ST</Position>
+                <Pace>80</Pace>
+                <Shooting>62</Shooting>
+                <Passing>53</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>34</Defensive>
+                <Stamina>74</Stamina>
+                <Club>Latina</Club>
+                <DateOfBirth>27-01-1992</DateOfBirth>
+            </Player>
+            <Player id="6577">
+                <FirstName>Riccardo</FirstName>
+                <LastName>Brosco</LastName>
+                <Position>CB</Position>
+                <Pace>55</Pace>
+                <Shooting>36</Shooting>
+                <Passing>39</Passing>
+                <Offensive>37</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>66</Stamina>
+                <Club>Latina</Club>
+                <DateOfBirth>03-02-1991</DateOfBirth>
+            </Player>
+            <Player id="7288">
+                <FirstName>Alberto</FirstName>
+                <LastName>Almici</LastName>
+                <Position>RB</Position>
+                <Pace>77</Pace>
+                <Shooting>37</Shooting>
+                <Passing>53</Passing>
+                <Offensive>45</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>80</Stamina>
+                <Club>Latina</Club>
+                <DateOfBirth>11-01-1993</DateOfBirth>
+            </Player>
+            <Player id="7425">
+                <FirstName>Andrea</FirstName>
+                <LastName>Esposito</LastName>
+                <Position>CB</Position>
+                <Pace>56</Pace>
+                <Shooting>34</Shooting>
+                <Passing>37</Passing>
+                <Offensive>35</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Latina</Club>
+                <DateOfBirth>17-05-1986</DateOfBirth>
+            </Player>
+            <Player id="8689">
+                <FirstName>Nii Nortey</FirstName>
+                <LastName>Ashong</LastName>
+                <Position>LB</Position>
+                <Pace>67</Pace>
+                <Shooting>34</Shooting>
+                <Passing>47</Passing>
+                <Offensive>40</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Latina</Club>
+                <DateOfBirth>17-11-1994</DateOfBirth>
+            </Player>
+            <Player id="8941">
+                <FirstName>Simone</FirstName>
+                <LastName>Farelli</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>32</Stamina>
+                <Club>Latina</Club>
+                <DateOfBirth>19-02-1983</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Genoa">
+            <Player id="1532">
+                <FirstName>Antonino</FirstName>
+                <LastName>Ragusa</LastName>
+                <Position>LW</Position>
+                <Pace>84</Pace>
+                <Shooting>65</Shooting>
+                <Passing>62</Passing>
+                <Offensive>63</Offensive>
+                <Defensive>34</Defensive>
+                <Stamina>74</Stamina>
+                <Club>Genoa</Club>
+                <DateOfBirth>27-03-1990</DateOfBirth>
+            </Player>
+            <Player id="4324">
+                <FirstName>Mario</FirstName>
+                <LastName>Sampirisi</LastName>
+                <Position>RB</Position>
+                <Pace>69</Pace>
+                <Shooting>35</Shooting>
+                <Passing>57</Passing>
+                <Offensive>46</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>69</Stamina>
+                <Club>Genoa</Club>
+                <DateOfBirth>31-10-1992</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="ACF Fiorentina">
+            <Player id="1570">
+                <FirstName>Rafał</FirstName>
+                <LastName>Wolski</LastName>
+                <Position>CAM</Position>
+                <Pace>72</Pace>
+                <Shooting>63</Shooting>
+                <Passing>68</Passing>
+                <Offensive>65</Offensive>
+                <Defensive>33</Defensive>
+                <Stamina>65</Stamina>
+                <Club>ACF Fiorentina</Club>
+                <DateOfBirth>10-11-1992</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Cittadella">
+            <Player id="1636">
+                <FirstName>Alessandro</FirstName>
+                <LastName>Sgrigna</LastName>
+                <Position>ST</Position>
+                <Pace>63</Pace>
+                <Shooting>71</Shooting>
+                <Passing>62</Passing>
+                <Offensive>66</Offensive>
+                <Defensive>31</Defensive>
+                <Stamina>57</Stamina>
+                <Club>Cittadella</Club>
+                <DateOfBirth>24-04-1980</DateOfBirth>
+            </Player>
+            <Player id="1931">
+                <FirstName>Claudio</FirstName>
+                <LastName>Coralli</LastName>
+                <Position>ST</Position>
+                <Pace>67</Pace>
+                <Shooting>67</Shooting>
+                <Passing>56</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>35</Defensive>
+                <Stamina>73</Stamina>
+                <Club>Cittadella</Club>
+                <DateOfBirth>01-03-1983</DateOfBirth>
+            </Player>
+            <Player id="7962">
+                <FirstName>Daniel</FirstName>
+                <LastName>Cappelletti</LastName>
+                <Position>CB</Position>
+                <Pace>53</Pace>
+                <Shooting>26</Shooting>
+                <Passing>37</Passing>
+                <Offensive>31</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>65</Stamina>
+                <Club>Cittadella</Club>
+                <DateOfBirth>09-10-1991</DateOfBirth>
+            </Player>
+            <Player id="8176">
+                <FirstName>Nicola</FirstName>
+                <LastName>Rigoni</LastName>
+                <Position>CM</Position>
+                <Pace>62</Pace>
+                <Shooting>53</Shooting>
+                <Passing>63</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>49</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Cittadella</Club>
+                <DateOfBirth>12-11-1990</DateOfBirth>
+            </Player>
+            <Player id="11276">
+                <FirstName>Simone</FirstName>
+                <LastName>Pecorini</LastName>
+                <Position>CM</Position>
+                <Pace>70</Pace>
+                <Shooting>38</Shooting>
+                <Passing>52</Passing>
+                <Offensive>45</Offensive>
+                <Defensive>56</Defensive>
+                <Stamina>62</Stamina>
+                <Club>Cittadella</Club>
+                <DateOfBirth>12-01-1993</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Frosinone">
+            <Player id="1915">
+                <FirstName>Raffaele</FirstName>
+                <LastName>Schiavi</LastName>
+                <Position>CB</Position>
+                <Pace>59</Pace>
+                <Shooting>35</Shooting>
+                <Passing>42</Passing>
+                <Offensive>38</Offensive>
+                <Defensive>69</Defensive>
+                <Stamina>58</Stamina>
+                <Club>Frosinone</Club>
+                <DateOfBirth>15-03-1986</DateOfBirth>
+            </Player>
+            <Player id="3782">
+                <FirstName>Mirko</FirstName>
+                <LastName>Pigliacelli</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>35</Stamina>
+                <Club>Frosinone</Club>
+                <DateOfBirth>30-06-1993</DateOfBirth>
+            </Player>
+            <Player id="4263">
+                <FirstName>Damiano</FirstName>
+                <LastName>Zanon</LastName>
+                <Position>RB</Position>
+                <Pace>71</Pace>
+                <Shooting>39</Shooting>
+                <Passing>57</Passing>
+                <Offensive>48</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>75</Stamina>
+                <Club>Frosinone</Club>
+                <DateOfBirth>02-09-1983</DateOfBirth>
+            </Player>
+            <Player id="4448">
+                <FirstName>Daniel</FirstName>
+                <LastName>Ciofani</LastName>
+                <Position>ST</Position>
+                <Pace>72</Pace>
+                <Shooting>63</Shooting>
+                <Passing>45</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>59</Stamina>
+                <Club>Frosinone</Club>
+                <DateOfBirth>31-07-1985</DateOfBirth>
+            </Player>
+            <Player id="4766">
+                <FirstName>Gaetano</FirstName>
+                <LastName>Masucci</LastName>
+                <Position>RW</Position>
+                <Pace>73</Pace>
+                <Shooting>59</Shooting>
+                <Passing>54</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>73</Stamina>
+                <Club>Frosinone</Club>
+                <DateOfBirth>26-10-1984</DateOfBirth>
+            </Player>
+            <Player id="5377">
+                <FirstName>Davis</FirstName>
+                <LastName>Curiale</LastName>
+                <Position>ST</Position>
+                <Pace>74</Pace>
+                <Shooting>70</Shooting>
+                <Passing>45</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>32</Defensive>
+                <Stamina>65</Stamina>
+                <Club>Frosinone</Club>
+                <DateOfBirth>30-12-1987</DateOfBirth>
+            </Player>
+            <Player id="7536">
+                <FirstName>Matteo</FirstName>
+                <LastName>Ciofani</LastName>
+                <Position>CB</Position>
+                <Pace>64</Pace>
+                <Shooting>36</Shooting>
+                <Passing>42</Passing>
+                <Offensive>39</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>62</Stamina>
+                <Club>Frosinone</Club>
+                <DateOfBirth>26-02-1988</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Varese">
+            <Player id="2328">
+                <FirstName>Manuele</FirstName>
+                <LastName>Blasi</LastName>
+                <Position>CDM</Position>
+                <Pace>60</Pace>
+                <Shooting>47</Shooting>
+                <Passing>63</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>64</Stamina>
+                <Club>Varese</Club>
+                <DateOfBirth>17-08-1980</DateOfBirth>
+            </Player>
+            <Player id="2573">
+                <FirstName>Leonidas</FirstName>
+                <LastName>Neto de Sousa</LastName>
+                <Position>CF</Position>
+                <Pace>62</Pace>
+                <Shooting>66</Shooting>
+                <Passing>63</Passing>
+                <Offensive>64</Offensive>
+                <Defensive>33</Defensive>
+                <Stamina>68</Stamina>
+                <Club>Varese</Club>
+                <DateOfBirth>04-01-1979</DateOfBirth>
+            </Player>
+            <Player id="2654">
+                <FirstName>Emanuel</FirstName>
+                <LastName>Rivas</LastName>
+                <Position>RW</Position>
+                <Pace>91</Pace>
+                <Shooting>54</Shooting>
+                <Passing>54</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>33</Defensive>
+                <Stamina>60</Stamina>
+                <Club>Varese</Club>
+                <DateOfBirth>17-03-1983</DateOfBirth>
+            </Player>
+            <Player id="3113">
+                <FirstName>Martino</FirstName>
+                <LastName>Borghese</LastName>
+                <Position>CB</Position>
+                <Pace>50</Pace>
+                <Shooting>46</Shooting>
+                <Passing>39</Passing>
+                <Offensive>42</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Varese</Club>
+                <DateOfBirth>05-06-1987</DateOfBirth>
+            </Player>
+            <Player id="4154">
+                <FirstName>Gianpietro</FirstName>
+                <LastName>Zecchin</LastName>
+                <Position>CM</Position>
+                <Pace>77</Pace>
+                <Shooting>60</Shooting>
+                <Passing>67</Passing>
+                <Offensive>63</Offensive>
+                <Defensive>52</Defensive>
+                <Stamina>78</Stamina>
+                <Club>Varese</Club>
+                <DateOfBirth>05-05-1983</DateOfBirth>
+            </Player>
+            <Player id="4696">
+                <FirstName>Arturo</FirstName>
+                <LastName>Lupoli</LastName>
+                <Position>ST</Position>
+                <Pace>80</Pace>
+                <Shooting>62</Shooting>
+                <Passing>55</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>65</Stamina>
+                <Club>Varese</Club>
+                <DateOfBirth>24-06-1987</DateOfBirth>
+            </Player>
+            <Player id="5611">
+                <FirstName>Angelo</FirstName>
+                <LastName>Rea</LastName>
+                <Position>CB</Position>
+                <Pace>54</Pace>
+                <Shooting>30</Shooting>
+                <Passing>44</Passing>
+                <Offensive>37</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>51</Stamina>
+                <Club>Varese</Club>
+                <DateOfBirth>16-06-1982</DateOfBirth>
+            </Player>
+            <Player id="5944">
+                <FirstName>Daniele</FirstName>
+                <LastName>Corti</LastName>
+                <Position>CDM</Position>
+                <Pace>41</Pace>
+                <Shooting>54</Shooting>
+                <Passing>62</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>54</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Varese</Club>
+                <DateOfBirth>16-05-1980</DateOfBirth>
+            </Player>
+            <Player id="6513">
+                <FirstName>Andrea</FirstName>
+                <LastName>Cristiano</LastName>
+                <Position>CM</Position>
+                <Pace>75</Pace>
+                <Shooting>60</Shooting>
+                <Passing>65</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>48</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Varese</Club>
+                <DateOfBirth>15-07-1984</DateOfBirth>
+            </Player>
+            <Player id="7097">
+                <FirstName>Luigi</FirstName>
+                <LastName>Falcone</LastName>
+                <Position>LW</Position>
+                <Pace>82</Pace>
+                <Shooting>58</Shooting>
+                <Passing>52</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>27</Defensive>
+                <Stamina>65</Stamina>
+                <Club>Varese</Club>
+                <DateOfBirth>26-05-1992</DateOfBirth>
+            </Player>
+            <Player id="8406">
+                <FirstName>Andrea</FirstName>
+                <LastName>De Vito</LastName>
+                <Position>LB</Position>
+                <Pace>70</Pace>
+                <Shooting>39</Shooting>
+                <Passing>36</Passing>
+                <Offensive>37</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>80</Stamina>
+                <Club>Varese</Club>
+                <DateOfBirth>27-11-1991</DateOfBirth>
+            </Player>
+            <Player id="8801">
+                <FirstName>Riccardo</FirstName>
+                <LastName>Fiamozzi</LastName>
+                <Position>RB</Position>
+                <Pace>70</Pace>
+                <Shooting>42</Shooting>
+                <Passing>53</Passing>
+                <Offensive>47</Offensive>
+                <Defensive>55</Defensive>
+                <Stamina>76</Stamina>
+                <Club>Varese</Club>
+                <DateOfBirth>18-05-1993</DateOfBirth>
+            </Player>
+            <Player id="9255">
+                <FirstName>Stefan</FirstName>
+                <LastName>Simic</LastName>
+                <Position>CB</Position>
+                <Pace>63</Pace>
+                <Shooting>28</Shooting>
+                <Passing>46</Passing>
+                <Offensive>37</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Varese</Club>
+                <DateOfBirth>20-01-1995</DateOfBirth>
+            </Player>
+            <Player id="9781">
+                <FirstName>Krisztián</FirstName>
+                <LastName>Tamás</LastName>
+                <Position>LB</Position>
+                <Pace>73</Pace>
+                <Shooting>46</Shooting>
+                <Passing>43</Passing>
+                <Offensive>44</Offensive>
+                <Defensive>59</Defensive>
+                <Stamina>68</Stamina>
+                <Club>Varese</Club>
+                <DateOfBirth>18-04-1995</DateOfBirth>
+            </Player>
+            <Player id="9861">
+                <FirstName>Luca</FirstName>
+                <LastName>Forte</LastName>
+                <Position>ST</Position>
+                <Pace>77</Pace>
+                <Shooting>53</Shooting>
+                <Passing>48</Passing>
+                <Offensive>50</Offensive>
+                <Defensive>27</Defensive>
+                <Stamina>60</Stamina>
+                <Club>Varese</Club>
+                <DateOfBirth>28-07-1994</DateOfBirth>
+            </Player>
+            <Player id="10916">
+                <FirstName>Andrea</FirstName>
+                <LastName>Barberis</LastName>
+                <Position>CM</Position>
+                <Pace>63</Pace>
+                <Shooting>47</Shooting>
+                <Passing>55</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>44</Defensive>
+                <Stamina>48</Stamina>
+                <Club>Varese</Club>
+                <DateOfBirth>11-12-1993</DateOfBirth>
+            </Player>
+            <Player id="11363">
+                <FirstName>Leonardo</FirstName>
+                <LastName>Capezzi</LastName>
+                <Position>CM</Position>
+                <Pace>63</Pace>
+                <Shooting>45</Shooting>
+                <Passing>50</Passing>
+                <Offensive>47</Offensive>
+                <Defensive>44</Defensive>
+                <Stamina>52</Stamina>
+                <Club>Varese</Club>
+                <DateOfBirth>28-03-1995</DateOfBirth>
+            </Player>
+            <Player id="11403">
+                <FirstName>Cosimo</FirstName>
+                <LastName>La Gorga</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>20</Stamina>
+                <Club>Varese</Club>
+                <DateOfBirth>01-11-1994</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Avellino">
+            <Player id="2496">
+                <FirstName>Rodrigo</FirstName>
+                <LastName>Ely</LastName>
+                <Position>CB</Position>
+                <Pace>69</Pace>
+                <Shooting>36</Shooting>
+                <Passing>45</Passing>
+                <Offensive>40</Offensive>
+                <Defensive>71</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Avellino</Club>
+                <DateOfBirth>03-11-1993</DateOfBirth>
+            </Player>
+            <Player id="2503">
+                <FirstName>Moussa</FirstName>
+                <LastName>Kone</LastName>
+                <Position>CM</Position>
+                <Pace>76</Pace>
+                <Shooting>60</Shooting>
+                <Passing>62</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>56</Defensive>
+                <Stamina>77</Stamina>
+                <Club>Avellino</Club>
+                <DateOfBirth>12-02-1990</DateOfBirth>
+            </Player>
+            <Player id="2861">
+                <FirstName>Luigi</FirstName>
+                <LastName>Castaldo</LastName>
+                <Position>ST</Position>
+                <Pace>70</Pace>
+                <Shooting>65</Shooting>
+                <Passing>46</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>73</Stamina>
+                <Club>Avellino</Club>
+                <DateOfBirth>02-05-1982</DateOfBirth>
+            </Player>
+            <Player id="3431">
+                <FirstName>Antonio</FirstName>
+                <LastName>Zito</LastName>
+                <Position>CM</Position>
+                <Pace>79</Pace>
+                <Shooting>61</Shooting>
+                <Passing>65</Passing>
+                <Offensive>63</Offensive>
+                <Defensive>52</Defensive>
+                <Stamina>81</Stamina>
+                <Club>Avellino</Club>
+                <DateOfBirth>06-06-1986</DateOfBirth>
+            </Player>
+            <Player id="4380">
+                <FirstName>Jherson</FirstName>
+                <LastName>Vergara</LastName>
+                <Position>CB</Position>
+                <Pace>54</Pace>
+                <Shooting>24</Shooting>
+                <Passing>36</Passing>
+                <Offensive>30</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>58</Stamina>
+                <Club>Avellino</Club>
+                <DateOfBirth>26-05-1994</DateOfBirth>
+            </Player>
+            <Player id="4788">
+                <FirstName>Fabio</FirstName>
+                <LastName>Pisacane</LastName>
+                <Position>CB</Position>
+                <Pace>54</Pace>
+                <Shooting>34</Shooting>
+                <Passing>40</Passing>
+                <Offensive>37</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>66</Stamina>
+                <Club>Avellino</Club>
+                <DateOfBirth>28-01-1986</DateOfBirth>
+            </Player>
+            <Player id="5137">
+                <FirstName>Eros</FirstName>
+                <LastName>Schiavon</LastName>
+                <Position>CM</Position>
+                <Pace>74</Pace>
+                <Shooting>50</Shooting>
+                <Passing>64</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>52</Defensive>
+                <Stamina>85</Stamina>
+                <Club>Avellino</Club>
+                <DateOfBirth>24-04-1983</DateOfBirth>
+            </Player>
+            <Player id="5502">
+                <FirstName>Gianmario</FirstName>
+                <LastName>Comi</LastName>
+                <Position>ST</Position>
+                <Pace>66</Pace>
+                <Shooting>63</Shooting>
+                <Passing>49</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>62</Stamina>
+                <Club>Avellino</Club>
+                <DateOfBirth>03-05-1992</DateOfBirth>
+            </Player>
+            <Player id="5788">
+                <FirstName>Alessandro</FirstName>
+                <LastName>Fabbro</LastName>
+                <Position>CB</Position>
+                <Pace>34</Pace>
+                <Shooting>35</Shooting>
+                <Passing>41</Passing>
+                <Offensive>38</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>54</Stamina>
+                <Club>Avellino</Club>
+                <DateOfBirth>18-02-1981</DateOfBirth>
+            </Player>
+            <Player id="5850">
+                <FirstName>Mariano</FirstName>
+                <LastName>Arini</LastName>
+                <Position>CM</Position>
+                <Pace>63</Pace>
+                <Shooting>47</Shooting>
+                <Passing>61</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>54</Defensive>
+                <Stamina>94</Stamina>
+                <Club>Avellino</Club>
+                <DateOfBirth>17-01-1987</DateOfBirth>
+            </Player>
+            <Player id="6188">
+                <FirstName>Arnor</FirstName>
+                <LastName>Angeli</LastName>
+                <Position>CAM</Position>
+                <Pace>63</Pace>
+                <Shooting>61</Shooting>
+                <Passing>62</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>59</Defensive>
+                <Stamina>73</Stamina>
+                <Club>Avellino</Club>
+                <DateOfBirth>25-02-1991</DateOfBirth>
+            </Player>
+            <Player id="6895">
+                <FirstName>Angelo</FirstName>
+                <LastName>D'Angelo</LastName>
+                <Position>CM</Position>
+                <Pace>58</Pace>
+                <Shooting>50</Shooting>
+                <Passing>60</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>53</Defensive>
+                <Stamina>66</Stamina>
+                <Club>Avellino</Club>
+                <DateOfBirth>18-09-1985</DateOfBirth>
+            </Player>
+            <Player id="7140">
+                <FirstName>Luca</FirstName>
+                <LastName>Bittante</LastName>
+                <Position>LM</Position>
+                <Pace>70</Pace>
+                <Shooting>42</Shooting>
+                <Passing>59</Passing>
+                <Offensive>50</Offensive>
+                <Defensive>57</Defensive>
+                <Stamina>75</Stamina>
+                <Club>Avellino</Club>
+                <DateOfBirth>14-08-1993</DateOfBirth>
+            </Player>
+            <Player id="8870">
+                <FirstName>Andrea</FirstName>
+                <LastName>Arrighini</LastName>
+                <Position>ST</Position>
+                <Pace>61</Pace>
+                <Shooting>58</Shooting>
+                <Passing>51</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>59</Stamina>
+                <Club>Avellino</Club>
+                <DateOfBirth>06-06-1990</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Terni">
+            <Player id="2808">
+                <FirstName>Salif</FirstName>
+                <LastName>Dianda</LastName>
+                <Position>RM</Position>
+                <Pace>90</Pace>
+                <Shooting>55</Shooting>
+                <Passing>60</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>54</Defensive>
+                <Stamina>85</Stamina>
+                <Club>Terni</Club>
+                <DateOfBirth>17-12-1987</DateOfBirth>
+            </Player>
+            <Player id="3069">
+                <FirstName>Mirko</FirstName>
+                <LastName>Eramo</LastName>
+                <Position>CM</Position>
+                <Pace>71</Pace>
+                <Shooting>59</Shooting>
+                <Passing>66</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>54</Defensive>
+                <Stamina>73</Stamina>
+                <Club>Terni</Club>
+                <DateOfBirth>12-07-1989</DateOfBirth>
+            </Player>
+            <Player id="3402">
+                <FirstName>Luigi</FirstName>
+                <LastName>Vitale</LastName>
+                <Position>LM</Position>
+                <Pace>74</Pace>
+                <Shooting>61</Shooting>
+                <Passing>65</Passing>
+                <Offensive>63</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>81</Stamina>
+                <Club>Terni</Club>
+                <DateOfBirth>05-10-1987</DateOfBirth>
+            </Player>
+            <Player id="3806">
+                <FirstName>Damiano</FirstName>
+                <LastName>Ferronetti</LastName>
+                <Position>CB</Position>
+                <Pace>66</Pace>
+                <Shooting>43</Shooting>
+                <Passing>52</Passing>
+                <Offensive>47</Offensive>
+                <Defensive>65</Defensive>
+                <Stamina>69</Stamina>
+                <Club>Terni</Club>
+                <DateOfBirth>01-11-1984</DateOfBirth>
+            </Player>
+            <Player id="4507">
+                <FirstName>Davide</FirstName>
+                <LastName>Gavazzi</LastName>
+                <Position>CM</Position>
+                <Pace>69</Pace>
+                <Shooting>61</Shooting>
+                <Passing>64</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>51</Defensive>
+                <Stamina>79</Stamina>
+                <Club>Terni</Club>
+                <DateOfBirth>07-05-1986</DateOfBirth>
+            </Player>
+            <Player id="4605">
+                <FirstName>Alberto</FirstName>
+                <LastName>Masi</LastName>
+                <Position>CB</Position>
+                <Pace>70</Pace>
+                <Shooting>26</Shooting>
+                <Passing>37</Passing>
+                <Offensive>31</Offensive>
+                <Defensive>67</Defensive>
+                <Stamina>69</Stamina>
+                <Club>Terni</Club>
+                <DateOfBirth>02-09-1992</DateOfBirth>
+            </Player>
+            <Player id="4612">
+                <FirstName>Alberto</FirstName>
+                <LastName>Brignoli</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>34</Stamina>
+                <Club>Terni</Club>
+                <DateOfBirth>19-08-1991</DateOfBirth>
+            </Player>
+            <Player id="4720">
+                <FirstName>Nicolas</FirstName>
+                <LastName>Viola</LastName>
+                <Position>CM</Position>
+                <Pace>73</Pace>
+                <Shooting>58</Shooting>
+                <Passing>70</Passing>
+                <Offensive>64</Offensive>
+                <Defensive>51</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Terni</Club>
+                <DateOfBirth>12-10-1989</DateOfBirth>
+            </Player>
+            <Player id="6032">
+                <FirstName>Felipe Nicolás</FirstName>
+                <LastName>Avenatti</LastName>
+                <Position>ST</Position>
+                <Pace>60</Pace>
+                <Shooting>62</Shooting>
+                <Passing>42</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>55</Stamina>
+                <Club>Terni</Club>
+                <DateOfBirth>26-04-1993</DateOfBirth>
+            </Player>
+            <Player id="6671">
+                <FirstName>Marco</FirstName>
+                <LastName>Piredda</LastName>
+                <Position>CAM</Position>
+                <Pace>67</Pace>
+                <Shooting>54</Shooting>
+                <Passing>64</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>34</Defensive>
+                <Stamina>33</Stamina>
+                <Club>Terni</Club>
+                <DateOfBirth>05-04-1994</DateOfBirth>
+            </Player>
+            <Player id="6751">
+                <FirstName>Alessandro</FirstName>
+                <LastName>Bastrini</LastName>
+                <Position>LB</Position>
+                <Pace>62</Pace>
+                <Shooting>39</Shooting>
+                <Passing>45</Passing>
+                <Offensive>42</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>73</Stamina>
+                <Club>Terni</Club>
+                <DateOfBirth>03-04-1987</DateOfBirth>
+            </Player>
+            <Player id="6922">
+                <FirstName>Martin</FirstName>
+                <LastName>Valjent</LastName>
+                <Position>CM</Position>
+                <Pace>79</Pace>
+                <Shooting>44</Shooting>
+                <Passing>60</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>55</Defensive>
+                <Stamina>84</Stamina>
+                <Club>Terni</Club>
+                <DateOfBirth>11-12-1995</DateOfBirth>
+            </Player>
+            <Player id="7605">
+                <FirstName>Pasquale</FirstName>
+                <LastName>Fazio</LastName>
+                <Position>RB</Position>
+                <Pace>71</Pace>
+                <Shooting>26</Shooting>
+                <Passing>45</Passing>
+                <Offensive>35</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>93</Stamina>
+                <Club>Terni</Club>
+                <DateOfBirth>10-06-1989</DateOfBirth>
+            </Player>
+            <Player id="8041">
+                <FirstName>Stefan</FirstName>
+                <LastName>Popescu</LastName>
+                <Position>LB</Position>
+                <Pace>67</Pace>
+                <Shooting>48</Shooting>
+                <Passing>46</Passing>
+                <Offensive>47</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>76</Stamina>
+                <Club>Terni</Club>
+                <DateOfBirth>05-05-1993</DateOfBirth>
+            </Player>
+            <Player id="10017">
+                <FirstName>Simone</FirstName>
+                <LastName>Russini</LastName>
+                <Position>ST</Position>
+                <Pace>69</Pace>
+                <Shooting>58</Shooting>
+                <Passing>39</Passing>
+                <Offensive>48</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>55</Stamina>
+                <Club>Terni</Club>
+                <DateOfBirth>20-03-1996</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Modena">
+            <Player id="3064">
+                <FirstName>Thiago</FirstName>
+                <LastName>Rangel Cionek</LastName>
+                <Position>CB</Position>
+                <Pace>72</Pace>
+                <Shooting>28</Shooting>
+                <Passing>46</Passing>
+                <Offensive>37</Offensive>
+                <Defensive>68</Defensive>
+                <Stamina>75</Stamina>
+                <Club>Modena</Club>
+                <DateOfBirth>21-04-1986</DateOfBirth>
+            </Player>
+            <Player id="3241">
+                <FirstName>Davide</FirstName>
+                <LastName>Zoboli</LastName>
+                <Position>CB</Position>
+                <Pace>46</Pace>
+                <Shooting>36</Shooting>
+                <Passing>43</Passing>
+                <Offensive>39</Offensive>
+                <Defensive>69</Defensive>
+                <Stamina>55</Stamina>
+                <Club>Modena</Club>
+                <DateOfBirth>08-10-1981</DateOfBirth>
+            </Player>
+            <Player id="3637">
+                <FirstName>Carlo</FirstName>
+                <LastName>Pinsoglio</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>34</Stamina>
+                <Club>Modena</Club>
+                <DateOfBirth>16-03-1990</DateOfBirth>
+            </Player>
+            <Player id="3670">
+                <FirstName>Francesco</FirstName>
+                <LastName>Signori</LastName>
+                <Position>CM</Position>
+                <Pace>75</Pace>
+                <Shooting>58</Shooting>
+                <Passing>67</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>53</Defensive>
+                <Stamina>85</Stamina>
+                <Club>Modena</Club>
+                <DateOfBirth>26-10-1988</DateOfBirth>
+            </Player>
+            <Player id="4719">
+                <FirstName>Lino</FirstName>
+                <LastName>Marzorati</LastName>
+                <Position>CB</Position>
+                <Pace>70</Pace>
+                <Shooting>40</Shooting>
+                <Passing>47</Passing>
+                <Offensive>43</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>69</Stamina>
+                <Club>Modena</Club>
+                <DateOfBirth>12-10-1986</DateOfBirth>
+            </Player>
+            <Player id="6620">
+                <FirstName>Boadu Maxwell</FirstName>
+                <LastName>Acosty</LastName>
+                <Position>RM</Position>
+                <Pace>79</Pace>
+                <Shooting>60</Shooting>
+                <Passing>54</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>33</Defensive>
+                <Stamina>69</Stamina>
+                <Club>Modena</Club>
+                <DateOfBirth>10-09-1991</DateOfBirth>
+            </Player>
+            <Player id="6626">
+                <FirstName>Wilfred Chinoye</FirstName>
+                <LastName>Osuji</LastName>
+                <Position>CDM</Position>
+                <Pace>74</Pace>
+                <Shooting>45</Shooting>
+                <Passing>59</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>57</Defensive>
+                <Stamina>80</Stamina>
+                <Club>Modena</Club>
+                <DateOfBirth>05-08-1990</DateOfBirth>
+            </Player>
+            <Player id="7036">
+                <FirstName>Simone</FirstName>
+                <LastName>Gozzi</LastName>
+                <Position>RB</Position>
+                <Pace>58</Pace>
+                <Shooting>36</Shooting>
+                <Passing>47</Passing>
+                <Offensive>41</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>69</Stamina>
+                <Club>Modena</Club>
+                <DateOfBirth>13-04-1986</DateOfBirth>
+            </Player>
+            <Player id="9837">
+                <FirstName>Luca</FirstName>
+                <LastName>Calapai</LastName>
+                <Position>RB</Position>
+                <Pace>75</Pace>
+                <Shooting>35</Shooting>
+                <Passing>43</Passing>
+                <Offensive>39</Offensive>
+                <Defensive>54</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Modena</Club>
+                <DateOfBirth>20-05-1993</DateOfBirth>
+            </Player>
+            <Player id="11430">
+                <FirstName>Alessandro</FirstName>
+                <LastName>Martinelli</LastName>
+                <Position>CM</Position>
+                <Pace>52</Pace>
+                <Shooting>41</Shooting>
+                <Passing>53</Passing>
+                <Offensive>47</Offensive>
+                <Defensive>45</Defensive>
+                <Stamina>63</Stamina>
+                <Club>Modena</Club>
+                <DateOfBirth>30-05-1993</DateOfBirth>
+            </Player>
+            <Player id="12775">
+                <FirstName>Pablo</FirstName>
+                <LastName>Granoche</LastName>
+                <Position>ST</Position>
+                <Pace>69</Pace>
+                <Shooting>75</Shooting>
+                <Passing>60</Passing>
+                <Offensive>67</Offensive>
+                <Defensive>39</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Modena</Club>
+                <DateOfBirth>05-09-1983</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Vercelli">
+            <Player id="3800">
+                <FirstName>Michele</FirstName>
+                <LastName>Ferri</LastName>
+                <Position>RB</Position>
+                <Pace>54</Pace>
+                <Shooting>43</Shooting>
+                <Passing>58</Passing>
+                <Offensive>50</Offensive>
+                <Defensive>68</Defensive>
+                <Stamina>60</Stamina>
+                <Club>Vercelli</Club>
+                <DateOfBirth>29-05-1981</DateOfBirth>
+            </Player>
+            <Player id="4698">
+                <FirstName>Francesco</FirstName>
+                <LastName>Cosenza</LastName>
+                <Position>CB</Position>
+                <Pace>47</Pace>
+                <Shooting>44</Shooting>
+                <Passing>41</Passing>
+                <Offensive>42</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>60</Stamina>
+                <Club>Vercelli</Club>
+                <DateOfBirth>05-02-1986</DateOfBirth>
+            </Player>
+            <Player id="6559">
+                <FirstName>Daniele</FirstName>
+                <LastName>Ragatzu</LastName>
+                <Position>CF</Position>
+                <Pace>91</Pace>
+                <Shooting>57</Shooting>
+                <Passing>57</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>25</Defensive>
+                <Stamina>75</Stamina>
+                <Club>Vercelli</Club>
+                <DateOfBirth>21-09-1991</DateOfBirth>
+            </Player>
+            <Player id="7267">
+                <FirstName>Manuel</FirstName>
+                <LastName>Scavone</LastName>
+                <Position>CM</Position>
+                <Pace>71</Pace>
+                <Shooting>58</Shooting>
+                <Passing>64</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>42</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Vercelli</Club>
+                <DateOfBirth>03-06-1987</DateOfBirth>
+            </Player>
+            <Player id="8851">
+                <FirstName>Francesco</FirstName>
+                <LastName>Ardizzone</LastName>
+                <Position>CM</Position>
+                <Pace>68</Pace>
+                <Shooting>51</Shooting>
+                <Passing>59</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>49</Defensive>
+                <Stamina>74</Stamina>
+                <Club>Vercelli</Club>
+                <DateOfBirth>17-02-1992</DateOfBirth>
+            </Player>
+            <Player id="9124">
+                <FirstName>Massimiliano</FirstName>
+                <LastName>Scaglia</LastName>
+                <Position>LB</Position>
+                <Pace>59</Pace>
+                <Shooting>36</Shooting>
+                <Passing>58</Passing>
+                <Offensive>47</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>32</Stamina>
+                <Club>Vercelli</Club>
+                <DateOfBirth>21-05-1977</DateOfBirth>
+            </Player>
+            <Player id="9497">
+                <FirstName>Alberto Aladje</FirstName>
+                <LastName>Gomes De Pina</LastName>
+                <Position>ST</Position>
+                <Pace>60</Pace>
+                <Shooting>58</Shooting>
+                <Passing>44</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>55</Stamina>
+                <Club>Vercelli</Club>
+                <DateOfBirth>22-10-1993</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Lanciano">
+            <Player id="6256">
+                <FirstName>David Nicolas</FirstName>
+                <LastName>Andrade</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>32</Stamina>
+                <Club>Lanciano</Club>
+                <DateOfBirth>12-04-1988</DateOfBirth>
+            </Player>
+            <Player id="6999">
+                <FirstName>Antonio</FirstName>
+                <LastName>Aquilanti</LastName>
+                <Position>CB</Position>
+                <Pace>72</Pace>
+                <Shooting>43</Shooting>
+                <Passing>52</Passing>
+                <Offensive>47</Offensive>
+                <Defensive>61</Defensive>
+                <Stamina>79</Stamina>
+                <Club>Lanciano</Club>
+                <DateOfBirth>08-11-1985</DateOfBirth>
+            </Player>
+            <Player id="7111">
+                <FirstName>Manuel</FirstName>
+                <LastName>Turchi</LastName>
+                <Position>LW</Position>
+                <Pace>64</Pace>
+                <Shooting>61</Shooting>
+                <Passing>54</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>26</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Lanciano</Club>
+                <DateOfBirth>27-01-1981</DateOfBirth>
+            </Player>
+            <Player id="7248">
+                <FirstName>Paolo</FirstName>
+                <LastName>Grossi</LastName>
+                <Position>CM</Position>
+                <Pace>74</Pace>
+                <Shooting>57</Shooting>
+                <Passing>62</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>48</Defensive>
+                <Stamina>76</Stamina>
+                <Club>Lanciano</Club>
+                <DateOfBirth>29-05-1985</DateOfBirth>
+            </Player>
+            <Player id="8494">
+                <FirstName>Laurentiu</FirstName>
+                <LastName>Brănescu</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>35</Stamina>
+                <Club>Lanciano</Club>
+                <DateOfBirth>30-03-1994</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Parma">
+            <Player id="10654">
+                <FirstName>Alberto</FirstName>
+                <LastName>Cerri</LastName>
+                <Position>ST</Position>
+                <Pace>55</Pace>
+                <Shooting>52</Shooting>
+                <Passing>37</Passing>
+                <Offensive>44</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>56</Stamina>
+                <Club>Parma</Club>
+                <DateOfBirth>16-04-1996</DateOfBirth>
+            </Player>
+        </Team>
+    </League>
+</Players>

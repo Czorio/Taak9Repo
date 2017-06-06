@@ -1,0 +1,722 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Players>
+    <League Name="Legends">
+        <Team Name="Legends">
+            <Player id="2">
+                <FirstName>Edson</FirstName>
+                <LastName>Arantes Nascimento</LastName>
+                <Position>CF</Position>
+                <Pace>95</Pace>
+                <Shooting>89</Shooting>
+                <Passing>89</Passing>
+                <Offensive>89</Offensive>
+                <Defensive>53</Defensive>
+                <Stamina>88</Stamina>
+                <Club>Legends</Club>
+                <DateOfBirth>23-10-1940</DateOfBirth>
+            </Player>
+            <Player id="5">
+                <FirstName>Franz</FirstName>
+                <LastName>Beckenbauer</LastName>
+                <Position>CB</Position>
+                <Pace>82</Pace>
+                <Shooting>69</Shooting>
+                <Passing>83</Passing>
+                <Offensive>76</Offensive>
+                <Defensive>94</Defensive>
+                <Stamina>85</Stamina>
+                <Club>Legends</Club>
+                <DateOfBirth>11-09-1945</DateOfBirth>
+            </Player>
+            <Player id="8">
+                <FirstName>Paolo</FirstName>
+                <LastName>Maldini</LastName>
+                <Position>CB</Position>
+                <Pace>86</Pace>
+                <Shooting>56</Shooting>
+                <Passing>74</Passing>
+                <Offensive>65</Offensive>
+                <Defensive>95</Defensive>
+                <Stamina>84</Stamina>
+                <Club>Legends</Club>
+                <DateOfBirth>26-06-1968</DateOfBirth>
+            </Player>
+            <Player id="10">
+                <FirstName>Franco</FirstName>
+                <LastName>Baresi</LastName>
+                <Position>CB</Position>
+                <Pace>76</Pace>
+                <Shooting>39</Shooting>
+                <Passing>73</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>94</Defensive>
+                <Stamina>91</Stamina>
+                <Club>Legends</Club>
+                <DateOfBirth>08-05-1960</DateOfBirth>
+            </Player>
+            <Player id="12">
+                <FirstName>Marco</FirstName>
+                <LastName>van Basten</LastName>
+                <Position>ST</Position>
+                <Pace>83</Pace>
+                <Shooting>94</Shooting>
+                <Passing>73</Passing>
+                <Offensive>83</Offensive>
+                <Defensive>34</Defensive>
+                <Stamina>62</Stamina>
+                <Club>Legends</Club>
+                <DateOfBirth>31-10-1964</DateOfBirth>
+            </Player>
+            <Player id="13">
+                <FirstName>Lothar</FirstName>
+                <LastName>Matthäus</LastName>
+                <Position>CDM</Position>
+                <Pace>86</Pace>
+                <Shooting>86</Shooting>
+                <Passing>86</Passing>
+                <Offensive>86</Offensive>
+                <Defensive>88</Defensive>
+                <Stamina>89</Stamina>
+                <Club>Legends</Club>
+                <DateOfBirth>21-03-1961</DateOfBirth>
+            </Player>
+            <Player id="16">
+                <FirstName>Hristo</FirstName>
+                <LastName>Stoichkov</LastName>
+                <Position>ST</Position>
+                <Pace>84</Pace>
+                <Shooting>88</Shooting>
+                <Passing>85</Passing>
+                <Offensive>86</Offensive>
+                <Defensive>51</Defensive>
+                <Stamina>74</Stamina>
+                <Club>Legends</Club>
+                <DateOfBirth>08-02-1966</DateOfBirth>
+            </Player>
+            <Player id="17">
+                <FirstName>Luís Filipe</FirstName>
+                <LastName>Madeira Caeiro Figo</LastName>
+                <Position>RW</Position>
+                <Pace>83</Pace>
+                <Shooting>80</Shooting>
+                <Passing>86</Passing>
+                <Offensive>83</Offensive>
+                <Defensive>38</Defensive>
+                <Stamina>85</Stamina>
+                <Club>Legends</Club>
+                <DateOfBirth>04-11-1972</DateOfBirth>
+            </Player>
+            <Player id="20">
+                <FirstName>Dennis</FirstName>
+                <LastName>Bergkamp</LastName>
+                <Position>CF</Position>
+                <Pace>83</Pace>
+                <Shooting>90</Shooting>
+                <Passing>83</Passing>
+                <Offensive>86</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>81</Stamina>
+                <Club>Legends</Club>
+                <DateOfBirth>10-05-1969</DateOfBirth>
+            </Player>
+            <Player id="22">
+                <FirstName>Ruud</FirstName>
+                <LastName>van Nistelrooy</LastName>
+                <Position>ST</Position>
+                <Pace>84</Pace>
+                <Shooting>88</Shooting>
+                <Passing>68</Passing>
+                <Offensive>78</Offensive>
+                <Defensive>35</Defensive>
+                <Stamina>77</Stamina>
+                <Club>Legends</Club>
+                <DateOfBirth>01-07-1976</DateOfBirth>
+            </Player>
+            <Player id="23">
+                <FirstName>Peter</FirstName>
+                <LastName>Schmeichel</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Legends</Club>
+                <DateOfBirth>18-11-1963</DateOfBirth>
+            </Player>
+            <Player id="24">
+                <FirstName>Emilio</FirstName>
+                <LastName>Butragueño Santos</LastName>
+                <Position>ST</Position>
+                <Pace>91</Pace>
+                <Shooting>88</Shooting>
+                <Passing>78</Passing>
+                <Offensive>83</Offensive>
+                <Defensive>36</Defensive>
+                <Stamina>82</Stamina>
+                <Club>Legends</Club>
+                <DateOfBirth>22-07-1963</DateOfBirth>
+            </Player>
+            <Player id="2665">
+                <FirstName>Ruud</FirstName>
+                <LastName>Gullit</LastName>
+                <Position>CM</Position>
+                <Pace>86</Pace>
+                <Shooting>83</Shooting>
+                <Passing>89</Passing>
+                <Offensive>86</Offensive>
+                <Defensive>79</Defensive>
+                <Stamina>88</Stamina>
+                <Club>Legends</Club>
+                <DateOfBirth>01-09-1962</DateOfBirth>
+            </Player>
+            <Player id="2667">
+                <FirstName>Marcel</FirstName>
+                <LastName>Desailly</LastName>
+                <Position>CB</Position>
+                <Pace>82</Pace>
+                <Shooting>51</Shooting>
+                <Passing>64</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>88</Defensive>
+                <Stamina>80</Stamina>
+                <Club>Legends</Club>
+                <DateOfBirth>07-09-1968</DateOfBirth>
+            </Player>
+            <Player id="2668">
+                <FirstName>Fabio</FirstName>
+                <LastName>Cannavaro</LastName>
+                <Position>CB</Position>
+                <Pace>73</Pace>
+                <Shooting>39</Shooting>
+                <Passing>57</Passing>
+                <Offensive>48</Offensive>
+                <Defensive>91</Defensive>
+                <Stamina>74</Stamina>
+                <Club>Legends</Club>
+                <DateOfBirth>13-09-1973</DateOfBirth>
+            </Player>
+            <Player id="2669">
+                <FirstName>George</FirstName>
+                <LastName>Weah</LastName>
+                <Position>ST</Position>
+                <Pace>93</Pace>
+                <Shooting>87</Shooting>
+                <Passing>77</Passing>
+                <Offensive>82</Offensive>
+                <Defensive>44</Defensive>
+                <Stamina>86</Stamina>
+                <Club>Legends</Club>
+                <DateOfBirth>01-10-1966</DateOfBirth>
+            </Player>
+            <Player id="2670">
+                <FirstName>Gheorghe</FirstName>
+                <LastName>Hagi</LastName>
+                <Position>CAM</Position>
+                <Pace>84</Pace>
+                <Shooting>85</Shooting>
+                <Passing>88</Passing>
+                <Offensive>86</Offensive>
+                <Defensive>42</Defensive>
+                <Stamina>83</Stamina>
+                <Club>Legends</Club>
+                <DateOfBirth>05-02-1965</DateOfBirth>
+            </Player>
+            <Player id="2671">
+                <FirstName>Gary</FirstName>
+                <LastName>Lineker</LastName>
+                <Position>ST</Position>
+                <Pace>86</Pace>
+                <Shooting>86</Shooting>
+                <Passing>69</Passing>
+                <Offensive>77</Offensive>
+                <Defensive>34</Defensive>
+                <Stamina>83</Stamina>
+                <Club>Legends</Club>
+                <DateOfBirth>30-11-1960</DateOfBirth>
+            </Player>
+            <Player id="2673">
+                <FirstName>Alan</FirstName>
+                <LastName>Shearer</LastName>
+                <Position>ST</Position>
+                <Pace>78</Pace>
+                <Shooting>90</Shooting>
+                <Passing>77</Passing>
+                <Offensive>83</Offensive>
+                <Defensive>50</Defensive>
+                <Stamina>84</Stamina>
+                <Club>Legends</Club>
+                <DateOfBirth>13-08-1970</DateOfBirth>
+            </Player>
+            <Player id="2674">
+                <FirstName>Pavel</FirstName>
+                <LastName>Nedvěd</LastName>
+                <Position>LM</Position>
+                <Pace>83</Pace>
+                <Shooting>83</Shooting>
+                <Passing>85</Passing>
+                <Offensive>84</Offensive>
+                <Defensive>46</Defensive>
+                <Stamina>90</Stamina>
+                <Club>Legends</Club>
+                <DateOfBirth>30-08-1972</DateOfBirth>
+            </Player>
+            <Player id="2675">
+                <FirstName>Laurent</FirstName>
+                <LastName>Blanc</LastName>
+                <Position>CB</Position>
+                <Pace>80</Pace>
+                <Shooting>65</Shooting>
+                <Passing>69</Passing>
+                <Offensive>67</Offensive>
+                <Defensive>90</Defensive>
+                <Stamina>90</Stamina>
+                <Club>Legends</Club>
+                <DateOfBirth>19-11-1965</DateOfBirth>
+            </Player>
+            <Player id="2676">
+                <FirstName>Edwin</FirstName>
+                <LastName>van der Sar</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>36</Stamina>
+                <Club>Legends</Club>
+                <DateOfBirth>29-10-1970</DateOfBirth>
+            </Player>
+            <Player id="2677">
+                <FirstName>Fernando</FirstName>
+                <LastName>Hierro Ruiz</LastName>
+                <Position>CB</Position>
+                <Pace>70</Pace>
+                <Shooting>67</Shooting>
+                <Passing>70</Passing>
+                <Offensive>68</Offensive>
+                <Defensive>89</Defensive>
+                <Stamina>78</Stamina>
+                <Club>Legends</Club>
+                <DateOfBirth>23-03-1968</DateOfBirth>
+            </Player>
+            <Player id="2679">
+                <FirstName>Michael</FirstName>
+                <LastName>Laudrup</LastName>
+                <Position>CAM</Position>
+                <Pace>85</Pace>
+                <Shooting>73</Shooting>
+                <Passing>87</Passing>
+                <Offensive>80</Offensive>
+                <Defensive>38</Defensive>
+                <Stamina>78</Stamina>
+                <Club>Legends</Club>
+                <DateOfBirth>15-06-1964</DateOfBirth>
+            </Player>
+            <Player id="2680">
+                <FirstName>Jens</FirstName>
+                <LastName>Lehmann</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>39</Stamina>
+                <Club>Legends</Club>
+                <DateOfBirth>10-11-1969</DateOfBirth>
+            </Player>
+            <Player id="2683">
+                <FirstName>David</FirstName>
+                <LastName>Seaman</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>33</Stamina>
+                <Club>Legends</Club>
+                <DateOfBirth>19-09-1963</DateOfBirth>
+            </Player>
+            <Player id="2684">
+                <FirstName>Roy</FirstName>
+                <LastName>Keane</LastName>
+                <Position>CM</Position>
+                <Pace>71</Pace>
+                <Shooting>71</Shooting>
+                <Passing>81</Passing>
+                <Offensive>76</Offensive>
+                <Defensive>86</Defensive>
+                <Stamina>92</Stamina>
+                <Club>Legends</Club>
+                <DateOfBirth>10-08-1971</DateOfBirth>
+            </Player>
+            <Player id="2685">
+                <FirstName>Robert</FirstName>
+                <LastName>Pirès</LastName>
+                <Position>LM</Position>
+                <Pace>86</Pace>
+                <Shooting>79</Shooting>
+                <Passing>86</Passing>
+                <Offensive>82</Offensive>
+                <Defensive>35</Defensive>
+                <Stamina>77</Stamina>
+                <Club>Legends</Club>
+                <DateOfBirth>29-10-1973</DateOfBirth>
+            </Player>
+            <Player id="2686">
+                <FirstName>Patrick</FirstName>
+                <LastName>Kluivert</LastName>
+                <Position>ST</Position>
+                <Pace>86</Pace>
+                <Shooting>86</Shooting>
+                <Passing>80</Passing>
+                <Offensive>83</Offensive>
+                <Defensive>41</Defensive>
+                <Stamina>81</Stamina>
+                <Club>Legends</Club>
+                <DateOfBirth>01-07-1976</DateOfBirth>
+            </Player>
+            <Player id="2687">
+                <FirstName>Andriy</FirstName>
+                <LastName>Shevchenko</LastName>
+                <Position>ST</Position>
+                <Pace>84</Pace>
+                <Shooting>86</Shooting>
+                <Passing>71</Passing>
+                <Offensive>78</Offensive>
+                <Defensive>33</Defensive>
+                <Stamina>74</Stamina>
+                <Club>Legends</Club>
+                <DateOfBirth>29-09-1976</DateOfBirth>
+            </Player>
+            <Player id="5329">
+                <FirstName>Bobby</FirstName>
+                <LastName>Moore</LastName>
+                <Position>CB</Position>
+                <Pace>77</Pace>
+                <Shooting>62</Shooting>
+                <Passing>79</Passing>
+                <Offensive>70</Offensive>
+                <Defensive>87</Defensive>
+                <Stamina>92</Stamina>
+                <Club>Legends</Club>
+                <DateOfBirth>12-04-1941</DateOfBirth>
+            </Player>
+            <Player id="5330">
+                <FirstName>Davor</FirstName>
+                <LastName>Šuker</LastName>
+                <Position>ST</Position>
+                <Pace>81</Pace>
+                <Shooting>86</Shooting>
+                <Passing>79</Passing>
+                <Offensive>82</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>77</Stamina>
+                <Club>Legends</Club>
+                <DateOfBirth>01-01-1968</DateOfBirth>
+            </Player>
+            <Player id="5331">
+                <FirstName>Brian</FirstName>
+                <LastName>Laudrup</LastName>
+                <Position>CF</Position>
+                <Pace>87</Pace>
+                <Shooting>83</Shooting>
+                <Passing>80</Passing>
+                <Offensive>81</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>81</Stamina>
+                <Club>Legends</Club>
+                <DateOfBirth>22-02-1969</DateOfBirth>
+            </Player>
+            <Player id="5335">
+                <FirstName>César Costa</FirstName>
+                <LastName>Rui Manuel</LastName>
+                <Position>CAM</Position>
+                <Pace>84</Pace>
+                <Shooting>80</Shooting>
+                <Passing>86</Passing>
+                <Offensive>83</Offensive>
+                <Defensive>43</Defensive>
+                <Stamina>86</Stamina>
+                <Club>Legends</Club>
+                <DateOfBirth>29-03-1972</DateOfBirth>
+            </Player>
+            <Player id="5336">
+                <FirstName>Roberto Carlos</FirstName>
+                <LastName>Da Silva Junior</LastName>
+                <Position>LB</Position>
+                <Pace>91</Pace>
+                <Shooting>81</Shooting>
+                <Passing>84</Passing>
+                <Offensive>82</Offensive>
+                <Defensive>82</Defensive>
+                <Stamina>88</Stamina>
+                <Club>Legends</Club>
+                <DateOfBirth>10-04-1973</DateOfBirth>
+            </Player>
+            <Player id="5337">
+                <FirstName>Patrick</FirstName>
+                <LastName>Vieira</LastName>
+                <Position>CM</Position>
+                <Pace>84</Pace>
+                <Shooting>71</Shooting>
+                <Passing>79</Passing>
+                <Offensive>75</Offensive>
+                <Defensive>85</Defensive>
+                <Stamina>89</Stamina>
+                <Club>Legends</Club>
+                <DateOfBirth>23-06-1976</DateOfBirth>
+            </Player>
+            <Player id="5338">
+                <FirstName>Michael</FirstName>
+                <LastName>Owen</LastName>
+                <Position>ST</Position>
+                <Pace>89</Pace>
+                <Shooting>84</Shooting>
+                <Passing>67</Passing>
+                <Offensive>75</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>78</Stamina>
+                <Club>Legends</Club>
+                <DateOfBirth>14-12-1979</DateOfBirth>
+            </Player>
+            <Player id="5340">
+                <FirstName>Frank</FirstName>
+                <LastName>Rijkaard</LastName>
+                <Position>CB</Position>
+                <Pace>70</Pace>
+                <Shooting>68</Shooting>
+                <Passing>73</Passing>
+                <Offensive>70</Offensive>
+                <Defensive>87</Defensive>
+                <Stamina>84</Stamina>
+                <Club>Legends</Club>
+                <DateOfBirth>30-09-1962</DateOfBirth>
+            </Player>
+            <Player id="5342">
+                <FirstName>Jay-Jay</FirstName>
+                <LastName>Okocha</LastName>
+                <Position>CAM</Position>
+                <Pace>84</Pace>
+                <Shooting>80</Shooting>
+                <Passing>81</Passing>
+                <Offensive>80</Offensive>
+                <Defensive>35</Defensive>
+                <Stamina>64</Stamina>
+                <Club>Legends</Club>
+                <DateOfBirth>14-08-1973</DateOfBirth>
+            </Player>
+            <Player id="5348">
+                <FirstName>Gianfranco</FirstName>
+                <LastName>Zola</LastName>
+                <Position>CF</Position>
+                <Pace>85</Pace>
+                <Shooting>82</Shooting>
+                <Passing>84</Passing>
+                <Offensive>83</Offensive>
+                <Defensive>32</Defensive>
+                <Stamina>74</Stamina>
+                <Club>Legends</Club>
+                <DateOfBirth>05-07-1966</DateOfBirth>
+            </Player>
+            <Player id="5349">
+                <FirstName>Pedro Miguel</FirstName>
+                <LastName>Carreiro Resendes</LastName>
+                <Position>ST</Position>
+                <Pace>82</Pace>
+                <Shooting>86</Shooting>
+                <Passing>72</Passing>
+                <Offensive>79</Offensive>
+                <Defensive>32</Defensive>
+                <Stamina>73</Stamina>
+                <Club>Legends</Club>
+                <DateOfBirth>28-04-1973</DateOfBirth>
+            </Player>
+            <Player id="5350">
+                <FirstName>Andreas</FirstName>
+                <LastName>Brehme</LastName>
+                <Position>LWB</Position>
+                <Pace>89</Pace>
+                <Shooting>66</Shooting>
+                <Passing>82</Passing>
+                <Offensive>74</Offensive>
+                <Defensive>86</Defensive>
+                <Stamina>91</Stamina>
+                <Club>Legends</Club>
+                <DateOfBirth>09-11-1960</DateOfBirth>
+            </Player>
+            <Player id="5352">
+                <FirstName>Paulo Jorge</FirstName>
+                <LastName>dos Santos Futre</LastName>
+                <Position>LW</Position>
+                <Pace>84</Pace>
+                <Shooting>80</Shooting>
+                <Passing>78</Passing>
+                <Offensive>79</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>69</Stamina>
+                <Club>Legends</Club>
+                <DateOfBirth>28-02-1966</DateOfBirth>
+            </Player>
+            <Player id="7996">
+                <FirstName>Christian</FirstName>
+                <LastName>Vieri</LastName>
+                <Position>ST</Position>
+                <Pace>83</Pace>
+                <Shooting>87</Shooting>
+                <Passing>63</Passing>
+                <Offensive>75</Offensive>
+                <Defensive>31</Defensive>
+                <Stamina>76</Stamina>
+                <Club>Legends</Club>
+                <DateOfBirth>12-07-1973</DateOfBirth>
+            </Player>
+            <Player id="7997">
+                <FirstName>Filippo</FirstName>
+                <LastName>Inzaghi</LastName>
+                <Position>ST</Position>
+                <Pace>85</Pace>
+                <Shooting>82</Shooting>
+                <Passing>49</Passing>
+                <Offensive>65</Offensive>
+                <Defensive>31</Defensive>
+                <Stamina>61</Stamina>
+                <Club>Legends</Club>
+                <DateOfBirth>09-08-1973</DateOfBirth>
+            </Player>
+            <Player id="7998">
+                <FirstName>Hernán</FirstName>
+                <LastName>Crespo</LastName>
+                <Position>ST</Position>
+                <Pace>87</Pace>
+                <Shooting>86</Shooting>
+                <Passing>69</Passing>
+                <Offensive>77</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>77</Stamina>
+                <Club>Legends</Club>
+                <DateOfBirth>05-07-1975</DateOfBirth>
+            </Player>
+            <Player id="7999">
+                <FirstName>Henrik</FirstName>
+                <LastName>Larsson</LastName>
+                <Position>ST</Position>
+                <Pace>84</Pace>
+                <Shooting>84</Shooting>
+                <Passing>73</Passing>
+                <Offensive>78</Offensive>
+                <Defensive>43</Defensive>
+                <Stamina>79</Stamina>
+                <Club>Legends</Club>
+                <DateOfBirth>20-09-1971</DateOfBirth>
+            </Player>
+            <Player id="8003">
+                <FirstName>Oliver</FirstName>
+                <LastName>Bierhoff</LastName>
+                <Position>ST</Position>
+                <Pace>76</Pace>
+                <Shooting>83</Shooting>
+                <Passing>62</Passing>
+                <Offensive>72</Offensive>
+                <Defensive>32</Defensive>
+                <Stamina>69</Stamina>
+                <Club>Legends</Club>
+                <DateOfBirth>01-05-1968</DateOfBirth>
+            </Player>
+            <Player id="8008">
+                <FirstName>Robbie</FirstName>
+                <LastName>Fowler</LastName>
+                <Position>ST</Position>
+                <Pace>83</Pace>
+                <Shooting>82</Shooting>
+                <Passing>73</Passing>
+                <Offensive>77</Offensive>
+                <Defensive>48</Defensive>
+                <Stamina>81</Stamina>
+                <Club>Legends</Club>
+                <DateOfBirth>09-04-1975</DateOfBirth>
+            </Player>
+            <Player id="8015">
+                <FirstName>Gary</FirstName>
+                <LastName>Neville</LastName>
+                <Position>RB</Position>
+                <Pace>80</Pace>
+                <Shooting>36</Shooting>
+                <Passing>74</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>84</Defensive>
+                <Stamina>88</Stamina>
+                <Club>Legends</Club>
+                <DateOfBirth>18-02-1975</DateOfBirth>
+            </Player>
+            <Player id="8016">
+                <FirstName>Sol</FirstName>
+                <LastName>Campbell</LastName>
+                <Position>CB</Position>
+                <Pace>78</Pace>
+                <Shooting>35</Shooting>
+                <Passing>56</Passing>
+                <Offensive>45</Offensive>
+                <Defensive>85</Defensive>
+                <Stamina>76</Stamina>
+                <Club>Legends</Club>
+                <DateOfBirth>18-09-1974</DateOfBirth>
+            </Player>
+            <Player id="10664">
+                <FirstName>Stefan</FirstName>
+                <LastName>Effenberg</LastName>
+                <Position>CAM</Position>
+                <Pace>74</Pace>
+                <Shooting>82</Shooting>
+                <Passing>82</Passing>
+                <Offensive>82</Offensive>
+                <Defensive>74</Defensive>
+                <Stamina>89</Stamina>
+                <Club>Legends</Club>
+                <DateOfBirth>02-08-1968</DateOfBirth>
+            </Player>
+            <Player id="10667">
+                <FirstName>Freddie</FirstName>
+                <LastName>Ljungberg</LastName>
+                <Position>RM</Position>
+                <Pace>85</Pace>
+                <Shooting>81</Shooting>
+                <Passing>80</Passing>
+                <Offensive>80</Offensive>
+                <Defensive>38</Defensive>
+                <Stamina>86</Stamina>
+                <Club>Legends</Club>
+                <DateOfBirth>16-04-1977</DateOfBirth>
+            </Player>
+            <Player id="10670">
+                <FirstName>Frank</FirstName>
+                <LastName>De Boer</LastName>
+                <Position>CB</Position>
+                <Pace>66</Pace>
+                <Shooting>58</Shooting>
+                <Passing>66</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>89</Defensive>
+                <Stamina>84</Stamina>
+                <Club>Legends</Club>
+                <DateOfBirth>15-05-1970</DateOfBirth>
+            </Player>
+            <Player id="10673">
+                <FirstName>Carlos</FirstName>
+                <LastName>Valderrama</LastName>
+                <Position>CAM</Position>
+                <Pace>68</Pace>
+                <Shooting>72</Shooting>
+                <Passing>85</Passing>
+                <Offensive>78</Offensive>
+                <Defensive>26</Defensive>
+                <Stamina>58</Stamina>
+                <Club>Legends</Club>
+                <DateOfBirth>02-09-1961</DateOfBirth>
+            </Player>
+        </Team>
+    </League>
+</Players>

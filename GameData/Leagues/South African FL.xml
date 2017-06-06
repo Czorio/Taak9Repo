@@ -1,0 +1,594 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Players>
+    <League Name="South African FL">
+        <Team Name="Kaizer Chiefs">
+            <Player id="128">
+                <FirstName>Katlego</FirstName>
+                <LastName>Mphela</LastName>
+                <Position>ST</Position>
+                <Pace>76</Pace>
+                <Shooting>74</Shooting>
+                <Passing>66</Passing>
+                <Offensive>70</Offensive>
+                <Defensive>31</Defensive>
+                <Stamina>75</Stamina>
+                <Club>Kaizer Chiefs</Club>
+                <DateOfBirth>29-11-1984</DateOfBirth>
+            </Player>
+            <Player id="468">
+                <FirstName>Reneilwe</FirstName>
+                <LastName>Letsholonyane</LastName>
+                <Position>CM</Position>
+                <Pace>64</Pace>
+                <Shooting>62</Shooting>
+                <Passing>71</Passing>
+                <Offensive>66</Offensive>
+                <Defensive>61</Defensive>
+                <Stamina>76</Stamina>
+                <Club>Kaizer Chiefs</Club>
+                <DateOfBirth>24-12-1982</DateOfBirth>
+            </Player>
+            <Player id="806">
+                <FirstName>Tsepo</FirstName>
+                <LastName>Masilela</LastName>
+                <Position>LB</Position>
+                <Pace>89</Pace>
+                <Shooting>55</Shooting>
+                <Passing>59</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>67</Defensive>
+                <Stamina>78</Stamina>
+                <Club>Kaizer Chiefs</Club>
+                <DateOfBirth>05-05-1985</DateOfBirth>
+            </Player>
+            <Player id="1750">
+                <FirstName>Eric</FirstName>
+                <LastName>Mathoho</LastName>
+                <Position>CB</Position>
+                <Pace>61</Pace>
+                <Shooting>35</Shooting>
+                <Passing>43</Passing>
+                <Offensive>39</Offensive>
+                <Defensive>71</Defensive>
+                <Stamina>75</Stamina>
+                <Club>Kaizer Chiefs</Club>
+                <DateOfBirth>01-03-1990</DateOfBirth>
+            </Player>
+            <Player id="1999">
+                <FirstName>Kingston</FirstName>
+                <LastName>Nkhatha</LastName>
+                <Position>ST</Position>
+                <Pace>74</Pace>
+                <Shooting>70</Shooting>
+                <Passing>51</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>32</Defensive>
+                <Stamina>66</Stamina>
+                <Club>Kaizer Chiefs</Club>
+                <DateOfBirth>27-10-1985</DateOfBirth>
+            </Player>
+            <Player id="2126">
+                <FirstName>Siboniso</FirstName>
+                <LastName>Gaxa</LastName>
+                <Position>RB</Position>
+                <Pace>81</Pace>
+                <Shooting>45</Shooting>
+                <Passing>60</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>67</Defensive>
+                <Stamina>80</Stamina>
+                <Club>Kaizer Chiefs</Club>
+                <DateOfBirth>06-04-1984</DateOfBirth>
+            </Player>
+            <Player id="2373">
+                <FirstName>Siyabonga</FirstName>
+                <LastName>Nkosi</LastName>
+                <Position>CAM</Position>
+                <Pace>65</Pace>
+                <Shooting>66</Shooting>
+                <Passing>68</Passing>
+                <Offensive>67</Offensive>
+                <Defensive>33</Defensive>
+                <Stamina>54</Stamina>
+                <Club>Kaizer Chiefs</Club>
+                <DateOfBirth>22-08-1981</DateOfBirth>
+            </Player>
+            <Player id="2653">
+                <FirstName>Levy</FirstName>
+                <LastName>Mokgothu</LastName>
+                <Position>LB</Position>
+                <Pace>75</Pace>
+                <Shooting>31</Shooting>
+                <Passing>55</Passing>
+                <Offensive>43</Offensive>
+                <Defensive>70</Defensive>
+                <Stamina>74</Stamina>
+                <Club>Kaizer Chiefs</Club>
+                <DateOfBirth>29-08-1989</DateOfBirth>
+            </Player>
+            <Player id="3063">
+                <FirstName>George</FirstName>
+                <LastName>Lebese</LastName>
+                <Position>LM</Position>
+                <Pace>75</Pace>
+                <Shooting>56</Shooting>
+                <Passing>63</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>31</Defensive>
+                <Stamina>50</Stamina>
+                <Club>Kaizer Chiefs</Club>
+                <DateOfBirth>16-02-1989</DateOfBirth>
+            </Player>
+            <Player id="3115">
+                <FirstName>Tefu</FirstName>
+                <LastName>Mashamaite</LastName>
+                <Position>CB</Position>
+                <Pace>63</Pace>
+                <Shooting>27</Shooting>
+                <Passing>41</Passing>
+                <Offensive>34</Offensive>
+                <Defensive>71</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Kaizer Chiefs</Club>
+                <DateOfBirth>27-09-1984</DateOfBirth>
+            </Player>
+            <Player id="3532">
+                <FirstName>Reyaad</FirstName>
+                <LastName>Pieterse</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>20</Stamina>
+                <Club>Kaizer Chiefs</Club>
+                <DateOfBirth>17-02-1992</DateOfBirth>
+            </Player>
+            <Player id="4343">
+                <FirstName>Brilliant</FirstName>
+                <LastName>Khuzwayo</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>26</Stamina>
+                <Club>Kaizer Chiefs</Club>
+                <DateOfBirth>09-02-1990</DateOfBirth>
+            </Player>
+            <Player id="4589">
+                <FirstName>Willard</FirstName>
+                <LastName>Katsande</LastName>
+                <Position>CM</Position>
+                <Pace>69</Pace>
+                <Shooting>50</Shooting>
+                <Passing>59</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>69</Defensive>
+                <Stamina>81</Stamina>
+                <Club>Kaizer Chiefs</Club>
+                <DateOfBirth>15-01-1986</DateOfBirth>
+            </Player>
+            <Player id="4615">
+                <FirstName>Matthew</FirstName>
+                <LastName>Rusike</LastName>
+                <Position>CF</Position>
+                <Pace>81</Pace>
+                <Shooting>61</Shooting>
+                <Passing>55</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>26</Defensive>
+                <Stamina>62</Stamina>
+                <Club>Kaizer Chiefs</Club>
+                <DateOfBirth>28-05-1990</DateOfBirth>
+            </Player>
+            <Player id="5674">
+                <FirstName>Josta</FirstName>
+                <LastName>Dladla</LastName>
+                <Position>RM</Position>
+                <Pace>72</Pace>
+                <Shooting>60</Shooting>
+                <Passing>59</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>36</Defensive>
+                <Stamina>61</Stamina>
+                <Club>Kaizer Chiefs</Club>
+                <DateOfBirth>13-07-1979</DateOfBirth>
+            </Player>
+            <Player id="5712">
+                <FirstName>Siphelele</FirstName>
+                <LastName>Mthembu</LastName>
+                <Position>ST</Position>
+                <Pace>67</Pace>
+                <Shooting>65</Shooting>
+                <Passing>53</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>68</Stamina>
+                <Club>Kaizer Chiefs</Club>
+                <DateOfBirth>15-08-1987</DateOfBirth>
+            </Player>
+            <Player id="6719">
+                <FirstName>Hendrick</FirstName>
+                <LastName>Ekstein</LastName>
+                <Position>CAM</Position>
+                <Pace>75</Pace>
+                <Shooting>53</Shooting>
+                <Passing>61</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>34</Defensive>
+                <Stamina>61</Stamina>
+                <Club>Kaizer Chiefs</Club>
+                <DateOfBirth>01-01-1991</DateOfBirth>
+            </Player>
+            <Player id="6953">
+                <FirstName>Itumeleng</FirstName>
+                <LastName>Khune</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>40</Stamina>
+                <Club>Kaizer Chiefs</Club>
+                <DateOfBirth>20-06-1987</DateOfBirth>
+            </Player>
+            <Player id="6968">
+                <FirstName>Chris</FirstName>
+                <LastName>Matombo</LastName>
+                <Position>CM</Position>
+                <Pace>74</Pace>
+                <Shooting>46</Shooting>
+                <Passing>59</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>67</Stamina>
+                <Club>Kaizer Chiefs</Club>
+                <DateOfBirth>26-09-1993</DateOfBirth>
+            </Player>
+            <Player id="8705">
+                <FirstName>Kgotso</FirstName>
+                <LastName>Moleko</LastName>
+                <Position>RB</Position>
+                <Pace>77</Pace>
+                <Shooting>43</Shooting>
+                <Passing>60</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>60</Stamina>
+                <Club>Kaizer Chiefs</Club>
+                <DateOfBirth>27-08-1989</DateOfBirth>
+            </Player>
+            <Player id="10018">
+                <FirstName>Simphiwe</FirstName>
+                <LastName>Mtsweni</LastName>
+                <Position>LB</Position>
+                <Pace>72</Pace>
+                <Shooting>31</Shooting>
+                <Passing>42</Passing>
+                <Offensive>36</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Kaizer Chiefs</Club>
+                <DateOfBirth>19-05-1994</DateOfBirth>
+            </Player>
+            <Player id="11844">
+                <FirstName>Siphiwe</FirstName>
+                <LastName>Tshabalala</LastName>
+                <Position>LM</Position>
+                <Pace>80</Pace>
+                <Shooting>72</Shooting>
+                <Passing>71</Passing>
+                <Offensive>71</Offensive>
+                <Defensive>34</Defensive>
+                <Stamina>85</Stamina>
+                <Club>Kaizer Chiefs</Club>
+                <DateOfBirth>25-09-1984</DateOfBirth>
+            </Player>
+            <Player id="12728">
+                <FirstName>Bernard</FirstName>
+                <LastName>Parker</LastName>
+                <Position>CF</Position>
+                <Pace>77</Pace>
+                <Shooting>72</Shooting>
+                <Passing>68</Passing>
+                <Offensive>70</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>74</Stamina>
+                <Club>Kaizer Chiefs</Club>
+                <DateOfBirth>16-03-1986</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Orlando Pirates">
+            <Player id="467">
+                <FirstName>Oupa</FirstName>
+                <LastName>Manyisa</LastName>
+                <Position>CM</Position>
+                <Pace>72</Pace>
+                <Shooting>63</Shooting>
+                <Passing>63</Passing>
+                <Offensive>63</Offensive>
+                <Defensive>69</Defensive>
+                <Stamina>86</Stamina>
+                <Club>Orlando Pirates</Club>
+                <DateOfBirth>30-07-1988</DateOfBirth>
+            </Player>
+            <Player id="650">
+                <FirstName>Tlou</FirstName>
+                <LastName>Segolela</LastName>
+                <Position>RM</Position>
+                <Pace>90</Pace>
+                <Shooting>61</Shooting>
+                <Passing>66</Passing>
+                <Offensive>63</Offensive>
+                <Defensive>42</Defensive>
+                <Stamina>73</Stamina>
+                <Club>Orlando Pirates</Club>
+                <DateOfBirth>01-03-1988</DateOfBirth>
+            </Player>
+            <Player id="697">
+                <FirstName>Khethokwakhe</FirstName>
+                <LastName>Masuku</LastName>
+                <Position>LM</Position>
+                <Pace>79</Pace>
+                <Shooting>67</Shooting>
+                <Passing>65</Passing>
+                <Offensive>66</Offensive>
+                <Defensive>34</Defensive>
+                <Stamina>75</Stamina>
+                <Club>Orlando Pirates</Club>
+                <DateOfBirth>09-08-1985</DateOfBirth>
+            </Player>
+            <Player id="796">
+                <FirstName>Kermit</FirstName>
+                <LastName>Erasmus</LastName>
+                <Position>ST</Position>
+                <Pace>78</Pace>
+                <Shooting>70</Shooting>
+                <Passing>59</Passing>
+                <Offensive>64</Offensive>
+                <Defensive>32</Defensive>
+                <Stamina>73</Stamina>
+                <Club>Orlando Pirates</Club>
+                <DateOfBirth>08-07-1990</DateOfBirth>
+            </Player>
+            <Player id="1047">
+                <FirstName>Lennox</FirstName>
+                <LastName>Bacela</LastName>
+                <Position>ST</Position>
+                <Pace>67</Pace>
+                <Shooting>71</Shooting>
+                <Passing>62</Passing>
+                <Offensive>66</Offensive>
+                <Defensive>43</Defensive>
+                <Stamina>64</Stamina>
+                <Club>Orlando Pirates</Club>
+                <DateOfBirth>13-04-1983</DateOfBirth>
+            </Player>
+            <Player id="1187">
+                <FirstName>Hélder</FirstName>
+                <LastName>Pelembe</LastName>
+                <Position>ST</Position>
+                <Pace>66</Pace>
+                <Shooting>71</Shooting>
+                <Passing>52</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>50</Stamina>
+                <Club>Orlando Pirates</Club>
+                <DateOfBirth>20-09-1987</DateOfBirth>
+            </Player>
+            <Player id="1297">
+                <FirstName>Happy</FirstName>
+                <LastName>Jele</LastName>
+                <Position>RB</Position>
+                <Pace>74</Pace>
+                <Shooting>54</Shooting>
+                <Passing>64</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>72</Defensive>
+                <Stamina>75</Stamina>
+                <Club>Orlando Pirates</Club>
+                <DateOfBirth>01-01-1987</DateOfBirth>
+            </Player>
+            <Player id="1796">
+                <FirstName>Thabo</FirstName>
+                <LastName>Matlaba</LastName>
+                <Position>LB</Position>
+                <Pace>85</Pace>
+                <Shooting>73</Shooting>
+                <Passing>67</Passing>
+                <Offensive>70</Offensive>
+                <Defensive>71</Defensive>
+                <Stamina>75</Stamina>
+                <Club>Orlando Pirates</Club>
+                <DateOfBirth>13-12-1987</DateOfBirth>
+            </Player>
+            <Player id="1991">
+                <FirstName>Rooi</FirstName>
+                <LastName>Mahamutsa</LastName>
+                <Position>CB</Position>
+                <Pace>60</Pace>
+                <Shooting>29</Shooting>
+                <Passing>45</Passing>
+                <Offensive>37</Offensive>
+                <Defensive>69</Defensive>
+                <Stamina>47</Stamina>
+                <Club>Orlando Pirates</Club>
+                <DateOfBirth>26-10-1981</DateOfBirth>
+            </Player>
+            <Player id="2497">
+                <FirstName>Lehlohonolo</FirstName>
+                <LastName>Majoro</LastName>
+                <Position>ST</Position>
+                <Pace>81</Pace>
+                <Shooting>67</Shooting>
+                <Passing>59</Passing>
+                <Offensive>63</Offensive>
+                <Defensive>32</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Orlando Pirates</Club>
+                <DateOfBirth>19-08-1986</DateOfBirth>
+            </Player>
+            <Player id="2518">
+                <FirstName>Lehlogonolo</FirstName>
+                <LastName>Masalesa</LastName>
+                <Position>CM</Position>
+                <Pace>69</Pace>
+                <Shooting>47</Shooting>
+                <Passing>71</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>65</Stamina>
+                <Club>Orlando Pirates</Club>
+                <DateOfBirth>21-03-1992</DateOfBirth>
+            </Player>
+            <Player id="3142">
+                <FirstName>Thandani</FirstName>
+                <LastName>Ntshumayelo</LastName>
+                <Position>CDM</Position>
+                <Pace>68</Pace>
+                <Shooting>59</Shooting>
+                <Passing>67</Passing>
+                <Offensive>63</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>75</Stamina>
+                <Club>Orlando Pirates</Club>
+                <DateOfBirth>29-04-1990</DateOfBirth>
+            </Player>
+            <Player id="4086">
+                <FirstName>Ayanda</FirstName>
+                <LastName>Gcaba</LastName>
+                <Position>LB</Position>
+                <Pace>73</Pace>
+                <Shooting>40</Shooting>
+                <Passing>59</Passing>
+                <Offensive>49</Offensive>
+                <Defensive>67</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Orlando Pirates</Club>
+                <DateOfBirth>08-03-1986</DateOfBirth>
+            </Player>
+            <Player id="4703">
+                <FirstName>Lucky</FirstName>
+                <LastName>Lekgwathi</LastName>
+                <Position>CB</Position>
+                <Pace>55</Pace>
+                <Shooting>42</Shooting>
+                <Passing>50</Passing>
+                <Offensive>46</Offensive>
+                <Defensive>65</Defensive>
+                <Stamina>64</Stamina>
+                <Club>Orlando Pirates</Club>
+                <DateOfBirth>01-08-1976</DateOfBirth>
+            </Player>
+            <Player id="5649">
+                <FirstName>Maselaelo</FirstName>
+                <LastName>Seanego</LastName>
+                <Position>LM</Position>
+                <Pace>76</Pace>
+                <Shooting>46</Shooting>
+                <Passing>58</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>24</Defensive>
+                <Stamina>55</Stamina>
+                <Club>Orlando Pirates</Club>
+                <DateOfBirth>01-01-1994</DateOfBirth>
+            </Player>
+            <Player id="6041">
+                <FirstName>Thabo</FirstName>
+                <LastName>Rakhale</LastName>
+                <Position>RW</Position>
+                <Pace>74</Pace>
+                <Shooting>54</Shooting>
+                <Passing>55</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>27</Defensive>
+                <Stamina>66</Stamina>
+                <Club>Orlando Pirates</Club>
+                <DateOfBirth>20-03-1990</DateOfBirth>
+            </Player>
+            <Player id="6288">
+                <FirstName>Mpho</FirstName>
+                <LastName>Makola</LastName>
+                <Position>CAM</Position>
+                <Pace>75</Pace>
+                <Shooting>46</Shooting>
+                <Passing>67</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>43</Defensive>
+                <Stamina>65</Stamina>
+                <Club>Orlando Pirates</Club>
+                <DateOfBirth>04-05-1986</DateOfBirth>
+            </Player>
+            <Player id="6931">
+                <FirstName>Ntsikelelo</FirstName>
+                <LastName>Nyauza</LastName>
+                <Position>CB</Position>
+                <Pace>75</Pace>
+                <Shooting>40</Shooting>
+                <Passing>45</Passing>
+                <Offensive>42</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>61</Stamina>
+                <Club>Orlando Pirates</Club>
+                <DateOfBirth>10-05-1990</DateOfBirth>
+            </Player>
+            <Player id="12095">
+                <FirstName>Senzo</FirstName>
+                <LastName>Meyiwa</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>26</Stamina>
+                <Club>Orlando Pirates</Club>
+                <DateOfBirth>24-09-1987</DateOfBirth>
+            </Player>
+            <Player id="12742">
+                <FirstName>Siyabonga</FirstName>
+                <LastName>Sangweni</LastName>
+                <Position>CB</Position>
+                <Pace>57</Pace>
+                <Shooting>50</Shooting>
+                <Passing>49</Passing>
+                <Offensive>49</Offensive>
+                <Defensive>73</Defensive>
+                <Stamina>52</Stamina>
+                <Club>Orlando Pirates</Club>
+                <DateOfBirth>29-09-1981</DateOfBirth>
+            </Player>
+            <Player id="12767">
+                <FirstName>Sifiso</FirstName>
+                <LastName>Myeni</LastName>
+                <Position>RM</Position>
+                <Pace>81</Pace>
+                <Shooting>65</Shooting>
+                <Passing>67</Passing>
+                <Offensive>66</Offensive>
+                <Defensive>27</Defensive>
+                <Stamina>73</Stamina>
+                <Club>Orlando Pirates</Club>
+                <DateOfBirth>10-06-1988</DateOfBirth>
+            </Player>
+            <Player id="12874">
+                <FirstName>Daine</FirstName>
+                <LastName>Klate</LastName>
+                <Position>LM</Position>
+                <Pace>83</Pace>
+                <Shooting>69</Shooting>
+                <Passing>70</Passing>
+                <Offensive>69</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>60</Stamina>
+                <Club>Orlando Pirates</Club>
+                <DateOfBirth>25-02-1985</DateOfBirth>
+            </Player>
+        </Team>
+    </League>
+</Players>

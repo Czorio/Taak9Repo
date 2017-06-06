@@ -1,0 +1,4411 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Players>
+    <League Name="TürkLig">
+        <Team Name="Fenerbahçe SK">
+            <Player id="34">
+                <FirstName>Diego</FirstName>
+                <LastName>Ribas da Cunha</LastName>
+                <Position>CAM</Position>
+                <Pace>75</Pace>
+                <Shooting>73</Shooting>
+                <Passing>84</Passing>
+                <Offensive>78</Offensive>
+                <Defensive>39</Defensive>
+                <Stamina>57</Stamina>
+                <Club>Fenerbahçe SK</Club>
+                <DateOfBirth>28-02-1985</DateOfBirth>
+            </Player>
+            <Player id="586">
+                <FirstName>Hasan Ali</FirstName>
+                <LastName>Kaldırım</LastName>
+                <Position>LB</Position>
+                <Pace>75</Pace>
+                <Shooting>49</Shooting>
+                <Passing>60</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>72</Defensive>
+                <Stamina>83</Stamina>
+                <Club>Fenerbahçe SK</Club>
+                <DateOfBirth>09-12-1989</DateOfBirth>
+            </Player>
+            <Player id="628">
+                <FirstName>Serdar</FirstName>
+                <LastName>Kesimal</LastName>
+                <Position>CB</Position>
+                <Pace>63</Pace>
+                <Shooting>38</Shooting>
+                <Passing>48</Passing>
+                <Offensive>43</Offensive>
+                <Defensive>73</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Fenerbahçe SK</Club>
+                <DateOfBirth>24-01-1989</DateOfBirth>
+            </Player>
+            <Player id="826">
+                <FirstName>Emmanuel</FirstName>
+                <LastName>Emenike</LastName>
+                <Position>ST</Position>
+                <Pace>89</Pace>
+                <Shooting>83</Shooting>
+                <Passing>59</Passing>
+                <Offensive>71</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>83</Stamina>
+                <Club>Fenerbahçe SK</Club>
+                <DateOfBirth>10-05-1987</DateOfBirth>
+            </Player>
+            <Player id="1118">
+                <FirstName>Selçuk</FirstName>
+                <LastName>Şahin</LastName>
+                <Position>CDM</Position>
+                <Pace>61</Pace>
+                <Shooting>60</Shooting>
+                <Passing>68</Passing>
+                <Offensive>64</Offensive>
+                <Defensive>68</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Fenerbahçe SK</Club>
+                <DateOfBirth>30-01-1981</DateOfBirth>
+            </Player>
+            <Player id="1878">
+                <FirstName>Bruno Eduardo</FirstName>
+                <LastName>Regufe Alves</LastName>
+                <Position>CB</Position>
+                <Pace>64</Pace>
+                <Shooting>60</Shooting>
+                <Passing>60</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>80</Defensive>
+                <Stamina>75</Stamina>
+                <Club>Fenerbahçe SK</Club>
+                <DateOfBirth>27-11-1981</DateOfBirth>
+            </Player>
+            <Player id="2137">
+                <FirstName>Moussa</FirstName>
+                <LastName>Sow</LastName>
+                <Position>LM</Position>
+                <Pace>84</Pace>
+                <Shooting>85</Shooting>
+                <Passing>71</Passing>
+                <Offensive>78</Offensive>
+                <Defensive>38</Defensive>
+                <Stamina>77</Stamina>
+                <Club>Fenerbahçe SK</Club>
+                <DateOfBirth>19-01-1986</DateOfBirth>
+            </Player>
+            <Player id="3503">
+                <FirstName>Raúl José</FirstName>
+                <LastName>Trindade Meireles</LastName>
+                <Position>CM</Position>
+                <Pace>71</Pace>
+                <Shooting>76</Shooting>
+                <Passing>80</Passing>
+                <Offensive>78</Offensive>
+                <Defensive>69</Defensive>
+                <Stamina>81</Stamina>
+                <Club>Fenerbahçe SK</Club>
+                <DateOfBirth>17-03-1983</DateOfBirth>
+            </Player>
+            <Player id="4539">
+                <FirstName>Emre</FirstName>
+                <LastName>Belözoğlu</LastName>
+                <Position>CM</Position>
+                <Pace>69</Pace>
+                <Shooting>75</Shooting>
+                <Passing>80</Passing>
+                <Offensive>77</Offensive>
+                <Defensive>65</Defensive>
+                <Stamina>63</Stamina>
+                <Club>Fenerbahçe SK</Club>
+                <DateOfBirth>07-09-1980</DateOfBirth>
+            </Player>
+            <Player id="4546">
+                <FirstName>Egemen</FirstName>
+                <LastName>Korkmaz</LastName>
+                <Position>CB</Position>
+                <Pace>64</Pace>
+                <Shooting>42</Shooting>
+                <Passing>44</Passing>
+                <Offensive>43</Offensive>
+                <Defensive>79</Defensive>
+                <Stamina>76</Stamina>
+                <Club>Fenerbahçe SK</Club>
+                <DateOfBirth>03-11-1982</DateOfBirth>
+            </Player>
+            <Player id="5070">
+                <FirstName>Mehmet</FirstName>
+                <LastName>Topal</LastName>
+                <Position>CDM</Position>
+                <Pace>70</Pace>
+                <Shooting>63</Shooting>
+                <Passing>70</Passing>
+                <Offensive>66</Offensive>
+                <Defensive>80</Defensive>
+                <Stamina>80</Stamina>
+                <Club>Fenerbahçe SK</Club>
+                <DateOfBirth>03-03-1986</DateOfBirth>
+            </Player>
+            <Player id="5629">
+                <FirstName>Caner</FirstName>
+                <LastName>Erkin</LastName>
+                <Position>LB</Position>
+                <Pace>82</Pace>
+                <Shooting>72</Shooting>
+                <Passing>77</Passing>
+                <Offensive>74</Offensive>
+                <Defensive>73</Defensive>
+                <Stamina>83</Stamina>
+                <Club>Fenerbahçe SK</Club>
+                <DateOfBirth>04-10-1988</DateOfBirth>
+            </Player>
+            <Player id="7470">
+                <FirstName>Dirk</FirstName>
+                <LastName>Kuyt</LastName>
+                <Position>RW</Position>
+                <Pace>70</Pace>
+                <Shooting>76</Shooting>
+                <Passing>72</Passing>
+                <Offensive>74</Offensive>
+                <Defensive>65</Defensive>
+                <Stamina>86</Stamina>
+                <Club>Fenerbahçe SK</Club>
+                <DateOfBirth>22-07-1980</DateOfBirth>
+            </Player>
+            <Player id="8555">
+                <FirstName>Pierre</FirstName>
+                <LastName>Webó</LastName>
+                <Position>ST</Position>
+                <Pace>74</Pace>
+                <Shooting>77</Shooting>
+                <Passing>55</Passing>
+                <Offensive>66</Offensive>
+                <Defensive>32</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Fenerbahçe SK</Club>
+                <DateOfBirth>20-01-1982</DateOfBirth>
+            </Player>
+            <Player id="8556">
+                <FirstName>Gökhan</FirstName>
+                <LastName>Gönül</LastName>
+                <Position>RB</Position>
+                <Pace>84</Pace>
+                <Shooting>68</Shooting>
+                <Passing>72</Passing>
+                <Offensive>70</Offensive>
+                <Defensive>75</Defensive>
+                <Stamina>81</Stamina>
+                <Club>Fenerbahçe SK</Club>
+                <DateOfBirth>04-01-1985</DateOfBirth>
+            </Player>
+            <Player id="8827">
+                <FirstName>Alper</FirstName>
+                <LastName>Potuk</LastName>
+                <Position>CAM</Position>
+                <Pace>83</Pace>
+                <Shooting>68</Shooting>
+                <Passing>72</Passing>
+                <Offensive>70</Offensive>
+                <Defensive>67</Defensive>
+                <Stamina>85</Stamina>
+                <Club>Fenerbahçe SK</Club>
+                <DateOfBirth>08-04-1991</DateOfBirth>
+            </Player>
+            <Player id="9778">
+                <FirstName>Erten</FirstName>
+                <LastName>Ersu</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>26</Stamina>
+                <Club>Fenerbahçe SK</Club>
+                <DateOfBirth>21-04-1994</DateOfBirth>
+            </Player>
+            <Player id="9882">
+                <FirstName>Bekir</FirstName>
+                <LastName>İrtegün</LastName>
+                <Position>CB</Position>
+                <Pace>65</Pace>
+                <Shooting>50</Shooting>
+                <Passing>60</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>76</Defensive>
+                <Stamina>78</Stamina>
+                <Club>Fenerbahçe SK</Club>
+                <DateOfBirth>20-04-1984</DateOfBirth>
+            </Player>
+            <Player id="10302">
+                <FirstName>Hakan</FirstName>
+                <LastName>Cinemre</LastName>
+                <Position>CB</Position>
+                <Pace>61</Pace>
+                <Shooting>30</Shooting>
+                <Passing>31</Passing>
+                <Offensive>30</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>58</Stamina>
+                <Club>Fenerbahçe SK</Club>
+                <DateOfBirth>14-02-1994</DateOfBirth>
+            </Player>
+            <Player id="11938">
+                <FirstName>Mehmet</FirstName>
+                <LastName>Topuz</LastName>
+                <Position>RM</Position>
+                <Pace>72</Pace>
+                <Shooting>73</Shooting>
+                <Passing>73</Passing>
+                <Offensive>73</Offensive>
+                <Defensive>43</Defensive>
+                <Stamina>82</Stamina>
+                <Club>Fenerbahçe SK</Club>
+                <DateOfBirth>07-09-1983</DateOfBirth>
+            </Player>
+            <Player id="11968">
+                <FirstName>Michal</FirstName>
+                <LastName>Kadlec</LastName>
+                <Position>LB</Position>
+                <Pace>71</Pace>
+                <Shooting>63</Shooting>
+                <Passing>70</Passing>
+                <Offensive>66</Offensive>
+                <Defensive>74</Defensive>
+                <Stamina>73</Stamina>
+                <Club>Fenerbahçe SK</Club>
+                <DateOfBirth>13-12-1984</DateOfBirth>
+            </Player>
+            <Player id="12448">
+                <FirstName>Miloš</FirstName>
+                <LastName>Krasić</LastName>
+                <Position>RW</Position>
+                <Pace>83</Pace>
+                <Shooting>67</Shooting>
+                <Passing>71</Passing>
+                <Offensive>69</Offensive>
+                <Defensive>39</Defensive>
+                <Stamina>58</Stamina>
+                <Club>Fenerbahçe SK</Club>
+                <DateOfBirth>01-11-1984</DateOfBirth>
+            </Player>
+            <Player id="12568">
+                <FirstName>Fehmi Mert</FirstName>
+                <LastName>Günok</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>31</Stamina>
+                <Club>Fenerbahçe SK</Club>
+                <DateOfBirth>01-03-1989</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Gençlerbirliği SK">
+            <Player id="55">
+                <FirstName>Bogdan</FirstName>
+                <LastName>Stancu</LastName>
+                <Position>ST</Position>
+                <Pace>74</Pace>
+                <Shooting>73</Shooting>
+                <Passing>60</Passing>
+                <Offensive>66</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>74</Stamina>
+                <Club>Gençlerbirliği SK</Club>
+                <DateOfBirth>28-06-1987</DateOfBirth>
+            </Player>
+            <Player id="465">
+                <FirstName>Mervan</FirstName>
+                <LastName>Celik</LastName>
+                <Position>CF</Position>
+                <Pace>77</Pace>
+                <Shooting>69</Shooting>
+                <Passing>60</Passing>
+                <Offensive>64</Offensive>
+                <Defensive>26</Defensive>
+                <Stamina>62</Stamina>
+                <Club>Gençlerbirliği SK</Club>
+                <DateOfBirth>26-05-1990</DateOfBirth>
+            </Player>
+            <Player id="1182">
+                <FirstName>Radosav</FirstName>
+                <LastName>Petrović</LastName>
+                <Position>CDM</Position>
+                <Pace>58</Pace>
+                <Shooting>60</Shooting>
+                <Passing>59</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>72</Defensive>
+                <Stamina>67</Stamina>
+                <Club>Gençlerbirliği SK</Club>
+                <DateOfBirth>08-03-1989</DateOfBirth>
+            </Player>
+            <Player id="1463">
+                <FirstName>Johan</FirstName>
+                <LastName>Dahlin</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>39</Stamina>
+                <Club>Gençlerbirliği SK</Club>
+                <DateOfBirth>08-09-1986</DateOfBirth>
+            </Player>
+            <Player id="1723">
+                <FirstName>Nemanja</FirstName>
+                <LastName>Tomić</LastName>
+                <Position>RW</Position>
+                <Pace>75</Pace>
+                <Shooting>63</Shooting>
+                <Passing>74</Passing>
+                <Offensive>68</Offensive>
+                <Defensive>40</Defensive>
+                <Stamina>75</Stamina>
+                <Club>Gençlerbirliği SK</Club>
+                <DateOfBirth>21-01-1988</DateOfBirth>
+            </Player>
+            <Player id="1943">
+                <FirstName>Milan</FirstName>
+                <LastName>Smiljanić</LastName>
+                <Position>CM</Position>
+                <Pace>66</Pace>
+                <Shooting>60</Shooting>
+                <Passing>71</Passing>
+                <Offensive>65</Offensive>
+                <Defensive>52</Defensive>
+                <Stamina>62</Stamina>
+                <Club>Gençlerbirliği SK</Club>
+                <DateOfBirth>19-11-1986</DateOfBirth>
+            </Player>
+            <Player id="2540">
+                <FirstName>Deniz</FirstName>
+                <LastName>Naki</LastName>
+                <Position>LW</Position>
+                <Pace>78</Pace>
+                <Shooting>59</Shooting>
+                <Passing>62</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>62</Stamina>
+                <Club>Gençlerbirliği SK</Club>
+                <DateOfBirth>09-07-1989</DateOfBirth>
+            </Player>
+            <Player id="3374">
+                <FirstName>Sedat</FirstName>
+                <LastName>Bayrak</LastName>
+                <Position>CB</Position>
+                <Pace>56</Pace>
+                <Shooting>37</Shooting>
+                <Passing>56</Passing>
+                <Offensive>46</Offensive>
+                <Defensive>65</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Gençlerbirliği SK</Club>
+                <DateOfBirth>10-04-1981</DateOfBirth>
+            </Player>
+            <Player id="4582">
+                <FirstName>Guido</FirstName>
+                <LastName>Koçer</LastName>
+                <Position>LM</Position>
+                <Pace>79</Pace>
+                <Shooting>64</Shooting>
+                <Passing>62</Passing>
+                <Offensive>63</Offensive>
+                <Defensive>27</Defensive>
+                <Stamina>64</Stamina>
+                <Club>Gençlerbirliği SK</Club>
+                <DateOfBirth>15-09-1988</DateOfBirth>
+            </Player>
+            <Player id="5571">
+                <FirstName>Doğa</FirstName>
+                <LastName>Kaya</LastName>
+                <Position>CDM</Position>
+                <Pace>67</Pace>
+                <Shooting>58</Shooting>
+                <Passing>59</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>65</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Gençlerbirliği SK</Club>
+                <DateOfBirth>30-06-1984</DateOfBirth>
+            </Player>
+            <Player id="7522">
+                <FirstName>Ramazan</FirstName>
+                <LastName>Köse</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>41</Stamina>
+                <Club>Gençlerbirliği SK</Club>
+                <DateOfBirth>12-05-1988</DateOfBirth>
+            </Player>
+            <Player id="7766">
+                <FirstName>Orhan</FirstName>
+                <LastName>Gülle</LastName>
+                <Position>CDM</Position>
+                <Pace>70</Pace>
+                <Shooting>52</Shooting>
+                <Passing>65</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>51</Defensive>
+                <Stamina>55</Stamina>
+                <Club>Gençlerbirliği SK</Club>
+                <DateOfBirth>15-01-1992</DateOfBirth>
+            </Player>
+            <Player id="7893">
+                <FirstName>Uğur</FirstName>
+                <LastName>Çiftçi</LastName>
+                <Position>LB</Position>
+                <Pace>71</Pace>
+                <Shooting>31</Shooting>
+                <Passing>54</Passing>
+                <Offensive>42</Offensive>
+                <Defensive>59</Defensive>
+                <Stamina>56</Stamina>
+                <Club>Gençlerbirliği SK</Club>
+                <DateOfBirth>04-05-1992</DateOfBirth>
+            </Player>
+            <Player id="7906">
+                <FirstName>Nizamettin</FirstName>
+                <LastName>Çalışkan</LastName>
+                <Position>CAM</Position>
+                <Pace>76</Pace>
+                <Shooting>54</Shooting>
+                <Passing>62</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>33</Defensive>
+                <Stamina>64</Stamina>
+                <Club>Gençlerbirliği SK</Club>
+                <DateOfBirth>20-03-1987</DateOfBirth>
+            </Player>
+            <Player id="8533">
+                <FirstName>Hikmet</FirstName>
+                <LastName>Balioğlu</LastName>
+                <Position>CB</Position>
+                <Pace>61</Pace>
+                <Shooting>31</Shooting>
+                <Passing>30</Passing>
+                <Offensive>30</Offensive>
+                <Defensive>65</Defensive>
+                <Stamina>59</Stamina>
+                <Club>Gençlerbirliği SK</Club>
+                <DateOfBirth>04-08-1990</DateOfBirth>
+            </Player>
+            <Player id="8861">
+                <FirstName>Ferhat</FirstName>
+                <LastName>Görgülü</LastName>
+                <Position>CB</Position>
+                <Pace>62</Pace>
+                <Shooting>31</Shooting>
+                <Passing>36</Passing>
+                <Offensive>33</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>59</Stamina>
+                <Club>Gençlerbirliği SK</Club>
+                <DateOfBirth>28-10-1991</DateOfBirth>
+            </Player>
+            <Player id="9131">
+                <FirstName>Hakan</FirstName>
+                <LastName>Aslantaş</LastName>
+                <Position>RB</Position>
+                <Pace>70</Pace>
+                <Shooting>47</Shooting>
+                <Passing>62</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>54</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Gençlerbirliği SK</Club>
+                <DateOfBirth>26-08-1985</DateOfBirth>
+            </Player>
+            <Player id="9587">
+                <FirstName>Ahmet</FirstName>
+                <LastName>Çalık</LastName>
+                <Position>CB</Position>
+                <Pace>61</Pace>
+                <Shooting>28</Shooting>
+                <Passing>30</Passing>
+                <Offensive>29</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>64</Stamina>
+                <Club>Gençlerbirliği SK</Club>
+                <DateOfBirth>26-02-1994</DateOfBirth>
+            </Player>
+            <Player id="9779">
+                <FirstName>Özgür</FirstName>
+                <LastName>İleri</LastName>
+                <Position>CDM</Position>
+                <Pace>56</Pace>
+                <Shooting>42</Shooting>
+                <Passing>62</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>53</Defensive>
+                <Stamina>50</Stamina>
+                <Club>Gençlerbirliği SK</Club>
+                <DateOfBirth>17-11-1987</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="İstanbul Başakşehir SK">
+            <Player id="117">
+                <FirstName>Yalçın</FirstName>
+                <LastName>Ayhan</LastName>
+                <Position>CB</Position>
+                <Pace>32</Pace>
+                <Shooting>29</Shooting>
+                <Passing>37</Passing>
+                <Offensive>33</Offensive>
+                <Defensive>74</Defensive>
+                <Stamina>56</Stamina>
+                <Club>İstanbul Başakşehir SK</Club>
+                <DateOfBirth>01-05-1982</DateOfBirth>
+            </Player>
+            <Player id="948">
+                <FirstName>Uğur</FirstName>
+                <LastName>Uçar</LastName>
+                <Position>RB</Position>
+                <Pace>74</Pace>
+                <Shooting>37</Shooting>
+                <Passing>63</Passing>
+                <Offensive>50</Offensive>
+                <Defensive>70</Defensive>
+                <Stamina>69</Stamina>
+                <Club>İstanbul Başakşehir SK</Club>
+                <DateOfBirth>05-04-1987</DateOfBirth>
+            </Player>
+            <Player id="1069">
+                <FirstName>Michael</FirstName>
+                <LastName>Eneramo</LastName>
+                <Position>ST</Position>
+                <Pace>71</Pace>
+                <Shooting>70</Shooting>
+                <Passing>46</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>31</Defensive>
+                <Stamina>74</Stamina>
+                <Club>İstanbul Başakşehir SK</Club>
+                <DateOfBirth>26-11-1985</DateOfBirth>
+            </Player>
+            <Player id="2170">
+                <FirstName>Ufuk</FirstName>
+                <LastName>Ceylan</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>48</Stamina>
+                <Club>İstanbul Başakşehir SK</Club>
+                <DateOfBirth>23-06-1986</DateOfBirth>
+            </Player>
+            <Player id="4124">
+                <FirstName>Orhan</FirstName>
+                <LastName>Ak</LastName>
+                <Position>CB</Position>
+                <Pace>61</Pace>
+                <Shooting>40</Shooting>
+                <Passing>50</Passing>
+                <Offensive>45</Offensive>
+                <Defensive>67</Defensive>
+                <Stamina>68</Stamina>
+                <Club>İstanbul Başakşehir SK</Club>
+                <DateOfBirth>29-09-1979</DateOfBirth>
+            </Player>
+            <Player id="4140">
+                <FirstName>Can</FirstName>
+                <LastName>Arat</LastName>
+                <Position>CB</Position>
+                <Pace>65</Pace>
+                <Shooting>33</Shooting>
+                <Passing>47</Passing>
+                <Offensive>40</Offensive>
+                <Defensive>67</Defensive>
+                <Stamina>72</Stamina>
+                <Club>İstanbul Başakşehir SK</Club>
+                <DateOfBirth>21-01-1984</DateOfBirth>
+            </Player>
+            <Player id="4861">
+                <FirstName>Edin</FirstName>
+                <LastName>Višća</LastName>
+                <Position>LM</Position>
+                <Pace>69</Pace>
+                <Shooting>54</Shooting>
+                <Passing>63</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>54</Stamina>
+                <Club>İstanbul Başakşehir SK</Club>
+                <DateOfBirth>17-02-1990</DateOfBirth>
+            </Player>
+            <Player id="6072">
+                <FirstName>Sedat</FirstName>
+                <LastName>Ağçay</LastName>
+                <Position>CDM</Position>
+                <Pace>66</Pace>
+                <Shooting>58</Shooting>
+                <Passing>60</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>74</Stamina>
+                <Club>İstanbul Başakşehir SK</Club>
+                <DateOfBirth>22-09-1981</DateOfBirth>
+            </Player>
+            <Player id="6718">
+                <FirstName>Wellington</FirstName>
+                <LastName>Da Silva</LastName>
+                <Position>RM</Position>
+                <Pace>71</Pace>
+                <Shooting>62</Shooting>
+                <Passing>62</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>64</Stamina>
+                <Club>İstanbul Başakşehir SK</Club>
+                <DateOfBirth>23-07-1985</DateOfBirth>
+            </Player>
+            <Player id="7226">
+                <FirstName>Volkan</FirstName>
+                <LastName>Babacan</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>31</Stamina>
+                <Club>İstanbul Başakşehir SK</Club>
+                <DateOfBirth>11-08-1988</DateOfBirth>
+            </Player>
+            <Player id="8172">
+                <FirstName>Alparslan</FirstName>
+                <LastName>Erdem</LastName>
+                <Position>LB</Position>
+                <Pace>75</Pace>
+                <Shooting>42</Shooting>
+                <Passing>57</Passing>
+                <Offensive>49</Offensive>
+                <Defensive>56</Defensive>
+                <Stamina>78</Stamina>
+                <Club>İstanbul Başakşehir SK</Club>
+                <DateOfBirth>12-11-1988</DateOfBirth>
+            </Player>
+            <Player id="11252">
+                <FirstName>Cihan</FirstName>
+                <LastName>Yildiz</LastName>
+                <Position>CDM</Position>
+                <Pace>83</Pace>
+                <Shooting>43</Shooting>
+                <Passing>57</Passing>
+                <Offensive>50</Offensive>
+                <Defensive>44</Defensive>
+                <Stamina>61</Stamina>
+                <Club>İstanbul Başakşehir SK</Club>
+                <DateOfBirth>03-03-1995</DateOfBirth>
+            </Player>
+            <Player id="11635">
+                <FirstName>Francisco</FirstName>
+                <LastName>Lima da Silva</LastName>
+                <Position>LM</Position>
+                <Pace>63</Pace>
+                <Shooting>62</Shooting>
+                <Passing>36</Passing>
+                <Offensive>49</Offensive>
+                <Defensive>26</Defensive>
+                <Stamina>56</Stamina>
+                <Club>İstanbul Başakşehir SK</Club>
+                <DateOfBirth>11-12-1984</DateOfBirth>
+            </Player>
+            <Player id="11714">
+                <FirstName>Semih</FirstName>
+                <LastName>Şentürk</LastName>
+                <Position>ST</Position>
+                <Pace>66</Pace>
+                <Shooting>77</Shooting>
+                <Passing>64</Passing>
+                <Offensive>70</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>69</Stamina>
+                <Club>İstanbul Başakşehir SK</Club>
+                <DateOfBirth>29-04-1983</DateOfBirth>
+            </Player>
+            <Player id="12815">
+                <FirstName>Jérémy</FirstName>
+                <LastName>Perbet</LastName>
+                <Position>ST</Position>
+                <Pace>67</Pace>
+                <Shooting>77</Shooting>
+                <Passing>47</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>70</Stamina>
+                <Club>İstanbul Başakşehir SK</Club>
+                <DateOfBirth>12-12-1984</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Sivasspor">
+            <Player id="118">
+                <FirstName>Burhan</FirstName>
+                <LastName>Eşer</LastName>
+                <Position>RW</Position>
+                <Pace>72</Pace>
+                <Shooting>71</Shooting>
+                <Passing>69</Passing>
+                <Offensive>70</Offensive>
+                <Defensive>33</Defensive>
+                <Stamina>85</Stamina>
+                <Club>Sivasspor</Club>
+                <DateOfBirth>01-01-1985</DateOfBirth>
+            </Player>
+            <Player id="150">
+                <FirstName>Kadir</FirstName>
+                <LastName>Bekmezci</LastName>
+                <Position>CDM</Position>
+                <Pace>59</Pace>
+                <Shooting>60</Shooting>
+                <Passing>69</Passing>
+                <Offensive>64</Offensive>
+                <Defensive>73</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Sivasspor</Club>
+                <DateOfBirth>05-07-1985</DateOfBirth>
+            </Player>
+            <Player id="328">
+                <FirstName>Korcan</FirstName>
+                <LastName>Çelikay</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>22</Stamina>
+                <Club>Sivasspor</Club>
+                <DateOfBirth>31-12-1987</DateOfBirth>
+            </Player>
+            <Player id="588">
+                <FirstName>Cícero João</FirstName>
+                <LastName>De Cezare</LastName>
+                <Position>RB</Position>
+                <Pace>75</Pace>
+                <Shooting>59</Shooting>
+                <Passing>66</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>69</Defensive>
+                <Stamina>68</Stamina>
+                <Club>Sivasspor</Club>
+                <DateOfBirth>24-06-1980</DateOfBirth>
+            </Player>
+            <Player id="1244">
+                <FirstName>Ümit</FirstName>
+                <LastName>Kurt</LastName>
+                <Position>CB</Position>
+                <Pace>64</Pace>
+                <Shooting>30</Shooting>
+                <Passing>42</Passing>
+                <Offensive>36</Offensive>
+                <Defensive>72</Defensive>
+                <Stamina>80</Stamina>
+                <Club>Sivasspor</Club>
+                <DateOfBirth>02-05-1991</DateOfBirth>
+            </Player>
+            <Player id="1278">
+                <FirstName>Adem</FirstName>
+                <LastName>Koçak</LastName>
+                <Position>CM</Position>
+                <Pace>63</Pace>
+                <Shooting>54</Shooting>
+                <Passing>72</Passing>
+                <Offensive>63</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>74</Stamina>
+                <Club>Sivasspor</Club>
+                <DateOfBirth>01-09-1983</DateOfBirth>
+            </Player>
+            <Player id="2534">
+                <FirstName>Hakan</FirstName>
+                <LastName>Arslan</LastName>
+                <Position>CM</Position>
+                <Pace>66</Pace>
+                <Shooting>62</Shooting>
+                <Passing>69</Passing>
+                <Offensive>65</Offensive>
+                <Defensive>61</Defensive>
+                <Stamina>76</Stamina>
+                <Club>Sivasspor</Club>
+                <DateOfBirth>18-07-1988</DateOfBirth>
+            </Player>
+            <Player id="4171">
+                <FirstName>Mehdi</FirstName>
+                <LastName>Taouil</LastName>
+                <Position>CM</Position>
+                <Pace>79</Pace>
+                <Shooting>55</Shooting>
+                <Passing>61</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>51</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Sivasspor</Club>
+                <DateOfBirth>20-05-1983</DateOfBirth>
+            </Player>
+            <Player id="4255">
+                <FirstName>Cihan</FirstName>
+                <LastName>Özkara</LastName>
+                <Position>ST</Position>
+                <Pace>55</Pace>
+                <Shooting>69</Shooting>
+                <Passing>57</Passing>
+                <Offensive>63</Offensive>
+                <Defensive>34</Defensive>
+                <Stamina>48</Stamina>
+                <Club>Sivasspor</Club>
+                <DateOfBirth>14-07-1991</DateOfBirth>
+            </Player>
+            <Player id="4526">
+                <FirstName>Ahmet</FirstName>
+                <LastName>Aras</LastName>
+                <Position>ST</Position>
+                <Pace>54</Pace>
+                <Shooting>69</Shooting>
+                <Passing>43</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>68</Stamina>
+                <Club>Sivasspor</Club>
+                <DateOfBirth>13-02-1987</DateOfBirth>
+            </Player>
+            <Player id="5082">
+                <FirstName>Manuel Marouan</FirstName>
+                <LastName>da Costa Senoussi</LastName>
+                <Position>CB</Position>
+                <Pace>68</Pace>
+                <Shooting>28</Shooting>
+                <Passing>50</Passing>
+                <Offensive>39</Offensive>
+                <Defensive>79</Defensive>
+                <Stamina>78</Stamina>
+                <Club>Sivasspor</Club>
+                <DateOfBirth>06-05-1986</DateOfBirth>
+            </Player>
+            <Player id="8025">
+                <FirstName>Aatif</FirstName>
+                <LastName>Chahechouhe</LastName>
+                <Position>LW</Position>
+                <Pace>86</Pace>
+                <Shooting>76</Shooting>
+                <Passing>70</Passing>
+                <Offensive>73</Offensive>
+                <Defensive>32</Defensive>
+                <Stamina>80</Stamina>
+                <Club>Sivasspor</Club>
+                <DateOfBirth>02-07-1986</DateOfBirth>
+            </Player>
+            <Player id="9591">
+                <FirstName>Ahmet</FirstName>
+                <LastName>Şahbaz</LastName>
+                <Position>CB</Position>
+                <Pace>63</Pace>
+                <Shooting>31</Shooting>
+                <Passing>33</Passing>
+                <Offensive>32</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>61</Stamina>
+                <Club>Sivasspor</Club>
+                <DateOfBirth>12-03-1991</DateOfBirth>
+            </Player>
+            <Player id="9868">
+                <FirstName>John</FirstName>
+                <LastName>Utaka</LastName>
+                <Position>LW</Position>
+                <Pace>82</Pace>
+                <Shooting>74</Shooting>
+                <Passing>67</Passing>
+                <Offensive>70</Offensive>
+                <Defensive>36</Defensive>
+                <Stamina>67</Stamina>
+                <Club>Sivasspor</Club>
+                <DateOfBirth>08-01-1982</DateOfBirth>
+            </Player>
+            <Player id="10703">
+                <FirstName>İbrahim</FirstName>
+                <LastName>Toraman</LastName>
+                <Position>CB</Position>
+                <Pace>76</Pace>
+                <Shooting>50</Shooting>
+                <Passing>60</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>76</Defensive>
+                <Stamina>86</Stamina>
+                <Club>Sivasspor</Club>
+                <DateOfBirth>20-11-1981</DateOfBirth>
+            </Player>
+            <Player id="12354">
+                <FirstName>Ziya</FirstName>
+                <LastName>Erdal</LastName>
+                <Position>LB</Position>
+                <Pace>71</Pace>
+                <Shooting>48</Shooting>
+                <Passing>66</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>73</Defensive>
+                <Stamina>76</Stamina>
+                <Club>Sivasspor</Club>
+                <DateOfBirth>05-01-1988</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Bursaspor">
+            <Player id="125">
+                <FirstName>Samuel</FirstName>
+                <LastName>Holmén</LastName>
+                <Position>CAM</Position>
+                <Pace>78</Pace>
+                <Shooting>68</Shooting>
+                <Passing>72</Passing>
+                <Offensive>70</Offensive>
+                <Defensive>69</Defensive>
+                <Stamina>92</Stamina>
+                <Club>Bursaspor</Club>
+                <DateOfBirth>28-06-1984</DateOfBirth>
+            </Player>
+            <Player id="321">
+                <FirstName>Ozan</FirstName>
+                <LastName>İpek</LastName>
+                <Position>LM</Position>
+                <Pace>73</Pace>
+                <Shooting>70</Shooting>
+                <Passing>68</Passing>
+                <Offensive>69</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>73</Stamina>
+                <Club>Bursaspor</Club>
+                <DateOfBirth>10-10-1986</DateOfBirth>
+            </Player>
+            <Player id="395">
+                <FirstName>Ibrahim</FirstName>
+                <LastName>Öztürk</LastName>
+                <Position>CB</Position>
+                <Pace>71</Pace>
+                <Shooting>44</Shooting>
+                <Passing>48</Passing>
+                <Offensive>46</Offensive>
+                <Defensive>73</Defensive>
+                <Stamina>68</Stamina>
+                <Club>Bursaspor</Club>
+                <DateOfBirth>21-06-1981</DateOfBirth>
+            </Player>
+            <Player id="777">
+                <FirstName>Bakaye</FirstName>
+                <LastName>Traoré</LastName>
+                <Position>CM</Position>
+                <Pace>67</Pace>
+                <Shooting>71</Shooting>
+                <Passing>67</Passing>
+                <Offensive>69</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>84</Stamina>
+                <Club>Bursaspor</Club>
+                <DateOfBirth>06-03-1985</DateOfBirth>
+            </Player>
+            <Player id="858">
+                <FirstName>Harun</FirstName>
+                <LastName>Tekin</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>22</Stamina>
+                <Club>Bursaspor</Club>
+                <DateOfBirth>17-06-1989</DateOfBirth>
+            </Player>
+            <Player id="1586">
+                <FirstName>Enes</FirstName>
+                <LastName>Ünal</LastName>
+                <Position>ST</Position>
+                <Pace>75</Pace>
+                <Shooting>68</Shooting>
+                <Passing>60</Passing>
+                <Offensive>64</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>61</Stamina>
+                <Club>Bursaspor</Club>
+                <DateOfBirth>10-05-1997</DateOfBirth>
+            </Player>
+            <Player id="1979">
+                <FirstName>Yaşin</FirstName>
+                <LastName>Pehlivan</LastName>
+                <Position>CDM</Position>
+                <Pace>71</Pace>
+                <Shooting>58</Shooting>
+                <Passing>57</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>68</Defensive>
+                <Stamina>75</Stamina>
+                <Club>Bursaspor</Club>
+                <DateOfBirth>05-01-1989</DateOfBirth>
+            </Player>
+            <Player id="2067">
+                <FirstName>Cédric</FirstName>
+                <LastName>Bakambu</LastName>
+                <Position>ST</Position>
+                <Pace>83</Pace>
+                <Shooting>66</Shooting>
+                <Passing>54</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>31</Defensive>
+                <Stamina>59</Stamina>
+                <Club>Bursaspor</Club>
+                <DateOfBirth>11-04-1991</DateOfBirth>
+            </Player>
+            <Player id="2234">
+                <FirstName>Bekir</FirstName>
+                <LastName>Yılmaz</LastName>
+                <Position>CM</Position>
+                <Pace>70</Pace>
+                <Shooting>66</Shooting>
+                <Passing>67</Passing>
+                <Offensive>66</Offensive>
+                <Defensive>50</Defensive>
+                <Stamina>67</Stamina>
+                <Club>Bursaspor</Club>
+                <DateOfBirth>06-03-1988</DateOfBirth>
+            </Player>
+            <Player id="2298">
+                <FirstName>Samil</FirstName>
+                <LastName>Cinaz</LastName>
+                <Position>CDM</Position>
+                <Pace>66</Pace>
+                <Shooting>56</Shooting>
+                <Passing>58</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>69</Defensive>
+                <Stamina>76</Stamina>
+                <Club>Bursaspor</Club>
+                <DateOfBirth>08-03-1986</DateOfBirth>
+            </Player>
+            <Player id="3488">
+                <FirstName>Fernando</FirstName>
+                <LastName>Belluschi</LastName>
+                <Position>CDM</Position>
+                <Pace>73</Pace>
+                <Shooting>78</Shooting>
+                <Passing>84</Passing>
+                <Offensive>81</Offensive>
+                <Defensive>50</Defensive>
+                <Stamina>69</Stamina>
+                <Club>Bursaspor</Club>
+                <DateOfBirth>10-09-1983</DateOfBirth>
+            </Player>
+            <Player id="4540">
+                <FirstName>Sebastien</FirstName>
+                <LastName>Frey</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>31</Stamina>
+                <Club>Bursaspor</Club>
+                <DateOfBirth>18-03-1980</DateOfBirth>
+            </Player>
+            <Player id="4637">
+                <FirstName>Ethem Ercan</FirstName>
+                <LastName>Pülgir</LastName>
+                <Position>CB</Position>
+                <Pace>60</Pace>
+                <Shooting>29</Shooting>
+                <Passing>41</Passing>
+                <Offensive>35</Offensive>
+                <Defensive>65</Defensive>
+                <Stamina>60</Stamina>
+                <Club>Bursaspor</Club>
+                <DateOfBirth>02-04-1993</DateOfBirth>
+            </Player>
+            <Player id="7081">
+                <FirstName>Aziz</FirstName>
+                <LastName>Behich</LastName>
+                <Position>LB</Position>
+                <Pace>81</Pace>
+                <Shooting>50</Shooting>
+                <Passing>58</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>59</Defensive>
+                <Stamina>75</Stamina>
+                <Club>Bursaspor</Club>
+                <DateOfBirth>16-12-1990</DateOfBirth>
+            </Player>
+            <Player id="7652">
+                <FirstName>Batuhan</FirstName>
+                <LastName>Altintaş</LastName>
+                <Position>ST</Position>
+                <Pace>67</Pace>
+                <Shooting>60</Shooting>
+                <Passing>43</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>32</Defensive>
+                <Stamina>54</Stamina>
+                <Club>Bursaspor</Club>
+                <DateOfBirth>14-03-1996</DateOfBirth>
+            </Player>
+            <Player id="9590">
+                <FirstName>Ozan</FirstName>
+                <LastName>Tufan</LastName>
+                <Position>RB</Position>
+                <Pace>72</Pace>
+                <Shooting>50</Shooting>
+                <Passing>62</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>56</Defensive>
+                <Stamina>63</Stamina>
+                <Club>Bursaspor</Club>
+                <DateOfBirth>23-03-1995</DateOfBirth>
+            </Player>
+            <Player id="10397">
+                <FirstName>José Fernando</FirstName>
+                <LastName>Viana de Santana</LastName>
+                <Position>ST</Position>
+                <Pace>67</Pace>
+                <Shooting>75</Shooting>
+                <Passing>49</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>34</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Bursaspor</Club>
+                <DateOfBirth>27-03-1987</DateOfBirth>
+            </Player>
+            <Player id="10868">
+                <FirstName>Okan</FirstName>
+                <LastName>Kocuk</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>29</Stamina>
+                <Club>Bursaspor</Club>
+                <DateOfBirth>27-07-1995</DateOfBirth>
+            </Player>
+            <Player id="11476">
+                <FirstName>Josué Filipe</FirstName>
+                <LastName>Soares Pesqueira</LastName>
+                <Position>CAM</Position>
+                <Pace>71</Pace>
+                <Shooting>72</Shooting>
+                <Passing>74</Passing>
+                <Offensive>73</Offensive>
+                <Defensive>55</Defensive>
+                <Stamina>75</Stamina>
+                <Club>Bursaspor</Club>
+                <DateOfBirth>17-09-1990</DateOfBirth>
+            </Player>
+            <Player id="11806">
+                <FirstName>Serdar</FirstName>
+                <LastName>Aziz</LastName>
+                <Position>CB</Position>
+                <Pace>73</Pace>
+                <Shooting>27</Shooting>
+                <Passing>49</Passing>
+                <Offensive>38</Offensive>
+                <Defensive>76</Defensive>
+                <Stamina>75</Stamina>
+                <Club>Bursaspor</Club>
+                <DateOfBirth>23-10-1990</DateOfBirth>
+            </Player>
+            <Player id="11953">
+                <FirstName>Renato</FirstName>
+                <LastName>Civelli</LastName>
+                <Position>CB</Position>
+                <Pace>51</Pace>
+                <Shooting>51</Shooting>
+                <Passing>59</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>73</Defensive>
+                <Stamina>61</Stamina>
+                <Club>Bursaspor</Club>
+                <DateOfBirth>14-10-1983</DateOfBirth>
+            </Player>
+            <Player id="12083">
+                <FirstName>Volkan</FirstName>
+                <LastName>Şen</LastName>
+                <Position>RM</Position>
+                <Pace>81</Pace>
+                <Shooting>59</Shooting>
+                <Passing>70</Passing>
+                <Offensive>64</Offensive>
+                <Defensive>38</Defensive>
+                <Stamina>73</Stamina>
+                <Club>Bursaspor</Club>
+                <DateOfBirth>07-07-1987</DateOfBirth>
+            </Player>
+            <Player id="12105">
+                <FirstName>Aydın</FirstName>
+                <LastName>Karabulut</LastName>
+                <Position>LM</Position>
+                <Pace>83</Pace>
+                <Shooting>59</Shooting>
+                <Passing>70</Passing>
+                <Offensive>64</Offensive>
+                <Defensive>34</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Bursaspor</Club>
+                <DateOfBirth>25-01-1988</DateOfBirth>
+            </Player>
+            <Player id="12243">
+                <FirstName>Taye</FirstName>
+                <LastName>Taiwo</LastName>
+                <Position>LB</Position>
+                <Pace>81</Pace>
+                <Shooting>62</Shooting>
+                <Passing>69</Passing>
+                <Offensive>65</Offensive>
+                <Defensive>71</Defensive>
+                <Stamina>78</Stamina>
+                <Club>Bursaspor</Club>
+                <DateOfBirth>16-04-1985</DateOfBirth>
+            </Player>
+            <Player id="12332">
+                <FirstName>Sener</FirstName>
+                <LastName>Özbayrakli</LastName>
+                <Position>RB</Position>
+                <Pace>77</Pace>
+                <Shooting>42</Shooting>
+                <Passing>70</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>71</Defensive>
+                <Stamina>76</Stamina>
+                <Club>Bursaspor</Club>
+                <DateOfBirth>23-01-1990</DateOfBirth>
+            </Player>
+            <Player id="12867">
+                <FirstName>Ferhat</FirstName>
+                <LastName>Kiraz</LastName>
+                <Position>LM</Position>
+                <Pace>77</Pace>
+                <Shooting>60</Shooting>
+                <Passing>68</Passing>
+                <Offensive>64</Offensive>
+                <Defensive>42</Defensive>
+                <Stamina>74</Stamina>
+                <Club>Bursaspor</Club>
+                <DateOfBirth>02-01-1989</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Mersin İdman Yurdu">
+            <Player id="138">
+                <FirstName>Melih</FirstName>
+                <LastName>Gökçek</LastName>
+                <Position>LM</Position>
+                <Pace>73</Pace>
+                <Shooting>70</Shooting>
+                <Passing>74</Passing>
+                <Offensive>72</Offensive>
+                <Defensive>31</Defensive>
+                <Stamina>61</Stamina>
+                <Club>Mersin İdman Yurdu</Club>
+                <DateOfBirth>20-07-1981</DateOfBirth>
+            </Player>
+            <Player id="921">
+                <FirstName>Serkan</FirstName>
+                <LastName>Balcı</LastName>
+                <Position>RB</Position>
+                <Pace>85</Pace>
+                <Shooting>52</Shooting>
+                <Passing>67</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>80</Stamina>
+                <Club>Mersin İdman Yurdu</Club>
+                <DateOfBirth>22-08-1983</DateOfBirth>
+            </Player>
+            <Player id="970">
+                <FirstName>Welliton</FirstName>
+                <LastName>Soares de Morais</LastName>
+                <Position>ST</Position>
+                <Pace>83</Pace>
+                <Shooting>68</Shooting>
+                <Passing>57</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>68</Stamina>
+                <Club>Mersin İdman Yurdu</Club>
+                <DateOfBirth>22-10-1986</DateOfBirth>
+            </Player>
+            <Player id="1015">
+                <FirstName>Ricardo</FirstName>
+                <LastName>Pedriel</LastName>
+                <Position>ST</Position>
+                <Pace>74</Pace>
+                <Shooting>67</Shooting>
+                <Passing>47</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>33</Defensive>
+                <Stamina>50</Stamina>
+                <Club>Mersin İdman Yurdu</Club>
+                <DateOfBirth>19-01-1987</DateOfBirth>
+            </Player>
+            <Player id="1518">
+                <FirstName>Préjuce</FirstName>
+                <LastName>Nakoulma</LastName>
+                <Position>RM</Position>
+                <Pace>91</Pace>
+                <Shooting>62</Shooting>
+                <Passing>56</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>41</Defensive>
+                <Stamina>74</Stamina>
+                <Club>Mersin İdman Yurdu</Club>
+                <DateOfBirth>21-04-1987</DateOfBirth>
+            </Player>
+            <Player id="1797">
+                <FirstName>Loret</FirstName>
+                <LastName>Sadiku</LastName>
+                <Position>CB</Position>
+                <Pace>64</Pace>
+                <Shooting>50</Shooting>
+                <Passing>56</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>71</Defensive>
+                <Stamina>73</Stamina>
+                <Club>Mersin İdman Yurdu</Club>
+                <DateOfBirth>28-07-1991</DateOfBirth>
+            </Player>
+            <Player id="2010">
+                <FirstName>Oktay</FirstName>
+                <LastName>Delibalta</LastName>
+                <Position>LM</Position>
+                <Pace>69</Pace>
+                <Shooting>62</Shooting>
+                <Passing>66</Passing>
+                <Offensive>64</Offensive>
+                <Defensive>54</Defensive>
+                <Stamina>77</Stamina>
+                <Club>Mersin İdman Yurdu</Club>
+                <DateOfBirth>27-10-1985</DateOfBirth>
+            </Player>
+            <Player id="3849">
+                <FirstName>Wederson Luiz</FirstName>
+                <LastName>da Silva Medeiros</LastName>
+                <Position>LB</Position>
+                <Pace>81</Pace>
+                <Shooting>63</Shooting>
+                <Passing>69</Passing>
+                <Offensive>66</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>69</Stamina>
+                <Club>Mersin İdman Yurdu</Club>
+                <DateOfBirth>22-07-1981</DateOfBirth>
+            </Player>
+            <Player id="5713">
+                <FirstName>Márkó</FirstName>
+                <LastName>Futács</LastName>
+                <Position>ST</Position>
+                <Pace>54</Pace>
+                <Shooting>67</Shooting>
+                <Passing>52</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>27</Defensive>
+                <Stamina>66</Stamina>
+                <Club>Mersin İdman Yurdu</Club>
+                <DateOfBirth>22-02-1990</DateOfBirth>
+            </Player>
+            <Player id="6234">
+                <FirstName>Abdulrahman</FirstName>
+                <LastName>Khalili</LastName>
+                <Position>CAM</Position>
+                <Pace>65</Pace>
+                <Shooting>54</Shooting>
+                <Passing>62</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>43</Defensive>
+                <Stamina>58</Stamina>
+                <Club>Mersin İdman Yurdu</Club>
+                <DateOfBirth>07-06-1992</DateOfBirth>
+            </Player>
+            <Player id="6486">
+                <FirstName>Sinan</FirstName>
+                <LastName>Kaloğlu</LastName>
+                <Position>ST</Position>
+                <Pace>54</Pace>
+                <Shooting>65</Shooting>
+                <Passing>58</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>48</Stamina>
+                <Club>Mersin İdman Yurdu</Club>
+                <DateOfBirth>10-06-1981</DateOfBirth>
+            </Player>
+            <Player id="6558">
+                <FirstName>Adem</FirstName>
+                <LastName>Güven</LastName>
+                <Position>RM</Position>
+                <Pace>75</Pace>
+                <Shooting>59</Shooting>
+                <Passing>55</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>31</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Mersin İdman Yurdu</Club>
+                <DateOfBirth>11-10-1985</DateOfBirth>
+            </Player>
+            <Player id="7176">
+                <FirstName>Serol</FirstName>
+                <LastName>Demirhan</LastName>
+                <Position>LB</Position>
+                <Pace>74</Pace>
+                <Shooting>37</Shooting>
+                <Passing>49</Passing>
+                <Offensive>43</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>76</Stamina>
+                <Club>Mersin İdman Yurdu</Club>
+                <DateOfBirth>05-12-1988</DateOfBirth>
+            </Player>
+            <Player id="7986">
+                <FirstName>Cem</FirstName>
+                <LastName>Sultan</LastName>
+                <Position>LM</Position>
+                <Pace>73</Pace>
+                <Shooting>63</Shooting>
+                <Passing>56</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>61</Stamina>
+                <Club>Mersin İdman Yurdu</Club>
+                <DateOfBirth>27-02-1991</DateOfBirth>
+            </Player>
+            <Player id="9691">
+                <FirstName>Berkan</FirstName>
+                <LastName>Afşarlı</LastName>
+                <Position>CM</Position>
+                <Pace>70</Pace>
+                <Shooting>56</Shooting>
+                <Passing>52</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>56</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Mersin İdman Yurdu</Club>
+                <DateOfBirth>01-03-1991</DateOfBirth>
+            </Player>
+            <Player id="12345">
+                <FirstName>Nikolay</FirstName>
+                <LastName>Mihaylov</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>45</Stamina>
+                <Club>Mersin İdman Yurdu</Club>
+                <DateOfBirth>28-06-1988</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Trabzonspor">
+            <Player id="157">
+                <FirstName>Kévin</FirstName>
+                <LastName>Constant</LastName>
+                <Position>CM</Position>
+                <Pace>80</Pace>
+                <Shooting>66</Shooting>
+                <Passing>72</Passing>
+                <Offensive>69</Offensive>
+                <Defensive>69</Defensive>
+                <Stamina>76</Stamina>
+                <Club>Trabzonspor</Club>
+                <DateOfBirth>15-05-1987</DateOfBirth>
+            </Player>
+            <Player id="376">
+                <FirstName>Abdul Majeed</FirstName>
+                <LastName>Waris</LastName>
+                <Position>ST</Position>
+                <Pace>92</Pace>
+                <Shooting>70</Shooting>
+                <Passing>62</Passing>
+                <Offensive>66</Offensive>
+                <Defensive>37</Defensive>
+                <Stamina>74</Stamina>
+                <Club>Trabzonspor</Club>
+                <DateOfBirth>19-09-1991</DateOfBirth>
+            </Player>
+            <Player id="537">
+                <FirstName>Emre</FirstName>
+                <LastName>Güral</LastName>
+                <Position>ST</Position>
+                <Pace>65</Pace>
+                <Shooting>73</Shooting>
+                <Passing>41</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>63</Stamina>
+                <Club>Trabzonspor</Club>
+                <DateOfBirth>05-04-1989</DateOfBirth>
+            </Player>
+            <Player id="750">
+                <FirstName>Carl</FirstName>
+                <LastName>Medjani</LastName>
+                <Position>CB</Position>
+                <Pace>55</Pace>
+                <Shooting>45</Shooting>
+                <Passing>50</Passing>
+                <Offensive>47</Offensive>
+                <Defensive>71</Defensive>
+                <Stamina>66</Stamina>
+                <Club>Trabzonspor</Club>
+                <DateOfBirth>15-05-1985</DateOfBirth>
+            </Player>
+            <Player id="900">
+                <FirstName>İshak</FirstName>
+                <LastName>Doğan</LastName>
+                <Position>LB</Position>
+                <Pace>71</Pace>
+                <Shooting>42</Shooting>
+                <Passing>62</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>69</Defensive>
+                <Stamina>84</Stamina>
+                <Club>Trabzonspor</Club>
+                <DateOfBirth>09-08-1990</DateOfBirth>
+            </Player>
+            <Player id="1239">
+                <FirstName>Essaïd</FirstName>
+                <LastName>Belkalem</LastName>
+                <Position>CB</Position>
+                <Pace>57</Pace>
+                <Shooting>34</Shooting>
+                <Passing>44</Passing>
+                <Offensive>39</Offensive>
+                <Defensive>71</Defensive>
+                <Stamina>73</Stamina>
+                <Club>Trabzonspor</Club>
+                <DateOfBirth>01-01-1989</DateOfBirth>
+            </Player>
+            <Player id="1367">
+                <FirstName>Onur</FirstName>
+                <LastName>Kivrak</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>45</Stamina>
+                <Club>Trabzonspor</Club>
+                <DateOfBirth>01-01-1988</DateOfBirth>
+            </Player>
+            <Player id="2063">
+                <FirstName>Salih</FirstName>
+                <LastName>Dursun</LastName>
+                <Position>RB</Position>
+                <Pace>68</Pace>
+                <Shooting>32</Shooting>
+                <Passing>50</Passing>
+                <Offensive>41</Offensive>
+                <Defensive>68</Defensive>
+                <Stamina>82</Stamina>
+                <Club>Trabzonspor</Club>
+                <DateOfBirth>12-07-1991</DateOfBirth>
+            </Player>
+            <Player id="2064">
+                <FirstName>Yusuf</FirstName>
+                <LastName>Erdoğan</LastName>
+                <Position>LM</Position>
+                <Pace>88</Pace>
+                <Shooting>57</Shooting>
+                <Passing>60</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>27</Defensive>
+                <Stamina>64</Stamina>
+                <Club>Trabzonspor</Club>
+                <DateOfBirth>29-07-1993</DateOfBirth>
+            </Player>
+            <Player id="2140">
+                <FirstName>Óscar</FirstName>
+                <LastName>Cardozo</LastName>
+                <Position>ST</Position>
+                <Pace>43</Pace>
+                <Shooting>89</Shooting>
+                <Passing>70</Passing>
+                <Offensive>79</Offensive>
+                <Defensive>31</Defensive>
+                <Stamina>56</Stamina>
+                <Club>Trabzonspor</Club>
+                <DateOfBirth>20-05-1983</DateOfBirth>
+            </Player>
+            <Player id="2304">
+                <FirstName>Sefa</FirstName>
+                <LastName>Yilmaz</LastName>
+                <Position>RM</Position>
+                <Pace>84</Pace>
+                <Shooting>63</Shooting>
+                <Passing>63</Passing>
+                <Offensive>63</Offensive>
+                <Defensive>31</Defensive>
+                <Stamina>74</Stamina>
+                <Club>Trabzonspor</Club>
+                <DateOfBirth>14-02-1990</DateOfBirth>
+            </Player>
+            <Player id="2470">
+                <FirstName>Serdar</FirstName>
+                <LastName>Gürler</LastName>
+                <Position>RW</Position>
+                <Pace>87</Pace>
+                <Shooting>52</Shooting>
+                <Passing>62</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>36</Defensive>
+                <Stamina>67</Stamina>
+                <Club>Trabzonspor</Club>
+                <DateOfBirth>14-09-1991</DateOfBirth>
+            </Player>
+            <Player id="3165">
+                <FirstName>Zeki</FirstName>
+                <LastName>Yavru</LastName>
+                <Position>RB</Position>
+                <Pace>73</Pace>
+                <Shooting>30</Shooting>
+                <Passing>53</Passing>
+                <Offensive>41</Offensive>
+                <Defensive>67</Defensive>
+                <Stamina>66</Stamina>
+                <Club>Trabzonspor</Club>
+                <DateOfBirth>05-09-1991</DateOfBirth>
+            </Player>
+            <Player id="5448">
+                <FirstName>Musa</FirstName>
+                <LastName>Nizam</LastName>
+                <Position>CB</Position>
+                <Pace>75</Pace>
+                <Shooting>36</Shooting>
+                <Passing>52</Passing>
+                <Offensive>44</Offensive>
+                <Defensive>69</Defensive>
+                <Stamina>64</Stamina>
+                <Club>Trabzonspor</Club>
+                <DateOfBirth>29-09-1990</DateOfBirth>
+            </Player>
+            <Player id="6399">
+                <FirstName>Fatih</FirstName>
+                <LastName>Öztürk</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>45</Stamina>
+                <Club>Trabzonspor</Club>
+                <DateOfBirth>14-06-1983</DateOfBirth>
+            </Player>
+            <Player id="11875">
+                <FirstName>Mustapha</FirstName>
+                <LastName>Yatabaré</LastName>
+                <Position>ST</Position>
+                <Pace>72</Pace>
+                <Shooting>74</Shooting>
+                <Passing>61</Passing>
+                <Offensive>67</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>73</Stamina>
+                <Club>Trabzonspor</Club>
+                <DateOfBirth>26-01-1986</DateOfBirth>
+            </Player>
+            <Player id="11883">
+                <FirstName>José</FirstName>
+                <LastName>Bosingwa da Silva</LastName>
+                <Position>RB</Position>
+                <Pace>79</Pace>
+                <Shooting>58</Shooting>
+                <Passing>70</Passing>
+                <Offensive>64</Offensive>
+                <Defensive>72</Defensive>
+                <Stamina>79</Stamina>
+                <Club>Trabzonspor</Club>
+                <DateOfBirth>24-08-1982</DateOfBirth>
+            </Player>
+            <Player id="11978">
+                <FirstName>Aykut</FirstName>
+                <LastName>Demir</LastName>
+                <Position>CB</Position>
+                <Pace>68</Pace>
+                <Shooting>36</Shooting>
+                <Passing>51</Passing>
+                <Offensive>43</Offensive>
+                <Defensive>74</Defensive>
+                <Stamina>74</Stamina>
+                <Club>Trabzonspor</Club>
+                <DateOfBirth>22-10-1988</DateOfBirth>
+            </Player>
+            <Player id="12584">
+                <FirstName>Mustafa</FirstName>
+                <LastName>Yumlu</LastName>
+                <Position>CB</Position>
+                <Pace>58</Pace>
+                <Shooting>33</Shooting>
+                <Passing>45</Passing>
+                <Offensive>39</Offensive>
+                <Defensive>75</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Trabzonspor</Club>
+                <DateOfBirth>25-09-1987</DateOfBirth>
+            </Player>
+            <Player id="12750">
+                <FirstName>Soner</FirstName>
+                <LastName>Aydoğdu</LastName>
+                <Position>CM</Position>
+                <Pace>52</Pace>
+                <Shooting>61</Shooting>
+                <Passing>79</Passing>
+                <Offensive>70</Offensive>
+                <Defensive>55</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Trabzonspor</Club>
+                <DateOfBirth>05-02-1991</DateOfBirth>
+            </Player>
+            <Player id="12751">
+                <FirstName>Deniz</FirstName>
+                <LastName>Yilmaz</LastName>
+                <Position>ST</Position>
+                <Pace>81</Pace>
+                <Shooting>72</Shooting>
+                <Passing>64</Passing>
+                <Offensive>68</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>68</Stamina>
+                <Club>Trabzonspor</Club>
+                <DateOfBirth>26-02-1988</DateOfBirth>
+            </Player>
+            <Player id="12773">
+                <FirstName>Avraam</FirstName>
+                <LastName>Papadopoulos</LastName>
+                <Position>CB</Position>
+                <Pace>72</Pace>
+                <Shooting>46</Shooting>
+                <Passing>53</Passing>
+                <Offensive>49</Offensive>
+                <Defensive>73</Defensive>
+                <Stamina>68</Stamina>
+                <Club>Trabzonspor</Club>
+                <DateOfBirth>03-12-1984</DateOfBirth>
+            </Player>
+            <Player id="12865">
+                <FirstName>Özer</FirstName>
+                <LastName>Hurmacı</LastName>
+                <Position>CAM</Position>
+                <Pace>76</Pace>
+                <Shooting>63</Shooting>
+                <Passing>71</Passing>
+                <Offensive>67</Offensive>
+                <Defensive>27</Defensive>
+                <Stamina>69</Stamina>
+                <Club>Trabzonspor</Club>
+                <DateOfBirth>20-11-1986</DateOfBirth>
+            </Player>
+            <Player id="12895">
+                <FirstName>Mehmet</FirstName>
+                <LastName>Ekici</LastName>
+                <Position>CAM</Position>
+                <Pace>69</Pace>
+                <Shooting>67</Shooting>
+                <Passing>74</Passing>
+                <Offensive>70</Offensive>
+                <Defensive>48</Defensive>
+                <Stamina>64</Stamina>
+                <Club>Trabzonspor</Club>
+                <DateOfBirth>25-03-1990</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Beşiktaş JK">
+            <Player id="183">
+                <FirstName>Necip</FirstName>
+                <LastName>Uysal</LastName>
+                <Position>CDM</Position>
+                <Pace>72</Pace>
+                <Shooting>51</Shooting>
+                <Passing>63</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>72</Defensive>
+                <Stamina>77</Stamina>
+                <Club>Beşiktaş JK</Club>
+                <DateOfBirth>24-01-1991</DateOfBirth>
+            </Player>
+            <Player id="561">
+                <FirstName>Tolga</FirstName>
+                <LastName>Zengin</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>37</Stamina>
+                <Club>Beşiktaş JK</Club>
+                <DateOfBirth>10-10-1983</DateOfBirth>
+            </Player>
+            <Player id="1599">
+                <FirstName>Serdar</FirstName>
+                <LastName>Kurtuluş</LastName>
+                <Position>RB</Position>
+                <Pace>69</Pace>
+                <Shooting>43</Shooting>
+                <Passing>66</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>69</Defensive>
+                <Stamina>67</Stamina>
+                <Club>Beşiktaş JK</Club>
+                <DateOfBirth>23-07-1987</DateOfBirth>
+            </Player>
+            <Player id="1852">
+                <FirstName>Uğur</FirstName>
+                <LastName>Boral</LastName>
+                <Position>LM</Position>
+                <Pace>75</Pace>
+                <Shooting>55</Shooting>
+                <Passing>63</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>56</Stamina>
+                <Club>Beşiktaş JK</Club>
+                <DateOfBirth>14-04-1982</DateOfBirth>
+            </Player>
+            <Player id="2153">
+                <FirstName>Demba</FirstName>
+                <LastName>Ba</LastName>
+                <Position>ST</Position>
+                <Pace>77</Pace>
+                <Shooting>81</Shooting>
+                <Passing>66</Passing>
+                <Offensive>73</Offensive>
+                <Defensive>45</Defensive>
+                <Stamina>75</Stamina>
+                <Club>Beşiktaş JK</Club>
+                <DateOfBirth>25-05-1985</DateOfBirth>
+            </Player>
+            <Player id="4291">
+                <FirstName>Tomáš</FirstName>
+                <LastName>Sivok</LastName>
+                <Position>CB</Position>
+                <Pace>67</Pace>
+                <Shooting>50</Shooting>
+                <Passing>58</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>80</Defensive>
+                <Stamina>73</Stamina>
+                <Club>Beşiktaş JK</Club>
+                <DateOfBirth>15-09-1983</DateOfBirth>
+            </Player>
+            <Player id="4812">
+                <FirstName>Gökhan</FirstName>
+                <LastName>Töre</LastName>
+                <Position>RM</Position>
+                <Pace>85</Pace>
+                <Shooting>69</Shooting>
+                <Passing>73</Passing>
+                <Offensive>71</Offensive>
+                <Defensive>34</Defensive>
+                <Stamina>76</Stamina>
+                <Club>Beşiktaş JK</Club>
+                <DateOfBirth>20-01-1992</DateOfBirth>
+            </Player>
+            <Player id="4814">
+                <FirstName>Oğuzhan</FirstName>
+                <LastName>Özyakup</LastName>
+                <Position>CAM</Position>
+                <Pace>77</Pace>
+                <Shooting>75</Shooting>
+                <Passing>75</Passing>
+                <Offensive>75</Offensive>
+                <Defensive>48</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Beşiktaş JK</Club>
+                <DateOfBirth>23-09-1992</DateOfBirth>
+            </Player>
+            <Player id="4822">
+                <FirstName>Pedro</FirstName>
+                <LastName>Franco</LastName>
+                <Position>CB</Position>
+                <Pace>75</Pace>
+                <Shooting>47</Shooting>
+                <Passing>56</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>79</Defensive>
+                <Stamina>79</Stamina>
+                <Club>Beşiktaş JK</Club>
+                <DateOfBirth>23-04-1991</DateOfBirth>
+            </Player>
+            <Player id="6158">
+                <FirstName>Ersan Adem</FirstName>
+                <LastName>Gülüm</LastName>
+                <Position>CB</Position>
+                <Pace>68</Pace>
+                <Shooting>44</Shooting>
+                <Passing>53</Passing>
+                <Offensive>48</Offensive>
+                <Defensive>77</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Beşiktaş JK</Club>
+                <DateOfBirth>17-05-1987</DateOfBirth>
+            </Player>
+            <Player id="6430">
+                <FirstName>Olcay</FirstName>
+                <LastName>Şahan</LastName>
+                <Position>LM</Position>
+                <Pace>80</Pace>
+                <Shooting>74</Shooting>
+                <Passing>73</Passing>
+                <Offensive>73</Offensive>
+                <Defensive>65</Defensive>
+                <Stamina>90</Stamina>
+                <Club>Beşiktaş JK</Club>
+                <DateOfBirth>26-05-1987</DateOfBirth>
+            </Player>
+            <Player id="8566">
+                <FirstName>Veli</FirstName>
+                <LastName>Kavlak</LastName>
+                <Position>CDM</Position>
+                <Pace>74</Pace>
+                <Shooting>69</Shooting>
+                <Passing>70</Passing>
+                <Offensive>69</Offensive>
+                <Defensive>76</Defensive>
+                <Stamina>83</Stamina>
+                <Club>Beşiktaş JK</Club>
+                <DateOfBirth>03-11-1988</DateOfBirth>
+            </Player>
+            <Player id="8768">
+                <FirstName>Hasan</FirstName>
+                <LastName>Türk</LastName>
+                <Position>CM</Position>
+                <Pace>65</Pace>
+                <Shooting>47</Shooting>
+                <Passing>60</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Beşiktaş JK</Club>
+                <DateOfBirth>20-03-1993</DateOfBirth>
+            </Player>
+            <Player id="10395">
+                <FirstName>Ramon</FirstName>
+                <LastName>de Morais Motta</LastName>
+                <Position>LB</Position>
+                <Pace>80</Pace>
+                <Shooting>66</Shooting>
+                <Passing>72</Passing>
+                <Offensive>69</Offensive>
+                <Defensive>73</Defensive>
+                <Stamina>81</Stamina>
+                <Club>Beşiktaş JK</Club>
+                <DateOfBirth>06-05-1988</DateOfBirth>
+            </Player>
+            <Player id="10696">
+                <FirstName>Atiba</FirstName>
+                <LastName>Hutchinson</LastName>
+                <Position>CDM</Position>
+                <Pace>76</Pace>
+                <Shooting>64</Shooting>
+                <Passing>73</Passing>
+                <Offensive>68</Offensive>
+                <Defensive>73</Defensive>
+                <Stamina>90</Stamina>
+                <Club>Beşiktaş JK</Club>
+                <DateOfBirth>08-02-1983</DateOfBirth>
+            </Player>
+            <Player id="11805">
+                <FirstName>Mustafa</FirstName>
+                <LastName>Pektemek</LastName>
+                <Position>CF</Position>
+                <Pace>76</Pace>
+                <Shooting>71</Shooting>
+                <Passing>65</Passing>
+                <Offensive>68</Offensive>
+                <Defensive>37</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Beşiktaş JK</Club>
+                <DateOfBirth>11-08-1988</DateOfBirth>
+            </Player>
+            <Player id="12107">
+                <FirstName>Cenk</FirstName>
+                <LastName>Gönen</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>31</Stamina>
+                <Club>Beşiktaş JK</Club>
+                <DateOfBirth>21-02-1988</DateOfBirth>
+            </Player>
+            <Player id="12161">
+                <FirstName>Cenk</FirstName>
+                <LastName>Tosun</LastName>
+                <Position>ST</Position>
+                <Pace>78</Pace>
+                <Shooting>75</Shooting>
+                <Passing>50</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>63</Stamina>
+                <Club>Beşiktaş JK</Club>
+                <DateOfBirth>07-06-1991</DateOfBirth>
+            </Player>
+            <Player id="12760">
+                <FirstName>Kerim</FirstName>
+                <LastName>Frei</LastName>
+                <Position>LM</Position>
+                <Pace>90</Pace>
+                <Shooting>65</Shooting>
+                <Passing>67</Passing>
+                <Offensive>66</Offensive>
+                <Defensive>43</Defensive>
+                <Stamina>69</Stamina>
+                <Club>Beşiktaş JK</Club>
+                <DateOfBirth>19-11-1993</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Torku Konyaspor">
+            <Player id="208">
+                <FirstName>Gabriel</FirstName>
+                <LastName>Torje</LastName>
+                <Position>RM</Position>
+                <Pace>81</Pace>
+                <Shooting>67</Shooting>
+                <Passing>67</Passing>
+                <Offensive>67</Offensive>
+                <Defensive>37</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Torku Konyaspor</Club>
+                <DateOfBirth>22-11-1989</DateOfBirth>
+            </Player>
+            <Player id="1080">
+                <FirstName>Uğur</FirstName>
+                <LastName>İnceman</LastName>
+                <Position>CDM</Position>
+                <Pace>63</Pace>
+                <Shooting>61</Shooting>
+                <Passing>69</Passing>
+                <Offensive>65</Offensive>
+                <Defensive>68</Defensive>
+                <Stamina>66</Stamina>
+                <Club>Torku Konyaspor</Club>
+                <DateOfBirth>25-05-1981</DateOfBirth>
+            </Player>
+            <Player id="1653">
+                <FirstName>Hasan</FirstName>
+                <LastName>Kabze</LastName>
+                <Position>ST</Position>
+                <Pace>55</Pace>
+                <Shooting>73</Shooting>
+                <Passing>68</Passing>
+                <Offensive>70</Offensive>
+                <Defensive>33</Defensive>
+                <Stamina>50</Stamina>
+                <Club>Torku Konyaspor</Club>
+                <DateOfBirth>26-05-1982</DateOfBirth>
+            </Player>
+            <Player id="2537">
+                <FirstName>Vid</FirstName>
+                <LastName>Belec</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>20</Stamina>
+                <Club>Torku Konyaspor</Club>
+                <DateOfBirth>06-06-1990</DateOfBirth>
+            </Player>
+            <Player id="2843">
+                <FirstName>Ali</FirstName>
+                <LastName>Turan</LastName>
+                <Position>CB</Position>
+                <Pace>66</Pace>
+                <Shooting>39</Shooting>
+                <Passing>55</Passing>
+                <Offensive>47</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>75</Stamina>
+                <Club>Torku Konyaspor</Club>
+                <DateOfBirth>06-09-1983</DateOfBirth>
+            </Player>
+            <Player id="3459">
+                <FirstName>Jagoš</FirstName>
+                <LastName>Vuković</LastName>
+                <Position>CB</Position>
+                <Pace>33</Pace>
+                <Shooting>42</Shooting>
+                <Passing>48</Passing>
+                <Offensive>45</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>65</Stamina>
+                <Club>Torku Konyaspor</Club>
+                <DateOfBirth>10-06-1988</DateOfBirth>
+            </Player>
+            <Player id="4724">
+                <FirstName>Dimitar</FirstName>
+                <LastName>Rangelov</LastName>
+                <Position>ST</Position>
+                <Pace>71</Pace>
+                <Shooting>60</Shooting>
+                <Passing>64</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>39</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Torku Konyaspor</Club>
+                <DateOfBirth>09-02-1983</DateOfBirth>
+            </Player>
+            <Player id="5683">
+                <FirstName>Ali</FirstName>
+                <LastName>Çamdalı</LastName>
+                <Position>CM</Position>
+                <Pace>61</Pace>
+                <Shooting>63</Shooting>
+                <Passing>64</Passing>
+                <Offensive>63</Offensive>
+                <Defensive>54</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Torku Konyaspor</Club>
+                <DateOfBirth>22-02-1984</DateOfBirth>
+            </Player>
+            <Player id="7184">
+                <FirstName>Mehmet</FirstName>
+                <LastName>Uslu</LastName>
+                <Position>LB</Position>
+                <Pace>64</Pace>
+                <Shooting>48</Shooting>
+                <Passing>61</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>61</Defensive>
+                <Stamina>65</Stamina>
+                <Club>Torku Konyaspor</Club>
+                <DateOfBirth>25-02-1988</DateOfBirth>
+            </Player>
+            <Player id="8314">
+                <FirstName>Ömer Ali</FirstName>
+                <LastName>Şahiner</LastName>
+                <Position>RW</Position>
+                <Pace>68</Pace>
+                <Shooting>54</Shooting>
+                <Passing>63</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>38</Defensive>
+                <Stamina>64</Stamina>
+                <Club>Torku Konyaspor</Club>
+                <DateOfBirth>02-01-1992</DateOfBirth>
+            </Player>
+            <Player id="8315">
+                <FirstName>Elvis</FirstName>
+                <LastName>Kokalović</LastName>
+                <Position>CB</Position>
+                <Pace>53</Pace>
+                <Shooting>32</Shooting>
+                <Passing>37</Passing>
+                <Offensive>34</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>61</Stamina>
+                <Club>Torku Konyaspor</Club>
+                <DateOfBirth>17-07-1988</DateOfBirth>
+            </Player>
+            <Player id="8609">
+                <FirstName>Benjamin</FirstName>
+                <LastName>Fuchs</LastName>
+                <Position>RB</Position>
+                <Pace>71</Pace>
+                <Shooting>42</Shooting>
+                <Passing>52</Passing>
+                <Offensive>47</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>67</Stamina>
+                <Club>Torku Konyaspor</Club>
+                <DateOfBirth>20-10-1983</DateOfBirth>
+            </Player>
+            <Player id="8759">
+                <FirstName>Recep</FirstName>
+                <LastName>Aydin</LastName>
+                <Position>CM</Position>
+                <Pace>66</Pace>
+                <Shooting>48</Shooting>
+                <Passing>61</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>54</Defensive>
+                <Stamina>64</Stamina>
+                <Club>Torku Konyaspor</Club>
+                <DateOfBirth>27-01-1990</DateOfBirth>
+            </Player>
+            <Player id="9279">
+                <FirstName>Selim</FirstName>
+                <LastName>Ay</LastName>
+                <Position>CB</Position>
+                <Pace>55</Pace>
+                <Shooting>34</Shooting>
+                <Passing>37</Passing>
+                <Offensive>35</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>55</Stamina>
+                <Club>Torku Konyaspor</Club>
+                <DateOfBirth>31-07-1991</DateOfBirth>
+            </Player>
+            <Player id="12057">
+                <FirstName>Aliaksandr</FirstName>
+                <LastName>Hleb</LastName>
+                <Position>RM</Position>
+                <Pace>68</Pace>
+                <Shooting>64</Shooting>
+                <Passing>76</Passing>
+                <Offensive>70</Offensive>
+                <Defensive>31</Defensive>
+                <Stamina>54</Stamina>
+                <Club>Torku Konyaspor</Club>
+                <DateOfBirth>01-05-1981</DateOfBirth>
+            </Player>
+            <Player id="12517">
+                <FirstName>Ciprian</FirstName>
+                <LastName>Marica</LastName>
+                <Position>ST</Position>
+                <Pace>81</Pace>
+                <Shooting>70</Shooting>
+                <Passing>60</Passing>
+                <Offensive>65</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>67</Stamina>
+                <Club>Torku Konyaspor</Club>
+                <DateOfBirth>02-10-1985</DateOfBirth>
+            </Player>
+            <Player id="12708">
+                <FirstName>Djalma Braume</FirstName>
+                <LastName>Manuel Abel Campos</LastName>
+                <Position>RW</Position>
+                <Pace>79</Pace>
+                <Shooting>64</Shooting>
+                <Passing>67</Passing>
+                <Offensive>65</Offensive>
+                <Defensive>39</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Torku Konyaspor</Club>
+                <DateOfBirth>30-05-1987</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Eskişehirspor SK">
+            <Player id="254">
+                <FirstName>Ibrahim</FirstName>
+                <LastName>Sissoko</LastName>
+                <Position>RM</Position>
+                <Pace>81</Pace>
+                <Shooting>62</Shooting>
+                <Passing>67</Passing>
+                <Offensive>64</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>75</Stamina>
+                <Club>Eskişehirspor SK</Club>
+                <DateOfBirth>29-11-1991</DateOfBirth>
+            </Player>
+            <Player id="804">
+                <FirstName>Diego Ângelo</FirstName>
+                <LastName>de Oliveira</LastName>
+                <Position>CB</Position>
+                <Pace>54</Pace>
+                <Shooting>60</Shooting>
+                <Passing>64</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>72</Defensive>
+                <Stamina>78</Stamina>
+                <Club>Eskişehirspor SK</Club>
+                <DateOfBirth>17-02-1986</DateOfBirth>
+            </Player>
+            <Player id="1190">
+                <FirstName>Rogelio</FirstName>
+                <LastName>Funes Mori</LastName>
+                <Position>ST</Position>
+                <Pace>75</Pace>
+                <Shooting>70</Shooting>
+                <Passing>55</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Eskişehirspor SK</Club>
+                <DateOfBirth>05-03-1991</DateOfBirth>
+            </Player>
+            <Player id="1602">
+                <FirstName>Serdar</FirstName>
+                <LastName>Özkan</LastName>
+                <Position>LW</Position>
+                <Pace>80</Pace>
+                <Shooting>59</Shooting>
+                <Passing>66</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>63</Stamina>
+                <Club>Eskişehirspor SK</Club>
+                <DateOfBirth>01-01-1987</DateOfBirth>
+            </Player>
+            <Player id="2133">
+                <FirstName>Ruud Jorge</FirstName>
+                <LastName>Boffin</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>38</Stamina>
+                <Club>Eskişehirspor SK</Club>
+                <DateOfBirth>05-11-1987</DateOfBirth>
+            </Player>
+            <Player id="2844">
+                <FirstName>Hürriyet</FirstName>
+                <LastName>Güçer</LastName>
+                <Position>CDM</Position>
+                <Pace>65</Pace>
+                <Shooting>53</Shooting>
+                <Passing>54</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>72</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Eskişehirspor SK</Club>
+                <DateOfBirth>25-10-1981</DateOfBirth>
+            </Player>
+            <Player id="4247">
+                <FirstName>Mirkan</FirstName>
+                <LastName>Aydin</LastName>
+                <Position>ST</Position>
+                <Pace>50</Pace>
+                <Shooting>68</Shooting>
+                <Passing>58</Passing>
+                <Offensive>63</Offensive>
+                <Defensive>33</Defensive>
+                <Stamina>66</Stamina>
+                <Club>Eskişehirspor SK</Club>
+                <DateOfBirth>08-07-1987</DateOfBirth>
+            </Player>
+            <Player id="4410">
+                <FirstName>Özgür</FirstName>
+                <LastName>Çek</LastName>
+                <Position>LM</Position>
+                <Pace>74</Pace>
+                <Shooting>62</Shooting>
+                <Passing>64</Passing>
+                <Offensive>63</Offensive>
+                <Defensive>50</Defensive>
+                <Stamina>62</Stamina>
+                <Club>Eskişehirspor SK</Club>
+                <DateOfBirth>03-01-1991</DateOfBirth>
+            </Player>
+            <Player id="6265">
+                <FirstName>Raheem Adowele</FirstName>
+                <LastName>Lawal</LastName>
+                <Position>CDM</Position>
+                <Pace>77</Pace>
+                <Shooting>56</Shooting>
+                <Passing>60</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>52</Defensive>
+                <Stamina>82</Stamina>
+                <Club>Eskişehirspor SK</Club>
+                <DateOfBirth>04-05-1990</DateOfBirth>
+            </Player>
+            <Player id="6355">
+                <FirstName>Ergün</FirstName>
+                <LastName>Teber</LastName>
+                <Position>LB</Position>
+                <Pace>71</Pace>
+                <Shooting>49</Shooting>
+                <Passing>51</Passing>
+                <Offensive>50</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Eskişehirspor SK</Club>
+                <DateOfBirth>01-09-1985</DateOfBirth>
+            </Player>
+            <Player id="6809">
+                <FirstName>Kamil Ahmet</FirstName>
+                <LastName>Çörekçi</LastName>
+                <Position>RB</Position>
+                <Pace>62</Pace>
+                <Shooting>37</Shooting>
+                <Passing>52</Passing>
+                <Offensive>44</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>73</Stamina>
+                <Club>Eskişehirspor SK</Club>
+                <DateOfBirth>01-02-1992</DateOfBirth>
+            </Player>
+            <Player id="7043">
+                <FirstName>Sinan</FirstName>
+                <LastName>Ören</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>30</Stamina>
+                <Club>Eskişehirspor SK</Club>
+                <DateOfBirth>21-11-1987</DateOfBirth>
+            </Player>
+            <Player id="7892">
+                <FirstName>Mehmet Erkut</FirstName>
+                <LastName>Şentürk</LastName>
+                <Position>CM</Position>
+                <Pace>68</Pace>
+                <Shooting>55</Shooting>
+                <Passing>62</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>46</Defensive>
+                <Stamina>47</Stamina>
+                <Club>Eskişehirspor SK</Club>
+                <DateOfBirth>06-05-1994</DateOfBirth>
+            </Player>
+            <Player id="8375">
+                <FirstName>Sezgin</FirstName>
+                <LastName>Coşkun</LastName>
+                <Position>CB</Position>
+                <Pace>69</Pace>
+                <Shooting>50</Shooting>
+                <Passing>47</Passing>
+                <Offensive>48</Offensive>
+                <Defensive>61</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Eskişehirspor SK</Club>
+                <DateOfBirth>23-08-1984</DateOfBirth>
+            </Player>
+            <Player id="8760">
+                <FirstName>Aytaç</FirstName>
+                <LastName>Kara</LastName>
+                <Position>CDM</Position>
+                <Pace>65</Pace>
+                <Shooting>59</Shooting>
+                <Passing>56</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>61</Defensive>
+                <Stamina>57</Stamina>
+                <Club>Eskişehirspor SK</Club>
+                <DateOfBirth>22-03-1993</DateOfBirth>
+            </Player>
+            <Player id="9935">
+                <FirstName>Kayacan</FirstName>
+                <LastName>Erdoğan</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>34</Stamina>
+                <Club>Eskişehirspor SK</Club>
+                <DateOfBirth>21-03-1988</DateOfBirth>
+            </Player>
+            <Player id="10137">
+                <FirstName>Erkan</FirstName>
+                <LastName>Zengin</LastName>
+                <Position>RW</Position>
+                <Pace>76</Pace>
+                <Shooting>72</Shooting>
+                <Passing>71</Passing>
+                <Offensive>71</Offensive>
+                <Defensive>32</Defensive>
+                <Stamina>64</Stamina>
+                <Club>Eskişehirspor SK</Club>
+                <DateOfBirth>05-08-1985</DateOfBirth>
+            </Player>
+            <Player id="10929">
+                <FirstName>Hasan Hüseyin</FirstName>
+                <LastName>Acar</LastName>
+                <Position>CM</Position>
+                <Pace>59</Pace>
+                <Shooting>44</Shooting>
+                <Passing>55</Passing>
+                <Offensive>49</Offensive>
+                <Defensive>52</Defensive>
+                <Stamina>60</Stamina>
+                <Club>Eskişehirspor SK</Club>
+                <DateOfBirth>16-12-1994</DateOfBirth>
+            </Player>
+            <Player id="12318">
+                <FirstName>Jerry</FirstName>
+                <LastName>Akaminko</LastName>
+                <Position>CB</Position>
+                <Pace>80</Pace>
+                <Shooting>38</Shooting>
+                <Passing>53</Passing>
+                <Offensive>45</Offensive>
+                <Defensive>73</Defensive>
+                <Stamina>83</Stamina>
+                <Club>Eskişehirspor SK</Club>
+                <DateOfBirth>02-05-1988</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Kardemir Karabükspor">
+            <Player id="272">
+                <FirstName>Larrys</FirstName>
+                <LastName>Mabiala</LastName>
+                <Position>CB</Position>
+                <Pace>53</Pace>
+                <Shooting>44</Shooting>
+                <Passing>53</Passing>
+                <Offensive>48</Offensive>
+                <Defensive>72</Defensive>
+                <Stamina>51</Stamina>
+                <Club>Kardemir Karabükspor</Club>
+                <DateOfBirth>08-10-1987</DateOfBirth>
+            </Player>
+            <Player id="354">
+                <FirstName>Ahmet İlhan</FirstName>
+                <LastName>Özek</LastName>
+                <Position>LM</Position>
+                <Pace>82</Pace>
+                <Shooting>66</Shooting>
+                <Passing>66</Passing>
+                <Offensive>66</Offensive>
+                <Defensive>39</Defensive>
+                <Stamina>77</Stamina>
+                <Club>Kardemir Karabükspor</Club>
+                <DateOfBirth>01-01-1988</DateOfBirth>
+            </Player>
+            <Player id="440">
+                <FirstName>Abdou Razack</FirstName>
+                <LastName>Traoré</LastName>
+                <Position>RW</Position>
+                <Pace>90</Pace>
+                <Shooting>67</Shooting>
+                <Passing>63</Passing>
+                <Offensive>65</Offensive>
+                <Defensive>46</Defensive>
+                <Stamina>83</Stamina>
+                <Club>Kardemir Karabükspor</Club>
+                <DateOfBirth>28-12-1988</DateOfBirth>
+            </Player>
+            <Player id="624">
+                <FirstName>Joseph</FirstName>
+                <LastName>Akpala</LastName>
+                <Position>ST</Position>
+                <Pace>82</Pace>
+                <Shooting>74</Shooting>
+                <Passing>50</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>35</Defensive>
+                <Stamina>75</Stamina>
+                <Club>Kardemir Karabükspor</Club>
+                <DateOfBirth>24-08-1986</DateOfBirth>
+            </Player>
+            <Player id="659">
+                <FirstName>Samba</FirstName>
+                <LastName>Sow</LastName>
+                <Position>CDM</Position>
+                <Pace>78</Pace>
+                <Shooting>46</Shooting>
+                <Passing>59</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>70</Defensive>
+                <Stamina>85</Stamina>
+                <Club>Kardemir Karabükspor</Club>
+                <DateOfBirth>29-04-1989</DateOfBirth>
+            </Player>
+            <Player id="1114">
+                <FirstName>Boy</FirstName>
+                <LastName>Waterman</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>51</Stamina>
+                <Club>Kardemir Karabükspor</Club>
+                <DateOfBirth>24-01-1984</DateOfBirth>
+            </Player>
+            <Player id="1732">
+                <FirstName>Musa</FirstName>
+                <LastName>Çağıran</LastName>
+                <Position>CDM</Position>
+                <Pace>67</Pace>
+                <Shooting>57</Shooting>
+                <Passing>69</Passing>
+                <Offensive>63</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>55</Stamina>
+                <Club>Kardemir Karabükspor</Club>
+                <DateOfBirth>17-11-1992</DateOfBirth>
+            </Player>
+            <Player id="1749">
+                <FirstName>Murat</FirstName>
+                <LastName>Akça</LastName>
+                <Position>CB</Position>
+                <Pace>68</Pace>
+                <Shooting>44</Shooting>
+                <Passing>49</Passing>
+                <Offensive>46</Offensive>
+                <Defensive>70</Defensive>
+                <Stamina>62</Stamina>
+                <Club>Kardemir Karabükspor</Club>
+                <DateOfBirth>13-07-1990</DateOfBirth>
+            </Player>
+            <Player id="2804">
+                <FirstName>Emre</FirstName>
+                <LastName>Özkan</LastName>
+                <Position>LB</Position>
+                <Pace>72</Pace>
+                <Shooting>33</Shooting>
+                <Passing>57</Passing>
+                <Offensive>45</Offensive>
+                <Defensive>65</Defensive>
+                <Stamina>76</Stamina>
+                <Club>Kardemir Karabükspor</Club>
+                <DateOfBirth>24-12-1988</DateOfBirth>
+            </Player>
+            <Player id="3082">
+                <FirstName>Tanju</FirstName>
+                <LastName>Kayhan</LastName>
+                <Position>RB</Position>
+                <Pace>77</Pace>
+                <Shooting>38</Shooting>
+                <Passing>55</Passing>
+                <Offensive>46</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>78</Stamina>
+                <Club>Kardemir Karabükspor</Club>
+                <DateOfBirth>22-07-1989</DateOfBirth>
+            </Player>
+            <Player id="3777">
+                <FirstName>Aykut</FirstName>
+                <LastName>Akgün</LastName>
+                <Position>CDM</Position>
+                <Pace>51</Pace>
+                <Shooting>51</Shooting>
+                <Passing>64</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>68</Defensive>
+                <Stamina>66</Stamina>
+                <Club>Kardemir Karabükspor</Club>
+                <DateOfBirth>18-09-1987</DateOfBirth>
+            </Player>
+            <Player id="3873">
+                <FirstName>Turgay</FirstName>
+                <LastName>Bahadir</LastName>
+                <Position>ST</Position>
+                <Pace>47</Pace>
+                <Shooting>63</Shooting>
+                <Passing>65</Passing>
+                <Offensive>64</Offensive>
+                <Defensive>35</Defensive>
+                <Stamina>68</Stamina>
+                <Club>Kardemir Karabükspor</Club>
+                <DateOfBirth>15-01-1984</DateOfBirth>
+            </Player>
+            <Player id="5322">
+                <FirstName>Abdulaziz</FirstName>
+                <LastName>Demircan</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>52</Stamina>
+                <Club>Kardemir Karabükspor</Club>
+                <DateOfBirth>05-02-1991</DateOfBirth>
+            </Player>
+            <Player id="5456">
+                <FirstName>Onur</FirstName>
+                <LastName>Ayik</LastName>
+                <Position>LM</Position>
+                <Pace>64</Pace>
+                <Shooting>64</Shooting>
+                <Passing>62</Passing>
+                <Offensive>63</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>55</Stamina>
+                <Club>Kardemir Karabükspor</Club>
+                <DateOfBirth>28-01-1990</DateOfBirth>
+            </Player>
+            <Player id="5645">
+                <FirstName>Erkan</FirstName>
+                <LastName>Kaş</LastName>
+                <Position>LM</Position>
+                <Pace>75</Pace>
+                <Shooting>58</Shooting>
+                <Passing>62</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>61</Stamina>
+                <Club>Kardemir Karabükspor</Club>
+                <DateOfBirth>10-09-1991</DateOfBirth>
+            </Player>
+            <Player id="5711">
+                <FirstName>Eren</FirstName>
+                <LastName>Güngör</LastName>
+                <Position>CB</Position>
+                <Pace>55</Pace>
+                <Shooting>33</Shooting>
+                <Passing>47</Passing>
+                <Offensive>40</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>77</Stamina>
+                <Club>Kardemir Karabükspor</Club>
+                <DateOfBirth>02-04-1988</DateOfBirth>
+            </Player>
+            <Player id="8323">
+                <FirstName>İbrahim Serdar</FirstName>
+                <LastName>Aydın</LastName>
+                <Position>CM</Position>
+                <Pace>67</Pace>
+                <Shooting>54</Shooting>
+                <Passing>63</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>46</Defensive>
+                <Stamina>62</Stamina>
+                <Club>Kardemir Karabükspor</Club>
+                <DateOfBirth>19-07-1996</DateOfBirth>
+            </Player>
+            <Player id="8423">
+                <FirstName>Aykut</FirstName>
+                <LastName>Özer</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>42</Stamina>
+                <Club>Kardemir Karabükspor</Club>
+                <DateOfBirth>01-01-1993</DateOfBirth>
+            </Player>
+            <Player id="9403">
+                <FirstName>Onur</FirstName>
+                <LastName>Çenik</LastName>
+                <Position>CB</Position>
+                <Pace>64</Pace>
+                <Shooting>29</Shooting>
+                <Passing>41</Passing>
+                <Offensive>35</Offensive>
+                <Defensive>59</Defensive>
+                <Stamina>61</Stamina>
+                <Club>Kardemir Karabükspor</Club>
+                <DateOfBirth>24-09-1992</DateOfBirth>
+            </Player>
+            <Player id="12813">
+                <FirstName>Domi</FirstName>
+                <LastName>Kumbela</LastName>
+                <Position>ST</Position>
+                <Pace>82</Pace>
+                <Shooting>71</Shooting>
+                <Passing>59</Passing>
+                <Offensive>65</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>77</Stamina>
+                <Club>Kardemir Karabükspor</Club>
+                <DateOfBirth>20-04-1984</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Galatasaray SK">
+            <Player id="305">
+                <FirstName>Fernando</FirstName>
+                <LastName>Muslera</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>45</Stamina>
+                <Club>Galatasaray SK</Club>
+                <DateOfBirth>16-06-1986</DateOfBirth>
+            </Player>
+            <Player id="559">
+                <FirstName>Felipe</FirstName>
+                <LastName>Melo de Carvalho</LastName>
+                <Position>CDM</Position>
+                <Pace>76</Pace>
+                <Shooting>71</Shooting>
+                <Passing>76</Passing>
+                <Offensive>73</Offensive>
+                <Defensive>80</Defensive>
+                <Stamina>82</Stamina>
+                <Club>Galatasaray SK</Club>
+                <DateOfBirth>26-06-1983</DateOfBirth>
+            </Player>
+            <Player id="604">
+                <FirstName>Engin</FirstName>
+                <LastName>Baytar</LastName>
+                <Position>CAM</Position>
+                <Pace>75</Pace>
+                <Shooting>63</Shooting>
+                <Passing>70</Passing>
+                <Offensive>66</Offensive>
+                <Defensive>55</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Galatasaray SK</Club>
+                <DateOfBirth>31-03-1982</DateOfBirth>
+            </Player>
+            <Player id="1264">
+                <FirstName>Tarık</FirstName>
+                <LastName>Çamdal</LastName>
+                <Position>RB</Position>
+                <Pace>83</Pace>
+                <Shooting>52</Shooting>
+                <Passing>66</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>68</Defensive>
+                <Stamina>76</Stamina>
+                <Club>Galatasaray SK</Club>
+                <DateOfBirth>24-03-1991</DateOfBirth>
+            </Player>
+            <Player id="1354">
+                <FirstName>Selçuk</FirstName>
+                <LastName>İnan</LastName>
+                <Position>CM</Position>
+                <Pace>74</Pace>
+                <Shooting>77</Shooting>
+                <Passing>83</Passing>
+                <Offensive>80</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>80</Stamina>
+                <Club>Galatasaray SK</Club>
+                <DateOfBirth>10-02-1985</DateOfBirth>
+            </Player>
+            <Player id="2541">
+                <FirstName>Umut</FirstName>
+                <LastName>Gündoğan</LastName>
+                <Position>CAM</Position>
+                <Pace>75</Pace>
+                <Shooting>47</Shooting>
+                <Passing>66</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>38</Defensive>
+                <Stamina>62</Stamina>
+                <Club>Galatasaray SK</Club>
+                <DateOfBirth>12-06-1990</DateOfBirth>
+            </Player>
+            <Player id="2976">
+                <FirstName>Aurélien</FirstName>
+                <LastName>Chedjou</LastName>
+                <Position>CB</Position>
+                <Pace>70</Pace>
+                <Shooting>60</Shooting>
+                <Passing>65</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>78</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Galatasaray SK</Club>
+                <DateOfBirth>20-06-1985</DateOfBirth>
+            </Player>
+            <Player id="3225">
+                <FirstName>Semih</FirstName>
+                <LastName>Kaya</LastName>
+                <Position>CB</Position>
+                <Pace>74</Pace>
+                <Shooting>38</Shooting>
+                <Passing>60</Passing>
+                <Offensive>49</Offensive>
+                <Defensive>81</Defensive>
+                <Stamina>79</Stamina>
+                <Club>Galatasaray SK</Club>
+                <DateOfBirth>24-02-1991</DateOfBirth>
+            </Player>
+            <Player id="3501">
+                <FirstName>Olcan</FirstName>
+                <LastName>Adın</LastName>
+                <Position>RM</Position>
+                <Pace>85</Pace>
+                <Shooting>74</Shooting>
+                <Passing>76</Passing>
+                <Offensive>75</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>82</Stamina>
+                <Club>Galatasaray SK</Club>
+                <DateOfBirth>30-09-1985</DateOfBirth>
+            </Player>
+            <Player id="4012">
+                <FirstName>Burak</FirstName>
+                <LastName>Yılmaz</LastName>
+                <Position>ST</Position>
+                <Pace>84</Pace>
+                <Shooting>83</Shooting>
+                <Passing>68</Passing>
+                <Offensive>75</Offensive>
+                <Defensive>37</Defensive>
+                <Stamina>83</Stamina>
+                <Club>Galatasaray SK</Club>
+                <DateOfBirth>15-07-1985</DateOfBirth>
+            </Player>
+            <Player id="5366">
+                <FirstName>Goran</FirstName>
+                <LastName>Pandev</LastName>
+                <Position>CF</Position>
+                <Pace>73</Pace>
+                <Shooting>77</Shooting>
+                <Passing>76</Passing>
+                <Offensive>76</Offensive>
+                <Defensive>37</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Galatasaray SK</Club>
+                <DateOfBirth>27-07-1983</DateOfBirth>
+            </Player>
+            <Player id="6950">
+                <FirstName>Sinan</FirstName>
+                <LastName>Bolat</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>26</Stamina>
+                <Club>Galatasaray SK</Club>
+                <DateOfBirth>03-09-1988</DateOfBirth>
+            </Player>
+            <Player id="8294">
+                <FirstName>Armindo</FirstName>
+                <LastName>Tué Na Bangna</LastName>
+                <Position>LW</Position>
+                <Pace>91</Pace>
+                <Shooting>66</Shooting>
+                <Passing>70</Passing>
+                <Offensive>68</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>74</Stamina>
+                <Club>Galatasaray SK</Club>
+                <DateOfBirth>24-10-1994</DateOfBirth>
+            </Player>
+            <Player id="9873">
+                <FirstName>Hamit</FirstName>
+                <LastName>Altıntop</LastName>
+                <Position>RM</Position>
+                <Pace>66</Pace>
+                <Shooting>76</Shooting>
+                <Passing>78</Passing>
+                <Offensive>77</Offensive>
+                <Defensive>68</Defensive>
+                <Stamina>74</Stamina>
+                <Club>Galatasaray SK</Club>
+                <DateOfBirth>08-12-1982</DateOfBirth>
+            </Player>
+            <Player id="9883">
+                <FirstName>Gökhan</FirstName>
+                <LastName>Zan</LastName>
+                <Position>CB</Position>
+                <Pace>41</Pace>
+                <Shooting>44</Shooting>
+                <Passing>52</Passing>
+                <Offensive>48</Offensive>
+                <Defensive>77</Defensive>
+                <Stamina>61</Stamina>
+                <Club>Galatasaray SK</Club>
+                <DateOfBirth>07-09-1981</DateOfBirth>
+            </Player>
+            <Player id="11708">
+                <FirstName>Emmanuel</FirstName>
+                <LastName>Eboué</LastName>
+                <Position>RB</Position>
+                <Pace>83</Pace>
+                <Shooting>68</Shooting>
+                <Passing>67</Passing>
+                <Offensive>67</Offensive>
+                <Defensive>72</Defensive>
+                <Stamina>79</Stamina>
+                <Club>Galatasaray SK</Club>
+                <DateOfBirth>04-06-1983</DateOfBirth>
+            </Player>
+            <Player id="11855">
+                <FirstName>Wesley</FirstName>
+                <LastName>Sneijder</LastName>
+                <Position>LW</Position>
+                <Pace>76</Pace>
+                <Shooting>85</Shooting>
+                <Passing>89</Passing>
+                <Offensive>87</Offensive>
+                <Defensive>49</Defensive>
+                <Stamina>73</Stamina>
+                <Club>Galatasaray SK</Club>
+                <DateOfBirth>09-06-1984</DateOfBirth>
+            </Player>
+            <Player id="11914">
+                <FirstName>Blerim</FirstName>
+                <LastName>Džemaili</LastName>
+                <Position>CDM</Position>
+                <Pace>75</Pace>
+                <Shooting>64</Shooting>
+                <Passing>74</Passing>
+                <Offensive>69</Offensive>
+                <Defensive>69</Defensive>
+                <Stamina>77</Stamina>
+                <Club>Galatasaray SK</Club>
+                <DateOfBirth>12-04-1986</DateOfBirth>
+            </Player>
+            <Player id="12246">
+                <FirstName>Hakan</FirstName>
+                <LastName>Balta</LastName>
+                <Position>LB</Position>
+                <Pace>67</Pace>
+                <Shooting>69</Shooting>
+                <Passing>65</Passing>
+                <Offensive>67</Offensive>
+                <Defensive>78</Defensive>
+                <Stamina>73</Stamina>
+                <Club>Galatasaray SK</Club>
+                <DateOfBirth>22-03-1983</DateOfBirth>
+            </Player>
+            <Player id="12373">
+                <FirstName>Alex</FirstName>
+                <LastName>Nicolao Telles</LastName>
+                <Position>LB</Position>
+                <Pace>84</Pace>
+                <Shooting>68</Shooting>
+                <Passing>72</Passing>
+                <Offensive>70</Offensive>
+                <Defensive>69</Defensive>
+                <Stamina>83</Stamina>
+                <Club>Galatasaray SK</Club>
+                <DateOfBirth>15-12-1992</DateOfBirth>
+            </Player>
+            <Player id="12509">
+                <FirstName>Sabri</FirstName>
+                <LastName>Sarıoğlu</LastName>
+                <Position>RB</Position>
+                <Pace>86</Pace>
+                <Shooting>57</Shooting>
+                <Passing>61</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>69</Defensive>
+                <Stamina>80</Stamina>
+                <Club>Galatasaray SK</Club>
+                <DateOfBirth>26-07-1984</DateOfBirth>
+            </Player>
+            <Player id="12574">
+                <FirstName>Veysel</FirstName>
+                <LastName>Sarı</LastName>
+                <Position>RB</Position>
+                <Pace>76</Pace>
+                <Shooting>53</Shooting>
+                <Passing>64</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>73</Defensive>
+                <Stamina>75</Stamina>
+                <Club>Galatasaray SK</Club>
+                <DateOfBirth>25-07-1988</DateOfBirth>
+            </Player>
+            <Player id="12586">
+                <FirstName>Emre</FirstName>
+                <LastName>Çolak</LastName>
+                <Position>CAM</Position>
+                <Pace>80</Pace>
+                <Shooting>68</Shooting>
+                <Passing>70</Passing>
+                <Offensive>69</Offensive>
+                <Defensive>41</Defensive>
+                <Stamina>74</Stamina>
+                <Club>Galatasaray SK</Club>
+                <DateOfBirth>20-05-1991</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Kayseri Erciyesspor">
+            <Player id="396">
+                <FirstName>Björn</FirstName>
+                <LastName>Vleminckx</LastName>
+                <Position>ST</Position>
+                <Pace>67</Pace>
+                <Shooting>74</Shooting>
+                <Passing>58</Passing>
+                <Offensive>66</Offensive>
+                <Defensive>38</Defensive>
+                <Stamina>90</Stamina>
+                <Club>Kayseri Erciyesspor</Club>
+                <DateOfBirth>01-12-1985</DateOfBirth>
+            </Player>
+            <Player id="658">
+                <FirstName>John</FirstName>
+                <LastName>Boye</LastName>
+                <Position>CB</Position>
+                <Pace>71</Pace>
+                <Shooting>28</Shooting>
+                <Passing>58</Passing>
+                <Offensive>43</Offensive>
+                <Defensive>70</Defensive>
+                <Stamina>73</Stamina>
+                <Club>Kayseri Erciyesspor</Club>
+                <DateOfBirth>23-04-1987</DateOfBirth>
+            </Player>
+            <Player id="1938">
+                <FirstName>Georges</FirstName>
+                <LastName>Mandjeck</LastName>
+                <Position>CDM</Position>
+                <Pace>73</Pace>
+                <Shooting>45</Shooting>
+                <Passing>61</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>68</Defensive>
+                <Stamina>80</Stamina>
+                <Club>Kayseri Erciyesspor</Club>
+                <DateOfBirth>09-12-1988</DateOfBirth>
+            </Player>
+            <Player id="2183">
+                <FirstName>Cem</FirstName>
+                <LastName>Can</LastName>
+                <Position>RB</Position>
+                <Pace>69</Pace>
+                <Shooting>57</Shooting>
+                <Passing>67</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Kayseri Erciyesspor</Club>
+                <DateOfBirth>17-06-1981</DateOfBirth>
+            </Player>
+            <Player id="2492">
+                <FirstName>Yacouba</FirstName>
+                <LastName>Sylla</LastName>
+                <Position>CM</Position>
+                <Pace>75</Pace>
+                <Shooting>50</Shooting>
+                <Passing>60</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>92</Stamina>
+                <Club>Kayseri Erciyesspor</Club>
+                <DateOfBirth>29-11-1990</DateOfBirth>
+            </Player>
+            <Player id="3252">
+                <FirstName>Gökhan</FirstName>
+                <LastName>Değirmenci</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>55</Stamina>
+                <Club>Kayseri Erciyesspor</Club>
+                <DateOfBirth>21-03-1989</DateOfBirth>
+            </Player>
+            <Player id="4219">
+                <FirstName>Anil</FirstName>
+                <LastName>Karaer</LastName>
+                <Position>LB</Position>
+                <Pace>71</Pace>
+                <Shooting>55</Shooting>
+                <Passing>61</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Kayseri Erciyesspor</Club>
+                <DateOfBirth>04-02-1988</DateOfBirth>
+            </Player>
+            <Player id="4682">
+                <FirstName>Mehmet</FirstName>
+                <LastName>Akgün</LastName>
+                <Position>CM</Position>
+                <Pace>75</Pace>
+                <Shooting>62</Shooting>
+                <Passing>64</Passing>
+                <Offensive>63</Offensive>
+                <Defensive>51</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Kayseri Erciyesspor</Club>
+                <DateOfBirth>06-08-1986</DateOfBirth>
+            </Player>
+            <Player id="5384">
+                <FirstName>Caner</FirstName>
+                <LastName>Osmanpaşa</LastName>
+                <Position>RB</Position>
+                <Pace>64</Pace>
+                <Shooting>32</Shooting>
+                <Passing>47</Passing>
+                <Offensive>39</Offensive>
+                <Defensive>69</Defensive>
+                <Stamina>57</Stamina>
+                <Club>Kayseri Erciyesspor</Club>
+                <DateOfBirth>15-01-1988</DateOfBirth>
+            </Player>
+            <Player id="8608">
+                <FirstName>Murat</FirstName>
+                <LastName>Yildirim</LastName>
+                <Position>RM</Position>
+                <Pace>64</Pace>
+                <Shooting>50</Shooting>
+                <Passing>55</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>43</Defensive>
+                <Stamina>67</Stamina>
+                <Club>Kayseri Erciyesspor</Club>
+                <DateOfBirth>24-04-1987</DateOfBirth>
+            </Player>
+            <Player id="10881">
+                <FirstName>Uğur</FirstName>
+                <LastName>Demirkol</LastName>
+                <Position>LB</Position>
+                <Pace>62</Pace>
+                <Shooting>41</Shooting>
+                <Passing>55</Passing>
+                <Offensive>48</Offensive>
+                <Defensive>52</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Kayseri Erciyesspor</Club>
+                <DateOfBirth>16-01-1990</DateOfBirth>
+            </Player>
+            <Player id="11350">
+                <FirstName>Yakup Ramazan</FirstName>
+                <LastName>Zorlu</LastName>
+                <Position>ST</Position>
+                <Pace>57</Pace>
+                <Shooting>54</Shooting>
+                <Passing>34</Passing>
+                <Offensive>44</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>52</Stamina>
+                <Club>Kayseri Erciyesspor</Club>
+                <DateOfBirth>26-03-1991</DateOfBirth>
+            </Player>
+            <Player id="11715">
+                <FirstName>Necati</FirstName>
+                <LastName>Ateş</LastName>
+                <Position>CF</Position>
+                <Pace>73</Pace>
+                <Shooting>78</Shooting>
+                <Passing>66</Passing>
+                <Offensive>72</Offensive>
+                <Defensive>39</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Kayseri Erciyesspor</Club>
+                <DateOfBirth>03-01-1980</DateOfBirth>
+            </Player>
+            <Player id="11928">
+                <FirstName>Kader</FirstName>
+                <LastName>Mangane</LastName>
+                <Position>CB</Position>
+                <Pace>49</Pace>
+                <Shooting>54</Shooting>
+                <Passing>60</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>72</Defensive>
+                <Stamina>75</Stamina>
+                <Club>Kayseri Erciyesspor</Club>
+                <DateOfBirth>23-03-1983</DateOfBirth>
+            </Player>
+            <Player id="12831">
+                <FirstName>Arnaldo Edi</FirstName>
+                <LastName>Lopes da Silva</LastName>
+                <Position>ST</Position>
+                <Pace>67</Pace>
+                <Shooting>73</Shooting>
+                <Passing>51</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>33</Defensive>
+                <Stamina>66</Stamina>
+                <Club>Kayseri Erciyesspor</Club>
+                <DateOfBirth>07-07-1982</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Kasimpaşa SK">
+            <Player id="584">
+                <FirstName>Sanharib</FirstName>
+                <LastName>Malki</LastName>
+                <Position>ST</Position>
+                <Pace>69</Pace>
+                <Shooting>73</Shooting>
+                <Passing>46</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>41</Defensive>
+                <Stamina>75</Stamina>
+                <Club>Kasimpaşa SK</Club>
+                <DateOfBirth>01-03-1984</DateOfBirth>
+            </Player>
+            <Player id="614">
+                <FirstName>Adem</FirstName>
+                <LastName>Büyük</LastName>
+                <Position>ST</Position>
+                <Pace>73</Pace>
+                <Shooting>69</Shooting>
+                <Passing>59</Passing>
+                <Offensive>64</Offensive>
+                <Defensive>31</Defensive>
+                <Stamina>74</Stamina>
+                <Club>Kasimpaşa SK</Club>
+                <DateOfBirth>30-08-1987</DateOfBirth>
+            </Player>
+            <Player id="1321">
+                <FirstName>Tunay</FirstName>
+                <LastName>Torun</LastName>
+                <Position>LM</Position>
+                <Pace>76</Pace>
+                <Shooting>66</Shooting>
+                <Passing>61</Passing>
+                <Offensive>63</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Kasimpaşa SK</Club>
+                <DateOfBirth>21-04-1990</DateOfBirth>
+            </Player>
+            <Player id="1525">
+                <FirstName>Barış</FirstName>
+                <LastName>Başdaş</LastName>
+                <Position>CB</Position>
+                <Pace>63</Pace>
+                <Shooting>35</Shooting>
+                <Passing>45</Passing>
+                <Offensive>40</Offensive>
+                <Defensive>69</Defensive>
+                <Stamina>64</Stamina>
+                <Club>Kasimpaşa SK</Club>
+                <DateOfBirth>17-01-1990</DateOfBirth>
+            </Player>
+            <Player id="2287">
+                <FirstName>Atila</FirstName>
+                <LastName>Turan</LastName>
+                <Position>LB</Position>
+                <Pace>75</Pace>
+                <Shooting>48</Shooting>
+                <Passing>63</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>68</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Kasimpaşa SK</Club>
+                <DateOfBirth>10-04-1992</DateOfBirth>
+            </Player>
+            <Player id="2755">
+                <FirstName>Sancak</FirstName>
+                <LastName>Kaplan</LastName>
+                <Position>LB</Position>
+                <Pace>71</Pace>
+                <Shooting>37</Shooting>
+                <Passing>59</Passing>
+                <Offensive>48</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>75</Stamina>
+                <Club>Kasimpaşa SK</Club>
+                <DateOfBirth>25-05-1982</DateOfBirth>
+            </Player>
+            <Player id="2845">
+                <FirstName>Orhan</FirstName>
+                <LastName>Şam</LastName>
+                <Position>RB</Position>
+                <Pace>68</Pace>
+                <Shooting>38</Shooting>
+                <Passing>56</Passing>
+                <Offensive>47</Offensive>
+                <Defensive>69</Defensive>
+                <Stamina>75</Stamina>
+                <Club>Kasimpaşa SK</Club>
+                <DateOfBirth>01-06-1986</DateOfBirth>
+            </Player>
+            <Player id="3108">
+                <FirstName>Alpaslan</FirstName>
+                <LastName>Öztürk</LastName>
+                <Position>CDM</Position>
+                <Pace>75</Pace>
+                <Shooting>55</Shooting>
+                <Passing>62</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>80</Stamina>
+                <Club>Kasimpaşa SK</Club>
+                <DateOfBirth>16-07-1993</DateOfBirth>
+            </Player>
+            <Player id="3693">
+                <FirstName>Halil</FirstName>
+                <LastName>Çolak</LastName>
+                <Position>LM</Position>
+                <Pace>74</Pace>
+                <Shooting>61</Shooting>
+                <Passing>61</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>54</Stamina>
+                <Club>Kasimpaşa SK</Club>
+                <DateOfBirth>29-01-1988</DateOfBirth>
+            </Player>
+            <Player id="4475">
+                <FirstName>İlhan</FirstName>
+                <LastName>Eker</LastName>
+                <Position>LB</Position>
+                <Pace>62</Pace>
+                <Shooting>33</Shooting>
+                <Passing>55</Passing>
+                <Offensive>44</Offensive>
+                <Defensive>65</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Kasimpaşa SK</Club>
+                <DateOfBirth>01-01-1983</DateOfBirth>
+            </Player>
+            <Player id="4486">
+                <FirstName>Kafoumba</FirstName>
+                <LastName>Coulibaly</LastName>
+                <Position>CDM</Position>
+                <Pace>53</Pace>
+                <Shooting>44</Shooting>
+                <Passing>65</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>61</Defensive>
+                <Stamina>44</Stamina>
+                <Club>Kasimpaşa SK</Club>
+                <DateOfBirth>26-10-1985</DateOfBirth>
+            </Player>
+            <Player id="6409">
+                <FirstName>Ezequiel</FirstName>
+                <LastName>Scarione</LastName>
+                <Position>CAM</Position>
+                <Pace>75</Pace>
+                <Shooting>74</Shooting>
+                <Passing>74</Passing>
+                <Offensive>74</Offensive>
+                <Defensive>35</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Kasimpaşa SK</Club>
+                <DateOfBirth>14-07-1985</DateOfBirth>
+            </Player>
+            <Player id="8526">
+                <FirstName>Erhan</FirstName>
+                <LastName>Kartal</LastName>
+                <Position>RB</Position>
+                <Pace>81</Pace>
+                <Shooting>33</Shooting>
+                <Passing>52</Passing>
+                <Offensive>42</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>62</Stamina>
+                <Club>Kasimpaşa SK</Club>
+                <DateOfBirth>01-03-1993</DateOfBirth>
+            </Player>
+            <Player id="9622">
+                <FirstName>Andreas</FirstName>
+                <LastName>Isaksson</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>31</Stamina>
+                <Club>Kasimpaşa SK</Club>
+                <DateOfBirth>03-10-1981</DateOfBirth>
+            </Player>
+            <Player id="11721">
+                <FirstName>Ryan</FirstName>
+                <LastName>Babel</LastName>
+                <Position>LM</Position>
+                <Pace>87</Pace>
+                <Shooting>72</Shooting>
+                <Passing>66</Passing>
+                <Offensive>69</Offensive>
+                <Defensive>34</Defensive>
+                <Stamina>68</Stamina>
+                <Club>Kasimpaşa SK</Club>
+                <DateOfBirth>19-12-1986</DateOfBirth>
+            </Player>
+            <Player id="11762">
+                <FirstName>Tabaré</FirstName>
+                <LastName>Viúdez</LastName>
+                <Position>RM</Position>
+                <Pace>87</Pace>
+                <Shooting>66</Shooting>
+                <Passing>71</Passing>
+                <Offensive>68</Offensive>
+                <Defensive>27</Defensive>
+                <Stamina>73</Stamina>
+                <Club>Kasimpaşa SK</Club>
+                <DateOfBirth>08-09-1989</DateOfBirth>
+            </Player>
+            <Player id="11979">
+                <FirstName>Ryan</FirstName>
+                <LastName>Donk</LastName>
+                <Position>CB</Position>
+                <Pace>69</Pace>
+                <Shooting>60</Shooting>
+                <Passing>64</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>72</Defensive>
+                <Stamina>84</Stamina>
+                <Club>Kasimpaşa SK</Club>
+                <DateOfBirth>30-03-1986</DateOfBirth>
+            </Player>
+            <Player id="11982">
+                <FirstName>Eren</FirstName>
+                <LastName>Derdiyok</LastName>
+                <Position>ST</Position>
+                <Pace>67</Pace>
+                <Shooting>74</Shooting>
+                <Passing>69</Passing>
+                <Offensive>71</Offensive>
+                <Defensive>32</Defensive>
+                <Stamina>52</Stamina>
+                <Club>Kasimpaşa SK</Club>
+                <DateOfBirth>12-06-1988</DateOfBirth>
+            </Player>
+            <Player id="11989">
+                <FirstName>André</FirstName>
+                <LastName>Castro Pereira</LastName>
+                <Position>CM</Position>
+                <Pace>73</Pace>
+                <Shooting>68</Shooting>
+                <Passing>72</Passing>
+                <Offensive>70</Offensive>
+                <Defensive>60</Defensive>
+                <Stamina>77</Stamina>
+                <Club>Kasimpaşa SK</Club>
+                <DateOfBirth>02-04-1988</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Balıkesirspor">
+            <Player id="623">
+                <FirstName>Alan Carlos</FirstName>
+                <LastName>Gomes da Costa</LastName>
+                <Position>CAM</Position>
+                <Pace>74</Pace>
+                <Shooting>64</Shooting>
+                <Passing>68</Passing>
+                <Offensive>66</Offensive>
+                <Defensive>27</Defensive>
+                <Stamina>53</Stamina>
+                <Club>Balıkesirspor</Club>
+                <DateOfBirth>22-02-1983</DateOfBirth>
+            </Player>
+            <Player id="632">
+                <FirstName>Nuno André</FirstName>
+                <LastName>da Silva Coelho</LastName>
+                <Position>CB</Position>
+                <Pace>48</Pace>
+                <Shooting>45</Shooting>
+                <Passing>59</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>73</Defensive>
+                <Stamina>53</Stamina>
+                <Club>Balıkesirspor</Club>
+                <DateOfBirth>07-01-1986</DateOfBirth>
+            </Player>
+            <Player id="666">
+                <FirstName>André Filipe</FirstName>
+                <LastName>Bernardes Santos</LastName>
+                <Position>CM</Position>
+                <Pace>67</Pace>
+                <Shooting>66</Shooting>
+                <Passing>73</Passing>
+                <Offensive>69</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>76</Stamina>
+                <Club>Balıkesirspor</Club>
+                <DateOfBirth>02-03-1989</DateOfBirth>
+            </Player>
+            <Player id="809">
+                <FirstName>Ronald</FirstName>
+                <LastName>Vargas</LastName>
+                <Position>LW</Position>
+                <Pace>68</Pace>
+                <Shooting>68</Shooting>
+                <Passing>69</Passing>
+                <Offensive>68</Offensive>
+                <Defensive>27</Defensive>
+                <Stamina>33</Stamina>
+                <Club>Balıkesirspor</Club>
+                <DateOfBirth>02-12-1986</DateOfBirth>
+            </Player>
+            <Player id="1292">
+                <FirstName>Gökhan</FirstName>
+                <LastName>Ünal</LastName>
+                <Position>ST</Position>
+                <Pace>55</Pace>
+                <Shooting>71</Shooting>
+                <Passing>59</Passing>
+                <Offensive>65</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>62</Stamina>
+                <Club>Balıkesirspor</Club>
+                <DateOfBirth>23-07-1982</DateOfBirth>
+            </Player>
+            <Player id="1293">
+                <FirstName>Sercan</FirstName>
+                <LastName>Yıldırım</LastName>
+                <Position>ST</Position>
+                <Pace>86</Pace>
+                <Shooting>67</Shooting>
+                <Passing>57</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>76</Stamina>
+                <Club>Balıkesirspor</Club>
+                <DateOfBirth>05-04-1990</DateOfBirth>
+            </Player>
+            <Player id="5437">
+                <FirstName>Ante</FirstName>
+                <LastName>Kulušić</LastName>
+                <Position>CB</Position>
+                <Pace>61</Pace>
+                <Shooting>35</Shooting>
+                <Passing>50</Passing>
+                <Offensive>42</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>50</Stamina>
+                <Club>Balıkesirspor</Club>
+                <DateOfBirth>06-06-1986</DateOfBirth>
+            </Player>
+            <Player id="5949">
+                <FirstName>Okan</FirstName>
+                <LastName>Alkan</LastName>
+                <Position>RB</Position>
+                <Pace>74</Pace>
+                <Shooting>47</Shooting>
+                <Passing>60</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>68</Stamina>
+                <Club>Balıkesirspor</Club>
+                <DateOfBirth>01-10-1992</DateOfBirth>
+            </Player>
+            <Player id="6332">
+                <FirstName>Zeki</FirstName>
+                <LastName>Ayvaz</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>56</Stamina>
+                <Club>Balıkesirspor</Club>
+                <DateOfBirth>01-10-1989</DateOfBirth>
+            </Player>
+            <Player id="10611">
+                <FirstName>Bülent</FirstName>
+                <LastName>Cevahir</LastName>
+                <Position>CM</Position>
+                <Pace>59</Pace>
+                <Shooting>47</Shooting>
+                <Passing>57</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>42</Defensive>
+                <Stamina>61</Stamina>
+                <Club>Balıkesirspor</Club>
+                <DateOfBirth>13-02-1992</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Çaykur Rizespor">
+            <Player id="735">
+                <FirstName>Lomana</FirstName>
+                <LastName>LuaLua</LastName>
+                <Position>CF</Position>
+                <Pace>69</Pace>
+                <Shooting>67</Shooting>
+                <Passing>69</Passing>
+                <Offensive>68</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>68</Stamina>
+                <Club>Çaykur Rizespor</Club>
+                <DateOfBirth>28-12-1980</DateOfBirth>
+            </Player>
+            <Player id="1816">
+                <FirstName>Godfrey</FirstName>
+                <LastName>Oboabona</LastName>
+                <Position>CB</Position>
+                <Pace>76</Pace>
+                <Shooting>35</Shooting>
+                <Passing>58</Passing>
+                <Offensive>46</Offensive>
+                <Defensive>71</Defensive>
+                <Stamina>81</Stamina>
+                <Club>Çaykur Rizespor</Club>
+                <DateOfBirth>16-08-1990</DateOfBirth>
+            </Player>
+            <Player id="3035">
+                <FirstName>Ousmane</FirstName>
+                <LastName>Viera</LastName>
+                <Position>CB</Position>
+                <Pace>65</Pace>
+                <Shooting>52</Shooting>
+                <Passing>44</Passing>
+                <Offensive>48</Offensive>
+                <Defensive>65</Defensive>
+                <Stamina>73</Stamina>
+                <Club>Çaykur Rizespor</Club>
+                <DateOfBirth>21-12-1986</DateOfBirth>
+            </Player>
+            <Player id="4676">
+                <FirstName>Aykut</FirstName>
+                <LastName>Erçetin</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>48</Stamina>
+                <Club>Çaykur Rizespor</Club>
+                <DateOfBirth>14-09-1982</DateOfBirth>
+            </Player>
+            <Player id="4882">
+                <FirstName>Koray</FirstName>
+                <LastName>Altınay</LastName>
+                <Position>RB</Position>
+                <Pace>64</Pace>
+                <Shooting>47</Shooting>
+                <Passing>58</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>68</Defensive>
+                <Stamina>73</Stamina>
+                <Club>Çaykur Rizespor</Club>
+                <DateOfBirth>11-10-1991</DateOfBirth>
+            </Player>
+            <Player id="5582">
+                <FirstName>Eren</FirstName>
+                <LastName>Albayrak</LastName>
+                <Position>LW</Position>
+                <Pace>74</Pace>
+                <Shooting>60</Shooting>
+                <Passing>62</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>38</Defensive>
+                <Stamina>82</Stamina>
+                <Club>Çaykur Rizespor</Club>
+                <DateOfBirth>23-04-1991</DateOfBirth>
+            </Player>
+            <Player id="5642">
+                <FirstName>Necati</FirstName>
+                <LastName>Yılmaz</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>51</Stamina>
+                <Club>Çaykur Rizespor</Club>
+                <DateOfBirth>31-01-1988</DateOfBirth>
+            </Player>
+            <Player id="5950">
+                <FirstName>Kağan</FirstName>
+                <LastName>Söylemezgiller</LastName>
+                <Position>CM</Position>
+                <Pace>65</Pace>
+                <Shooting>60</Shooting>
+                <Passing>61</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>59</Defensive>
+                <Stamina>73</Stamina>
+                <Club>Çaykur Rizespor</Club>
+                <DateOfBirth>04-03-1988</DateOfBirth>
+            </Player>
+            <Player id="6037">
+                <FirstName>Orhan</FirstName>
+                <LastName>Ovacıklı</LastName>
+                <Position>RB</Position>
+                <Pace>64</Pace>
+                <Shooting>39</Shooting>
+                <Passing>59</Passing>
+                <Offensive>49</Offensive>
+                <Defensive>64</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Çaykur Rizespor</Club>
+                <DateOfBirth>23-11-1988</DateOfBirth>
+            </Player>
+            <Player id="6432">
+                <FirstName>Léonard</FirstName>
+                <LastName>Kweuke</LastName>
+                <Position>ST</Position>
+                <Pace>72</Pace>
+                <Shooting>78</Shooting>
+                <Passing>59</Passing>
+                <Offensive>68</Offensive>
+                <Defensive>40</Defensive>
+                <Stamina>81</Stamina>
+                <Club>Çaykur Rizespor</Club>
+                <DateOfBirth>12-07-1987</DateOfBirth>
+            </Player>
+            <Player id="6553">
+                <FirstName>Deniz</FirstName>
+                <LastName>Kadah</LastName>
+                <Position>ST</Position>
+                <Pace>64</Pace>
+                <Shooting>67</Shooting>
+                <Passing>49</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Çaykur Rizespor</Club>
+                <DateOfBirth>02-03-1986</DateOfBirth>
+            </Player>
+            <Player id="7095">
+                <FirstName>Kıvanç</FirstName>
+                <LastName>Karakaş</LastName>
+                <Position>CM</Position>
+                <Pace>62</Pace>
+                <Shooting>60</Shooting>
+                <Passing>56</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>72</Defensive>
+                <Stamina>79</Stamina>
+                <Club>Çaykur Rizespor</Club>
+                <DateOfBirth>03-03-1985</DateOfBirth>
+            </Player>
+            <Player id="7395">
+                <FirstName>Tevfik</FirstName>
+                <LastName>Köse</LastName>
+                <Position>ST</Position>
+                <Pace>71</Pace>
+                <Shooting>63</Shooting>
+                <Passing>57</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>31</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Çaykur Rizespor</Club>
+                <DateOfBirth>12-07-1988</DateOfBirth>
+            </Player>
+            <Player id="12102">
+                <FirstName>Filip</FirstName>
+                <LastName>Hološko</LastName>
+                <Position>RM</Position>
+                <Pace>75</Pace>
+                <Shooting>75</Shooting>
+                <Passing>70</Passing>
+                <Offensive>72</Offensive>
+                <Defensive>34</Defensive>
+                <Stamina>80</Stamina>
+                <Club>Çaykur Rizespor</Club>
+                <DateOfBirth>17-01-1984</DateOfBirth>
+            </Player>
+            <Player id="12227">
+                <FirstName>Giray</FirstName>
+                <LastName>Kaçar</LastName>
+                <Position>CB</Position>
+                <Pace>73</Pace>
+                <Shooting>41</Shooting>
+                <Passing>55</Passing>
+                <Offensive>48</Offensive>
+                <Defensive>73</Defensive>
+                <Stamina>73</Stamina>
+                <Club>Çaykur Rizespor</Club>
+                <DateOfBirth>15-03-1985</DateOfBirth>
+            </Player>
+            <Player id="12333">
+                <FirstName>Ali</FirstName>
+                <LastName>Adnan</LastName>
+                <Position>LB</Position>
+                <Pace>74</Pace>
+                <Shooting>66</Shooting>
+                <Passing>62</Passing>
+                <Offensive>64</Offensive>
+                <Defensive>72</Defensive>
+                <Stamina>85</Stamina>
+                <Club>Çaykur Rizespor</Club>
+                <DateOfBirth>19-12-1993</DateOfBirth>
+            </Player>
+            <Player id="12460">
+                <FirstName>Murat</FirstName>
+                <LastName>Duruer</LastName>
+                <Position>LM</Position>
+                <Pace>76</Pace>
+                <Shooting>65</Shooting>
+                <Passing>71</Passing>
+                <Offensive>68</Offensive>
+                <Defensive>46</Defensive>
+                <Stamina>87</Stamina>
+                <Club>Çaykur Rizespor</Club>
+                <DateOfBirth>15-01-1988</DateOfBirth>
+            </Player>
+            <Player id="12563">
+                <FirstName>Liban</FirstName>
+                <LastName>Ali Abdi</LastName>
+                <Position>LW</Position>
+                <Pace>81</Pace>
+                <Shooting>63</Shooting>
+                <Passing>70</Passing>
+                <Offensive>66</Offensive>
+                <Defensive>37</Defensive>
+                <Stamina>63</Stamina>
+                <Club>Çaykur Rizespor</Club>
+                <DateOfBirth>05-10-1988</DateOfBirth>
+            </Player>
+            <Player id="12864">
+                <FirstName>Ümit</FirstName>
+                <LastName>Korkmaz</LastName>
+                <Position>LW</Position>
+                <Pace>77</Pace>
+                <Shooting>68</Shooting>
+                <Passing>72</Passing>
+                <Offensive>70</Offensive>
+                <Defensive>39</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Çaykur Rizespor</Club>
+                <DateOfBirth>17-09-1985</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Akhisar Belediyespor">
+            <Player id="960">
+                <FirstName>Bilal</FirstName>
+                <LastName>Kısa</LastName>
+                <Position>CM</Position>
+                <Pace>67</Pace>
+                <Shooting>71</Shooting>
+                <Passing>76</Passing>
+                <Offensive>73</Offensive>
+                <Defensive>43</Defensive>
+                <Stamina>78</Stamina>
+                <Club>Akhisar Belediyespor</Club>
+                <DateOfBirth>22-06-1983</DateOfBirth>
+            </Player>
+            <Player id="1119">
+                <FirstName>Theofanis</FirstName>
+                <LastName>Gekas</LastName>
+                <Position>ST</Position>
+                <Pace>65</Pace>
+                <Shooting>72</Shooting>
+                <Passing>53</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>34</Stamina>
+                <Club>Akhisar Belediyespor</Club>
+                <DateOfBirth>23-05-1980</DateOfBirth>
+            </Player>
+            <Player id="1593">
+                <FirstName>Kadir</FirstName>
+                <LastName>Keleş</LastName>
+                <Position>LB</Position>
+                <Pace>83</Pace>
+                <Shooting>49</Shooting>
+                <Passing>57</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>68</Stamina>
+                <Club>Akhisar Belediyespor</Club>
+                <DateOfBirth>01-01-1988</DateOfBirth>
+            </Player>
+            <Player id="1601">
+                <FirstName>Çağlar</FirstName>
+                <LastName>Birinci</LastName>
+                <Position>LB</Position>
+                <Pace>68</Pace>
+                <Shooting>48</Shooting>
+                <Passing>64</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>69</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Akhisar Belediyespor</Club>
+                <DateOfBirth>02-10-1985</DateOfBirth>
+            </Player>
+            <Player id="2806">
+                <FirstName>Uğur</FirstName>
+                <LastName>Demirok</LastName>
+                <Position>CB</Position>
+                <Pace>73</Pace>
+                <Shooting>22</Shooting>
+                <Passing>34</Passing>
+                <Offensive>28</Offensive>
+                <Defensive>71</Defensive>
+                <Stamina>75</Stamina>
+                <Club>Akhisar Belediyespor</Club>
+                <DateOfBirth>08-07-1988</DateOfBirth>
+            </Player>
+            <Player id="3166">
+                <FirstName>Taskin</FirstName>
+                <LastName>Calis</LastName>
+                <Position>CDM</Position>
+                <Pace>71</Pace>
+                <Shooting>48</Shooting>
+                <Passing>64</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>68</Defensive>
+                <Stamina>73</Stamina>
+                <Club>Akhisar Belediyespor</Club>
+                <DateOfBirth>25-07-1993</DateOfBirth>
+            </Player>
+            <Player id="3373">
+                <FirstName>Oğuz</FirstName>
+                <LastName>Dağlaroğlu</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>20</Stamina>
+                <Club>Akhisar Belediyespor</Club>
+                <DateOfBirth>18-08-1979</DateOfBirth>
+            </Player>
+            <Player id="3807">
+                <FirstName>Kerim</FirstName>
+                <LastName>Zengin</LastName>
+                <Position>RM</Position>
+                <Pace>73</Pace>
+                <Shooting>58</Shooting>
+                <Passing>59</Passing>
+                <Offensive>58</Offensive>
+                <Defensive>45</Defensive>
+                <Stamina>69</Stamina>
+                <Club>Akhisar Belediyespor</Club>
+                <DateOfBirth>13-04-1985</DateOfBirth>
+            </Player>
+            <Player id="4122">
+                <FirstName>Ahmet</FirstName>
+                <LastName>Cebe</LastName>
+                <Position>RM</Position>
+                <Pace>79</Pace>
+                <Shooting>57</Shooting>
+                <Passing>61</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>49</Defensive>
+                <Stamina>61</Stamina>
+                <Club>Akhisar Belediyespor</Club>
+                <DateOfBirth>02-05-1983</DateOfBirth>
+            </Player>
+            <Player id="4671">
+                <FirstName>Ibrahima</FirstName>
+                <LastName>Sonko</LastName>
+                <Position>CB</Position>
+                <Pace>53</Pace>
+                <Shooting>39</Shooting>
+                <Passing>40</Passing>
+                <Offensive>39</Offensive>
+                <Defensive>65</Defensive>
+                <Stamina>65</Stamina>
+                <Club>Akhisar Belediyespor</Club>
+                <DateOfBirth>22-01-1981</DateOfBirth>
+            </Player>
+            <Player id="4934">
+                <FirstName>Arnaud</FirstName>
+                <LastName>Sutchuin-Djoum</LastName>
+                <Position>CDM</Position>
+                <Pace>68</Pace>
+                <Shooting>57</Shooting>
+                <Passing>63</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>75</Stamina>
+                <Club>Akhisar Belediyespor</Club>
+                <DateOfBirth>02-05-1989</DateOfBirth>
+            </Player>
+            <Player id="4940">
+                <FirstName>Saidi</FirstName>
+                <LastName>Ntibazonkiza</LastName>
+                <Position>RW</Position>
+                <Pace>91</Pace>
+                <Shooting>60</Shooting>
+                <Passing>51</Passing>
+                <Offensive>55</Offensive>
+                <Defensive>36</Defensive>
+                <Stamina>59</Stamina>
+                <Club>Akhisar Belediyespor</Club>
+                <DateOfBirth>01-05-1987</DateOfBirth>
+            </Player>
+            <Player id="6245">
+                <FirstName>Mehmet</FirstName>
+                <LastName>Akyüz</LastName>
+                <Position>ST</Position>
+                <Pace>64</Pace>
+                <Shooting>65</Shooting>
+                <Passing>60</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>40</Defensive>
+                <Stamina>65</Stamina>
+                <Club>Akhisar Belediyespor</Club>
+                <DateOfBirth>02-01-1986</DateOfBirth>
+            </Player>
+            <Player id="8337">
+                <FirstName>Emrah</FirstName>
+                <LastName>Tuncel</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>30</Stamina>
+                <Club>Akhisar Belediyespor</Club>
+                <DateOfBirth>14-09-1987</DateOfBirth>
+            </Player>
+            <Player id="8614">
+                <FirstName>İsmail</FirstName>
+                <LastName>Konuk</LastName>
+                <Position>CB</Position>
+                <Pace>66</Pace>
+                <Shooting>30</Shooting>
+                <Passing>42</Passing>
+                <Offensive>36</Offensive>
+                <Defensive>61</Defensive>
+                <Stamina>67</Stamina>
+                <Club>Akhisar Belediyespor</Club>
+                <DateOfBirth>16-01-1988</DateOfBirth>
+            </Player>
+            <Player id="8638">
+                <FirstName>Bahattin</FirstName>
+                <LastName>Köse</LastName>
+                <Position>ST</Position>
+                <Pace>65</Pace>
+                <Shooting>61</Shooting>
+                <Passing>45</Passing>
+                <Offensive>53</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>58</Stamina>
+                <Club>Akhisar Belediyespor</Club>
+                <DateOfBirth>26-08-1990</DateOfBirth>
+            </Player>
+            <Player id="11888">
+                <FirstName>Didier</FirstName>
+                <LastName>Zokora</LastName>
+                <Position>CDM</Position>
+                <Pace>73</Pace>
+                <Shooting>54</Shooting>
+                <Passing>68</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>76</Defensive>
+                <Stamina>67</Stamina>
+                <Club>Akhisar Belediyespor</Club>
+                <DateOfBirth>14-12-1980</DateOfBirth>
+            </Player>
+            <Player id="12852">
+                <FirstName>Bruno</FirstName>
+                <LastName>Ferreira Rosa</LastName>
+                <Position>ST</Position>
+                <Pace>79</Pace>
+                <Shooting>69</Shooting>
+                <Passing>53</Passing>
+                <Offensive>61</Offensive>
+                <Defensive>36</Defensive>
+                <Stamina>76</Stamina>
+                <Club>Akhisar Belediyespor</Club>
+                <DateOfBirth>08-08-1988</DateOfBirth>
+            </Player>
+            <Player id="12889">
+                <FirstName>Douglas</FirstName>
+                <LastName>Ferreira</LastName>
+                <Position>CB</Position>
+                <Pace>66</Pace>
+                <Shooting>36</Shooting>
+                <Passing>50</Passing>
+                <Offensive>43</Offensive>
+                <Defensive>74</Defensive>
+                <Stamina>67</Stamina>
+                <Club>Akhisar Belediyespor</Club>
+                <DateOfBirth>18-05-1986</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Gaziantepspor">
+            <Player id="1651">
+                <FirstName>Elyasa</FirstName>
+                <LastName>Süme</LastName>
+                <Position>RB</Position>
+                <Pace>62</Pace>
+                <Shooting>41</Shooting>
+                <Passing>54</Passing>
+                <Offensive>47</Offensive>
+                <Defensive>72</Defensive>
+                <Stamina>76</Stamina>
+                <Club>Gaziantepspor</Club>
+                <DateOfBirth>13-08-1983</DateOfBirth>
+            </Player>
+            <Player id="3662">
+                <FirstName>John</FirstName>
+                <LastName>Chibuike</LastName>
+                <Position>LW</Position>
+                <Pace>73</Pace>
+                <Shooting>64</Shooting>
+                <Passing>60</Passing>
+                <Offensive>62</Offensive>
+                <Defensive>29</Defensive>
+                <Stamina>68</Stamina>
+                <Club>Gaziantepspor</Club>
+                <DateOfBirth>10-10-1988</DateOfBirth>
+            </Player>
+            <Player id="3666">
+                <FirstName>Muhammed</FirstName>
+                <LastName>Ildiz</LastName>
+                <Position>CDM</Position>
+                <Pace>72</Pace>
+                <Shooting>58</Shooting>
+                <Passing>61</Passing>
+                <Offensive>59</Offensive>
+                <Defensive>66</Defensive>
+                <Stamina>42</Stamina>
+                <Club>Gaziantepspor</Club>
+                <DateOfBirth>14-05-1991</DateOfBirth>
+            </Player>
+            <Player id="4141">
+                <FirstName>Bekir Ozan</FirstName>
+                <LastName>Has</LastName>
+                <Position>CDM</Position>
+                <Pace>74</Pace>
+                <Shooting>52</Shooting>
+                <Passing>61</Passing>
+                <Offensive>56</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>79</Stamina>
+                <Club>Gaziantepspor</Club>
+                <DateOfBirth>18-02-1985</DateOfBirth>
+            </Player>
+            <Player id="4643">
+                <FirstName>Lucas Elías</FirstName>
+                <LastName>Ontivero</LastName>
+                <Position>LW</Position>
+                <Pace>80</Pace>
+                <Shooting>60</Shooting>
+                <Passing>55</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>30</Defensive>
+                <Stamina>51</Stamina>
+                <Club>Gaziantepspor</Club>
+                <DateOfBirth>09-09-1994</DateOfBirth>
+            </Player>
+            <Player id="5296">
+                <FirstName>Oguzhan</FirstName>
+                <LastName>Türk</LastName>
+                <Position>CM</Position>
+                <Pace>67</Pace>
+                <Shooting>65</Shooting>
+                <Passing>66</Passing>
+                <Offensive>65</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>72</Stamina>
+                <Club>Gaziantepspor</Club>
+                <DateOfBirth>17-05-1986</DateOfBirth>
+            </Player>
+            <Player id="6267">
+                <FirstName>Mustafa</FirstName>
+                <LastName>Durak</LastName>
+                <Position>ST</Position>
+                <Pace>79</Pace>
+                <Shooting>68</Shooting>
+                <Passing>41</Passing>
+                <Offensive>54</Offensive>
+                <Defensive>25</Defensive>
+                <Stamina>68</Stamina>
+                <Club>Gaziantepspor</Club>
+                <DateOfBirth>13-08-1988</DateOfBirth>
+            </Player>
+            <Player id="7448">
+                <FirstName>Muhammet</FirstName>
+                <LastName>Demir</LastName>
+                <Position>ST</Position>
+                <Pace>76</Pace>
+                <Shooting>62</Shooting>
+                <Passing>53</Passing>
+                <Offensive>57</Offensive>
+                <Defensive>26</Defensive>
+                <Stamina>59</Stamina>
+                <Club>Gaziantepspor</Club>
+                <DateOfBirth>10-01-1992</DateOfBirth>
+            </Player>
+            <Player id="7701">
+                <FirstName>Oğulcan</FirstName>
+                <LastName>Cağlayan</LastName>
+                <Position>ST</Position>
+                <Pace>52</Pace>
+                <Shooting>64</Shooting>
+                <Passing>39</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>28</Defensive>
+                <Stamina>56</Stamina>
+                <Club>Gaziantepspor</Club>
+                <DateOfBirth>22-03-1996</DateOfBirth>
+            </Player>
+            <Player id="8357">
+                <FirstName>Şenol</FirstName>
+                <LastName>Can</LastName>
+                <Position>LB</Position>
+                <Pace>66</Pace>
+                <Shooting>27</Shooting>
+                <Passing>49</Passing>
+                <Offensive>38</Offensive>
+                <Defensive>62</Defensive>
+                <Stamina>58</Stamina>
+                <Club>Gaziantepspor</Club>
+                <DateOfBirth>03-04-1983</DateOfBirth>
+            </Player>
+            <Player id="8557">
+                <FirstName>Zidrunas</FirstName>
+                <LastName>Karcemarskas</LastName>
+                <Position>GK</Position>
+                <Pace>0</Pace>
+                <Shooting>0</Shooting>
+                <Passing>0</Passing>
+                <Offensive>0</Offensive>
+                <Defensive>0</Defensive>
+                <Stamina>43</Stamina>
+                <Club>Gaziantepspor</Club>
+                <DateOfBirth>24-05-1983</DateOfBirth>
+            </Player>
+            <Player id="9451">
+                <FirstName>Koray</FirstName>
+                <LastName>Arslan</LastName>
+                <Position>CB</Position>
+                <Pace>68</Pace>
+                <Shooting>29</Shooting>
+                <Passing>46</Passing>
+                <Offensive>37</Offensive>
+                <Defensive>58</Defensive>
+                <Stamina>45</Stamina>
+                <Club>Gaziantepspor</Club>
+                <DateOfBirth>01-10-1983</DateOfBirth>
+            </Player>
+            <Player id="10161">
+                <FirstName>Aboubacar Demba</FirstName>
+                <LastName>Camara</LastName>
+                <Position>ST</Position>
+                <Pace>65</Pace>
+                <Shooting>57</Shooting>
+                <Passing>48</Passing>
+                <Offensive>52</Offensive>
+                <Defensive>27</Defensive>
+                <Stamina>58</Stamina>
+                <Club>Gaziantepspor</Club>
+                <DateOfBirth>07-11-1994</DateOfBirth>
+            </Player>
+            <Player id="10352">
+                <FirstName>Emre</FirstName>
+                <LastName>Nefiz</LastName>
+                <Position>CAM</Position>
+                <Pace>53</Pace>
+                <Shooting>51</Shooting>
+                <Passing>51</Passing>
+                <Offensive>51</Offensive>
+                <Defensive>25</Defensive>
+                <Stamina>51</Stamina>
+                <Club>Gaziantepspor</Club>
+                <DateOfBirth>24-11-1994</DateOfBirth>
+            </Player>
+            <Player id="10695">
+                <FirstName>İbrahim</FirstName>
+                <LastName>Akın</LastName>
+                <Position>LW</Position>
+                <Pace>80</Pace>
+                <Shooting>73</Shooting>
+                <Passing>71</Passing>
+                <Offensive>72</Offensive>
+                <Defensive>45</Defensive>
+                <Stamina>78</Stamina>
+                <Club>Gaziantepspor</Club>
+                <DateOfBirth>04-01-1984</DateOfBirth>
+            </Player>
+            <Player id="11841">
+                <FirstName>Luis Francisco</FirstName>
+                <LastName>Grando</LastName>
+                <Position>CB</Position>
+                <Pace>67</Pace>
+                <Shooting>58</Shooting>
+                <Passing>62</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>76</Defensive>
+                <Stamina>75</Stamina>
+                <Club>Gaziantepspor</Club>
+                <DateOfBirth>02-02-1987</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Hamburger SV">
+            <Player id="3463">
+                <FirstName>Jacques</FirstName>
+                <LastName>Zoua</LastName>
+                <Position>ST</Position>
+                <Pace>80</Pace>
+                <Shooting>62</Shooting>
+                <Passing>58</Passing>
+                <Offensive>60</Offensive>
+                <Defensive>36</Defensive>
+                <Stamina>71</Stamina>
+                <Club>Hamburger SV</Club>
+                <DateOfBirth>06-09-1991</DateOfBirth>
+            </Player>
+        </Team>
+    </League>
+</Players>

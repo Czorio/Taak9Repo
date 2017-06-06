@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Players>
+    <League Name="International">
+        <Team Name="Sporting CP">
+            <Player id="6924">
+                <FirstName>Ramy</FirstName>
+                <LastName>Rabia</LastName>
+                <Position>CDM</Position>
+                <Pace>57</Pace>
+                <Shooting>45</Shooting>
+                <Passing>52</Passing>
+                <Offensive>48</Offensive>
+                <Defensive>63</Defensive>
+                <Stamina>68</Stamina>
+                <Club>Sporting CP</Club>
+                <DateOfBirth>20-05-1993</DateOfBirth>
+            </Player>
+        </Team>
+        <Team Name="Swindon Town">
+            <Player id="11161">
+                <FirstName>Brad</FirstName>
+                <LastName>Smith</LastName>
+                <Position>LB</Position>
+                <Pace>70</Pace>
+                <Shooting>38</Shooting>
+                <Passing>51</Passing>
+                <Offensive>44</Offensive>
+                <Defensive>49</Defensive>
+                <Stamina>70</Stamina>
+                <Club>Swindon Town</Club>
+                <DateOfBirth>09-04-1994</DateOfBirth>
+            </Player>
+        </Team>
+    </League>
+</Players>
